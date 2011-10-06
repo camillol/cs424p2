@@ -10,7 +10,8 @@ vivek_dir = 'project2cs424/transcripts'
 season_name_re = re.compile('Season_(\d+)')
 ep_name_re = re.compile('(\d+)\.Transcript:(.*)')
 
-out_dir = 'transcripts'
+transcript_dir = 'transcripts'
+character_file_name = 'characters.txt'
 
 name_urls = defaultdict(set)
 url_names = defaultdict(set)
@@ -29,7 +30,8 @@ name_map = {
 	'Small Glurmo #1': 'Glurmo',
 	'Small Glurmo #2': 'Glurmo',
 	'Nixon': 'Richard Nixon',
-	'NIxon': 'Richard Nixon'
+	'NIxon': 'Richard Nixon',
+	'Farnsworth': 'Professor Farnsworth',
 }
 
 # what about Lucy Liu? we don't want the Liubots to count as her, do we?
@@ -72,7 +74,7 @@ for season_name in os.listdir(vivek_dir):
 		eptitle = m.group(2)
 		ep_file_path = os.path.join(season_dir, ep_file_name)
 		out_file_name = "S%02dE%02d %s.txt" % (season, epnum, eptitle)
-		out_file_path = os.path.join(out_dir, out_file_name)
+		out_file_path = os.path.join(transcript_dir, out_file_name)
 		with open(ep_file_path) as f:
 			with open(out_file_path, "w") as out:
 				for line in f:
@@ -90,9 +92,14 @@ for season_name in os.listdir(vivek_dir):
 					for charname in charnames:
 						all_uni_names.add(charname)
 					
-					if len(charnames) > 1:
-						print charnames
+#					if len(charnames) > 1: print charnames
+					
+					if '' in charnames:
+						print "NO NAME", season, epnum, dialogue
 					
 					out.write("%s	%s	%s\n" % (timestamp, ';'.join(charnames), dialogue))
 
 print "%d unique characters" % len(all_uni_names)
+with open(character_file_name, "w") as out:
+	for name in all_uni_names:
+		out.write("%s\n" % name)

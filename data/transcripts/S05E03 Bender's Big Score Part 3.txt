@@ -121,7 +121,7 @@
 	Bender	Oops.
 	Professor Farnsworth	Well, at least we have each other, so it truly is the worst Xmas ever.
 	Hermes	[pointing] Santa!
-		Ah, the Planet Express crew. According to my list [Bender mimicking] you've all been very naughty. I'll be back for you after I collect my milk and cookies from starving orphans.
+	Santa	Ah, the Planet Express crew. According to my list [Bender mimicking] you've all been very naughty. I'll be back for you after I collect my milk and cookies from starving orphans.
 	Fry	That's it. I don't see how things could get any worse.
 	Bender	We could sing.
 	Professor Farnsworth	I'd rather kill myself.
@@ -132,7 +132,7 @@
 	Fry;Amy;Zoidberg;Bender;Tinny Tim;Nibbler	[singing] Cram it down and shut the hell up!
 	Hermes	[singing] I can't compete with that.
 	Leela	[singing] Lars says I'm dreamy.
-	Fry;Zoidberg;Amy;Tinny Tim;Bender;Farnsworth	[singing] Who the hell cares?
+	Fry;Zoidberg;Amy;Tinny Tim;Bender;Professor Farnsworth	[singing] Who the hell cares?
 	Santa	[at head of alley holding weapons] That's my cue.
 	Tinny Tim	Oh my word!
 	Leela	Hey, guess what guys!

@@ -139,8 +139,9 @@
 	Zoidberg	Wait, there's more. Once I wire some good-faith money to an overseas bank account, I'll inherit his kingdom, his canoe, and his plump young wife.
 	Hermes	You dumb stumps. Don't you realize you're being scammed?
 	Zoidberg	That is low, Hermes. Just because you don't have a body, you don't want anyone else to be prince of Nigeria. Well, try and stop me from wiring that money.
-	Hermes	What's going on here? According to my illegal key logging software, you've all been giving out personal information over the Internet. If Hermes were here, he'd fire you all. Hermes: I am here!
-		Quiet, you. In his absence, I'm calling a mandatory company security seminar. To the mandatorium!
+	Professor Farnsworth	What's going on here? According to my illegal key logging software, you've all been giving out personal information over the Internet. If Hermes were here, he'd fire you all.
+	Hermes	I am here!
+	Professor Farnsworth	Quiet, you. In his absence, I'm calling a mandatory company security seminar. To the mandatorium!
 	Professor Farnsworth	Now, it's not hard to spot a phoney Internet come-on. "Get rich quick x7 q"? Phoney. "Lose weight with space parasites"? Phoney. What's this? I've won the Spanish National Lottery?
 	Leela	No, it's a scam!
 	Professor Farnsworth	My goodness, I'm rich! And to think I didn't even know I had a ticket. I just need to wire some collateral to collect the winnings.

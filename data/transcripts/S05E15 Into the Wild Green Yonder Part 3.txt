@@ -73,7 +73,7 @@
 	Leela	You mean something like, "The best defense is a good fence?"
 	Linda	Yeah, something like that, only funny.
 	Leela	I wish we could, but our chief slogan writer is back at the Honeybun Hideout.
-		Does "violet dwarf" rhyme with "men are dorks"? It does through a megaphone. (Telepathically): That reminds me, I've got to tell Leela about that weirdo who wants to save the violet dwarf.
+	Frida	Does "violet dwarf" rhyme with "men are dorks"? It does through a megaphone. (Telepathically): That reminds me, I've got to tell Leela about that weirdo who wants to save the violet dwarf.
 	Mysterious Voice	So, the Legion of Madfellows has a new pawn, eh?
 	Frida	Is somebody here? If you're the DSL guy, you're two days late.
 	Mysterious Voice	Who gave you that message for Leela?
@@ -184,7 +184,7 @@
 	Kif	We lost all remaining food and oxygen, Captain. As well as our XM Radio antenna.
 	Zapp	Then this chase is over. Kif, set course for the nearest XM repair facility. Meanwhile, we shall sing top hits from the '80s.
 	Kif	Which '80s, sir?
-		For me, there are only one '80s. [The ships slowly heads away from the chase.] (VO): Smell like I sound, [Kif groans.] I'm lost and I'm found. [Kif groans.]And I'm hungry like the wolf.
+	Zapp	For me, there are only one '80s. [The ships slowly heads away from the chase.] (VO): Smell like I sound, [Kif groans.] I'm lost and I'm found. [Kif groans.]And I'm hungry like the wolf.
 	Hermes	The shot was too good! We're jamming straight for the hole.
 	Zoidberg	We're gonna crash, even.
 	Amy	Shmeesh, shmill out, shmeverybody. It's a wormhole hole.

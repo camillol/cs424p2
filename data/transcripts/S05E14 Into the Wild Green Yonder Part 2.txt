@@ -31,7 +31,7 @@
 	Mr. Wong	Oh, yeah, I love miniature golf. Love everything about it, except how damn miniature it is. That's why I'm building the universe's biggest miniature golf course.
 	Mr. Wong	This the first tee.
 	Fry	Where's the hole?
-		On Pluto's moon, Hydra. It's a six-billion-mile par-two. Tough shot, even for a man. [Leela groans. Mr. Wong adjusts the cannon with a dial near the tee. He strikes the button that fires the ball and everybody rushes over to a row of binoculars.] (Leo VO): Around the sun. Bank off Jupiter. And right into the... [The ball lands short of the hole and Mr. Wong curses in Mandarin.] I'll be right back. [He gets in a golf cart that has a dome over it and flies to Hydra. Fry, Leela and Amy watch from the binoculars. Mr. Wong smacks the giant ball his his putter, but it stops on the edge of the hole. He growls and curses in Mandarin. He bounces over to the ball and smacks his with his putter again, then kicks it.] It dropped in! Put me down for a two.
+	Mr. Wong	On Pluto's moon, Hydra. It's a six-billion-mile par-two. Tough shot, even for a man. [Leela groans. Mr. Wong adjusts the cannon with a dial near the tee. He strikes the button that fires the ball and everybody rushes over to a row of binoculars.] (Leo VO): Around the sun. Bank off Jupiter. And right into the... [The ball lands short of the hole and Mr. Wong curses in Mandarin.] I'll be right back. [He gets in a golf cart that has a dome over it and flies to Hydra. Fry, Leela and Amy watch from the binoculars. Mr. Wong smacks the giant ball his his putter, but it stops on the edge of the hole. He growls and curses in Mandarin. He bounces over to the ball and smacks his with his putter again, then kicks it.] It dropped in! Put me down for a two.
 	Amy	Two. [She writes down 8.]
 	Mr. Wong	Keep in mind, that just the first hole. For full course, we gonna bulldoze this entire arm of the Milky Way.
 	Leela	What? You're gonna wipe out 10% of the galaxy for a stupid golf course?
@@ -40,7 +40,7 @@
 	Mr. Wong	That's exactly why I'm hiring an impartial scientist to perform an environmental survey. That's him in the money shower.
 	Fry	Delivery boy's log. Having fallen asleep on what I thought was the toilet, I awoke to find the environmental survey in progress.
 	Professor Farnsworth	Status reports, Science Officer.
-		Zilcho. No sign of life or intelligence. [He laughs.] (Telepathically): Just like Fry on a date.
+	Bender	Zilcho. No sign of life or intelligence. [He laughs.] (Telepathically): Just like Fry on a date.
 	Fry	[He laughs.] Hey!
 	Leela	Okay, so we haven't found any life yet. I still don't see why you men can't be happy with regular-sized miniature golf.
 	Professor Farnsworth	Leela, evolution has programmed our fabulous male brains to take anything anybody else thinks is important and make it bigger. [He takes a slurp of a "128oz. Big Burp."] Have you seen my new 301-inch TV?
@@ -89,7 +89,7 @@
 	Frida	How do you turn it off?
 	Frida	There. Did that do it?
 	OTHERS	No. Stop it. Shut up.
-		Here's the button here. [An alarm starts wailing from the megaphone.] (Through megaphone): And I think I... Now I got it.
+	Frida	Here's the button here. [An alarm starts wailing from the megaphone.] (Through megaphone): And I think I... Now I got it.
 	Leela	Let me give you a hand.
 	Frida	This is awful. I never meant for our protest to have any effect.
 	Trixie	Maybe we should just surrender and serve our six weeks in jail.

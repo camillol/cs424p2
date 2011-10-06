@@ -52,7 +52,7 @@
 	Fry	Oh, my God! Oh, my God! Although, actually, it was sort of obvious.
 	Hutch Waterfall	You don't believe me? Take off the helmet.
 	Fry	I believe you.
-		Seriously, do it. [Fry sighs and takes his hat off.] (Telepathically): Testing, testing. Do you read me?
+	Hutch Waterfall	Seriously, do it. [Fry sighs and takes his hat off.] (Telepathically): Testing, testing. Do you read me?
 	Fry	Loud and clear.
 	Hutch Waterfall	What?
 	Fry	I said, "Loud and clear." Only I said it with my thinker, not my talker.
@@ -140,7 +140,7 @@
 	Lrrr	I'm out.
 	Bender	[He laughs and pulls in the chips.] Suck my luck!
 	Donbot	See this gun? [He holds up a gun, but then he crumples it in his hand.] That's what I'm gonna do to Bender if he wins.
-		All in. Call my mighty bid at your peril. [He growls at the table. Fry lifts his hat.] (Telepathically): My cards are awful, and I need a hug.
+	Lrrr	All in. Call my mighty bid at your peril. [He growls at the table. Fry lifts his hat.] (Telepathically): My cards are awful, and I need a hug.
 	Fry	I call your bluff.
 	(Sobbing	I shall annihilate... Fry hugs him.] (Sobbing:) I just wanted to make my daddy proud.
 	Lrrr's Father	Well, you didn't. I want you and your junk moved out by Monday.
