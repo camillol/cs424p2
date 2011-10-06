@@ -1,6 +1,8 @@
 import controlP5.*;
 View rootView;
 
+HashMap characters;
+
 ControlP5 controlP5;
 Button mainB1;
 ListBox otherChars;
@@ -72,6 +74,20 @@ void setup()
   drawSeasons();
 
 
+}
+
+void loadCharacters()
+{
+  String[] names = loadStrings("characters.txt");
+  characters = new HashMap(names.length);
+  for (int i = 0; i < names.length; i++) {
+    characters.put(names[i], new Character(names[i]));
+  }
+}
+
+Character getCharacter(String name)
+{
+  return (Character)characters.get(name);
 }
 
 void draw()
