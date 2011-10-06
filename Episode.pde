@@ -16,6 +16,7 @@ class Episode extends TSVBase {
   int season;
   int number;
   String title;
+  HashMap charLineCount;
   
   Episode(String filename) {
     super(filename, false);  // this loads the data
@@ -28,18 +29,28 @@ class Episode extends TSVBase {
   void allocateData(int rows)
   {
     dialogs = new DialogLine[rows];
+    charLineCount = new HashMap(characters.size());
   }
   
   boolean createItem(int i, String[] pieces)
   {
+    Character c = getCharacter(pieces[1]);
     dialogs[i] = new DialogLine(pieces[0],
-      getCharacter(pieces[1]),
+      c,
       pieces[2]);
+    charLineCount.put(c, getLineCount(c)+1);
     return true;
   }
   
   void resizeData(int rows)
   {
     dialogs = (DialogLine[]) subset(dialogs, 0, rows);
+  }
+  
+  int getLineCount(Character c)
+  {
+    Integer n = (Integer)charLineCount.get(c);
+    if (n == null) return 0;
+    else return n;
   }
 }

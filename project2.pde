@@ -2,6 +2,7 @@ import controlP5.*;
 View rootView;
 
 HashMap characters;
+CharacterList charlist;
 Season[] seasons;
 
 ControlP5 controlP5;
@@ -81,11 +82,8 @@ void setup()
 
 void loadCharacters()
 {
-  String[] names = loadStrings("characters.txt");
-  characters = new HashMap(names.length);
-  for (int i = 0; i < names.length; i++) {
-    characters.put(names[i], new Character(names[i]));
-  }
+  charlist = new CharacterList("characters.txt");
+  characters = charlist.characters;
 }
 
 void loadSeasons()
