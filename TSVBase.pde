@@ -17,7 +17,7 @@ class TSVBase {
       i = 0;
     }
 
-    allocateData(rows.length-1);
+    allocateData(rows.length-i);
     
     for (; i < rows.length; i++) {
       if (trim(rows[i]).length() == 0) {

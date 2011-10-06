@@ -2,15 +2,18 @@ import controlP5.*;
 View rootView;
 
 HashMap characters;
+Season[] seasons;
 
 ControlP5 controlP5;
 Button mainB1;
 ListBox otherChars;
-ListBox seasons;
 ListBox episodes;
 
 void setup()
 {
+  loadCharacters();
+  loadSeasons();
+  
   size(1024, 768);
   smooth();
   
@@ -82,6 +85,17 @@ void loadCharacters()
   characters = new HashMap(names.length);
   for (int i = 0; i < names.length; i++) {
     characters.put(names[i], new Character(names[i]));
+  }
+}
+
+void loadSeasons()
+{
+  File dir = new File(dataPath("transcripts"));
+  String[] names = dir.list();
+  seasons = new Season[names.length];
+  for (int i = 0; i < names.length; i++) {
+    String[] groups = match(names[i], "S(\\d+)");
+    seasons[i] = new Season(parseInt(groups[0]), "transcripts/"+names[i]);
   }
 }
 

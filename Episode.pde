@@ -11,13 +11,13 @@ class DialogLine {
   }
 }
 
-class EpisodeTranscript extends TSVBase {
+class Episode extends TSVBase {
   DialogLine[] dialogs;
   int season;
   int number;
   String title;
   
-  EpisodeTranscript(String filename) {
+  Episode(String filename) {
     super(filename, false);  // this loads the data
     String[] groups = match(filename, "S(\\d+)E(\\d+) (.*)\\.txt");
     season = parseInt(groups[0]);
