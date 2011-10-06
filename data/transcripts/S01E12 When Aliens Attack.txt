@@ -1,0 +1,201 @@
+	Fry	Pizza delivery! Wow, so this is a real TV station, huh?
+	Technician	Well, it's a Fox affiliate.
+	Fry	What are you showing right now?
+	Technician	Single Female Lawyer. It's the season finale. Wanna watch?
+	Fry	Ah, I dunno. That's a chick show. I prefer programmes of the genre "world's blankiest blank".
+	Technician	She is wearing the world's shortiest skirt.
+	Fry	I'm in!
+	Judge	[on TV] Counselor, I remind you that it's unethical to sleep with your client. If you really care about the outcome of the case, you should sleep with me.
+	Single Female Lawyer	[on TV] Your Honour, it's bad enough to proposition a single female lawyer in court, but this is a unisex bathroom.
+	Judge	[on TV] Overruled, counselor!
+	Stenographer	[on TV] Could you repeat that last part?
+	Technician	Oh, my God! You've knocked Fox of the air!
+	Fry	Pft! Like anyone on Earth cares.
+	Stenographer	[on TV] Could you repeat that last par--
+	Lrrr	This is an outrage! I demand to know what happened to the plucky lawyer and her compellingly short garment.
+	Announcer	[voice-over; on TV] Due to technical difficulties, we now bring you eight animated shows in a row.
+	Hermes	What in the name of Bob Marley's ghost? Get to work, you lazy boat bag!
+	Bender	Ow!
+	Fry	Ow! Hey, quit it, Hermes. It's Labor Day.
+	Hermes	Labor Day? That phoney-baloney holiday crammed down our throats by fat-cat union gangsters?
+	Fry	That's the one.
+	Hermes	Hot damn, a day off!
+	Leela	Who's up for one last summer beach trip?
+	Bender	Aw, yeah!
+	Hermes	Ready, Freddy!
+	Fry	[unenthusiastic] Eh, I think I'll just stay here.
+	Leela	Fry, you're wasting your life sitting in front of that TV. You need to get out and see the real world.
+	Fry	But this is HDTV. It's got better resolution than the real world!
+	Leela	Everyone's too polite to say anything but you're covered with bed sores.
+	Fry	Not covered!
+	Leela	Just get in the car.
+	Professor Farnsworth	Ah, here we are: Monument Beach!
+	Fry	Wait, Mount Rushmore and the Leaning Tower of Pisa? I didn't know they were both in New York!
+	Leela	They are now. In the 2600's, New Yorkers elected a super-villain governor, and he stole most of the world's monuments.
+	Bender	Truly a great man. Look at him up there.
+	Hermes	Aha! [He puts the metal detector down and digs in the sand.] Found you!
+	Bender	OK, now you go hide. [Hermes puts the trowel down and hands Bender the metal detector and runs off. Bender throws the metal detector away and chuckles.] Nice knowin' you.
+	Professor Farnsworth	Come on, Zoidberg, I passed it right to you.
+	Zoidberg	I've had it with this game! I'm going for a scuttle!
+	Bender	OK, everyone, come and get it!
+	Fry	Ah, just like my dad used to make ... until McDonald's fired him.
+	Bender	Bite my red-hot glowing ass. [Smoke rises from behind him.] Wait a minute. Red-hot glowing ass? [He turns around and sees his red-hot glowing ass. He turns back to Fry.] [calmly] I'll be right back! [He gets up and runs into the sea, waving his arms around.] Ow! Ow! Ow! Ow! Ow! Ow! Ow! Ow! Ow! [His ass sizzles in the cool water.] Aw, yeah!
+	Amy	No, Nibbler! [Nibbler runs off with the burger and her bikini top. She gasps and covers herself with the burger buns.] [whispering] Psst, Professor, I need another bikini.
+	Professor Farnsworth	Eh ... wha? [He sees her.] Oh, oh, OK, I think there's one can left. [He reaches into a bag next to him and takes out a spray can and hands it to her. She sprays it over her making a brand new pink bikini.] Oh, my.
+	Amy	There. How do I look?
+	Professor Farnsworth	Like a cheap French harlot.
+	Amy	French?
+	Bully	Say, doll-face, how'd you like to make time with a real man?
+	Leela	No. I'm not attracted to bullies. No matter how big and ... [He flexes his muscles.] ... handsome they are.
+	Fry	It's OK, Leela, go ahead. I got a lot of work to do.
+	Bully	Uh, sir, you don't understand. I'm a professional beach bully. I pretend to steal your girl, you punch me, I go down, she swoons, you slip me 50 bucks.
+	Fry	50 bucks? Not even if she was my girlfriend. You take her.
+	Leela	Fry! Although I suppose we could go for a walk along the beach.
+	Bully	Uh, no thanks, ma'am, I'm actually gay.
+	Zoidberg	Uh-oh. [A lobster pot traps him.] Help! Help! [He knocks on the trap. Bender wanders by, whistling.] Bender, you gotta spring me. I'll never survive in here; I'm too pretty!
+	Bender	Alright, alright, I'll bust you out. [He bends the bars and spotlights shine on the pair and alarms beep.] Cheese it!
+	Fry	Voila. The greatest sandcastle ever built. This is the kind of castle King Arthur would have lived in, if he were a fiddler crab.
+	Leela	It's very nice. We should get a picture before the tide comes in.
+	Fry	Ooh, yeah. Anyone have a camera?
+	Bender	Right here, buddy. [His left eyelid covers his left eye and his right eye zooms out. The rest of the staff kneel next to the castle.] Wait, I wanna be in the picture too. [He takes his head off and puts it on the ground. He pushes his antenna down and it flashes like a timer. His body joins the staff.] Pretend you're happy.
+	Zoidberg	Yay!
+	Leela	Oh, my God!
+	Hermes	What in Babylon?
+	Fry	[screaming] Nooo!
+	Hermes	Faster!
+	Fry	We're all gonna die, aren't we?
+	Professor Farnsworth	Oh, I should think so. Although last time aliens invaded all they did was force the most intelligent of us to pair off and mate continuously. [chuffed] Oh, yes!
+	Linda	[on TV] Once again, today's winning lotto number was 4. In other news, alien saucers continue to rain destruction upon Earth. We now go live to an emergency address by Earth President McNeal.
+	McNeal	[on TV] Ladies and gentlemen, our course is clear. The time has come to knuckle under. To get down on all fours and really lick boot. Give our alien masters whatever they want a--
+	Lrrr	[on TV] People of Earth, I am Lrrr of the planet Omicron Persei 8. [He taps the mic and turns to his aides.] Is this thing on? [He blows into it and turns back to the camera.] Now then: We want the one you call "McNeal". Give us McNeal or we will lay waste to your cities with our anti-monument laser. We demand McNeal!
+	McNeal	[on TV] Uh, as I was saying ... [He clears his throat.] ... mankind would sooner perish than kowtow to outrageous alien demands for this McNeal ... whoever he is. Am I right? [The representatives murmur to each other.] And now, the man who will lead us in our proud struggle for freedom, fresh from his bloody triumph over the pacifists of the Gandhi Nebula, 25-star General Zapp Brannigan!
+	Man	[cheering; on TV] Yeah!
+	Bender	Hey, look, Leela, it's that idiotic windbag you slept with.
+	Leela	The Earth is under attack. Can't we just forget about that?
+	Bender	Evidently not.
+	Zapp	[on TV] Call me cocky, but if there's an alien out there I can't kill, I haven't met him and killed him yet. But I can't go it alone. [He looks into the camera.] That's why I'm ordering every available ship to report for duty. Anyone without a ship should secure a weapon and fire wildly into the air.
+	Leela	Well, you heard the windbag: We've been drafted. Everyone into the ship.
+	Bender	Whoa, whoa, whoa, whoa, hold on. I refuse to fight. I'm a conscientious objector.
+	Fry	A what?
+	Bender	You know, a coward.
+	Zapp	[on TV] Since this is an emergency, all robots will now have their patriotism circuits activated.
+	Bender	It is every robot's duty to give his life for the good of humanity. [His antenna stops flashing.] Oh, crap!
+	Zapp	We're all from different cultures here. Some of you are white, some of you are black. [He stops by a man and points at him.] You're brown. [He moves on to Bender.] And you're silver. But I don't care if your skin's red or tan or Chinese. You're all going to have to learn to die together. [He looks back at Bender.] Am I right, soldier?
+	Bender	Well, actually, I-- [Zapp presses the remote again and Bender's antenna flashes and beeps.] Sir, yes, sir! Sir!
+	Zapp	Remember, our mission is simple: Destroy all aliens!
+	Kif	Um, uh, not me, sir.
+	Zapp	Oh, yes, right. Nobody destroy Kif. [quietly] Unless you have to. [He sees Leela.] [talking] Oh, ho, ho! The luscious Captain Leela. [He starts rubbing his hands.] This is turning into one very sex-ay struggle for the future of the human race!
+	Leela	Thanks, but I'm not technically human.
+	Zapp	Right, right. Nobody destroy Leela either.
+	Zapp	The key to victory is discipline, and that means a well-made bed. You will practise until you can make your bed in your sleep.
+	Fry	You mean while I'm sleeping in it?
+	Zapp	You won't have time for sleeping, soldier. Not with all the bed-making you'll be doing.
+	Zapp	The alien mothership is in orbit here. If we can hit that bullseye, the rest of the dominoes will fall like a house of cards. Checkmate. [Kif sighs and turns to a computer.] Now, like all great plans, my strategy is so simple an idiot could have devised it. On my command, all ships will line up and file directly into the alien death cannons, clogging them with wreckage.
+	Fry	W-Wouldn't it make more sense to send the robots in first a--
+	Bender	Sir, I volunteer for a suicide mission. [His antenna stops flashing and he bangs his head with his knuckles.] Aw, cut it out!
+	Zapp	You're a brave robot, son. But when I'm in command every mission's a suicide mission. Which reminds me. [He walks over to where Leela is sitting and puts his foot on the seat next to her. She folds her arms and isn't impressed.] Leela, perhaps before we head into battle you'd like to make love to me, in case one of us doesn't come back.
+	Leela	Maybe we should wait till afterwards, in case neither of us comes back.
+	Zapp	Here's hoping.
+	Fry	I'm gonna be a science-fiction hero, just like Uhura, or Captain Janeway, or Xena!
+	Leela	[on screen] Fry, this isn't TV, it's real life. Can't you tell the difference?
+	Fry	Sure, I just like TV better.
+	Leela	Bender, damage report.
+	Bender	The auxiliary power's out, and they spilled my cocktail.
+	Fry	Alright, scumwads. This one's for Bender's cocktail!
+	Leela	We did it! We won!
+	Bender	[sadly] Yeah, but it'll never bring back my martini. [He opens his chest cabinet.] [normal] Well, who wants a martini?
+	Zapp	[on screen] Good work, everyone. The mothership is destroyed.
+	Zapp	What the hell is that thing?
+	Kif	It appears to be the mothership.
+	Zapp	Then what did we just blow up?
+	Kif	The Hubble Telescope.
+	Zapp	[shouting] Stop exploding, you cowards!
+	Leela	This is hopeless. [She runs to the pilot's seat and sits down.] If we're gonna get blown to bits, we might as well do it in the comfort of our own home.
+	Professor Farnsworth	You'll be the captain, you'll be the delivery boy, and you'll be the alcoholic, foul-mouthed-- [The door behind him opens and the real crew walk in.] Oh, God, you're alive. I mean, thank God you're alive! [He turns back to the others.] Sorry, check back in three days, a week at the most.
+	Lrrr	[on TV] We want McNeal! Stop stalling!
+	Linda	[on TV] And now a rebuttal from President McNeal.
+	McNeal	[on TV] The people of Earth remain united in my refusal to hand over myself. Total annihilation is a small price to pay compared with--
+	Zapp	[shouting] Here he is! Come and get him!
+	Lrrr	You are not McNeal.
+	Zapp	[simultaneous] Huh?
+	McNeal	[simultaneous] Huh?
+	Nd-Nd	You are not the one we want.
+	McNeal	[grovelling] Oh, thank you. Thank you, glorious masters! I--
+	Lrrr	Give us McNeal!
+	Zapp	That was McNeal.
+	Nd-Nd	No, McNeal, the single female lawyer.
+	Lrrr	She wears miniskirts and is promiscuous.
+	Zapp	[sexfully] Really?
+	Fry	Miniskirts? That sounds familiar.
+	Lrrr	Surely you know McNeal. She is an unmarried human female struggling to succeed in a human male's world.
+	Zapp	Maybe that's just her excuse for being incompetent.
+	Lrrr	[shouting] Silence! [talking] We will accept no more decoys. [He holds up a headshot of the single female lawyer.] This is the McNeal.
+	Fry	Wait, I know her.
+	Leela	You do not, you big fat liar. You don't know anyone. All you do is watch TV.
+	Fry	That's where I know her from. She's Jenny McNeal. She was a character on a TV show back in the 20th century, Single Female Lawyer.
+	Bender	Well if they're hoping to see a TV show that hasn't existed for a thousand years, pft, they are royally boned.
+	Lrrr	[on TV] We will raise your planet's temperature by one million degrees a day, for five days, unless we see McNeal at 9pm tomorrow -- 8 central!
+	Professor Farnsworth	[disappointed] I'm beginning to think there'll be no forced mating at all.
+	Leela	They're going to destroy the entire Earth if they don't see some stupid TV show about some bimbo lawyer?
+	Fry	It's crazy! How could they even know about a show from a thousand years ago?
+	Professor Farnsworth	Well, Omicron Persei 8 is about a thousand light years away. So the electro-magnetic waves would just recently have gotten there. You see--
+	Fry	Magic. Got it.
+	Amy	Check this out: Back in 1999 the season finale of Single Female Lawyer was interrupted by technical problems. Apparently some zidiot spilled Coke on the transmitter.
+	Fry	Beer-- I would think.
+	Bender	They must just wanna see that episode. Let's find a tape and give it to 'em.
+	Amy	There aren't any copies left.
+	Professor Farnsworth	No, there wouldn't be. Most videotapes from that era were damaged in 2443 during the Second Coming of Jesus.
+	Fry	Y'know, I saw the first 30 seconds of that episode. If I could make up an ending, maybe we could act it out ourselves.
+	Zoidberg	I could make the costumes.
+	Professor Farnsworth	I have an old five-megawatt broadcasting tower in the attic.
+	Bender	[dramatically] And I, I could be an acting coach!
+	Fry	Let's put on a show.
+	Fry	OK, Leela, you'll be starring as Jenny--
+	Leela	Uh-uh, forget it. A, I'm camera shy; and B, I get tongue tied in front of an audience armed with death rays.
+	Amy	Plus, you don't really have the thighs for a miniskirt.
+	Leela	Gimme the script.
+	Fry	Places, everyone.
+	Amy	OK ... all set!
+	Fry	Lights! [Bender opens his chest cabinet and a bright studio light shines from it.] Camera one! [Bender's right eye extends and whirrs.] Camera two! [Bender's left eye extends and whirrs.] Camera three!
+	Lrrr	Prepare the water cooler, that we may gather around it later and discuss things.
+	Bender	[singing; on TV] Single Female Lawyer,Fighting for her client,[He swaps the sign to one that says "Written and Directed by Fry".]Wearing sexy miniskirts,
+	Bender	[singing] And being self-reliant.(talking) Hey, I'm pretty good!
+	Professor Farnsworth	Uh ... [reading] ... Jenny McNeal, you are charged with jury-tampering in last week's case ... [At the side of the set Fry watches on a TV screen that Bender is hooked up to. Bender scratches himself.] ... on account of your hot, naked affair with the foreman. How do you plead?
+	Leela	[reading] Your Honour, I move for a mistrial, on the grounds that I'm also having a hot, naked affair with the foreman of this jury.
+	Hermes	[sexfully] I'll see you during the recess!
+	Lrrr	If McNeal wishes to be taken seriously why does she not simply tear the judge's head off?
+	Nd-Nd	It is true what they say; "Women are from Omicron Persei 7, men are from Omicron Persei 9".
+	Professor Farnsworth	[reading] Your witness, Prosecutor Ramirez.
+	Zoidberg	Gracias. [He stands up with his script behind him and walks over to the witness box where Leela is sat.] Single Female Lawyer, where were you on the night of August 23rd?
+	Leela	Sleeping with you.
+	Zoidberg	Aha!
+	Leela	Uh, g-- uh, getting back to the, uh, matter, uh-uh, if it please the court... [whispering] Fry, there's nothing else here. You only wrote two pages of dialogue.
+	Fry	Well, it took an hour to write. I thought it would take an hour to read.
+	Leela	What are we supposed to do now?
+	Fry	I don't know, I don't know. Just say anything. As long as it's compelling, mesmerising, a tour de force.
+	Leela	Uh...
+	Professor Farnsworth	[reading] What say you, Single Female Lawyer?
+	Leela	I say ... I'm giving up the law. [She stands up.] And I'm giving up being single. Your Honour, will you marry me?
+	Fry	No, no! Go to commercial!
+	Bender	We'll be back after this word from Crazy Bender's Discount Stereo.
+	Fry	Married? Jenny can't get married.
+	Leela	Why not? It's clever, it's unexpected.
+	Fry	But that's not why people watch TV. Clever things make people feel stupid, and unexpected things make them feel scared.
+	Lrrr	[on TV] : Attention, McNeal. Your unexpected marriage plan scares us. You stole our hearts as a single female lawyer, and so shall you remain -- or else!
+	Fry	You see? TV audiences don't want anything original. They wanna see the same thing they've seen a thousand times before.
+	Bender	[à la Arnold Jackson] Whatchoo talkin' 'bout, Fry?
+	Fry	Trust me on this. While other people were out living their lives, I wasted mine watching TV, because deep down I knew it might one day help me save the world. Plus, I would have lost my Workman's Comp if I had gone outside. Now just read these cue cards.
+	Fry	And action!
+	Professor Farnsworth	[reading] Miss McNeal, I'm afraid I must decline your offer of marriage. For, you see, I'm dying. Cough, then fall over dead.
+	Zoidberg	[reading; unmoved] My God, he's dead.
+	Leela	[reading] I will now make my closing statement. With my fiancé deceased ... [Farnsworth smiles weakly.] ... I hereby return to my single female lawyer career. No matter what any man says.
+	Hermes	We find the defendant vulnerable yet spunky!
+	Zoidberg	[cheering] Hooray!
+	Amy	[cheering] Hooray!
+	Fry	And ... cut!
+	Bender	[singing] Single Female Lawyer,Having lot's of sex--(talking) Huh?
+	Lrrr	[on TV] Attention, McNeal. We are reasonably satisfied with the events we have seen. Overall I would rate it a C+, OK, not great. [Nd-Nd sees she is in the shot and runs offscreen.] As a result, we will not destroy your planet. But neither will we provide you with our recipe for immortality.
+	Fry	Way to overact ,Zoidberg!
+	Lrrr	[on TV] And now we must return to our planet, to catch the end of a thousand-year-old Leno monologue.
+	Bender	You did it, Fry!
+	Fry	Yep. [He turns the TV on, sits down on the couch and puts his feet up on the table.] It was just a matter of knowing the secret of all TV shows: At the end of the episode, everything's always right back to normal.

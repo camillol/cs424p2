@@ -1,0 +1,262 @@
+	Announcer	[voice-over] Futurama is brought to you by ... [The oval shrinks and zooms back into the corner of the screen, replaced by a spray can.] ... Arachno Spores! The fatal spore, with the funny name!
+	Announcer #1	[voice-over; on TV] Cop Department is real. The people you see are not actors. Most of them aren't even people.
+	Centipede Man	[on TV] C'mon, man, I didn't fire off no laser.
+	Smitty	[on TV] Then why is there a smoking hole in your ceiling, sir?
+	Centipede Man	[on TV] What? Crazy upstairs lady must've been shooting down.
+	URL	[on TV] Sir, you're on the top floor of this particular domicile.
+	Centipede Woman	[on TV] You get that [beep beep] camera out of my house!
+	Smitty	[on TV] Just relax, ma'am. [A light goes on behind him.] Sir, sir, put down the lamp.
+	Centipede Man	[on TV] OK. OK, I'm co-operating.
+	Smitty	[on TV] That's it. Now put up your hands.
+	URL	[on TV] Nice and slow. Aw, yeah!
+	Smitty	[on TV] And while you're at it, unblur your face.
+	Centipede Man	[on TV] Aw, man.
+	Leela	Hey, Bender, I thought you said you were in this episode.
+	Bender	Nah, this week I'm on Caught On Tape 3 'cause of what I did in the coffee pot.
+	Centipede Man	[on TV] I'm sorry, I'm really sorry. I'm just going through some things.
+	URL	[on TV] I'm goin' in!
+	Announcer #1	[voice-over; on TV] Cop Department will return, after these messages.
+	Announcer #2	[voice-over; on TV] Is today's hectic lifestyle making you tense and impatient?
+	Bender	[tense and impatient] Shut up and get to the point!
+	Announcer #2	[voice-over; on TV] Then come relive the carefree days of yore at Past-O-Rama ... [The picture changes to a recreated New York street with the Empire State Building in the background.] ... where Old New York comes alive.
+	Woman	[on TV] It's like stepping back stepping back into the year 2000!
+	Cowboy	[on TV] Time for the mammoth hunt, dudes!
+	Einstein Actor	Let's disco dance, Hammurabi!
+	Hammurabi Actor	Dy-no-mite!
+	Announcer #2	[voice-over; on TV] Located on the former site of Brooklyn.
+	Leela	Sounds like your kinda place, Fry. Wanna go?
+	Fry	Nah. If I ever wanna go back to the year 2000 I'll just freeze myself again.
+	Bender	C'mon, Fry, I really wanna see it. You know how I yearn for a simpler time. A time of barn dances and buggy rides, before life was cheapened by heartless hi-tech machines.
+	Leela	But, Bender, you are--
+	Bender	Blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah...
+	Fry	Cool, it's just like the good old days!
+	Mugger	Give me your wallet or I'll cut you!
+	Fry	Hey, Leela, get a picture of me being "mugged".
+	Mugger	I'll take the camera too.
+	Bender	Learning is fun.
+	Leela	Ooh, ancient Wall Street.
+	Stockbroker #1	No!
+	Stockbroker #2	I'm ruined!
+	Tour Guide	I direct your attention to this ancient and mysterious tablet which has yet to be deciphered.
+	Leela	Do you know what it means?
+	Fry	Yeah, I asked a cop once. It means "Up yours, kid".
+	Bender	I gotta say I'm really enjoying the day out with you people. Hey, a suicide booth! So long, suckers.
+	Fry	Uh, sorry, Bender, that's just a phone booth.
+	Bender	[disappointed] Oh.
+	Leela	What were they used for?
+	Fry	In New York? Bathrooms.
+	Leela	Oh. I-I'll be out in a sec.
+	Leela	[reading] Tokens only. [talking] How does this work?
+	Fry	I'll show you. [He hops over it.] Whup.
+	Bender	Oh, it's a turnstile.
+	Leela	What's this? [She sniffs.] Another bathroom?
+	Fry	No, it's a mobile apartment with no rent.
+	Bender	C'mon, Fry. Get up!
+	Leela	Wow! The burial chamber of the 20th century's greatest spiritual leader, Al Sharpton.
+	Bender	Ooh. Now this guy had taste!
+	Leela	It says he was mummified in ceremonial vestments.
+	Fry	We sometimes called it a jogging suit.
+	Narrator	[on speaker] The traffic jams of Old New York were a public forum of free interchange of opinions.
+	Motorist #1	[in film] Move it, crap for brains!
+	Motorist #2	[in film] Get home, bastard man!
+	Motorist #3	[in film] Bug off!
+	Narrator	[on speaker] It all started with Gerald Ford's famous invention, the "automocar" ... [The three start to move away from the holo-film on a moving walkway.] ... which was powered by a tank of burning fossils. Here we see a 20th century assembly line where cars were constructed by primitive robots.
+	Robots	[chanting] Ooga! Ooga! Ooga! Ooga! Ooga! Ooga...
+	Bender	We've come a long way, baby!
+	Narrator	[on speaker] The fruit of the robots' labour was this ... [At the end of the assembly line some lights light up a green car.] ... the stately 1992 Latoura.
+	Fry	Hey, my girlfriend had one of those. Actually it wasn't hers, it was her dad's. Actually she wasn't my girlfriend, she just lived next door and never closed her curtains.
+	Leela	Fry, remember when I told you about always ending your stories a sentence earlier?
+	Fry	C'mon, let's sneak in for a closer look.
+	Man	Sir, we don't touch the antiques. sir. You-- Oh! [He chuckles.] I'm sorry. You work here. I should have realised from that ridiculous getup you're wearing.
+	Fry	Hey! This is from Miller's Outpo-- Uh, I mean, yeah, I work here alright!
+	Man	Here, move this rust bucket outside behind Saint Koch's Cathedral.
+	Leela	Did you drive much in the 20th century, Fry?
+	Fry	Nope. [He starts the engine.] No one in New York drove. There was too much traffic. [He moves the gear lever.] Nice! Listen to that baby purr.
+	Bender	There's a baby in there, huh?
+	Fry	It's just like riding a bicyc--
+	Bender	I think I got whiplash.
+	Leela	You can't have whiplash, you don't have a neck.
+	Bender	I meant ass whiplash.
+	Fry	I'm just glad we hit something. I thought we'd never stop.
+	Bending Unit	Ow! I think I got whiplash.
+	Fry	How's that robot I ran over?
+	Professor Farnsworth	We did all we could.
+	Fry	You mean he's--
+	Professor Farnsworth	Good as new? Yes!
+	Professor Farnsworth	Leela, Zoidberg, the rest of you, this is Flexo.
+	Hermes	Sweet llamas of the Bahamas! Except for that stylish beard, he looks just like Bender!
+	Flexo	No duh, dreadlock, we're both bending units.
+	Bender	Hey, brobot, what's you serial number?
+	Flexo	3370318.
+	Bender	No way! Mine's 2716057!
+	Fry	I don't get it.
+	Bender	We're both expressible as the sum of two cubes.
+	Fry	So, uh, Flexo. Sorry about crushing your body like that. You OK now?
+	Flexo	Well I don't feel as bad as you look! [He laughs.] Nah, I'm just messing with you, kid. You're alright. That's some face you got, though. I think they got a cream for that. [He laughs again.] Nah, you're great.
+	Fry	Well just let me know if there's anything I can do to make it up to you.
+	Flexo	Actually, your little stunt did a number on my back. You mind rubbin' it for me?
+	Fry	Uh ... sure.
+	Flexo	Aw, yeah, that's it. Little lower.
+	Fry	How's that?
+	Flexo	Lower. [He goes further down.] Yeah that's gettin' it. A little lower though.
+	Fry	Uh, I can't get any lower than this.
+	Flexo	I'll say, you're rubbing my ass!
+	Robot #1	Hey, check it out here. Six beautiful devices. They know what you like and they'll do it to within a tolerance of one micron!
+	Robot #2	Yeah! Spin those fans, baby!
+	Robot #3	Alright, mama!
+	Robot #4	Gyrate, baby!
+	Fry	I don't like this place. It's 120 degrees and there's very little oxygen.
+	Bender	Shut up and hoot. [The lights dim and a chunky Fembot with no distinguishing facial features rolls out on some tracks with a feather boa around her "neck". The robots cheer and wave their money at her.] Hubba-hubba, she is built -- in Mexico, I believe.
+	Flexo	And that ain't silicon, it's tungsten. And plenty of it!
+	Fry	[unsure] Uh, yeah. Look at that exhaust fan.
+	Flexo	Ew!
+	Bender	Pervert.
+	Flexo	Yoo-hoo!
+	Stripperbot	Thanks, moderate spender. Please select erotic transaction.
+	Flexo	Yeah, how 'bout a lap dance for my pal here?
+	Fry	Uh, no, no, that's alright. [She leans on him and he struggles.] Ow! Ow! Ow! Ow!
+	Fry	I'm telling you, there's something about Flexo I don't like.
+	Flexo	Hey, Fry, think fast. [He opens his chest cabinet and a gas blasts Fry in the face, making him cough.] Get it? It's chlorine!
+	Zoidberg	It's funny because it's poisonous!
+	Fry	Yeah, keep laughing, brine shrimp, but he's bad news. I regret ever running him over.
+	Hermes	Take a rage dump, man. He's no worse than Bender.
+	Fry	He's much worse. He drinks and smokes and he posts naked pictures of me on the Internet.
+	Amy	That's Bender, alright.
+	Fry	I'm talking about Flexo.
+	Leela	Oh, I get it. This is cute. You're jealous of Bender's new friend!
+	Fry	No, I'm not. Mark my words: Flexo's evil. He's the evil Bender.
+	Hermes	Rage dump!
+	Professor Farnsworth	[on screen] Good news, everyone. Report to my bedroom for a private exhibition.
+	Professor Farnsworth	Everyone get in bed with me. I have something to show you. [Everyone climbs on and Farnsworth presses a button and makes the curtains around the bed close. What goes on inside is hidden from view.] Feast your eyes on this!
+	Leela	It's beautiful.
+	Amy	And huge.
+	Fry	Can I touch it?
+	Zoidberg	So what is it, already?
+	Professor Farnsworth	It's a single atom of jumbonium, an element so rare the nucleus alone is worth more than $50,000.
+	Bender	How much more?
+	Professor Farnsworth	100,000. That's why I hid it here, under my mattress.
+	Leela	Uh, Professor, can we discuss this somewhere else?
+	Professor Farnsworth	Why certainly.
+	Professor Farnsworth	The atom sits atop this dimestore tiara which will be awarded to the winner of this year's Miss Universe pageant on the planet Tova 9. [He puts the atom on the tiara and it floats.] Your job is to deliver it, safe and sound.
+	Amy	Wow! When I was a little girl on Mars I dreamed of being Miss Universe.
+	Leela	That's kinda pathetic.
+	Amy	Aw, come on, Leela. Deep down all girls wanna be Miss Universe.
+	Leela	Not me.
+	Amy	Really? Maybe it's just cute girls.
+	Professor Farnsworth	Due to the atoms tremendous value, Planet Express would go bankrupt if it was stolen. Therefore we'll need to hire on additional security for the mission.
+	Flexo	Oh, oh, oh, oh! Mr. Professor, right here!
+	Fry	Uh, maybe we should stick with people we know and trust. I mean, Flexo's great, but--
+	Professor Farnsworth	"Flexo's great," you say? Well that's good enough for me. [He shakes Flexo's hand.] Welcome aboard, lad.
+	Leela	Space bandidos have been operating in this quadrant so you'll each take 8-hour shifts guarding the safe. First Bender, then Flexo, then Fry.
+	Fry	Wait, hold on. I don't like the sound of that. Let's just go alphabetically.
+	Leela	OK. First Bender, then Flexo, then Fry.
+	Fry	Wait, let's go by rank.
+	Leela	OK. First Bender, then Flexo, then Fry.
+	Fry	Flexo outranks me?
+	Flexo	That's "Flexo outranks me, sir"!
+	Bender	Halt. Who goes there?
+	Fry	Don't point that at me.
+	Bender	"Fry" who?
+	Fry	Look, I know Flexo's your friend but I don't trust him alone with the atom.
+	Bender	My God, Fry! Just 'cause the guy's got a beard you label him as evil? Well I got a label for you, pal: An ugly little word called "prejudice".
+	Fry	I'm not prejudiced.
+	Bender	Ah, save it for the cross-burning, Adolf!
+	Flexo	Keeping an eye on the safe?
+	Bender	You know it!
+	Flexo	Well, looks like it's my shift. You lie down and go offline for a while.
+	Bender	Alright.
+	Fry	Caught you! [Flexo panics.] I saw you looking at the atom!
+	Flexo	So? I look at lots of atoms. Shouldn't you be resting up for your shift?
+	Fry	Oh-ho, you'd like it if I went to sleep, wouldn't you?
+	Flexo	Whatever it takes to shut your yapper. [He laughs.] Nah, I'm just kidding, you're a joker.
+	Fry	Yeah, well here's a funny joke: I'm gonna sit right here till it's my shift.
+	Flexo	Suit yourself, skinbag.
+	Fry	That I will.
+	Flexo	Good.
+	Fry	Good.
+	Flexo	Good.
+	Fry	Good.
+	Flexo	Good.
+	Fry	Good. [Flexo doesn't reply.] Good.
+	Fry	Well, that's eight hours.
+	Flexo	Yeah, eight hours of solid boredom. [He laughs.] Nah, I'm kidding, you're a wonderful man.
+	Fry	Finally, the atom is safe.
+	Leela	What is it? [She gasps.] My God! Did you hear maracas?
+	Fry	No.
+	Leela	Then it wasn't space bandidos. [She turns around.] Bender, lock down the ship. Don't let Flexo escape.
+	Bender	Aye aye, Captain. It appears that Flexo has outwitted us all. Especially me ... Bender.
+	Leela	How could Flexo have stolen the atom?
+	Fry	He must have used a sleep-ray on me. Sleep-rays exist in the future, right?
+	Leela	No.
+	Fry	Oh. Then I must've fallen asleep.
+	Leela	Well you were sure right about Flexo being evil.
+	Bender	I locked down the exits but he may have already gotten away.
+	Leela	OK, thanks, Bender. Let's fan out and look for him.
+	Bender	Roger that, I got a map of the ship right here.
+	Leela	[whispering] Keep an eye on Fry. We can't rule out the possibility that he did it.
+	Leela	Aha!
+	Fry	Aha! [He opens a drawer but there is no Flexo, just Leela's panties. He rummages around anyway.] Uh, searching ... hmm.
+	Leela	Fry? Why are you looking for Flexo in my underpants drawer?
+	Fry	I didn't find him here 10 minutes ago so I thought it was time to check again.
+	Bender	Well, he wasn't in the, uh, kitchen room.
+	Fry	[suspicious] Say, Bender, can I hold that map for a second?
+	Bender	And leave me high and dry in case of a scavenger hunt? I think not.
+	Fry	Give it up!
+	Bender	Alright, take it. Sheesh!
+	Leela	Well, looks like Flexo got away clean.
+	Bender	It's a darn shame.
+	Leela	He must have jumped ship with the atom the second we landed.
+	Fry	Or maybe, he never left at all! [He pulls the scarf off the robot.] Wait a minute. You're Bender.
+	Bender	Of course, who said I wasn't?
+	Fry	But why were you wearing that scarf and the turtleneck and this fruity number?
+	Bender	It's a little thing called "style". Look it up sometime.
+	Barker	Our ninth finalist, Miss Methane Planet, Halatina Smogmeyer. [Halatina is made entirely of gas and blows in, waving and smiling at the audience. They cheer and cough from the fumes.] And our tenth and final finalist, Miss Earth's Moon, The Crushinator.
+	Crushinator	[mechanical voice] Thank you, Bob Barker. I'm as happy as a girl can be. End statement.
+	Barker	Which one of these lovely womanoids will take home the atomic tiara?
+	Leela	[whispering] Downplay the tiara.
+	Barker	Uh, we'll find out after these subliminal messages.
+	Barker	So you lost the atom, huh? You're garbage, human garbage! Do you brain-dead space jockeys have any idea how much that thing is worth?
+	Fry	100,000?
+	Leela	200,000?
+	Bender	200,001?
+	Barker	[to Leela] You're closest without going over.
+	Fry	Well, uh, we'll be leaving now. If you'll just sign this form saying you received the atom.
+	Barker	I'm not signing squat. You find me that damn tiara before the pageant ends.
+	Leela	But, Mr. Barker--
+	Barker	Enough out of you. I may be against the fur industry, but that won't stop me from skinning you alive! As long as no one wears the skin.
+	Leela	Well, gentlemen, it appears we're boned.
+	Fry	Flexo!
+	Leela	Get him!
+	Barker	Next up in what is generously called the "Talent Competition", performing a traditional gangsta rap, Miss-- What the--
+	Bender	Gotcha!
+	Women	[chanting] Fight! Fight! Fight! Fight! Fight!
+	Bender	Shoot him, he's choking me!
+	Flexo	No shoot him, he's choking me!
+	Leela	I don't know which one to shoot.
+	Fry	Flexo! Shoot Flexo!
+	Amazonian	Women-only room!
+	Leela	Alright, enough of this. [She shoots a display of model planets hanging from the ceiling and they fall and knock Bender and Flexo to the floor. Another planet bounces onto one of the doors, revealing the atom. Gasps all around. Bender sits up. The atom is in his chest cabinet.] There's the atom!
+	Bender	Aw, jeez.
+	Fry	Bender? You stole the atom?
+	Bender	Yeah, but I can explain, it's very valuable.
+	Flexo	I saw him snatch it while Fry was asleep. That's why I ran to tell Bob Barker.
+	Fry	Whoa, whoa, wait a second. You mean Bender is the evil Bender? I am shocked. Shocked! Well not that shocked.
+	Leela	I'm sorry we suspected you, Flexo. It's just, what with the beard and all--
+	Flexo	Don't even bother. You people sicken me. I put my life on the line to guard that atom and this is how you repay me? Well you can go rot for all I care. [He laughs his anger away.] Nah, I'm just kidding, you guys are alright.
+	Fry	I'm so confused. The Bender I liked turn out to be evil and the Bender I hated was good. How can I live my life when I can't tell good from evil?
+	Bender	Eh, they're both fine choices. Whatever floats your boat.
+	URL	Is this the guy?
+	Barker	Huh? Oh, yeah, that looks like him. Whatever.
+	Flexo	Wait, but I--
+	Barker	Take him away.
+	Barker	Alright, let's put an end to this pathetic hoedown. Brannigan, read the thing.
+	Zapp	And the winner is...
+	Leela	It figures. Who else but Zapp Brannigan would be judging the most chauvinistic, degrading, dehumanising--
+	Zapp	Huh? Leela?
+	Leela	Wait, you're making a-- [Some flowers are handed to her.] Ooh! Look at that. [A woman puts the tiara on her head.] I feel like a princess!
+	Zapp	Wait. What are you people? Idiots? I'm still going mano a mano with this envelope. [He struggles with the envelope and finally rips it open. He takes out a piece of paper.] And the winner is: Miss Vega 4. [The women take the flowers and tiara from Leela and put it on Miss Vega 4, a big purple splodge. She waves to the audience.] [singing] There it is, Miss Universe. There it is, looking weird.
+	Leela	I almost had that tiara.
+	Bender	Me too.
+	Fry	Well, you guys might both be losers but I just made out with that radiator woman from the radiator planet.
+	Leela	Fry, that's a radiator.
+	Fry	Oh. [He clears his throat.] Is there a burn ward within 10 feet of here?

@@ -1,0 +1,231 @@
+	Fry	Bucket of hot dogs?
+	Cubert	Check.
+	Fry	Butt massager engaged?
+	Bender	Check.
+	Fry	Then let the video games begin! Wait. Hang on. I— I lost my controller.
+	Cubert	There is no controller. The X-Cube tracks your motions with a built-in camera.
+	Bender	Oh, yeah? Track this motion.
+	Cubert	Frykowski. BenderIsGreat34. Follow me!
+	Bender	Sounds like fun on the bun.
+	Cubert	Aw! You guys again?!
+	German #1	Ach! These dorkeschoens. Let's humiliate them with slingshots.
+	Fry	Shoot your weapon, Private!
+	Bender	Wait. How do I— Hold on. Oops.
+	German #1	Sorry to kill und run, but I really must be Göring.
+	Fry	Man!
+	Bender	Pwned again.
+	Cubert	This is all Bender's fault. Admit it! Your reflexes suck!
+	Bender	Aw... It's true! My circuitry's twelve years outta-date. I can't keep up with today's high-speed, top-o'-the-line kids.
+	Fry	You can't even keep up with me and I'm some sort o' stone-age throwback.
+	Cubert	You know... I might be able to speed up your reflexes by overclockin' ya.
+	Bender	Eh... What's that, sonny? You say it'll put some whoopiee in my cushion?
+	Cubert	This may take a while. I've got to adjust the memory timing, raise the CPU voltage, and delete twelve terabytes of outdated catchphrases.
+	Bender	Sounds like fun on the bun!
+	Female voice	Deleted.
+	Bender	[sad] Oh.
+	Leela	Fry, can we talk about our relationship?
+	Fry	Of course. Our relationship is the best thing in my life, so I'm sure I'll enjoy talking about it with you.
+	Leela	I dunno. I guess I'm just feeling uneasy about us being so on-again, off-again.
+	Fry	Maybe it's none o' my business, but, if it were up to me, we'd be on all the time. An' I mean all the time.
+	Leela	But what would that be like? I mean... If we were together, where would we be ten years from now? Still here?
+	Fry	Definitely. Or... Somewhere else.
+	Leela	Maybe I'm havin' some kinda... Early-life crisis, but... Look: Don't you ever wonder about the future?
+	Fry	Well, sure, but... You're always in it. Also, sometimes, terminators.
+	Cubert	Alright. You should run a lot faster now. Unless you die.
+	Bender	[back to normal] Woo! I'm smart! I know how to spell aardvark. February is the shortest month. There's three-thousand-eighteen jelly beans in that jar.
+	Cubert	Damn, I'm good.
+	Bender	I mean three-thousand-eighteen rat kidneys.
+	Cubert	Now, then, my man. Let's see if your reflexes are—
+	Bender	Faster!
+	Cubert	[quickly] Get 'em! Get 'em! Get 'em!
+	Bender	Eh, foreign aggressors. Vhat's up?
+	German #1	Oh, we were just eating spaetzle and listening to Kraftwerk— I— I mean, "Fire!"
+	German #2	That tap-dancing, decadent jazz baby is too fast for us!
+	German #1	Let's see him outrun a V-2!
+	Bender	It's my brains against your von Braun!
+	German #1	Ach! I could have fired a V-8!
+	Walt	Those guys normally stink. That's why we play them exclusively.
+	Larry	Those cheaters must've cheated!
+	Walt	Now, Larry. Let's deal with this like mature adults. [screaming, extendedly] Mommy!
+	Mom	What is it, you colicky bastards?!
+	Walt	We were playing video games and the other kids didn't play fair!
+	Mom	What?! Nobody rips off my kids but me! We can find out who they are through their motion-capture camera. It better not be those little Korean girls again. Aha! Got it!
+	Bender	[on the screen] Woo! We're the greatest! Mostly me!
+	Mom	[off camera] Bender Rodríguez?
+	Walt	[off camera] But he's a stock MomCorp bending unit. [on camera] And 'e's twelve years out-of-date. How could 'e possibly play that well?
+	Bender	[on the screen] Did you see me?! History came alive an' killed it!
+	Cubert	[on the screen] If I overclock you some more, maybe we can beat those Korean girls!
+	Mom	Well, well. That nerd burglar overclocked the Robot's processor!
+	Larry	And that voids his warranty. Even an idiot like me knows that.
+	Mom	An idiot like you knows nothing! What matters is... It violates the licence agreement. And that means I've got 'im right by his little—
+	Smitty	Ding dong. I'm sayin' "Ding dong" 'cause you don't 'ave a doorbell.
+	Cubert	Hey, pigs.
+	URL	We're lookin' for a Cubert J. Farnsworth.
+	Cubert	You're porkin' at 'im!
+	Smitty	You're under arrest for felony violation of the MomCorp licence agreement.
+	Professor Farnsworth	What's all this oinking about?! Who called the fuzz?!
+	URL	Sir, who's this boy's legal guardian?
+	Professor Farnsworth	You're porkin' at 'im!
+	URL	Then the charges apply to you too.
+	Professor Farnsworth	Wha?
+	Mom	Farnsworth?! What a lucky break!
+	Mom	After all these years, I've got 'im! And legally too!
+	Larry	Even an idiot like me knows he'll be ruined.
+	Mom	An idiot like you is correct!
+	Professor Farnsworth	You overclocked Bender?! What did I teach you about tinkering with machinery?
+	Cubert	How. You taught me how.
+	Professor Farnsworth	I also taught you not to get caught! Oh, I wish I'd never cloned you.
+	Cubert	It's not my fault! I didn't even know Bender had a licence agreement!
+	Professor Farnsworth	Neither did I— Ooh.
+	Professor Farnsworth	Bender, as my newest employee, could you bend this drinking straw for me?
+	Bender	Sure. Let me just.
+	Mom	[on the hologram] First, click the licence agreement, deary.
+	Professor Farnsworth	I really shouldn't agree to things I don't understand, but I'm slightly thirsty.
+	Professor Farnsworth	Oh, God! I clicked without reading!
+	Cubert	An' I slightly modified a thing that I own!
+	Professor Farnsworth	We're monsters!
+	Walt	Congratulations, Mother. Can you die happy now?
+	Mom	Not yet!
+	Walt	Darn!
+	Mom	I can't rest until this bending unit is restored to factory specs.
+	Igner	Why not?
+	Mom	If people learn they can overclock their old Robots, they won't buy my new Robots! This will not stand! [off camera] Hoverfish, [on camera] bring me the clock of Bender Rodríguez.
+	Hermes	Good news, everyone! That's what the Professor would say if we weren't in jail facin' a life sentence.
+	Bender	Guys! Guys! I discovered I have an extra processor in my compartment o' mystery. Bein' overclocked was a start, but, once I activate this processor, I'll be all like, "You're a big dummy, Einstein! Get a haircut!" Aw! Wow! I can't believe how stupid I used to be an' you still are. What are all these page-y things?
+	Amy	Look out! You're overheating!
+	Bender	Yeah, yeah. There. Now, I'm water-cooled. I can stimulate my intellect without further thermodynamical disruptions.
+	Fry	I miss the old, illiterate Bender.
+	Hermes	What's happened to you, mon? I thought you liked beer an' knock-knock jokes.
+	Bender	I'm processin' so fast, it's like I can anticipate that the ceilin' fan's gonna fall an' knock Zoidberg unconscious.
+	Zoidberg	Wrong, Mr. Genius.
+	Bender	Not that ceilin' fan. In fact, lookin' ahead, it's obvious Mom won't allow me to stay accelerated like this. Hmmm. Who's up for a turkey dinner an' a game o' badminton?
+	Hermes	Say what?!
+	Bender	Yup.
+	Amy	Uh-oh. 'E must be overheating again.
+	Hoverfish	Bending unit, you are ordered to report for factory reset.
+	Bender	Okay. Sure. But, first, this.
+	Zoidberg	I hear turkey. Woop-woop-woop-woop-woop— Oh, boy. Ay... Ay. Ay.
+	Bender	Ten more processors for me. Once I install these, I'll have access to the loftiest realms o' thought!
+	Zoidberg	Anyone have access to a lofty realm of gravy?
+	Bender	I can conceive of gravies that would boggle your tiny mind! But it's not safe here. So I'll need to find a hideout.
+	Fry	Hideout? Bender, are you becoming some kinda supervillain?
+	Bender	Farewell, monobrains.
+	Yellow and red lawyer	Your Honour, Mom is a poor, frail industrialist with three special sons who require constant neglect. Yet, isn't it true, ladies and gentlemen of the jury, that this boy, this... Cubert Farnsworth...
+	Cubert	[frightened] That's my name. Don't wear it out.
+	Yellow and red lawyer	Deliberately robber her blind by improving his own Robot?!
+	Fishy Joe	It's true! 'E did it!
+	Yellow and red lawyer	No further questions for this jury.
+	Ron Whitey	Before I call a recess for mimosas and horse breeding, can the defence produce the bending unit in question?
+	Professor Farnsworth	[whispering] We don't know where the hell 'e is.
+	Hyper-Chicken	Your Honour, that is something we cannot a-doodle-do.
+	Ron Whitey	Then I'm holding the defendants in contempt and fining them ten-thousand dollars a day until they produce the Robot.
+	Hermes	Oh! At that rate, Planet Express will be bankrupt in... Four fingers!
+	Hermes	It's been a good run, people, but this is the end.
+	Zoidberg	[off camera] Wait! [on camera] I've got it! This building's technically in the theatre district. If we could mount one big musical featuring everyone's talents, we might just save Planet Express!
+	Nibbler	We'll call it Nibbler on the Roof!
+	Fry	Alright!
+	Zoidberg	Hooray!
+	Hermes	We're saved!
+	Leela	I've been thinking a lot about moving on with my life. And hearing the words Nibbler on the Roof has given me the kick in the pants I needed. It's time for me to leave and make a fresh start.
+	Fry	[sad] Don't go, Leela, please. You an' me... We were supposed to...
+	Leela	What?
+	Fry	I dunno. [happy] But someday we'll find out. [sad] Won't we?
+	Leela	Goodbye, Fry.
+	Fry	I dunno, Randy. I just feel like my life's falling apart. The Professor's in jail and now Leela's gone forever.
+	Randy Munchnik	Stay strong, Fry.
+	Fry	You're the best friend I have left. [sad] An' I barely even know you.
+	Randy Munchnik	Have you thought about asking Bender for help?
+	Fry	[angry] What are you, Randy? A complete moron?! [sad] I'd love to talk to Bender, but I 'ave no idea where 'e is.
+	Randy Munchnik	Well, if 'e's runnin' on twelve processors, 'e must be some place with a lotta power and liquid coolant.
+	Fry	[angry] Aw! You're no help at all! [sad] I'm gonna go kill myself.
+	Fry	[off camera] Wait a second. Power. Liquid coolant. [on camera] That gives me the option of electrocution or drowning.
+	Paper-hatted salesman	[off camera] Barrels here. [on camera] Can't go over the Falls without a barrel.
+	Fry	What are my chances of surviving in one o' those?
+	Paper-hatted salesman	Slim to none.
+	Fry	I like those odds!
+	Fry	[inside the barrel] Wait. This isn't a barrel. It's just a stinking cask! I want my money [screaming, extendedly] back! [back to normal] Ow! Ow!
+	Fry	That was not worth three-thousand dollars.
+	Fry	Hello? Anybody?
+	Bender	[off camera] Fry?
+	Fry	Bender?! Are you in here?!
+	Bender	In here is the only place I'm not. I amuse myself.
+	Fry	But— Bender?! What happened to you?
+	Bender	I'll try to put it in terms you can comprehend. I passed the existential singularity.
+	Fry	Try harder!
+	Bender	I hacked myself inside-out and now the entire universe is my processor.
+	Fry	Whoa! I definitely wanna hear about that. But, first, I need your help. The Professor and Cubert are in trouble and Leela left me. I'm in misery!
+	Bender	I've grown far beyond the petty concerns of your world. Every time I burp, a new galaxy is born. [Bender burps and two galaxies appear.] Two if I've been eatin' broccoli. All existence is just a chess game. An' I can see fifty moves ahead. Human emotion no longer concerns me.
+	Fry	But— But Randy said—
+	Bender	[screaming] Randy?! [back to normal] 'Ave you been hangin' out with Randy?!
+	Fry	Please, Bender. If everything is a chess game for you, you must know how to help me.
+	Bender	I'm sorry, Fry. But some games you just can't win. [off camera] Cubert and the Professor are guilty. The jury will vote to convict. [sad] I can't change that.
+	Fry	Well, what about Leela? Is there any hope things could still work out between us?
+	Bender	[on camera] It's getting late. Now, if you'll excuse me, I have some new heavy elements to create. [off camera] Better cover your nads. It may get a little non-Newtonian in here.
+	Ron Whitey	Not only have the defendants failed to rebut the charges, they've not even presented any mitigating factors to recommend leniency. It strikes me as an extra-risky strategy.
+	Hyper-Chicken	Did you say "extra-crispy recipe"?
+	Ron Whitey	You know I didn't.
+	Hyper-Chicken	Your Honour... If we could locate Bender Rodríguez, he would testify that my clients acted without malice.
+	Fry	No, 'e wouldn't. Bender doesn't care about us anymore.
+	Zoidberg	Someone used to care about me?! Hooray!
+	Ron Whitey	In that case, the jury will begin its deliberations. Bailiff, [off camera] release the jury collies.
+	Mom	I finally nailed Farnsworth. Destroyin' the boy is just icing on the cake.
+	Larry	No one destroys a boy like you, Mother.
+	Mom	Thank you, you repulsive disappointment.
+	Fry	Any word from Leela?
+	Amy	I heard she took a job selling deep-space real estate. Somewhere beyond the most distant thing ever observed with a telescope.
+	Fry	[sad] She always liked not being observed with a telescope.
+	Ron Whitey	Order. Order in the head.
+	Bender	For reasons beyond even my comprehension, I 'ave returned to testify on behalf of the defendants.
+	Professor Farnsworth	Yay!
+	Cubert	Yay, Bender!
+	Fry	[happy] I knew 'e cared about us!
+	Hermes	You said you knew he didn't care about us!
+	Fry	Leave me alone.
+	Yellow and red lawyer	Your Honour, I object to this surprise witness. 'E's too surprising!
+	Ron Whitey	Sustained. Testimony has closed.
+	Bender	But— Your Honour—
+	Ron Whitey	Silence! One more in-burst like that an' I'll have this courtroom removed from you! Whoa! Whoa! Whoa!
+	Bender	[sad] I'm sorry, guys. I didn't realise I was late. I guess I'm not as smart as everybody thought.
+	Professor Farnsworth	I was born in prison and I'll die in prison.
+	Bender	There is still one hope. You're co-defendants. An' the jury might not wanna convict a twelve-year-old.
+	Mom	Son of a nerd. He may be right! Make sure Farnsworth doesn't get off easy on account o' that snot-gobbling twerp.
+	Ron Whitey	'As the jury reached a verdict?
+	Fishy Joe	Not just any verdict, Your Honour. A great verdict!
+	Mom	[frightened] They're going to take pity on him! [angry] Do something!
+	Yellow and red lawyer	Your Honour, prosecution moves to drop the charges against Cubert Farnsworth.
+	Ron Whitey	Very well. The case against Cubert Farnsworth is hereby dismissed.
+	Cubert	Told ya I'd get away with it.
+	Ron Whitey	That'll do, pig. Please read the verdict against Professor Farnsworth.
+	Fishy Joe	You got it, Judge. I think you'll find this verdict as fair as it is cruel.
+	Bender	[off camera] Your Honour, [on camera] I move for a mistrial on grounds of double jeopardy. Cubert Farnsworth cannot be tried twice for the same crime! Cubert is the Professor's clone. Ergo, they are legally the same person. Since you dismissed the charges against Cubert, you cannot convict the Professor of these same charges!
+	Hyper-Chicken	Well, I'll be a nugget's uncle. He's right!
+	Ron Whitey	What a brilliant legal shenanigan! Case dismissed.
+	Zoidberg	Yay!
+	Fry	Yay!
+	Hermes	Yes!
+	Fry	Bender, you knew all this would happen, didn't you?
+	Bender	Yes. All except this part.
+	Mom	If I can't bring down Farnsworth, I can at least dumb down 'is Robot. Take 'im away and reset 'im to factory-stupid condition!
+	Fry	Bender, wait. While you can still calculate the future, just tell me: What's gonna happen with me an' Leela?
+	Bender	There's no time now. Quick, Zoidberg! Take three steps to your right!
+	Nibbler	[sad] We've had some tough times, [happy] but at least we won a Tony!
+	Zoidberg	You won a Tony. Feh!
+	Fry	Wow. You gave up your superintelligence to save us. Why did you come back?
+	Bender	Honestly, I couldn't think o' one good reason. But some decisions can't be made by thinking. Even if you're drunk! No galaxies there.
+	Leela	Knock knock.
+	Bender	Oh! Oh! Who's there?!
+	Fry	Leela?!
+	Professor Farnsworth	Yay!
+	Bender	Leela who?!
+	Fry	[off camera] It's good [on camera] to see you. [sad] Is it good to see me?
+	Leela	Of course.
+	Amy	[off camera] Come on in, Leela! [on camera] Take that ugly coat off!
+	Leela	Thanks. Hi, everybody.
+	Hermes	So... Tell us. How's the intergalactic real estate going?
+	Leela	Pretty good. I just sold a castle to the King of Space. But, somehow, I keep finding myself thinking about this place. An' things.
+	Fry	[off camera] Things [on camera] like me or... Things like this badminton racket?
+	Leela	You, Fry. Bender, while you still have your giant brain, please... Tell me: If Fry an' I ended up together—
+	Fry	It's too late, Leela. He's good, old Bender again. 'E's totally useless.
+	Bender	Well, not totally! Before they reset me, I figured out the answers to life's great questions. Uh... This is the reason we exist. This is which ceilin' fans are gonna fall. Aha! Found it! Fry and Leela's Ultimate Fate... By Bender.
+	Fry	Uh, it's probably better if we don't know. Uh, mystery of life and whatnot.
+	Leela	Gimme that!

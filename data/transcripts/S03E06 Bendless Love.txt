@@ -1,0 +1,220 @@
+	Leela	Guidance system?
+	Bender	Online.
+	Leela	Autopilot?
+	Autopilot	Present.
+	Leela	Dark matter indicator?
+	Fry	Making the noise.
+	Leela	All systems operational. Let's rock!
+	Leela	Gentlemen, I've completed my report on the crash.
+	Bender	Whoa! I'm not reading that crap. Summarise it in one word.
+	Leela	Sabotage. [Gasps all around. Leela points to an L-shaped piece of metal on the table.] This is a normal L-unit. Without it, space travel is but the fevered dream of a madman.
+	Fry	Yep.
+	Bender	Of course.
+	Zoidberg	Doy!
+	Hermes	It's an important unit.
+	Leela	And this, my friends, is the L-unit I just removed from the ship.
+	Fry	That doesn't look like an "L" at all. Unless you count lowercase.
+	Bender	You know we don't!
+	Leela	Whoever did this was strong. This is 340 pounds of Tonka-tough steel.
+	Bender	Hmm. It should look like this. [He bends it into an L-shape.] But instead it looks like this.
+	Fry	Who would do a thing like that?
+	Bender	Who could do a thing like that? And by "that", I mean this.
+	Zoidberg	Well, gang, it looks like we have another mystery on our hands.
+	Hermes	I'd better make a chart of the suspects. I'll begin by drawing a line with my straight-edge. [He draws along his straight-edge but halfway along the line starts to bend. He gasps.] Sweet lamprey of Santa Fe! My edge has been bent!
+	Amy	[crying] My javelin too! It's ruined. [She holds up her javelin which has been bent in eight places.] Now we'll never beat Jupiter State.
+	Zoidberg	My slinky! [He runs over to the corner of the room and picks up a straightened slinky. He falls to his knees.] My cuddly, little pet slinky!
+	Professor Farnsworth	What's all the hubbub?
+	Leela	My God! Even the Professor's been bent.
+	Professor Farnsworth	That you for your sympathy, talking square of linoleum.
+	Bender	I'll get you fixed up. [He bends Farnsworth backwards so his face is pointing upwards. Farnsworth screams.] That's fine.
+	Amy	Wait a minute. Bender, what did you just do to the Professor?
+	Bender	I bent him.
+	Amy	Aha!
+	Hermes	Bender!
+	Zoidberg	J'accuse!
+	Bender	Oh, I see. A bunch of stuff gets bent so it must be the robot designed for bending.
+	Hermes	I know how to settle this: We'll check last night's surveillance tapes.
+	Fry	Huh?
+	Amy	What tapes?
+	Leela	Surveillance?
+	Zoidberg	You've seen me naked?
+	Hermes	Ah. Last night's tape. It was right next to Bathroom Bloopers 4.
+	Bender	See? Nothing. Told you, losers.
+	Fry	Wait! There on the screen. It's that guy you are.
+	Bender	I'm sleepwalking.
+	Professor Farnsworth	Dear God! We've got robots on the ceiling.
+	Fry	You weren't sleepwalking, you were sleep-bending!
+	Bender	This is quite a shock. On the other hand, it's not surprising in the least. After all, I've been bending since the day I was built.
+	Bender	[voice-over] I was born on an assembly line in the bad part of Tijuana.
+	Bender	Mama. [He reaches out and cries. The robotic arm opens a bottle of Olde Fortran and screws a baby bottle-top onto it and feeds Bender. The conveyor belt moves and carries Bender to a machine marked "Bending School". Another robot arm comes out of it and installs bending software into his head. A third one hands him a diploma and puts a hat on his head then it throws the hat in the air.] Hooray! I graduated! Time to bend around Europe for a few months, then get a job bending.
+	Amy	You remember your own birth?
+	Bender	Sure. It was only four years ago.
+	Fry	You're only four years old?
+	Bender	Precocious little scamp, ain't I?
+	Leela	Hmm. Bender must have a pent-up need to bend that's not being satisfied by his bend-free lifestyle.
+	Professor Farnsworth	Then he can't stay here. He's a menace to every straight person in the company. [Bender hangs his head in shame.] Go satisfy your bend lust and don't you come back to work until you do.
+	Robots	[chanting] No more bending, no more work. Give us a raise, you big fat jerk.
+	Sal	[shouting] Nevers!
+	Joey	Yo! The Mafia supports you. But don't tell no one. Spread the word.
+	Donbot	As the duly-elected mobsters of this union, it's our duty to support the struggle of these proud, lazy slobs.
+	Joey	Yeah, but what if management remains intragnizent?
+	Donbot	From the context it is clear what you mean. In that case, Clamps may have a little surprise for them.
+	Clamps	The clamps! [He clacks his clamps then turns to the Donbot.] [unsure] Right?
+	Bender	Aw, no! A strike? Now I'll never get to bend anything. Oh, woe is Bender.
+	Robot #1	Hang tough, brother. Management refused our demand to switch casual Friday to Monday.
+	Bender	What?
+	Robot #2	And now they're hiring scabs at ten-times the normal wage.
+	Bender	Ten-times normal wage? [He rolls his sleeves up.] I'll give those jerks what for!
+	Sal	Welcomes aboard, scab.
+	Bender	Great to be here.
+	Sal	Come on. I'll introduces you to your scab co-workers you'll be scabbing with. [He points to a bending unit.] This here's our scab foreman.
+	Bender	Flexo?
+	Flexo	Bender?
+	Bender	Hey, sorry you got sent to that South American Turkish prison instead of me on account of mistaken identity.
+	Flexo	You bastard! They treated me like an animal and that's what I became! [He laughs.] Nah, you're alright. Good to see you, buddy!
+	Sal	And here's another scab what also works here, Angleyne.
+	Bender	[sexfully] Hello.
+	Sal	Hey, yous guyses wanna move that things?
+	Bender	[more sexfully] Hello!
+	Robots	[chanting] Give us a raise, you big fat jerk.
+	Sal	[from outside] Nevers!
+	Bender	Ow! [He strolls over to Angleyne.] Um, hi, Angleyne. Whatcha up to?
+	Angleyne	Making hangers. Guidance counsellor said I had a knack for it.
+	Bender	That's cool, that's cool. So, um, uh, I was wondering if, y'know, it's cool if not, but, what are you doing after work?
+	Angleyne	What I always do. Jack squat.
+	Bender	Me too. [He chuckles again.] Man, we have a lot in common, huh?
+	Angleyne	Well we are made of virtually identical components.
+	Bender	[sexfully] Are you sure? Maybe I should sneak a peek at your access panel.
+	Angleyne	Hey, according to the scab handbook that's extremely inappropriate banter. [sexfully] And that's just the way I like it.
+	Hermes	Haile H. Selassie!
+	Zoidberg	There, little friend. Good as new.
+	Professor Farnsworth	What an exquisite day. That azure sky, the verdant treetops. [Behind him the crack addict exchanges money for crack with a dealer.] Those delightful birds with their chirp, chirp, chirp and their tweet, tweet, splat.
+	Fry	Professor, I've never seen you so cheerful. What the hell's wrong with you?
+	Professor Farnsworth	Hmm. I'm not quite sure. Perhaps seeing things from a new perspective has reminded me of life's beauty. Or perhaps my new posture is causing blood to pool in the back of my brain, resulting in a mild delirium. Incidentally, you have a dime up your nose.
+	Fry	I wish! It's a nickel.
+	Bender	Union forever! Lousy scabs! They can't do those things! Et cetera!
+	Bender	I bet watching me bend girders like this turns your legs all rubbery.
+	Angleyne	Well my legs are made of rubber. [She turns around.] And anyway, I am just as strong as you are, Mac.
+	Bender	Oh, yeah? [A girder drops into his hands and he holds it out to Angleyne.] Prove it. [She takes it and grunts as she tries to bend it. First she tries just with her hands then she puts it across her leg and tries and then she gives in and sighs. Bender stands behind her.] Here, let me help you.
+	Professor Farnsworth	My new bent outlook has completely re-energised me. I'm even dating a young Brazilian retired actress.
+	Fry	Alright!
+	Professor Farnsworth	Some say I'm robbing the cradle but I say she's robbing the grave.
+	Bender	Howdy, doodies. What's new?
+	Professor Farnsworth	I was just regaling your former co-workers with a tale of bedroom antics, the likes of which--
+	Bender	Yeah, yeah! Big whoop! No one cares. I got Bender-related news. I'm in love and I'm taking all my friends out to celebrate.
+	Amy	Let's get liquored up!
+	Elzar	Hey, look at this crowd. You guys gotta try the pasta. It's got a real nice profit margin. Bam! So, special occasion tonight?
+	Bender	Oh, Elzar, you'll never guess what's happened?
+	Elzar	Bam?
+	Bender	I met the most dynamite ladybot.
+	Elzar	Hey, that's terrific. To celebrate, I'm gonna stick seven copies of my latest cookbook on your bill.
+	Bender	Bless you, sir.
+	Professor Farnsworth	So, Bender, tell us about this new girlfriend of yours.
+	Bender	I intend to. Through the lost art of the toast. [He stands and raises his glass.] To Angleyne, she's got it all. Looks, charm and the love of a fabulous bending robot.
+	Fry	She sure does.
+	Bender	Flexo!
+	Elzar	[shouting] Careful, that's a week old!
+	Bender	I finally meet a nice girl with a pair of legs that don't quit unexpectedly and that jerk Flexo steals her away? It's time to kick some shiny, metal ass. [He walks over to their table.] You degenerate hussy! I'm disappointed in you too, Angleyne.
+	Angleyne	Bender, it's-it's not what you think.
+	Bender	Oh, God! Then it's worse than I think.
+	Angleyne	Now, look, there is no reason to be upset. Flexo and I are divorced.
+	Bender	Div-- Huh?
+	Flexo	We're just havin' dinner 'cause we wanna stay friends.
+	Bender	Uh, I knew that. What I'm actually outraged by is your choice of wine. Really, it's the steward's fault.
+	Steward	Excellent choice, sir.
+	Bender	[muttering] That Flexo, I'm knockin' him right on his butt. I can't believe this.
+	Professor Farnsworth	Obsessing won't help, Bender. Take a lean back and enjoy life.
+	Bender	I can't. My Fembot may be in love with another Manbot.
+	Leela	Well talk to her. Tell her about your feelings in an open an honest way.
+	Fry	Yeah. Either that or be a man.
+	Bender	OK, I've constructed an elaborate lie: I'll call Angleyne while pretending to be Flexo, arrange a date, show up disguised as him and catch her two-timing me with myself.
+	Fry	That's thinkin' like a man.
+	Bender	[disguised voice] Hello? This is Flexo.
+	Bender	Now we'll see who loves whom.
+	Bender	Hey, hot stuff.
+	Angleyne	Hey, Flexo. [She hugs him.] So since when do you go to bars on work nights? It's not like you at all.
+	Bender	Nonsense. It's exactly like me. Flexo: The fun-loving love machine Fembots love to love. Hey, barkeep, I'll have a Fuzzy Navel and she'll have the girliest drink in the house.
+	Bartender-bot	Two Fuzzy Navel's comin' up.
+	Bender	I hope they can make change for a fortune.
+	Joey	Yo. Get an eye-load of that filthy scab with the beard flashing his filthy scab money. It's an insult to you, boss.
+	Donbot	Yeah. That cash oughta be slushin' my fund and kicksing my back.
+	Clamps	I'm greasing up my whoozits!
+	Donbot	Whoa, whoa, Clamps, not yet. Let's just keep an eye on him and see if he does it a couple more times.
+	Bender	You're lookin' good to Flexo tonight.
+	Angleyne	Quit makin' with the googly eyes. You know that I'm in love with Bender.
+	Bender	Bender? That walking wuss factory?
+	Angleyne	Well he may be a walking factory but believe me he is no wuss. Now, look, you and me are through. I told you that when I divorced you.
+	Bender	But going through a divorce together, you can't tell me that didn't bring us closer. Care to dance?
+	Angleyne	You know I love dancing but you always hated it.
+	Bender	In that case it's something I've always wanted to make up to you. [He puts his hand on hers. On the dancefloor he talks to the DJ-bot.] Hey, scratchmo. How 'bout dropping me and the lady some rump-rattling beats?
+	Donbot	I had hoped that by the second time he flashed his cash my rage would have subsided. Sadly that has not happened.
+	Angleyne	You used to be so inflexible, Flexo. You have really loosened up!
+	Bender	I recently upgraded my funk card. C'mon!
+	Angleyne	Alright!
+	Bender	C'mon now, what's new! [His goatee flies off his face and lands on a fat Fembot's behind. Bender carefully removes it.] Ew!
+	Angleyne	Flexo? What-What's going on?
+	Bender	Um...
+	Angleyne	Flexo!
+	Bender	So the moral of the story is: If you want it to stay sunk, tie a weight to it!
+	Angleyne	[laughing] You always were a kick in the teeth, man.
+	Bender	Aw, shucks, thunder-buns! You make me feel like a million volts.
+	Angleyne	Flexo, Flexo, Flexo. I'm starting to remember why I fell for you in the first place.
+	Bender	[thinking] So, she's falling for Flexo, eh? I'd better seduce her a little more, just to be sure.
+	Angleyne	Well, it's late. I should get home to my trailer.
+	Bender	I'll walk you out. After all, a true gentleman tends to his date's every need. [He takes a cigar out of his chest cabinet.] Tiparillo?
+	Bender	Here you are, my lad. Bring the lady's car around in the finest way possible.
+	Joey	He's flashin' his cash loaf again.
+	Donbot	How many times is that? Two or three?
+	Clamps	Three.
+	Donbot	Alright. That's the necessary number of times. That scab's gonna have a little on-the-job accident.
+	Joey	With all due respect, Donbot, I don't think we should rely on an accident happening. Let's kill him ourselves.
+	Angleyne	Well, goodnight. I-I had a great time.
+	Bender	How 'bout a lift? To your place.
+	Angleyne	What?
+	Bender	Admit it. You felt something for me tonight. And by "me" I mean Flexo.
+	Angleyne	Hey, look, I had fun, but--
+	Bender	But?
+	Angleyne	But--
+	Bender	But?
+	Angleyne	[gasping] But... [They kiss. They pull their heads away and Bender sees his goatee has stuck to her face. She pulls it off.] Huh? Bender! You tricked me.
+	Bender	That's right, baby. I ain't your lover boy, Flexo, the guy you love so much. You even love anybody pretending to be him.
+	Angleyne	Well maybe I love you so much I love you no matter who you're pretending to be.
+	Bender	Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: Kill Flexo. [He punches his knuckles together.] Ow!
+	Angleyne	[screaming] Nooo!
+	Flexo	Thanks, I appreciate that. [He laughs.] Nah, I'm joshing you. That was quite annoying.
+	Bender	You call yourself divorced? You're making a mockery of one of our oldest institutions.
+	Flexo	What?
+	Clamps	Alright, boss, give the word and I'll drop this unbendable girder. Clamp, clamp, ka-bamp!
+	Donbot	Remember, only kill the one with the beard. That other filthy scab we got nothing against.
+	Flexo	That's low!
+	Angleyne	Please stop! I'm not worth it!
+	Bender	Probably not. But I love you and I'm gonna kick his ass till I win you back.
+	Donbot	[from control room] OK, Clamps. Now!
+	Clamps	Ooh, that's gotta clamp!
+	Angleyne	Flexo? Are you OK?
+	Flexo	Yeah, never better. [He coughs up oil.] Nah, I'm yankin' your chain, I'm dying.
+	Angleyne	You can't die. Tonight Bender showed me that I love you.
+	Bender	But, I love you.
+	Angleyne	I know and I care for you too. But I could never love anyone as much as you made me realise I love Flexo.
+	Bender	But ... but... [He sighs.] I love you so much, Angleyne, I want you to be happy no matter what.
+	Angleyne	What, what are you saying?
+	Bender	I'm saying I've got an unbendable girder to bend.
+	Angleyne	You can't bend that girder. It's unbendable!
+	Bender	Well I don't know anything about lifting, so that just leaves us the one option.
+	Flexo	Thanks, buddy. Another year under that and I'd have been a goner.
+	Angleyne	I'll always remember this, Bender.
+	Bender	[crying] Me too. Me too. [talking] Jerk.
+	Leela	So Flexo and Angleyne had sex right there on the factory floor? Well, at least you got bending out of your system.
+	Bender	Yes. I won't be up to bending again for a long, long time.
+	Professor Farnsworth	Perhaps it's your outlook that needs a good bend. A 90-degree bend to a place where happiness is perpendicular to wonderment.
+	Fry	Professor, we're all sick of your upbeat attitude.
+	Amy	I'll say.
+	Zoidberg	Believe it.
+	Professor Farnsworth	Nonsense. It's just like in the song I wrote:(singing) We all need a new angle on life,You gotta bend away all your trouble and your strife,
+	Leela	Bender, you've gotta help us.
+	Bender	I try to get out but they keep pulling me back in.
+	Professor Farnsworth	[singing] You gotta dangle,Have a new angle,Wangle a new dangle on life,
+	Amy	No, Bender! The other way.
+	Bender	I like him better this way.
+	Professor Farnsworth	I'm sad now.
+	Leela	Eh, it's fine.

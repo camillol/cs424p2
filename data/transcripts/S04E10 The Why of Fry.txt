@@ -1,0 +1,231 @@
+	Fry	Delivery boy Philip J. Fry, reporting for duty.
+	Zoidberg	Dr. Zoidberg, soaking in brine.
+	Fry	What is the meaning of this? We've got a delivery, people. Let's move! Let's move! [Amy and Zoidberg hop to it. Zoidberg woops.] Amy? Mission profile? [She hands him a card and he moves it backwards and forwards. The card is a hologram of a stick person handing a parcel to a dragon.] Interesting, interesting. Dr. Zoidberg, mission bag?
+	Zoidberg	Packed and ready, sir.
+	Fry	What's this? This is the same toy surprise I got last time! [He throws it back at Zoidberg.] I can't work under these conditions. And without me there is no mission. I am the mission!
+	Leela	[shouting] We're back from the mission!
+	Fry	Wh-What? You went without me?
+	Bender	[shouting] You were looking up curse words in the dictionary. It seemed like a better use of your time.
+	Fry	But-- But I'm the delivery boy.
+	Leela	Don't worry. Everything went fine.
+	Bender	Better than usual!
+	Leela	We got medals! Good work, team! We really pulled together on this one.
+	Zoidberg	[whispering] They got medals.
+	Fry	I'm real sorry I missed the mission. I wasn't there and you might have needed me.
+	Bender	Nope.
+	Fry	But if I'd been there I--
+	Bender	Nope.
+	Fry	Look--
+	Bender	Nope.
+	Fry	Bender's great--
+	Bender	Nope!
+	Fry	Listen, Leela, let me make it up by taking you out to dinner tonight.
+	Leela	Nope. [She closes her locker door.] I've got a date with Chaz.
+	Fry	Chaz?
+	Leela	I met him at that charity cock fight last week. He's the mayor's aide.
+	Bender	Ooh! You go, mutant girl!
+	Leela	I do go! He's a very important man.
+	Fry	So? I'm just as important as him. [Leela and Bender stare.] It's just that, the kind of importance I have ... it doesn't matter if I [quietly] don't do it.
+	Fry	I'm nobody. There are guys in the background of Mary Worth comics who are more important than me.
+	Bender	Ah, buck up, meatloaf. Bender'll take you out tonight and cheer you up. What do you wanna do? And I mean anything. You have the power! Name it and I'm there. You the man!
+	Fry	Um, OK. Let's go bowling.
+	Bender	Nah.
+	Elzar	Table for two? Step right this way.
+	Chaz	I'm afraid we don't have a reservation but, uh, as you can see ... [He pulls out his badge.] ... I'm the mayor's aide. Table for two, please.
+	Elzar	OK then.
+	Elzar	Bam!
+	Chaz	It's OK, my man. I got you covered on your next health inspection.
+	Elzar	I really appreciate that, mister mayor's aide. [He wipes the cockroach off the bread and puts it down on the table.] Here you go. Compliments of the house.
+	Leela	Wow! Free bread at a restaurant? Is there anything you can't do?
+	Chaz	I can't fail the mayor. Not ever.
+	Fry	Oh, jeez! Better not let Leela see me.
+	Leela	Hey, I hear Fry. [She walks over to him.] Boy, am I glad you're here.
+	Fry	You are? So things aren't working out with whatshisname?
+	Leela	Actually ... they are! Confidentially, I might not make it back to my apartment tonight! Could you walk Nibbler for me?
+	Fry	Um ... uh...
+	Leela	And bring a baggy in case he drops a steamer. [shouting] Have a great night!
+	Fry	Oh, no! Please! No! [The ground shakes as Nibbler drops one.] Perfect!
+	Smitty	Whoa! Smells like a 289 in progress.
+	URL	Failure to scoop. Aw, yeah!
+	Fry	Wait! I'm trying. It weighs as much as a thousand suns.
+	Chaz	[shouting] Don't worry, Fry. I'll pull some strings -- see if I can't get you tried as a juvenile.
+	Leela	Oh, Chaz!
+	Fry	I'm as worthless as this trash can.
+	Trash Can	You think I'm as worthless as you? Try catching garbage in your head and raising six kids, you dumb townie!
+	Fry	Oh, Nibbler, at least I'm important to you. Even if it's only 'cause I clean up you poop.
+	Nibbler	The poop eradication is but one aspect of your importance.
+	Fry	D-D-Did you just talk?
+	Nibbler	Indeed. And I have other amazing powers as well.
+	Fry	Like what?
+	Fry	Are you my mommy?
+	Nibbler	Negative.
+	Fiona	Welcome, Lord Nibbler.
+	Nibbler	Welcome acknowledged. I bring with me ... the Mighty One.
+	Fry	Eh?
+	Ken	At last, our centuries upon centuries of waiting have achieved fruition.
+	Fry	Aw! Aren't you a fuzzy wittle guy?
+	Ken	Stop that! Uh, please. Your Mightiness--
+	Fry	Mightiness? Are you off your nut? I just got kidnapped by a bunch of guinea pigs.
+	Ken	Does he not know?
+	Nibbler	He does not know.
+	Fiona	He knows not?
+	Nibbler	Knows not does he.
+	Nibblonian	Not he know--
+	Ken	Enough! Fry, it is my duty to inform you that the fate of humanity, the fate of our race, indeed the fate of all that exists and ever will exist rests with you. You are the single most important person in the universe.
+	Fry	Oh, snap!
+	Nibbler	On this auspicious occasion, let the horn of eternity cut a thunderous blast.
+	Fiona	The Feast of a Thousand Beasts is begun.
+	Nibblonian	You gonna eat that?
+	Fry	Maybe later.
+	Ken	The time has come to discuss matters of the gravest importance.
+	Nibbler	Fry, do you remember some months ago when the Earth was attacked by flying brains?
+	Fry	Hmm. I remember the square-dancing stomachs. Although that might have been a Mylanta commercial. Wait! The brains! I do remember! But no one else does. They said I was crazy.
+	Ken	On the contrary. You remember because you were the only one immune to the Brains' mental attack.
+	Fry	Because I'm so smart?
+	Ken	Oh, my. Anyway, your immunity is due to the fact that you lack the delta brainwave. [He presses a button and an image of Fry trying to eat a pineapple on a rope comes up on the screen.] It's a genetic abnormality which resulted when you went back in time and performed certain actions which made you your own grandfather.
+	Fry	I did do the nasty in the past-y!
+	Nibbler	Verily. And that past nastification is what shields you from the brains. You are the last hope of the universe.
+	Fry	So I really am important? How I feel when I'm drunk is correct?
+	Ken	Yes. Except the Dave Matthews Band doesn't rock.
+	Ken	For a thousand years, the evil Brains have been constructing the Infosphere, a giant memory bank twice the size of three ordinary memory banks.
+	Fry	What's so evil about that?
+	Fiona	They plan to collect all the information in the universe and store it in the sphere.
+	Fry	So they're trying to learn things?
+	Fiona	Right.
+	Fry	Those bastards!
+	Nibbler	Being Brains, they feel compelled to know everything. And soon they will.
+	Fry	I'm as mad as I've ever been.
+	Ken	Once their task is complete, they will ensure that no new information arises in the only way possible: By destroying the universe.
+	Fry	Now it's personal.
+	Fiona	Your mission is to infiltrate the Infosphere and plant this quantum-interface bomb, blasting them into an alternate universe from which there is no return.
+	Nibbler	Then outrun the blast on this Scooty-Puff Jr.
+	Fry	OK, let's go through this once more--
+	Fry	Brains!
+	Ken	[on screen] Fear not, Mighty One. Your missing brainwave makes you invisible to them, so long as you avoid intense thinking.
+	Fry	Sorry, what? I wasn't paying attention.
+	Ken	[on screen] That is most wise.
+	Fry	Who?
+	Ken	[on screen] In a few seconds, the Brain will finish scanning the last bits of information in the universe.
+	Infosphere	[scanning data] Beavers mate for life; 11 greater than 4; for quality carpets, visit Kaplan's carpet warehouse.
+	Ken	[on screen] Now the Infosphere will open its protective crust so as to scan itself, completing its thousand year task.
+	Fiona	[on screen] This is your one chance to enter the sphere. Scoot! Scoot now!
+	Fry	I'm at the input console. I'm a little nervous and I've got brain in my buttcrack.
+	Nibbler	[on screen] Roger.
+	Ken	[on screen] Once you press the detonator, you will have 60 seconds for an exciting escape.
+	Fry	Hey, wait. This brain knows everything about everything, right?
+	Ken	[on screen] It will soon. That's why you're supposed to be setting off a bomb.
+	Fry	Yeah, yeah. But I can't pass up a chance to learn the answers to the greatest questions of all time. [He speaks into the console.] Is it true that postage stamp glue is made of--
+	The Big Brain	Correct. Toad mucus.
+	Ken	[on screen] There's no time for this. Activate the bomb.
+	Fry	Wait, wait, wait. [He speaks into the console.] What really killed the dinosaurs?
+	The Big Brain	Me!
+	Computer Voice	Unauthorized data access.
+	Fry	Uh-oh!
+	The Big Brain	Detecting trace amounts of mental activity. Possibly a dead weasel or a cartoon viewer.
+	Fry	Ew! Gross. Cut it out!
+	Brain #1	Odd. He is immune to our psionic attack.
+	Brain #2	Impossible! We're an ambitious young squad with everything to prove.
+	The Big Brain	It appears we are in the presence of the fabled one. But without his Scooty-Puff Jr., he cannot escape. [It chuckles. Fry picks up the bomb.] Huh?
+	Brain #2	A quantum-interface bomb? Are you insane in the membrane?
+	Fry	You got it, poindexter!
+	Brain #1	Oh, not good!
+	Computer Voice	Detonation in T-60 Earth seconds.
+	Brain #3	You fool! You'll be transported to the other universe with us. Trapped there for all eternity.
+	Brain #1	And we'll form a tightly-knit clique that you won't be part of!
+	Fry	Well at least I did one important thing with my life: Leading good to victory over evil!
+	Nibbler	[on screen] Yay!
+	Ken	[on screen] Exactly!
+	The Big Brain	The Nibblonians? Good? Ha! During your last moments in this universe perhaps you should query our database concerning the night of December 31st, 1999.
+	Fry	The day I got frozen? What about it?
+	Nibbler	[on screen] No! Don't ask about that! It-It would be, uh ... boring!
+	Fry	Ah, forget it then.
+	The Big Brain	Query!
+	Fry	OK! Sheesh! What happened to me, Philip J. Fry, on the night of December 31st, 1999?
+	The Big Brain	Clarification request: Are you the Philip J. Fry from Earth or the Philip J. Fry from Hovering Squidworld 97A?
+	The Big Brain	Earth, you fat idiot! Hurry up!
+	Fry	[on screen] Hello? Pizza delivery for ... [He reads the note.] ... Icy Wiener? Aw, crud!
+	Fry	Eurgh! I can't believe how fat I look! [On the screen, Fry blows his noise maker and leans back on his chair. Nibbler walks out from underneath the desk.] Aw, Nibbler's there. Wait! What?
+	Fry	[on screen] What the--
+	Fry	I-- I don't understand. You made me go in the freezer tube?
+	Computer Voice	Detonation in T-15 seconds.
+	Fry	You little runts froze me! You took away my life!
+	Nibbler	[on screen] We can explain!
+	Fry	No, you can't. Shut your adorable trap!
+	Nibbler	[on screen] We had no choice. You were the only one who could help us. What is one life weighed against the entire universe?
+	Fry	[crying] But it was my life.
+	Computer Voice	Detonation in two, one. Will the owner of a white Pontiac Firebird-- Oh, never mind. Zero!
+	The Big Brain	Well, here we are. Trapped for eternity.
+	Brain #2	We could sing American Pie.
+	Fry	Go ahead. I deserve it. I wish those stupid racoons had never brought me to the future.
+	The Big Brain	I have shocking data relevant to this conversation.
+	The Big Brain	We don't care, you dope! We're in another universe. You're not in charge anymore.
+	The Big Brain	It is possible for the Philip Fry to resume his life on December 31st, 1999.
+	Fry	Really? I can go back in time?
+	The Big Brain	There is a nexus point between universes at the space-time where you entered the cryogenic tube. You and only you can return there.
+	The Big Brain	Interesting. You could stop the Nibblonian from pushing you into the cryogenic tube.
+	Fry	That is interesting. Why?
+	The Big Brain	It would be as if you never came to the future. You will have your life back and we will succeed in our plan to understand and destroy the universe.
+	Fry	Everybody wins!
+	Brain #2	The human will be returned to the past!
+	Narrator	[voice-over] Meanwhile.
+	Leela	I love rocket skating! But the wait is always so long. Poor Fry once stood in line for six hours just to get me a ticket.
+	Chaz	Six hours? Pft! Sounds like a real nobody! But now it's time for somebody and some chick he's with to go skating.
+	Leela	You reserved the whole rink?
+	Chaz	Yup. Buzzed ahead, let 'em know whose aide was coming by. The mayor's, that's whose.
+	Leela	Oh, Chaz!
+	Sally	Mr. Vogel, I thought we was going skating.
+	Warden Vogel	No, we're not important enough. Everybody just hold hands until the bus driver comes back from his haircut.
+	Leela	Aw, let's let those kids skate with us.
+	Chaz	What? Seriously? I'm trying to impress you with my clout here.
+	Leela	I know, and it's working. But think how much skating would mean to those kids.
+	Nina	We came here instead of eating today.
+	Leela	This may be their only chance to skate in their whole lives. Who are we to say they can't?
+	Chaz	The mayor's aide, and his badge. [shouting] Beat it, kids! Come back when you got connections!
+	Warden Vogel	Alright, little ones, back to the orphanarium. You can slide around the gym in your socks.
+	Sally	What socks?
+	Chaz	So am I gonna get lucky tonight or what?
+	Fry	I hope your calculations are correct.
+	The Big Brain	Our calculations are always correct. For we are gigantic brains.
+	Brain #2	Initiate space-time transfer.
+	Nibbler	I hereby place an order for one cheese pizza.
+	Mr. Panucci	[on phone] One pie, nothing good on it. Name?
+	Nibbler	I-period-C-period-Wiener.
+	Mr. Panucci	[on phone] Uh, talk a little louder. It sounds like you got some kind of tiny head on you or something.
+	Fry	Hello? Pizza delivery for, uh ... Icy Wiener? Aw, crud!
+	Fry	Gotcha!
+	Nibbler	I don't understand.
+	Fry	Yes, you do! You came back in time to knock me into that freezer and now I came back in time to stop you.
+	Nibbler	I did not come back in time. My people lack that ability.
+	Fry	But ... I know you in the future. I-I cleaned your poop.
+	Nibbler	Quite possible. We live long and are celebrated poopers. You will meet me when I'm a thousand years older.
+	Fry	Not if you don't freeze me.
+	Nibbler	Please. Our saviours foresee that in a thousand years, for one moment, the fate of the universe will depend on you. Since you will not live that long I must freeze you now.
+	Fry	Well, why couldn't you just ask me?
+	Nibbler	We were afraid you would refuse.
+	Fry	Of course not. I love the future.
+	Nibbler	Then why are you choking me right now?
+	Fry	Because I don't like being used.
+	Nibbler	Well now it's your choice. Is there nothing in the future worth saving?
+	Fry	Hm. Leela. But she doesn't think much of me.
+	Nibbler	Ah, she must be The Other.
+	Fry	What?
+	Nibbler	You must not give up on her. I am stationed on a distant world known as Vergon 6. But, if you return to the future, I will transfer to Earth to give you what help I can.
+	Crowd	[chanting; from outside] Ten, nine, eight, seven...
+	Fry	You really think I would have had a chance with Leela?
+	Nibbler	You must choose: The present or the future? To save yourself or to save Leela.
+	Crowd	[chanting; from outside] One.
+	Fry	Yes! Here I come, future! Oh, no! Wait! I'm gonna get trapped in the Infosphere again! Just remember that Scooty-Puff Jr. sucks.
+	Nibbler	In a thousand years, I'll get right on it.
+	Narrator	[voice-over] And so, a thousand years later, Fry once again infiltrated the Infosphere and set off his amazing bomb. Only this time...
+	Nibbler	Thank you for saving the universe, Fry. [He picks a flower and hands it to Fry.] Here.
+	Fry	Whoa, thanks! If you ever need a saviour again, just ask.
+	Nibbler	Oh, we will. We will.
+	Fry	Man, I can't wait to tell everyone what happened.
+	Nibbler	Uh, yes. Incidentally, I need to remain undercover so I'm blanking your memory.
+	Fry	Huh. Did everything just taste purple for a second? Oh, well. Let's go home, you dumb poop machine.
+	Leela	Bender, would you do the honours?
+	Bender	With gusto.
+	Fry	Hey, Leela. I guess I got this for you.
+	Leela	Oh. Thank you. You know what, Fry? I don't care if you're not the most important person in the universe. It really makes me happy to see you right now.
+	Fry	Then I am the most important person in the universe.
+	Fry	[over credits] Yes!

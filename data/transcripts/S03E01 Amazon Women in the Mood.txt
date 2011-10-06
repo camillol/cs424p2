@@ -1,0 +1,237 @@
+	Hermes	People, we got a problem: Little Nibbler's been coughing up hairballs.
+	Leela	Well, so has Fry. What's the big deal?
+	Fry	He's got me beat!
+	Hermes	Now we all love Nibbler, so it's only fair that we all pitch in and clean it up together. Still, I propose we make Zoidberg do it. All in favour?
+	Leela	Yeah!
+	Bender	Alright, yup.
+	Hermes	All opposed? [No one raises their hand.] All abstaining?
+	Leela	Dr. Zoidberg? Are you OK?
+	Fry	He's dead.
+	Bender	What?
+	Amy	Oh, no!
+	Professor Farnsworth	He always seemed so full of life; laughing, singing, begging for scraps. And now this.
+	Zoidberg	Why with all the crying? [He looks across the room.] So that's where I left my shell.
+	Leela	I didn't know you could take this thing off.
+	Zoidberg	It was starting to get a little cramped in there so I molted, why not? Ah, the fresh air feels good!
+	Professor Farnsworth	Stop doing that!
+	Zoidberg	So long. I'm off to toss this old shell in the dumpster and maybe pick up those potato chips Amy didn't finish yesterday.
+	Amy	Those were toenail clippings.
+	Zoidberg	A feast is a feast.
+	Amy	Hey, that's my cellphone!
+	Amy	Hello? [The sound of heavy breathing and gasping comes from the other end.] Hello? Who is this? [The breathing and gasping continues.] Hello? Hello?
+	Leela	What's wrong? Did you swallow your phone again?
+	Amy	Some guy's been calling and hanging up 10 times a day for a year.
+	Leela	Men who call too much are the worst ... I bet.
+	Amy	I just wish a decent guy would call me instead of this spleeze-ball who has me too terrified to even answer the phone. [The phone rings again and she picks it up without hesitation.] Hello?
+	Amy	[on phone] Hello? Is anyone there?
+	Kif	I love you. [He sighs and looks at his wall. It is covered with pictures of Amy and a newspaper clipping of the Titanic disaster. Underneath the headline "Titanic Survivors" is a photo of him carrying Amy towards the escape pod. He picks up the phone again and tries to dial but puts the receiver down and huddles over himself on his bed.] Why must I be such a coward?
+	Zapp	Kif, I'm headed to the men's room and I'll be needing an attendant, so-- Oh, I'm sorry. You're crying like a woman. [Kif stops crying.] It's alright. I've always thought myself as a father figure to some of my more pathetic men. Kif, old friend, let's rap.
+	Kif	Well, I'm in love with this girl--
+	Zapp	[laughing] Oh, that's rich! [talking] Go on.
+	Kif	I met her a year ago...
+	Kif	[voice-over] ...when we were escaping from that cruise ship you piloted directly into a black hole.
+	Zapp	[voice-over; proud] Yes! It was in all the papers.
+	Amy	Call me.
+	Zapp	Uh-huh, uh-huh. Mm-hmm, uh-huh.
+	Kif	I've finished talking, sir.
+	Zapp	Belay that remark! [He looks at the newspaper clipping.] Your Amy knows my Leela? I have formed an idea!
+	Zapp	I'm calling to negotiate a double date. You and me, Kif and Amy.
+	Leela	[on screen] Forget it.
+	Zapp	[on screen] Then let the negotiations begin. I propose we go out on 10 dates.
+	Leela	How about zero?
+	Zapp	[on screen] Nine.
+	Leela	Zero.
+	Zapp	Seven.
+	Leela	Zero.
+	Zapp	[on screen] Eight?
+	Amy	[whispering] Please, Leela? Kif's like the sweetest guy who's ever liked me.
+	Zapp	[on screen] Five, and that's my final offer ... four.
+	Leela	One.
+	Zapp	[on screen] Two.
+	Leela	One half.
+	Zapp	I'll take it.
+	Zapp	[on screen] We'll meet you tonight for part of dinner and the first half of a movie.
+	Kif	Um, sir? I don't go out on many dates and, um, what if I can't think of anything to say?
+	Zapp	Here's my personal book of pickup lines. [He hands Kif a small black book.] Say as many of them as you can as fast as you can. Don't stop for any reason.
+	Kif	Maybe I'll just give her these flowers.
+	Zapp	Wrong, wrong, wrong! And what's that? Candy? Candy's for dorks! Give me that. [He takes the box and walks away, eating the candy.] Mmm!
+	Zapp	Hello, beautiful. I got these for you.
+	Leela	Thanks.
+	Zapp	Well, well. This looks to be one disturbingly erotic date.
+	Leela	Half-date.
+	Zapp	Waiter, bring us a bottle of wine.
+	Leela	Half-bottle.
+	Zapp	And some oysters on the half-shell.
+	Leela	Quarter-shell.
+	Kif	Oh, and I'd like--
+	Zapp	Kif's not hungry. [quietly] Kif, this place is expensive. [talking] I'd like two steaks and the ladies will have some very sensual salads -- with low-cal sensual dressing.
+	Morbo	[singing] Oh, won't you take me to funkytown,Oh, won't you take me to funkytown.[The song ends and the audience applauds.](talking) Thank you.
+	Amy	Kif, you're so quiet. You haven't said a word all night.
+	Kif	Well, um, um ... hello.
+	Amy	'Cause I was really hoping we could talk and stuff.
+	Kif	Amy, [reading] if I said you had a beautiful body would you take your pants off and dance around a little?
+	Amy	What?
+	Leela	Lieutenant Kroker!
+	Kif	[reading] I find the most erotic part of the woman is the boobies
+	Amy	Kif!
+	Kif	Oh, my!
+	Leela	This half-date is entirely over. Amy? Conference!
+	Kif	Is there nothing we can do, sir?
+	Zapp	There's only one sure-fire way back into a woman's heart and parts beyond. I speak, of course, of karaoke.
+	Kif	[determined] My years in the DOOP Boys' Chorus will not have been in vain!
+	Leela	Alright, enough lipstick. Let's storm out.
+	Kif	[singing] Once upon a time I was falling in love,But now I'm only falling apart...
+	Amy	Oh, that's so emotional!
+	Kif	[singing] There's nothing I can do,A total eclipse of the heart--
+	Zapp	Amateur hour's over. [He sits down.] Let me show you why they call me "The Velour Fog"! Hit it![The jukebox changes to some different music. Zapp smokes a cigarette and starts singing The Kinks' Lola.](spoken-word) I met her in a club down in old Soho,Where you drink champagne and it tastes just like Coca-Cola,C-O-L-A ... Cola.
+	Man	Aw, give us a break!
+	Woman	Get off!
+	Chef	He sickens me!
+	Zapp	[spoken-word] She walked up to me and she asked me to dance,I asked her her name and in a dark brown voice she said,(singing) Leela!L-E-E-L-A, Leela!Lee-Lee-Lee-Lee-Leela!Ba-ba-ba-dum-ba-dum-bum![People get out of their seats and run around screaming.]Leela!
+	Leela	We're going home. Call us a space taxi.
+	Zapp	No need. There's not a restaurant built I can't fly. Where to, ladies?
+	Kif	Please, sir. Let's just divide up the check and--
+	Zapp	Let's see what this eatery can do.
+	Zapp	Ah, she's built like a steakhouse, but she handles like a bistro. [The restaurant shakes.] She's out of control!
+	Zapp	[from inside] You win again, gravity!
+	Zoidberg	Look what arrived: My new shell catalogue. So let's try some on, already! [He puts the catalogue on the coffee table and it opens up like a laptop. It emits a holographic stereotypical Mexican shell onto his body.] Ah! Muy macho! Hey, gringos, here comes El Zoido to ruin your drinking water!
+	Bender	Whoa, whoa, whoa! I'm Mexican and I find that offensive.
+	Zoidberg	You Latins are so hot-blooded! [He changes the shell and the new one looks like the outfit worn by the cop from The Village People.] This one's like a summer guy!
+	Hermes	Look, you fat fish, the Planet Express health plan only covers one kind of replacement shell.
+	Fry	I can't believe Leela and Amy aren't back yet from their half-date. I'm gonna call the restaurant.
+	Operator	[on phone] The number you have dialled has crashed into a planet. Please make a note of it.
+	Fry	We gotta go rescue them!
+	Bender	Eh, I don't know.
+	Fry	Bender! Think of the señoritas!
+	Bender	Vámonos!
+	Kif	So, Amy, um, well--
+	Amy	It's always a line with you!
+	Leela	What planet is this anyway?
+	Zapp	[mumbling] I 'unno. [talking] This whole sector is uncharted.
+	Kif	It is not uncharted, you lost the chart!
+	Zapp	Well, nothing to do now but repopulate the human race. [He turns to Leela.] Just me and you! [He leans over to Amy.] [whispering] And maybe you.
+	Amy	What is it?
+	Kug	Me hear people, but me not see people.
+	Thog	No big deal. Everybody make mistake.
+	Zapp	Well, hello! I usually don't say this but you are the most beautiful trio of gigantic ladies I've ever laid eyes on. [The Amazonians growl. Zapp picks up his book.] [reading] I find the most erotic part of a woman is the boo--
+	Fry	Oh, no! Any sign of Leela or Amy?
+	Bender	No. But what do you make of this?
+	Fry	I don't know. But it might have something to do with this.
+	Bender	Oh, your God!
+	Kug	Move! Go!
+	Fry	Alright, here's the plan--
+	Bender	What kind of moronic plan is that? [They look up. The grass they were hidden in is part of a grass skirt that an Amazonian is wearing.] Wow!
+	Thog	Women go free. Men stay in chains.
+	Ornik	We take them to our leader. She know what do.
+	Fry	Pft. A female leader?
+	Leela	Fry, shut up.
+	Fry	[saluting] Yes, Captain!
+	Thog	This capital city planet Amazonia.
+	Leela	Where are all the men in your society?
+	Ornik	Men die out many year ago.
+	Bender	With all these women around they were probably nagged to death. Are you with me, fellas?
+	Thog	Here stadium, where our women basketball teams play.
+	Kug	We no can dunk, but good fundamentals.
+	Ornik	That more fun to watch.
+	Zapp	[laughing] Oh, God, you're killing me! [He is beaten around the head.] Ow! God, you're killing me!
+	Thog	This our comedy club. Humour here funny in different way.
+	Ornik	It not reinforce stereotypes.
+	Kug	Comedy come from character, real situations. Not abstract craziness.
+	Bender	Translation: Boring! [He, Zapp and Fry burst into laughter.] [laughing] That's a good one! [He literally gets his head bashed in.] Ow!
+	Amy	This women-only planet is sounding better and better.
+	Leela	I'm already looking for apartments.
+	Thog	Here live vengeful, all-knowing leader. She decide men's fate.
+	Fry	Is she hot?
+	Thog	That not important. She all-knowing.
+	Fry	In other words, "No". [Thog kicks him in the face and he falls over.] Ow!
+	Thog	[chanting] All hail Femputer.
+	Kug	and [chanting] All hail Femputer.
+	Amy	You all obey a big computer?
+	Kug	Yes. It appear mysteriously just about time men die out.
+	Leela	So why did you make it your leader?
+	Ornik	It seemed like different kind of politician.
+	Kug	Not beltway insider.
+	Thog	Femputer, we bring offering of bath beads and scented soaps.
+	Femputer	Your gift pleases Femputer. Femputer demands to know why there are men on her planet.
+	Fry	It was an accident, ma'am.
+	Femputer	That does not fempute. Femputer will return after deciding your punishment.
+	Fry	Leela, I'm through making fun of women. Now I want them to help me.
+	Amy	Should we do something?
+	Leela	There's no hurry.
+	Zapp	Yes! A little tighter. [She pulls it tighter.] Tighter. Perhaps a hard spanking is in order? [She punches him in the ass and he groans.] Too hard!
+	Kug	Men strange. You have them on your planet?
+	Leela	[ashamed] I'm afraid so.
+	Kug	What they for? [Amy whispers something in her ear.] Oh, you mean "snu-snu".
+	Thog	We hear tell men used for snu-snu. But all we have go on are ancient legend and subscription to Cosmo.
+	Zapp	Just FYI, I could be used for snu-snu.
+	Thog	Silence. You want die like last men visit Amazonia?
+	Fry	What'd they die of?
+	Kug	Crushed pelvises.
+	Fry	Yes!
+	Zapp	Oh, thank you, Lord in heaven!
+	Femputer	After lengthy femputations, I, Femputer, have decided the fate of the men. Femputer sentences them to death. [The prisoners, Amy and Leela gasp.] By snu-snu!
+	Fry	[cheering] Yay!
+	Zapp	[cheering] Yeah! [Kif whimpers and Zapp turns around to him.] [talking] What are you, gay?
+	Femputer	Death to the men. Death by snu-snu.
+	Fry	Although the snu-snu part's gonna be pretty good.
+	Zapp	Baby, it'll blow your mind.
+	Leela	Femputer, be reasonable. Sure men are annoying and they wreck up whatever planet they're in charge of, but most of these men are sorta my friends. They don't deserve to die.
+	Femputer	Hmm. Perhaps men are not as evil as Femputer thinks.
+	Thog	But they make fun women's basketball.
+	Femputer	What? Did you explain how the women's good fundamentals make up for their inability to dunk?
+	Ornik	Yes. They still laugh.
+	Femputer	The men must die.
+	Bender	Too true, Femputer. You're so wise. Kill 'em all, I say. Good riddance! Did I mention I'm not a man? I'm a manbot. It's an understandable mistake. You can let me down now, thanks.
+	Kug	He big jerk like man.
+	Bender	I sure am. But check the crotch. [He bangs it.] Nothing.
+	Femputer	Very well, release him. As for the others, take them to the snu-snu chambers.
+	Bender	[crying] I'll miss you, meatbag.
+	Leela	Me too, meatbag.
+	Fry	Goodbye, friends. I never thought I would die like this. But I'd always really hoped.
+	Femputer	[on loudspeaker] The Amazonians will be divided into three groups. The one called "Zapp" will be snu-snu'd by the large women. He that is designated "Fry" will be snu-snu'd by the petite women. And Kif, as the most attractive male, will be snu-snu'd by the most beautiful women of Amazonia. Then the large women. Then the petite women. Then the large women again. [Kif gasps.] Initiate snu-snu!
+	Amazonians	[chanting] Snu-snu, snu-snu, snu-snu!
+	Kif	Amy, before I die, I have to tell you: I didn't mean to say those awful things on our date. They were all Zapp's idea.
+	Amy	Really? Honest and true?
+	Kif	Yes. And-And that person calling and hanging up was me. I was just too nervous to say hello because I love you.
+	Amy	Oh, Kif!
+	Thog	It Thog's first time. [She picks him up by his legs.] Be gentle!
+	Leela	We've got to do something. Bender, maybe you can interface with the Femputer and reprogram it to let them go.
+	Bender	Maybe you can interface with my ass. By biting it! [Amy grabs his arm and curses in Chinese.] Alright, I'll go!
+	Fry	[from inside] Ooh! Yeah!
+	Zapp	[from inside] Oh, baby!
+	Guard #1	How Tonk look?
+	Guard #2	Tonk look good. Me fat.
+	Guard #1	No, you look good. Tonk fat.
+	Femputer	Intruder! Stay away from the mighty Femputer! Guards!
+	Bender	Time to override the CPU and reprogram this Femputer.
+	Femputer	Hey, whoa, whoa! Stop it! Stop it! Hey, cut that out!
+	Fembot	Cease hitting Femputer!
+	Bender	You're no Femputer, you're a Fembot!
+	Fembot	[ashamed] It's true. I disguised myself as a Femputer so I could rule the Amazonians.
+	Bender	But why?
+	Fembot	Why? Why? I came here from a faraway planet. A planet ruled by a chauvinistic Manputer that was really a Manbot. Have you any idea how it feels to be a Fembot living in a Manbot's Manputer's world?
+	Bender	What?
+	Fembot	And now, my meddling Manbot, there's the question of what to do with you!
+	Zapp	[gasping] We need rest. The spirit is willing but the flesh is spongy and bruised.
+	Ornik	It time snu-snu!
+	Fry	Can't we just cuddle? [She scoops him up.] [screaming] Nooo!
+	Leela	We can't wait for Bender. It's time for a woman's touch. [She kicks and punches the Amazonians.] Yah! Hi-yah! Yah, yah, yah!
+	Amy	[disguised, deeper voice] Me next snu-snu. Out me way.
+	Thog	Where go beautiful man? [Kif clings to ceiling and whimpers. Thog looks up and sees him.] Me want snu-snu!
+	Amy	Kif! Jump!
+	Kif	My hero!
+	Thog	[shouting] Me not get snu-snu! Get him!
+	Thog	Mighty Femputer. Small girl steal green kissy man. We kill her now?
+	Fembot	[from inside] Come back later. Leave me alone.
+	Bender	[from inside] Yeah, get lost! [They giggle. Inside, the Fembot and Bender sit on her bed kissing. Bender holds the microphone and makes spooky noises.] [spookily] Ooh! I'm a scary Femputer. Release the prisoners! [Outside, the Amazonians look confused.] [from inside] And bring gold. Lots of gold.
+	Thog	Gold? Why Femputer want gold?
+	Fembot	[from inside] You heard the man.
+	Bender	[from inside] C'mon! Gimme some of that!
+	Zoidberg	And that's how I got my new shell. It looks just like the shell I threw out yesterday and I found it in the same dumpster, but this one had a live raccoon inside. [He slurps.] Pretty good story, eh, Hermes?
+	Hermes	Stick to someone else, you windy barnacle!
+	Leela	It's funny how the battle of the sexes was only resolved when a Manbot and a Fembot realised they loved each other.
+	Bender	Yeah. By the way, if she calls, I'm not here. All I know is this gold says that was the best mission ever!
+	Amy	It sure was.
+	Fry	Oh, yeah!
+	Zapp	I had snu-snu!
+	Kif	So, um, Amy, w-what do you wanna do now?

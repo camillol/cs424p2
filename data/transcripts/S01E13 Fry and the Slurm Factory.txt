@@ -1,0 +1,220 @@
+	Calculon	[on TV] Honey unit, I'm home. [He gasps.] Monique!
+	Monique	[on TV] Calculon!
+	Calculon	[on TV] Oh, how I wish I could believe that. You may be my evil half-brother, but there's no law against murdering the other half.
+	Announcer #1	[voice-over; on TV] All My Circuits will be right back after this word from...
+	Announcer #2	[voice-over; on TV] Slurm! It's highly addictive!
+	Trixie	[on TV] Look! It's Slurms MacKenzie!
+	Dixie	[on TV] He's the original party worm!
+	Slurms	[on TV] Whimmy-wham-wham-wazzle! Let's party!
+	Bender	Look at that worm go. Who says there are no more heroes?
+	Slurms	[on TV] Hey, dudes, you can win a chance to party with me, Slurms MacKenzie, at the Slurm bottling plant on planet Wormulon!
+	Announcer #2	[voice-over; on TV] Just look for the winning bottle-cap inside specially-marked cans of Slurm.
+	Trixie	I won!
+	Announcer #2	[fast voice-over; on TV] No purchase necessary unless you wish to enter the contest. Odds of winning mathematically insignificant.
+	Fry	I like those odds. [Something rattles around in his can and he gasps. He empties it onto his hand. It's a tooth.] Rats. Just another tooth.
+	Fry	I gotta find that golden bottle-cap.
+	Leela	I've never seen anyone so addicted to Slurm.
+	Fry	This is nothing. Back in high school I used to drink a hundred cans of cola a week. Right up until my third heart attack.
+	Leela	Bender, what's wrong?
+	Bender	I'm sick.
+	Leela	You poor baby. Let me check if you have a fever. [She puts the back of her hand against his head and it sizzles. She pulls it away quickly.] Ow!
+	Professor Farnsworth	According to Bender's temperature gauge, which I suggest you use next time, Leela, he's running a fever of ... 900 degrees.
+	Hermes	Bender, mon, lie yourself down. [Bender lies on the couch and it bursts into flames. It burns away and leaves nothing but ash. Bender falls to the floor.] You're payin' for that!
+	Zoidberg	I'll have a look, but I remind you, I'm an expert on humans not robots.
+	Fry	I'm not Bender, I'm Fry.
+	Zoidberg	Really? I though you were the robot.
+	Fry	Nope. Human.
+	Zoidberg	Alright, alright, spare me your life story. [He turns to Bender.] Now what seems to be the trouble?
+	Bender	My tummy hurts and I've been having this burning electrical discharge.
+	Zoidberg	Hmm. Don't worry, you'll be fine. [He turns to the rest of the staff.] [muttering] Oh boy. [quietly] I didn't have the heart to tell him: It's fin fungus. He'll be floating upside-down by morning.
+	Amy	You should try homeopathic medicine, Bender. Take some zinc.
+	Bender	I'm 40% zinc.
+	Amy	Then take some Echinacea or a St. John's wort.
+	Professor Farnsworth	Or a big fat placebo. It's all the same crap.
+	Leela	Hey, what's rattling around in there?
+	Professor Farnsworth	It may well be the cause of Bender's illness. But more importantly, it's a flimsy pretext to try out my latest invention. To the laboratory!
+	Professor Farnsworth	I call this the F-ray. It's like an X-ray only it allows you to see through anything, even metal. Now, the neutrino beam it emits is a tad dangerous, so you'll all need protective goggles. [Amy, Hermes, Fry and Leela put on some goggles and gasp when they see Farnsworth putting on a full-body radiation suit. He picks up the F-ray and turns to Bender.] You may feel a slight stinging sensation -- all of you! [The crew look shocked and Farnsworth turns on the F-ray and shines it on Bender's casing. He adjusts it and the beam lights up Bender's inner workings. Farnsworth points the beam at Bender's head showing his CPU number, 6502, then he points it at his arms, feet and back to his body. A watch has jammed Bender's workings.] Aha! There's the cause of your illness.
+	Amy	Hey, that's my watch!
+	Bender	I was wondering where I put that. [He puts his hand down his throat and hands Amy her watch through his door. He turns from the reddish colour back to his normal blue-grey colour.] Hey, now I feel much better! Thanks, Professor. And, Amy, I'm sorry I took your watch.
+	Professor Farnsworth	Well, I've got to go take this suit to the decontaminators. You two lock up the F-ray and for the love of God don't let it fall into the wrong hands.
+	Bender	What should we point it at first?
+	Fry	I 'unno. Try it on me. [Bender turns it on and points it at Fry's crotch. Fry doubles over in pain.] Ow! My sperm!
+	Bender	Wow, neat! Mind if I try that again?
+	Fry	Huh, didn't hurt that time.
+	Bender	Whoa, mama! Hold still, sexy lady.
+	Fry	What's wrong?
+	Bender	That's no lady!
+	"Fembot"	Damn Chico! One more upgrade and I'll be more lady than you can handle! Why you so stupid, stupid?
+	Bender	Hey, bite my shiny metal ass!
+	"Fembot"	You couldn't afford it, honey.
+	Fry	All this prolonged exposure to radiation is making me thirsty. [He sees a stack of Slurm cans in the corner. Next to them is a life-sized cardboard stand-up of Slurms MacKenzie and the babes. A speech bubble comes from Slurms' mouth with "Win A Party With Me" written on it. Fry picks up a can.] Ah, if only there was some way of knowing which can had the winning bottle-cap inside.
+	Bender	Huh, w-what? I didn't hear you. I was too busy using this F-ray to look inside of things.
+	Fry	Wait a second. I'm getting an idea. N-No, false alarm. No. Yeah. No. Yeah. No. Wait. No. Yeah. Yeah. No ... no. Yes!
+	Bender	Ah, this thing stinks.
+	Fry	We checked 90,000 cans of Slurm and all we won was this junk. [He points behind him to a cart full of Slurm merchandise including Slurm coats, a cooler of Slurm cans, eight Slurm blernsball caps, a Slurm motorbike and a Slurm jet-ski.] I never wanna see another can of Slurm again. Man, am I thirsty.
+	Leela	Fry, are you alright?
+	Bender	You did it, Fry! You found the winning bottle-cap! We won!
+	Fry	[wheezy] Hooray!
+	Leela	Ooh, look at that!
+	Bender	Hey!
+	Glurmo	Welcome to the planet Wormulon. I'm Glurmo, your golly-rific guide to the splend-tacular Slurm factory.
+	Fry	Uh-huh. Can we have our free Slurm now?
+	Glurmo	You'll have all the Slurm you can drink later on when you're partying with my good friend, Slurms MacKenzie.
+	Slurms	Alright! Whimmy-wham-wham-wazzle! Lay some skin on me, dudes!
+	Bender	Wow! The original party worm! [Fry wipes the slime off on his trousers. Bender dances.] Are you ready to get down, get funky with us?
+	Glurmo	He'd better be, that's what we pay him for. Right, Slurms?
+	Slurms	Right!
+	Glurmo	In fact, Slurms has to party all night, every night, or he's fired!
+	Slurms	[tired] Rock on!
+	Glurmo	But before the party, you're all in for a fun-derful treat: A VIP tour of the Slurm factory!
+	Slurms	Enjoy the tour, dudes! [The leave and he droops over.] I'm gonna go lie down.
+	Glurmo	Welcome, my friends, to the wondrous world of whimsy that we like to call "Slurms Centralised Industrial Fabrication Unit".
+	Professor Farnsworth	Oh, my!
+	Bender	Look! Flowers! And a boat!
+	Professor Farnsworth	Who are those horrible orange creatures over there?
+	Glurmo	Why, those are the Grunka Lunkas. They work here in the Slurm factory.
+	Professor Farnsworth	Tell them I hate them.
+	Glurmo	As we sail down the river of Slurm you'll see our mix-ologists at work. [He points to some Grunka Lunkas stirring cauldrons of yellow-orange stuff.] They take 900 of the finest ingredients, add a touch of child-like delight and mix it all with glacial spring water from our glacial spring water generator. [He points to a Grunka Lunka pumping water into a bucket from two containers labelled "H2" and "O".] Then, last of all, we add the secret ingredient that makes Slurm so deliciously addictive.
+	Fry	So, what's the secret ingredient?
+	Glurmo	It's whatever your imagination wants it to be.
+	Fry	Oh. But what is it really?
+	Glurmo	[sternly] That's not for you to know. [normal] Now, over here the Grunka Lunkas are inducing Wumpus berries to release their flavour, using sensual massage.
+	Bender	[whispering] Psst, those berries. Those are the secret ingredient, right?
+	Glurmo	No.
+	Bender	You positive?
+	Glurmo	Yes.
+	Bender	I'm just asking cause they look kind of secret.
+	Glurmo	Enough! There will be no further questions.
+	Fry	Why?
+	Leela	Hey, look! The disgusting little men are starting to sing.
+	Grunka Lunkas	[singing] Grunka Lunka dunkity-do,We've got a friendly warning for you,Grunka Lunka dunkity-dasis,The secret of Slurm's on a need-to-know basis.
+	Grunka Lunka #1	[singing] Asking questions in school is a great way to learn.
+	Grunka Lunka #2	[singing] If you try that stuff here you might get your legs broke.
+	Grunka Lunka #1	[singing] We once found a dead guy face down in the Slurm.
+	Grunka Lunka #2	[singing] It could easily happen again to you folks.
+	Grunka Lunkas	[singing] So keep you head down,And keep your mouth shut,Grunka Lunka lunka dunkity dot!
+	Glurmo	[shouting] Hey, I don't pay you to sing! You just used up today's bathroom break!
+	Grunka Lunka #2	Hard ass.
+	Glurmo	[from boat] I heard that!
+	Glurmo	Now, on your right, you'll see the Slurm Master checking the Slurm for colour and bouquet.
+	Fry	So thirsty.
+	Glurmo	Then he tastes it. He tastes it and tastes it, then tastes it some more.
+	Fry	Uh, could I have some Slurm, please?
+	Glurmo	No food or drink allowed on the tour. You'll have to wait until you're partying with Slurms MacKenzie.
+	Fry	When will that be?
+	Glurmo	Soon enough.
+	Fry	That's not soon enough.
+	Leela	Hey, what's behind that door?
+	Glurmo	Nothing.
+	Leela	Is it the secret ingredient?
+	Grunka Lunkas	[singing] Grunka Lunka dunkity dingredient,You should not ask about the secret ingredient.
+	Bender	OK, OK, we get the point.
+	Leela	I was just curious because of the armed guards.
+	Grunka Lunkas	[singing] Grunka Lunka dunkity darmed guards--
+	Bender	[shouting] Shut the hell up!
+	Hermes	So you're telling me I could fire my whole staff and hire Grunka Lunkas at half the cost?
+	Glurmo	That's right. They think they have a good union but they don't. [whispering] They're basically slaves.
+	Leela	What are you doing?
+	Fry	I'm dying of thirst. Grab my feet and dunk my head in so I can drink.
+	Leela	No. That's moronic.
+	Fry	Fine. I'll let go and swim around in the Slurm and drink as much as I want. [He laughs and tumbles in. He waves his arms around.] Help! I can't swim!
+	Leela	Bender, why did you jump in?
+	Bender	Everybody was doing it. I just wanted to be popular.
+	Bender	Ow!
+	Leela	Where are we?
+	Bender	And why is the Slurm pouring into this sewer?
+	Fry	This isn't Slurm at all!
+	Leela	Something's rotten on the planet Wormulon. Look at this.
+	Leela	This all must have something to do with the secret ingredient.
+	Fry	My God. What if the secret ingredient ... is people?
+	Leela	No. There's already a soda like that: Soylent Cola.
+	Fry	Oh. How is it?
+	Leela	It varies from person to person.
+	Professor Farnsworth	Ooh!
+	Zoidberg	Do you have any that aren't so tight around the thorax?
+	Glurmo	Yes, over in-- Say, weren't there more people in your group at the start of the tour?
+	Amy	Hey, yeah. Fry, Leela and Bender are missing.
+	Glurmo	If you'll excuse me.
+	Leela	[whispering] Quick.
+	Fry	Look! Slurm! Finally! [He points at a conveyor belt with cans of Slurm on it. He walks over, picks up a can and drinks from it.] Oh, yeah! I'm never going 12 minutes without a Slurm again.
+	Leela	It's the end of the line. This must be where they put in the secret ingredient.
+	Fry	Well, whatever it is, it's even better fresh. [He takes another swig.] Mmm, still warm.
+	Fry	Ew!
+	Leela	Blech!
+	Bender	Oh, Lordy!
+	Leela	Fry! [Fry realises what he is doing and spits the Slurm out and breathes a sigh of relief. Then he drinks some more.] Fry!
+	Fry	That's the secret ingredient of Slurm?
+	Leela	That's the only ingredient of Slurm.
+	Fry	Ew!
+	Bender	I'll save us! [He extends his arms and legs over the ravine and Fry and Leela run across him.] Oh, that feels good!
+	Fry	Thanks, Bender!
+	Leela	[pointing] The exit! We made it.
+	Bender	Uh, Your Majesty, I brought the prisoners.
+	Glurmo	Well, my curious friends, you learned the secret of Slurm. That concludes the portion of the tour where you stay alive.
+	Leela	You wish, you slimy worm! Hi-yah!
+	Slurm Queen	Good work, Glurmo. You have pleased your queen.
+	Glurmo	Thank you, Your Majesty.
+	Glurmo	Thanks, ma'am.
+	Leela	How can you trick people into drinking something that comes out of your behind? It's disgusting.
+	Slurm Queen	Is it? Honey comes from a bee's behind. Milk comes from a cow's behind. And have you ever used toothpaste?
+	Fry	Whose behind does that come from?
+	Slurm Queen	You don't wanna know.
+	Bender	Look, we just came to party with Slurms MacKenzie. By the way, when is that scheduled?
+	Slurm Queen	[shouting] Never! [Bender groans.] To the torture cave!
+	Slurm Queen	You, my metal friend, will have the honour of becoming 174 Slurm cans.
+	Bender	Ah, this trip is turning into a big letdown.
+	Slurm Queen	As for you, you will be submerged in Royal Slurm which, in a matter of minutes, will transform you into a Slurm Queen like myself.
+	Glurmo	But, Your Highness, she's a commoner. Her Slurm will taste foul.
+	Slurm Queen	Yes! Which is why we'll market it as New Slurm. Then, when everyone hates it, we'll bring back Slurm Classic, and make billions!
+	Fry	What about me?
+	Slurm Queen	You are free to go.
+	Fry	Yes!
+	Slurm Queen	If you can resist this concentrated super Slurm! [The Glurmos grab him and sit him in a chair in front of a tub. The Slurm Queen fills the tub with a dark green slime.] It's so delicious, you'll eat until you explode! Oh, which reminds me, put a tarp over that sofa, will you? Bon appétit!
+	Fry	Mmm!
+	Slurm Queen	Farewell! Oh, and congratulations again on winning the contest.
+	Leela	Fry, untie us, quick!
+	Fry	Here I come. [He sees the tub of Slurm.] Let me just-- One more taste.
+	Leela	You pig. Stop stuffing your craw and save us.
+	Bender	I can't see what's happening. Are we boned?
+	Leela	Yeah, we're boned.
+	Fry	I can't stop eating this delicious ooze. But I'm not gonna let you die.
+	Leela	Hurry!
+	Bender	What's happening? [Fry uses his foot to flick the lever up and the machine lifts Leela out of the vat. She runs over to the can machine and stops it. Fry wipes his brow and Bender breathes a sigh of relief.] Just in time!
+	Fry	[screaming] Nooo! [He sticks his head between the grate and tries to lick up the Slurm.] [talking] I could fit if I didn't have these damn arms!
+	Leela	We're close to the exit. I can smell those filthy orange guys.
+	Slurms	Stop right there!
+	Bender	Slurms MacKenzie?
+	Slurms	Shh! I want you to take me with you.
+	Fry	Say what?
+	Slurms	I'm partied out. All I want is to stay home and rent videos and watch them with a few friends. Is that so much to ask?
+	Bender	Forget it, pal. [He holds up the "You Win!" cap.] It says on this bottle-cap you have to party with us.
+	Slurms	Alright, when we get to Earth. But please don't invite too many people, I wanna keep it small.
+	Bender	No can do, Slurms!
+	Slurms	This way!
+	Leela	She's gaining on us.
+	Slurms	Go on without me, I'll hold her off.
+	Fry	But she'll crush you like a worm ... crushing a smaller worm.
+	Slurms	It's alright. I'm so tired of partying. So very tired. [He takes his shades off revealing his bloodshot eyes underneath.] I'll save you the only way I know how: By partying! [Dixie turns on Slurms' music and he starts to dance.] Babes.
+	Dixie	Yes, Mr. MacKenzie?
+	Slurms	You've served me well these 40 years, but this time I've got to party alone.
+	Trixie	But--
+	Slurms	There'll be other parties for you. Now go. Go!
+	Bender	Party on, Slurms!
+	Slurms	Party on, contest winners. Party on.
+	Slurm Queen	No! We're ruined! They know our disgusting secret!
+	Professor Farnsworth	Commissioner, my crew has made a horrific discovery: It seems that Slurm is produced in a colossal worm hiney!
+	Commissioner	[on screen] Hmm, "hiney", you say? Why, with your testimony we'll finally be able to outlaw this insidious Slurm.
+	Fry	Outlaw Slurm? [He looks at a can and runs between Farnsworth and the screen.] Uh, don't pay any attention to him, sir...
+	Fry	[on screen] Grandpa's making up crazy stories again.
+	Professor Farnsworth	[on screen] I'm not your grandpa, you're my uncle! From the year 2000!
+	Commissioner	[patronising; on screen] OK, grandpa, we'll take care of the "bad worms", don't you worry.
+	Fry	Ah, I just wish Slurms MacKenzie were here to enjoy this with me.
+	Bender	Yeah, that Slurms sure loved to party. Whattya say we all party one last time for him?
+	Leela	For Slurms!
+	Amy	[simultaneous] For Slurms!
+	Bender	[simultaneous] For Slurms!
+	Professor Farnsworth	[simultaneous] For Slurms!
+	Fry	[simultaneous] For Slurms!
+	Zoidberg	[simultaneous] Whammy-wazzle!
+	Bender	Hey, that's not that bad.
+	Fry	Mmm!

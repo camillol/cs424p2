@@ -1,0 +1,231 @@
+	Announcer	[voice-over] Futurama is brought to you by ... [The oval retreats the right side of the screen and is replaced by a man with enormous teeth.] ... Thompson's Teeth: The only teeth strong enough to eat other teeth.
+	Professor Farnsworth	Good news, everyone! Today marks our dear friend Dr. Zoidberg's 10th year with Planet Express. Huzzahs are in order.
+	Fry	[unenthusiastic] Huzzah!
+	Leela	[unenthusiastic] Huzzah!
+	Amy	[unenthusiastic] Huzzah!
+	Zoidberg	Hooray for me! Hooray for Zoidberg!
+	Hermes	I will now read the mandatory speech. [He opens a book called "Minimum Obligations Manual".] [reading] Dear employee. Has it really been five, 10 or 15 years? If not, please disregard this and get back to work. Distribute token of appreciation and applaud.
+	Zoidberg	Look! Coupons! I can get two oil changes for the price of one! Now if I could only afford the one ... and the car. Ah, the years! So many memories, so many strange fluids gushing out of patients' bodies--
+	Hermes	Yes, yes. Now here's your pension statement. [He hands Zoidberg a piece of paper. Zoidberg reads it. He has accumulated a grand total of $0.00.] It's empty because you haven't paid into it, you dumb stinkbug!
+	Zoidberg	You kept track of it all these years!
+	Fry	Oh, no, I'm boned! I haven't paid into the pension either. What'll I do when I retire?
+	Bender	I thought you were retired.
+	Fry	Hey, I don't see you planning for your old age.
+	Bender	I got plans. I'm gonna turn my on/off switch to "off".
+	Fry	Well I'm gonna take action. It's time to check on my retirement fund. [He takes a $100 bill out of his sock.] Damn! Still only $100.
+	Franklin	[on bill] A penny saved is a penny earned. Also, could you get some athlete's foot cream for my face?
+	Fry	He's right! I've gotta start investing wisely.
+	Fry	Well, I'm down to my last lottery ticket. [He scratches a panel on the "Whiff-n-Win" ticket.] Cherry. [Another panel.] Cherry! [The last one.] Mule. Crud!
+	Bender	So, you got six bucks left to retire on. I recommend Tender Vittles.
+	Teller	You're opening a retirement account for $6? I'm sure a wealthy ... [She sniffs.] ... mule farmer like yourself is aware that we charge a $10 monthly fee.
+	Fry	[shrugging] You gotta spend money to make money.
+	Teller	Here you are, sir. Your account is now overdrawn by $4.
+	Robot	Gee, I've seen lines move faster in a sperm bank.
+	Bender	That's for sure-- [He turns around.] Roberto! Is that you?
+	Roberto	Bender! Hey, man!
+	Bender	You old lunatic! How you been?
+	Roberto	Not bad, not bad. [He pulls out a knife.] Everybody on the floor! This is a stick-up!
+	Bender	Yeah, I'm doing OK too. [The teller hands Roberto several bags of money.] I'm taking a Chinese cooking class at the Learning Annex.
+	Roberto	Cool. Ca-Can you give me a hand here?
+	Bender	Sure thing, pal.
+	Roberto	Hey, you! Red! [He cuts the top off the plant.] Quit watering that plant and get the door!
+	Bender	Well, nice talking to you.
+	Roberto	Same here. [He takes the money from Bender and puts his arms around their shoulders.] You guys are alright! Here's something for your trouble.
+	Bender	Hey, thanks, buddy!
+	Smitty	Freeze, punks! You're under arrest!
+	Richard Nixon	[on $1000 bill] Shoot them in the back! Quick! While they're not looking!
+	Bailiff	Court is in session. The Honourable Judge Whitey presiding.
+	Whitey	The charge is bank robbery. Now, my caddie chauffeur informs me that a bank is a place where people put money that isn't properly invested. Therefore, robbing a bank is tantamount to that most heinous of crimes, theft of money.
+	Hyper-Chicken	As the surveillance camera for the bank what all the judge was a-jawing about, could y'all tell us what you done seen the day of the crime?
+	Camera	Well, let's see. My memory's a little fuzzy, but it went exactly like this:
+	Hyper-Chicken	Your Honour, I move that I be disbarred for introducing this evidence against my own clients.
+	Hyper-Chicken	Mr. Fry, do you recognise the robot a-huggin' on you in this here hologram?
+	Fry	I sure do! That's the real robber and I'll never forget his name as long as I live. And that name is--
+	Leela	[shouting] Fry! Just give a name. You don't wanna look stupid on Court TV!
+	Fry	You're right. You're right. It was--
+	Whitey	Yes? What? You say if I testify I'll be killed? Oh. It's for you.
+	Roberto	[on phone] ...and the other hamburger will...
+	Roberto	...also be made of your lungs. So long, pal.
+	Fry	I refuse to testify on the grounds that my organs will be chopped up into a patté.
+	Whitey	Ah, the 67th Amendment.
+	Hyper-Chicken	I may be a simple country Hyper-Chicken but I know when we're finger-licked. Whattya say we plead insanity?
+	Bender	A few months in an insane asylum? I could do that standing on my head.
+	Hyper-Chicken	If you start now, it might help our case.
+	Whitey	Counselor, what evidence do you offer to support this new plea of insanity?
+	Hyper-Chicken	Well, for one, they done hired me to represent them.
+	Whitey	Insanity plea is accepted. Mr. Bender, I hereby commit you to the asylum for criminally insane robots until such time as you are deemed cured.
+	Bender	Yahoo! The system fails again!
+	Whitey	And, Mr. Fry, I sentence you to the home for criminally insane humans.
+	Bailiff	Your Honour, that facility has been full ever since you ruled that being poor is a mental illness.
+	Whitey	[banging gavel] Order! Order! The only poor people I want to hear about are the people who tend to my pores at the spa. Just send them both to the robot loony bin and let's go.
+	Fry	[from box] Ow! My head! Ow! My feet! Ow! My head! Ow! My feet!
+	Professor Farnsworth	Keep your chin up!
+	Fry	[from box] Ow! My chin!
+	Fry	I don't belong here, Bender. This is an asylum for insane robots!
+	Bender	Well, you meet half the qualifications.
+	Fry	Oh, good, a physical! Once they examine my fragile, naked, pink body, they'll see I'm not a--
+	Fry	What the--
+	Bender	[shouting] I find that offensive!
+	Dr. Perceptron	Greetings. I am Dr. Perceptron. Let me give you something to help you relax.
+	Fry	Look! There's been a terrible mistake. I'm a human being. See? [He lifts up his gown and grabs his belly.] I'm all squishy and flabby. Also, I complain a lot.
+	Dr. Perceptron	Yes, you do. You need to relax more. [He gives Fry another shock.] Terrific. Now, consider the following: You were admitted to this robot asylum. Therefore, you must be a robot. Diagnosis complete.
+	Fry	I do other human stuff! I age! See?
+	Nurse Ratchet	I'm Nurse Ratchet. Please come with me, won't you?
+	Nurse Ratchet	We'll meet your roommate next, shall we? His name is Malfunctioning Eddie.
+	Fry	The car dealer? Wow! I guess his prices really were insane.
+	Nurse Ratchet	He's very excitable. [She takes the straight jacket off him and presses the open button on the door.] So don't say anything to excite him.
+	Malfunctioning Eddie	Pleased to meet you.
+	Fry	[shaking his hand] Actually, we've met once before.
+	Malfunctioning Eddie	What?
+	Hairbot	I'm a pretty girl. I'm a pretty girl. I'm a pretty girl.
+	Bender	Whoa! Someone had a busy day.
+	Fry	My roommate exploded. Oh, you gotta help me, Bender. How can I prove I'm human?
+	Bender	You could drop dead. That'd show 'em.
+	Fry	I don't wanna!
+	Unit 2013	Hey, man. I believe you're a human.
+	Fry	You do?
+	Unit 2013	Sure. They don't believe I'm a human either. Name's Unit 2013. C'mon. Lemme introduce you around. [He takes Fry to a robot.] Fry, meet Norm. How's it going, pal? Still picking up transmissions from the CIA on your teeth?
+	Norm	They just won't stop!
+	Woman	[on radio] The CIA cafeteria menu for the week of May 15th is as follows: Monday, shepherd's pie. Tu--
+	Unit 2013	[making "cuckoo" gesture] Cuckoo!
+	Fry	Let me guess, he thinks he's Lincoln?
+	Unit 2013	Well, he's supposed to. Problem is he's got multiple personalities -- all of them Lincoln.
+	Lincolnbot	I was born in 200 log cabins.
+	Unit 2013	And this here is Frankie. He's convinced he's a lunchroom worker, so they put him to work in the lunchroom. [patronising] How is work in the lunchroom, Frankie?
+	Frankie	[shrugging] It's alright.
+	Unit 2013	Poor Frankie!
+	Mad Hatterbot	Change places!
+	Fry	Bender, I can't take much more of this! I want outta here!
+	Bender	Are you crazy? This place is great! Electroshock whenever you want it, two Lincolns for every Napoleon. [He sips some oil.] Ah! Sweet light crude!
+	Fry	But I'm not a robot like you. I don't like having discs crammed into me. Unless they're Oreos -- and then only in the mouth! Don't you understand? I'm gonna die here!
+	Bender	Ah, quit your bellyaching and take it like a robot.
+	Mad Hatterbot	Change places!
+	Victor	The doctor says you are making great strides with your exploding problem.
+	Malfunctioning Eddie	Well, the way I see it--
+	Fry	You gotta get me out of here. I would have starved to death if not for that sick vending machine robot. [The Pay 'n' Chew robot coughs and a Bachelor Bar falls onto the floor.] Gimme! Gimme!
+	Hermes	Poor Fry! He's got the munchies for freedom!
+	Leela	We're all trying to help you. We've petitioned the governor but he doesn't want to appear soft on people who've been falsely imprisoned.
+	Fry	At least I have friends on the outside. Bender's been no help at all.
+	Bender	Je suis Napoleon! [He laughs.] No, seriously, I'm not.
+	Amy	Bender! You should be more ashamed of yourself than usual.
+	Bender	Ah, lighten up, honey. I'm just trying to get through a difficult time using humour.
+	Nurse Ratchet	Visiting hours are over. Time for our medication disks.
+	Fry	[shouting] Help me! For God's sake, help me!
+	Professor Farnsworth	Oh, don't worry, Fry. I too once spent a nightmare-ish time in a robot asylum. But now it's nearly over. So long.
+	Fry	[sleep-talking] Thirty days hath September, April, June and ... wonder ... is that peanut butter ... what am I gonna do? [He hears a whirring outside and wakes up.] [talking] Oh, God! What? What? What is it now?
+	Dr. Perceptron	You are being released.
+	Fry	Finally! Sweet justice! Sweet, juicy justice!
+	Dr. Perceptron	Not you. Him.
+	Malfunctioning Eddie	Me? What a surprise. [Fry flinches. There is a tiny explosion on Eddie's shoulder.] Look!
+	Malfunctioning Eddie	I barely exploded at all.
+	Dr. Perceptron	We can control that with medication.
+	Nurse Ratchet	Fry? Are we ready to meet our new roommate?
+	Roberto	Hi, Red!
+	Fry	Roberto! W-W-W-What are you doing here?
+	Roberto	I got busted robbing that bank again.
+	Fry	[shaking] Why would you hold up the same bank twice?
+	Roberto	Ah, that first time was just to case the joint and rob it a little. [He sees Fry shaking.] What's the matter? You scared?
+	Fry	N-- N-- N--
+	Roberto	Noticeably? I'll say! Now stand back, I gotta practise my stabbing.
+	Fry	No! Please! Help! Stop it! Please!
+	Bender	[shouting; from cell] Hey! Keep it down in there! I'm tuning my banjo!
+	Roberto	Jeez, Red. Quit cowering. You call yourself a robot?
+	Fry	I'm not a robot! [shouting] I'm not a robot!
+	Dr. Perceptron	In answer to your question, Hermes, yes, your friend is cured.
+	Hermes	Oh!
+	Professor Farnsworth	What a relief!
+	Leela	Thank God!
+	Dr. Perceptron	You'll notice he no longer suffers delusions of humanity.
+	Fry	[mechanical voice] Affirmative. I feel nothing. I am a robot. Beep, beep, beep ...
+	Leela	You've made a terrible mistake. He's a human being, not a machine. Oh, Fry!
+	Bender	[singing] Gonna sing a little tale about a battle called Waterloo. [talking] Bonjour, y'all!
+	Zoidberg	Listen to me, Fry. Just because you think you're a robot, doesn't make you a robot. After all, I think I'm a doctor but that doesn't make me a doctor. These fancy clothes do!
+	Fry	[mechanical voice] Negative. I must be a robot. Why else would human women refuse to date me?
+	Leela	Oh, lots of reasons.
+	Fry	[mechanical voice] Bio-units, terminate noise exchange. It is time for you to ingest sandwiches from my compartment.
+	Bender	Here we go. Just a minute. Aha!
+	Commentator	[on radio] And down the stretch, it's Daddy's Little Grandpa, followed by Perennial Loser, and bringing up the rear, it's Lasty!
+	Bender	Come on, Lasty!
+	Roberto	Hey, Bender.
+	Bender	Roberto! Ooh, what a surprise to see you in here! Especially 'cause I didn't squeal on you, remember? Remember all that squealing I didn't do? Remember? Do you?
+	Roberto	Yeah, yeah. Now lie down and play dead. And don't ham it up!
+	Bender	Uh, sure. [He jumps on. Roberto covers his body with a sheet.] Anything for you, buddy.
+	Roberto	Wait here, Bender. I need to get a disguise.
+	Bender	Uh, what's with the get-up?
+	Roberto	I'm in disguise 'cause I'm thinking of escaping. You in? Or do I gotta kill you so you don't squeal?
+	Bender	I'm in! I'm in! [He laughs nervously.] So when were you planning the breakout?
+	Roberto	I'm thinking maybe a few seconds ago.
+	Bender	Quick! Let's keep escaping!
+	Hermes	Times two, carry the one...
+	Fry	Oh, you sad, worthless human.
+	Hermes	What are ya-- Sacred hog of Prague! That was my anniversary gift to LaBarbara!
+	Fry	Fear not! For I shall assist ye!
+	Hermes	Robots don't say "ye"!
+	Fry	Relax, mammal. My robotic software shall meet your calculatory needs. [He looks at the paperwork.] What is the meaning of this symbol?
+	Hermes	That's a plus sign, you pointy-haired loony! Quit thinking you're a robot!
+	Fry	I'll show ye!
+	Fry	Stand back. I'm a tool-bot.
+	Leela	You're not a tool-bot. You're not a food-motron. You're not a robot of any kind.
+	Fry	Yes, I am. I simply haven't discovered my primary function yet.
+	Leela	OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can.
+	Professor Farnsworth	You're going to do his laundry?
+	Leela	[sexfully] Fry, this is for you.
+	Fry	Beep.
+	Leela	Oh, for God's sake!
+	Zoidberg	By a scallop's forelocks! What's with all the beer, Fry?
+	Fry	[drunk] Alcohol fuels my power cells. [He stands up.] And as a mighty robot, I-- [He burps and falls back onto the couch, tipping it over backwards.] Beep.
+	Roberto	Thanks for helping me escape, Bender.
+	Bender	Oh, it was nothing.
+	Roberto	[shouting] It was not nothing! [talking] I wanna repay you. Let me get you something in here.
+	Roberto	[shouting] Hands up! This is a stick-up again!
+	Bender	Wow! Hitting the same place three times? I admire your style, Roberto.
+	Roberto	Gimme the remaining dough. And the calendars ... and that pen. Try to tear it so most of the beads are on my end!
+	URL	Police! You're busted!
+	Smitty	And don't try anything. This glass here is laser-proof. [Roberto puts his arm through the glass and waves his knife around.] Fire lasers! [They do and the laser bolts bounce off the glass.] Duck! Lasers!
+	Bender	Come on! I got a place where I like to hide after crimes.
+	Amy	Aw! He looks like a little insane drunken angel.
+	Bender	[panting] Hey, everybody. Meet my good pal, Roberto.
+	Hermes	Hey, mon.
+	Roberto	Nice to meet you.
+	Smitty	[on megaphone; from outside] Come out with your hands up.
+	Roberto	[shouting] Hostages!
+	Roberto	Back off! I got hostages!
+	Zoidberg	Hooray! I'm helping!
+	Smitty	[on megaphone] Do you have any better hostages?
+	Roberto	To show them who's crazy, I'm gonna execute some of you. How 'bout you?
+	Professor Farnsworth	Ouch! That's going to bleed when my heart beats.
+	Leela	Wait! Take me first!
+	Bender	Yes! Take her first.
+	Roberto	Shut up! Stop telling me how to do this!
+	Zoidberg	Oh, the fear!
+	Roberto	I'm thinking of a number between one and ten. Guess it and you die first. Go!
+	Bender	Um ... OK. Fifty ... six ... ish?
+	Roberto	56? 56? Oh, man! Now that's all I can think about! I'm gonna kill you, you ... no good ... 56-ing--
+	Bender	Don't kill me yet! I'm starting to come down with Stockholm Syndrome ... handsome!
+	Fry	Halt, fellow robot!
+	Roberto	Hey, Red. You're just in time to join the hostage situation. Which side you wanna be on?
+	Fry	The side that kicks your twisted, metal ass!
+	Leela	Fry! Stay back. He's too powerful.
+	Fry	Negative, bossy meat creature. I know now what my primary function is: I am a battle-droid. Sworn to protect the weak from crazy robots.
+	Roberto	I'm not crazy! Don't call me crazy! I'm just not user-friendly!
+	Hermes	Fry! Don't be a hero! It's not covered by the health plan!
+	Roberto	Let's see how much of a robot you really are!
+	Fry	No knife can penetrate my skin-tanium armour.
+	Roberto	Help! Help! He is a battle-droid! Somebody help me! Mommy! I'm sorry I spilled the transmission fluid, Mommy! No! No! Don't weld me to the wall, Mommy!
+	Smitty	[on megaphone] We're willing to listen to your demands.
+	URL	Hey, baby. Wash that off before you put it back.
+	Hermes	Who's brave now?
+	Amy	Hooray!
+	Zoidberg	Bravo!
+	Leela	You did it, Fry.
+	Bender	Congratulations, buddy. You're a credit to my race.
+	Fry	[mechanical voice] It was nothing. I-- [He sees his bleeding arm and screams. His wipes some onto his finger and looks at it.] [normal] Blood? Robots don't have blood. I must be a, a--
+	Zoidberg	A squid?
+	Fry	A human! Oh, my God! I'm a human!
+	Zoidberg	Also good.
+	Leela	Thanks for saving us, Fry.
+	Fry	I'm gonna continue never washing this cheek again.
+	Bender	Buddy, you may be wrapped in greasy skin, but inside, you've got the heart of a robot.
+	Fry	Aw. Thanks, Bender.
+	Bender	Just like inside me, I've got the heart of a human. [He takes one out and everyone gasps and cringes.] What?
+	Bender	[over credits] What?

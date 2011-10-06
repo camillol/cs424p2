@@ -1,0 +1,224 @@
+	Narrator	[voice-over; on TV] You're entering a realm which is unusual. Maybe it's magic or contains some kind of monster. The second one. Prepare to enter ... The Scary Door. [The scene on TV shows a man coming out of the casino.] Please send a man round back and pick up Clyde Smith, a professional gambler who's about to have an unfortunate accident.
+	Smith	[on TV] A casino where I'm winning? That car musta killed me. I must be in heaven! [He plays again and wins again.] A casino where I always win? That's boring. I must really be ... in hell!
+	Sebastian Cabot	[on TV] No, Mr. Smith. You're not in heaven or hell. You're on an aeroplane.
+	Smith	[on TV] There's a gremlin destroying the plane! You've gotta believe me!
+	Sebastian Cabot	[on TV] Why should I believe you? You're Hitler!
+	Smith	[on TV] No! [He turns to the seat next to him.] Eva Braun! Help me!
+	Bender	Saw it comin'!
+	Fry	I just saw something incredibly cool: A big, floating ball that lit up with every colour in the rainbow, plus some new ones that were so beautiful I fell to my knees and cried.
+	Amy	Was it out in front of Discount Shoe Outlet?
+	Fry	Yeah.
+	Amy	They have a college kid wear that to attract customers.
+	Fry	Well I don't care if it was some dork in a costume. For one brief moment I felt the heartbeat of creation, and it was one with my own.
+	Amy	Big deal!
+	Bender	We all feel like that all the time. You don't hear us gassin' on about it.
+	Fry	How can you people be so blasé? Here you are in the year 3000 or so, yet you just sit around like it's the boring time I came from.
+	Professor Farnsworth	Boring? Wasn't that the period when they cracked the human genome and boy bands roamed the Earth?
+	Fry	Yeah. But now it's the distant future. Why aren't we out doing everything I ever dreamed of?
+	Leela	Hey, you know what might be a hoot?
+	Professor Farnsworth	No. Why would I know that?
+	Leela	Let's take the rest of the morning off and take Fry to do everything he ever wanted to do.
+	Fry	[sexfully] Everything?
+	Leela	Except that.
+	Sal	Sos your fantasies has always been to destroys a planet, huh?
+	Fry	Yeah, what did they ever do for me?
+	Leela	Wow! The most humdrum activities look almost exciting through your eyes. What should we do next?
+	Fry	I wanna see the edge of the universe!
+	Amy	Ooh! That sounds cool.
+	Zoidberg	It's funny. You live in the universe, but you never do these things till someone comes to visit.
+	Professor Farnsworth	[from ship] There it is! The edge of the universe!
+	Fry	Far out! So there's an infinite number of parallel universes?
+	Professor Farnsworth	No, just the two.
+	Fry	Oh, well, I'm sure that's enough.
+	Bender	I'm sick of parallel Bender lording his cowboy hat over me! Let's move on to Fry's next fantasy.
+	Fry	[shouting] Yee-haw! Bow before your master, puny mortals! [He hoots.] Giddy-up!
+	Girl	Mommy, why is that man like that?
+	Mother	Don't look at him!
+	Fry	That was fun. Let's give him a treat!
+	Leela	Keep your palms flat.
+	Fry	The tongue tickles.
+	Fry	These new hands are great. I'm gonna break 'em in tonight.
+	Professor Farnsworth	Yes, it's been quite an hour and a half.
+	Fry	I've only got two fantasies left: Be invisible in a chocolate factory and be romantically linked with a celebrity.
+	Bender	I could pound your head till you think that's what happened.
+	Fry	OK.
+	Leela	Wait, hold on. It is actually possible to meet any celebrity you want.
+	Fry	It is?
+	Leela	Of course! You should read a blimp sometime.
+	Fry	[reading] Download a celebrity from the Internet? What part of that do I understand?
+	Leela	It's simple. You can download a celebrity's personality and appearance into a blank robot.
+	Fry	Hey, I have an idea. Let's do that!
+	Professor Farnsworth	Onto the Internet you go!
+	Bender	Oh, and while you're there, pick me up a few credit card numbers.
+	Trekkie #1	No way! Kirk could kick Picard's ass!
+	Trekkie #2	Yeah? At least Picard had the guts to admit he was bald!
+	Trekkie #1	What? You take that back!
+	Fry	Ooh! eBay!
+	Auctioneer	Are there no further bids for this exquisite galaxy? [He bangs his gavel.] Sold to The Being of Inconceivable Horror.
+	The Being of Inconceivable Horror	Will a money order be OK?
+	Auctioneer	Yes.
+	Fry	So where's the celebrity dating place?
+	Leela	Let's search the web. [They both look around. Leela points.] Over there.
+	Salesman	Welcome to Nappster. Let's see what celebrities we've got in stock. [An image of a celebrity appears in front of him.] Can I interest you in Gwyneth Paltrow?
+	Fry	Nah. I read in Newsweek that she drinks human blood.
+	Salesman	Then, uh, how about Cleopatra, whose beauty destroyed mighty empires.
+	Fry	I'd prefer someone from the era of shaved underarms. Do you have anything with more of a Lucy-Liu-feel to it?
+	Salesman	Nah, nothing like that. Though we do have Lucy Liu. [Fry gasps.] Only woman ever to be named People magazine's woman of the year twice. In 2003, and then again in 2063.
+	Fry	I'd like the 2003 model.
+	Fry	I've found her! What do I do now?
+	Professor Farnsworth	Download her. Let's just put a blank robot in the drive.
+	Fry	It worked!
+	Liubot	You're one sexy man, [mechanical voice] Philip J. Fry.
+	Fry	[muffled] It worked perfectly!
+	Leela	Well, you downloaded Lucy Liu. Are you just going to stare vacantly at her and not say anything?
+	Liubot	I find your slack-jawed stare very attractive, [mechanical voice] Philip J. Fry.
+	Fry	Did you hear that? She likes me!
+	Professor Farnsworth	Well, duh! She's programmed to like you!
+	Fry	But this is Lucy Liu! Perhaps the only good actress of the 21st century! She's more than just a piece of software.
+	Liubot	Would you like to take a moment to register me?
+	Fry	Uh, not right now.
+	Liubot	I'll remind you later, you hot stud, you!
+	Fry	So, uh, what do you feel like doing?
+	Liubot	Would you like to take a moment to register me?
+	Fry	I said later!
+	Fry	Then when I feel so stuffed I can't eat anymore, I just use the restroom, and then I can eat more.
+	Liubot	You should write a book, Fry. People need to know about the [mechanical voice] can eat more.
+	Fry	Oh, Lucy! You're just like I always thought you'd be from your movies.
+	Liubot	My personality is mathematically derived from my movies, proportionally weighted by box office receipts.
+	Fry	You're cute!
+	Liubot	You're cute!
+	Fry	You!
+	Liubot	You!
+	Fry	You!
+	Liubot	You!
+	Fry	You!
+	Professor Farnsworth	Oh, dear! She's stuck in an infinite loop and he's an idiot. Well, that's love for you.
+	Bender	Humans dating robots is sick. You people wonder why I'm still single? It's 'cause all the fine robot sisters are dating humans!
+	Leela	Bender, this is Fry's decision ... and he made it wrong. So it's time for us to interfere in his life.
+	Leela	She doesn't really love you. She can't. She's just a machine that--
+	Bender	[shaking his fist] Stay away from our women! You got metal fever, boy! Metal fever!
+	Fry	Well, so what if I love a robot? It's not hurting anybody.
+	Hermes	My God! He never took middle school hygiene. He never saw the propaganda film.
+	Professor Farnsworth	It's just lucky I keep a copy in the VCR at all times.
+	Narrator	[in movie] Ordinary human dating. It's enjoyable and it serves an important purpose. [He turns the table over and a crying baby appears. He turns it back again.] But when a human dates an artificial mate, there is no purpose. Only enjoyment. And that leads to ... tragedy.
+	Billy	[in movie] Neat-o! A Marilyn Monroe-bot!
+	Monroe-bot	[in movie] Ooh! You're a real dreamboat, [mechanical voice] Billy Everyteen.
+	Narrator	[in movie] Harmless fun? Let's see what happens next.
+	Billy's Mom	[in movie] Billy, do you want to walk your dog?
+	Billy	[in movie] No thanks, Mom. I'd rather make out with my Monroe-bot.
+	Billy's Dad	[in movie] Billy, do want to get a paper route and earn some extra cash?
+	Billy	[in movie] No thanks, Dad. I'd rather make out with my Monroe-bot.
+	Mavis	[in movie] Billy, do you want to come over tonight? We can make out together.
+	Billy	[in movie] Gee, Mavis, your house is across the street. That's an awfully long way to go for making out.
+	Narrator	[in movie] Did you notice what went wrong in that scene? Ordinarily, Billy would work hard to make money from his paper route. Then he'd use the money to buy dinner for Mavis, thus earning the slim chance to perform the reproductive act. But in a world where teens can date robots, why should he bother? Why should anyone bother? Let's take a look at Billy's planet a year later. [The scene changes and a foam hand rolls across an empty football field.] Where are all the football stars? [The foam hand drifts across an empty laboratory.] And where are the biochemists? [The scene changes to a split screen of human and robot couples making out on beds.] They're trapped! Trapped in a soft, vice-like grip of robot lips. All civilisation was just an effort to impress the opposite sex ... and sometimes the same sex. Now, let's skip forward 80 years into the future. Where is Billy?
+	Billy	[in movie] Farewell!
+	Narrator	[in movie] The next day, Billy's planet was destroyed by aliens. [A fleet of flying saucers destroy buildings with laser shots.] Have you guessed the name of Billy's planet? It was Earth. Don't date robots!
+	Announcer	[voice-over; in movie] Brought to you by the Space Pope.
+	Leela	Did that make any impression on you, Fry? Fry?
+	Liubot	Ooh!
+	Professor Farnsworth	I knew I should have shown him Electro Gonorrhoea: The Noisy Killer.
+	Bender	What is the world coming to? That Fry's a sicko poivert, I tell you. Dating a robot! It's an atrosmacy!
+	Leela	But Fry's our friend, Bender.
+	Bender	Aw, jeez, would you stifle there, meatbag?
+	Leela	You stifle, Bender.
+	Zoidberg	Hooray! Finally you're standing up to him.
+	Leela	Although he is completely right.
+	Bender	We've got to stem this tidal wave of moral decay. It's time to shut down nappster.com!
+	Bender	Who's in charge of this dump?
+	Jeff Jervis	[standing up] That'd be me. If you're an investor you can dump your money in the hole there.
+	Bender	Listen, you fat Internet nerd.
+	Jeff Jervis	Listening.
+	Bender	Your company promotes wrong love! If you don't shut down right now the only thing wired about you will be your jaw!
+	Jeff Jervis	Y-You can't shut us down. The Internet is about the free exchange and sale of other people's ideas. We've done nothing wrong.
+	Liu	[shouting; from room] Help! I'm being held prisoner!
+	Zoidberg	Someone in trouble is!
+	Jeff Jervis	No, stay out! There's a ... guy going for the Tetris world record in there!
+	Kidman	Who are you?
+	Cheech	Don't hurt us!
+	Liu	Help me! They've been holding me prisoner for 800 years.
+	Zoidberg	The real Lucy Liu! The one you can see a movie of in the popcorn stadium.
+	Bender	So what's your problem?
+	Liu	Those sweaty nerds are making illegal copies of us. [Someone downloads a copy of her and she fizzles and screams.] [crying] It hurts!
+	Jeff Jervis	[from outside] Open this door! Don't make me call the maintenance guy.
+	Bender	It's a bluff!
+	Leela	We can't take that chance. Move, people, move!
+	Michael	Please pick me up before you go-go.
+	Leela	She asked first.
+	Nerd	Um, are you Lucy Liu?
+	Albright-bot	Sure!
+	Jeff Jervis	Oh, we're doomed. They got the head, they uncovered the sign! Soon the whole world will learn we're cyber-criminals. And we would have gotten away with it if it weren't for those meddling adults.
+	Man	We'll stop them. They like Lucy Liu, we'll give them all the Lucy Liu they can handle! Hand me that back-up disk.
+	Zoidberg	Did you see me escaping? I was all like--
+	Liu	Thanks for rescuing me. Especially you, Bender. [sexfully] Mmm. Quite a masculine piece of metal, aren't you?
+	Bender	Hey! Don't look at me like that. If you're thinking of crossing the line with Bender, you can forget it. Bender don't bend that way.
+	Leela	Hey, look. It's another Lucy Liubot.
+	Liubot #2	[mechanical voice] I am Lucy Liu. Give me your spines.
+	Zoidberg	Hey, what the--
+	Liubot #2	[mechanical voice] Take this and that and one of these.
+	Liu	Hey! Cut it out! I don't need this kind of publicity!
+	Leela	Alright, Liu. Time to kick your frosty, well-toned ass! Yah!
+	Bender	Then along came Bender.
+	Zoidberg	Looks like you're retaining water.
+	Liu	That was incredible, Bender. You're like Jackie Chan before he got all doughy.
+	Bender	Oh, shucks! I wasn't afraid of that robot. I'm pretty brave once you get past my macho exterior! [He screams. A crowd of Liubots march towards them.] It's an army of Lucy Lius!
+	Liu	They're horrible!
+	Liubots	[mechanical voices] Take this and that and one of these.
+	Liubot #3	[mechanical voice] Robot crouching tiger.
+	Liubot #4	[mechanical voice] Robot crane style!
+	Zapp	Now that's a wave of destruction that's easy on the eyes!
+	Liubot #5	[mechanical voice] Hi-yah.
+	Fry	This is the best movie I've ever seen. It has a vampire and an explosion!
+	Liubot	It's amazing the way you [mechanical voice] notice two things.
+	Alex	[in movie] No, don't open that coffin! It's ticking!
+	Natalie	[in movie] I have to, Alex. That coffin's not going to open itself.
+	Vampire	[in movie] Bleurh!
+	Liu	Let's hide in here. It'll add to my box office gross.
+	Leela	Fry?
+	Fry	Aw, you guys came to watch me make out! That is so sweet. [He notices Liu and gasps.] Wait a minute! Is that the head of who I think it's of?
+	Liu	Read the jar, Evelyn Wood! Dr. Z?
+	Leela	Fry, a herd of Lucy Liu are destroying the city. Is yours acting normally?
+	Fry	Let me see. [He kisses her.] Yep. Why do you ask?
+	Alex	[in movie] Mr. Mayor, if you want to see a real vampire, look in the mirror!
+	Mayor	[in movie] I can't! I'm a vampire!
+	Zoidberg	Why?
+	Leela	And Nappster says illegal copies never hurt anybody.
+	Fry	[shouting] Quick! This way!
+	Fry	Sorry, ladies. Employees only.
+	Leela	Oh, no. They're forming a human pyramid ... of robots.
+	Bender	Damnit! We weren't counting on them being as smart as they are sexy!
+	Liu	A dangerous mistake to make.
+	Zoidberg	At least we've got food.
+	Leela	Dr. Zoidberg, cut open that bag!
+	Zoidberg	Hooray!
+	Leela	And don't eat it.
+	Liubot #2	[mechanical voice] Ow!
+	Liubot #3	[mechanical voice] System overload!
+	Liubot #4	[mechanical voice] Error!
+	Liubot #5	[mechanical voice] Does not compute.
+	Zoidberg	Life was bad but now it's good forever!
+	Bender	You'll be safe in here, sweetheart. [He opens his chest cabinet and takes out another head.] Get lost, Pavarotti!
+	Fry	Lucy Liubot, if I don't survive the corn, I want you to know that I love you as much as a man can love a computerised image of gorgeous celebrity. Which it turns out is a lot.
+	Liubot	Oh, Fry, I love you more than the moon and the stars and the [mechanical voice] poetic image number 37 not found.
+	Fry	What are you doing, darling? Get down!
+	Liubot #3	[mechanical voice] Light hot. Oil temperature rising.
+	Liubot #4	[mechanical voice] Oh, no.
+	Liubot #5	[mechanical voice] Malfunction.
+	Liubot #6	[mechanical voice] This ain't good.
+	Liubot #7	[mechanical voice] System error.
+	Fry	You saved us. Are you alright?
+	Liubot	Yes, my love. I'll be just [mechanical voice] massive corn clog in port seven.
+	Liu	Are you the last copy of me?
+	Liubot	Yes.
+	Liu	Erase her, Fry.
+	Fry	What? No!
+	Liu	Fry, when you downloaded her without my permission, you stole my image, and in the end that's all I really have. That and the largest gold nugget in the world, one mile in diameter.
+	Fry	But I just downloaded her because I love you.
+	Liu	If you love the real Lucy Liu and not just what you've seen in movies, genre-straddling lawyer shows and kiss-ass articles in People magazine, you'll blank out that robot.
+	Fry	I'm sorry. Hug me, Liubot.
+	Liubot	I'll always remember you, Fry-- [mechanical voice] Memory deleted.
+	Bender	I know it hurts, buddy. But at least you're not in a sick relationship with a robot anymore.
+	Fry	Uh-huh. And I guess now maybe I can get to know the real Lucy Liu.
+	Bender	Pft! Yeah, at our wedding!
+	Liu	It's true. Bender and I are in love.
+	Fry	But, but--
+	Bender	Don't be a prude, Fry!

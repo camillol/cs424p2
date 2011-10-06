@@ -1,0 +1,177 @@
+	Professor Farnsworth	Good news, everyone. We've been hired to make our 100th delivery.
+	Zoidberg	100!
+	Hermes	That's almost 10 per year.
+	Bender	This calls for a party, baby. I'm ordering a hundred kegs, a hundred hookers, and a hundred Elvis impersonators who aren't above a little hooking, should the occasion arise!
+	Elzar	[He pushes a soufflé on a cart.] Be very gentle, folks. This is the soufflé you'll be delivering to Mrs. Astor.
+	Bender	Oh my God, it's Elzar! Hi, Elzar! Great soufflé, Elzar!
+	Elzar	Whatever you do, don't drop it. [He holds up a bottle labeled "Nitroglycerine. Danger! Explosive!"] See, Mrs. Astor takes Nitroglycerine for her heart, and being a class act, she prefers it in soufflé form. [He lets a drop of nitroglycerine soak into the soufflé.] [Softly.] Bam.
+	Professor Farnsworth	To prevent the soufflé from exploding, Bender will carry it. He's gyroscopically stable.
+	Professor Farnsworth	Look, Mrs. Astor's mansion, just across that rickety rope bridge. [Part of the bridge falls off.]
+	Amy	Wow, it's ricketier than it looks. You'd better try to jump it, Bender.
+	Bender	Okay, let me back up for a running start. [He runs backwards, all the way around the asteroid, across the bridge, back to where he started. He then runs forwards, crossing the bridge and ends up near the crew again. He jumps across the gap. The rest of the crew walk up. Fry rings the doorbell.]
+	Hobsy	[He opens the door.] I shall inform Mrs. Astor that the circus is in town.
+	Hobsy	Your soufflé, Madam.
+	Mrs. Astor	I shall take it here, under my fork.
+	Zoidberg	Where the exploding?
+	Hobsy	One does not explode Mrs. Astor's face.
+	Mrs. Astor	I couldn't eat another bite. Hobsy?
+	Mrs. Astor	Well done, sir. Have you a name?
+	Professor Farnsworth	Hubert Farnsworth, at your service.
+	Mrs. Astor	A Farnsworth, you say? Well, if I'm not mistaken, the Farnsworths have been in New New York for almost two hundred years.
+	Professor Farnsworth	Yes, I have.
+	Fry	And I'm his uncle!
+	Mrs. Astor	How charmingly unconventional. Say, would you Farnsworths care to be my guests tomorrow at the [[Astor Endowment Fundraiser? All the best families will be there.
+	Fry	We can take 'em.
+	Mrs. Astor	[Narrating for an old black-and-white film.] On April 10, 2912, my late husband and I set off down Fifth Avenue aboard the Land Titantic, the largest street-going vessel ever built. [In the film, the Land Titanic takes off. People are watching it sail.] Just four days into her maiden voyage, as we approached 32 Street, the line-liner struck a mailbox and went down. [In the film, we see one of the Land Titanic's wheels hit a mailbox. The ship starts falling through the street.] 2000 souls were lost that day, including my dear husband. In loving memory, I established the Mr. Astor Endowment, which this year supports the United Mutant Scholarship Fund.
+	Fry	[to Leela] Mutants? That's the kind of thing you are.
+	Leela	Shh. You know mutants aren't allowed on the surface. If anyone asks, say I'm an alien, remember?
+	Fry	Right. You gonna finish that roll?
+	Leela	Shh.
+	Mrs. Astor	Now a short film about those pitiable creatures so in need of our charity.
+	Narrator	Far beneath the everyday rumble of limousines and {{w|poodle]} feet, there toil a downtrodden people even less well off than the upper middle class. [The film goes from a busy street to the sewers, where mutants are working.] The noble sewer mutants. For you see, generations of exposure to toxic sewage mutated them into horrific monsters! [Leela's parents, along with Dwayne, Vyolet, Raoul are shown on screen. Fry and the Professor scream.]
+	Leela	Shut up!
+	Narrator	These industrious, uh, people, I guess, maintain the various pipes and poop chutes that keep decent, above-ground society functioning. [More mutants are shown working on pipes and toilets.] And where do these proud toileteers learn their menial skills? At Brown University, the nation's premier institute for lower learning. So please, give generously, knowing that some poor helpless mutant will thank you. Not in person, thank God!
+	Leela	Well, that was disturbing.
+	Mrs. Astor	Oh, I understand, dear. They are hideous.
+	Leela	Look, I guess you mean well, but isn't that university just a tax-deductible sewer-cleaning service?
+	Mrs. Astor	My dear, that school is about much more than sewer pipes.
+	Leela	Really?
+	Mrs. Astor	Well, it's also about keeping those filthy things busy. There are thousands of them down there, breeding like rats.
+	Royalty girl	[To Calculon.] My great uncle once saw a rat.
+	Mrs. Astor	If we don't keep them busy, they'll start jabbering on about equal rights in their ill-bred manner.
+	Leela	Let's go. If I say one more thing, I might say it with my evening boot.
+	Mrs. Astor	Well! Rarely have I never!
+	Fry	Please, don't blame Leela. She's just a little ill-bred. You know how mutants are.
+	Mrs. Astor	You companion is a mutant?
+	Fry	But if anyone asks, say she's an alien.
+	Mrs. Astor	Help! Police!
+	URL	You may have eluded the authorities, but don't nothing get by Mrs. Astor. [He and Smitty take Leela away.
+	Leela	[Being led outside.] What's gonna happen to me?
+	Smitty	Permanent deportation you mutant.
+	URL	You going downtown, baby. Way down. [They drop Leela down a man-hole.]
+	Raoul	Incoming!
+	Leela	Thanks, Colonel.
+	Colonel	Just doing my job, ma'am. [He salutes with his tongue.]
+	Leela	Oh, Mom, Dad, I can't believe I have to spend the rest of my life in this hellhole. [She pauses as her parents look shocked.] I'm sorry.
+	Turanga Munda	It's okay, sweetie. Now that you're here, this hellhole feels more like a nice, regular hole.
+	Turanga Morris	What do ya say we go get some sewer coffee, sewer cake, and Safeway ice cream?
+	Bender	[He bursts out of a cooler.] Well, the bottom's all stocked with cheap stuff. Who's in the mood to party? [He waves Fry's arms around.] Whoo!
+	Fry	Poor, Leela. I feel like I ruined her life.
+	Hermes	You did ruin her life.
+	Fry	You might be right, Hermes.
+	Hermes	I am right.
+	Fry	I almost feel like we should do something to help her.
+	Hermes	We should do something!
+	Fry	I don't care what you say, Hermes. Let's go.
+	Fry	Oh, mighty mayor. We're here about Turanga Leela.
+	Mayor Poopenmeyer	You mean Leela?
+	Fry	Right. I mean sure, she's a mutant, we've known that for years. But we kept it a secret because she's a fine, upstanding...
+	Mayor Poopenmeyer	Wait. You knowingly attempted to harbor a mutant?
+	Hermes	We did harbor a mutant! Uh-oh.
+	Turanga Munda	Look, Leela, there's Old Filthful. [She points to a geyser. It shoots up sewage and mutants take pictures before being covered by the sewage.]
+	Leela	Urgh!
+	Turanga Morris	And there's the West Side Pipeway. [He points to some mutants working on a pipeline.] If those guys slack off for even a second, it could explode. [To the workers.] Hey, guys! This is my daughter, Leela.
+	Turanga Morris	Well, they're with the chuds, now.
+	Leela	These conditions are deplorable. I swear, I hate every single person on the surface for making us live like this.
+	Fry	Leela!
+	Leela	What are you doing here?
+	Amy	We were sentence to two weeks in the sewer for harboring a mutant.
+	Zoidberg	Three dollars at the drug store.
+	Fry	I'm so sorry I ratted you out, but, you know, after two weeks down here, I'll truly understand the plight of the mutant people.
+	Leela	How dare you? You wanna understand something? Look at that lake. One dip in that toxic muck and your DNA will be permanently mutated. You'll grow a camel hump or a Zoidberg face.
+	Zoidberg	Urgh!
+	Leela	You wanna know what it's like to be a mutant? Jump in and go for a swim.
+	Fry	I would, but I ate a bunch of potato salad, so...
+	Leela	Yeah, that's what I thought. You are all surface.
+	Bender	Fry! Hermes! Where my humans at? Ah, who cares? It is on.
+	Horrible Gelatinous Blob	Hey, hey, hey.
+	Hedonism Bot	I trust the orgy pit has been scraped and buttered?
+	Bender	You know it, and there's mini-quiches, too.
+	Hermes	It's getting cold and smelly. My odor-eaters are going critical. [An attachment on his shoes is glowing brightly.]
+	Zoidberg	Maybe we can plotz in that giant cockle. [He points to a bus.]
+	Amy	Shmeepers, it's the Land Titanic, the biggest and onlyest land boat ever constructed..
+	Hermes	This was one hell of a bus.
+	Zoidberg	Well, everyone debone a bunk and get some shut-eye. [He removes the skeleton.]
+	Professor Farnsworth	Zoidberg, show some respect! This is a sacred shrine to the thousands who lost their lives.
+	Amy	[off screen.] Hey, I found a safe!
+	Professor Farnsworth	It's coming loose. Hand me more of that cruise director. [Amy hands him a leg bone which he uses to pry off the lock. The door opens.] The original passenger manifests. [He hands them to Hermes.]
+	Hermes	Spreadsheets were so elegant back then.
+	Professor Farnsworth	Just one other item. [He opens a case, revealing a Quantum Gemerald.]
+	Amy	It's jewelry. Jewelry! It's jewelry, people!
+	Professor Farnsworth	It's a priceless quantum-force gemerald. [He uses it to blast the cruise director, turning the skeleton to an ash stain on the wall.]
+	Zoidberg	What's that enscibbled on it?
+	Hermes	[He reads the inscription.] "My dear Mrs. Astor. My love for you is as unsinkable as this land ship and as brilliant as this stone. Dictated not read, Mr. Astor."
+	Amy	Aw! That's so valuable.
+	Fry	Yeah, I'll never know love like that. Leela hates me now. [He sniffles.] [Voice breaking.] Did you guys know I have a crush on Leela? [The Professor slaps him with the cruise director's arm.]
+	Turanga Munda	What's a matter, Leela? You've hardly touched your toilet clams.
+	Leela	[She sighs.] Maybe I was too harsh on Fry. He didn't ruin my life on purpose.
+	Turanga Morris	Things will work out, honey. Now here, have some more of what looks like lemonade. [He fills Leela's glass with a yellow liquid.]
+	Bubblegum	Bender, I've been to wang dang doodles all up and down the galaxy, but this is the dangest wang I ever doodled.
+	Bender	Oh, yeah! Come on baby, let's do it. [He backflips to the upper level and dances on the railing.] Shake your booty, baby. Come on, yeah! [He sees the picture of the crew posing for a commemorative photo celebrating the 100th delivery. Bender jumps down and unplugs the stereo. The DJ Robot and Fender both fall over.] Get out! Get out! It's not fun anymore! I wanna be alone!
+	Bender	I said scram, grapey! [Everyone leaves.]
+	Leela	Fry? What are you doing.
+	Fry	[Taking off his clothes.] You were right. I don't know what it's like to be a mutant. But I want to know.
+	Leela	Wait, I never meant for you to... [Fry jumps into the mutagenic lake.] Oh, no! [Time Lapse. She is rowing a boat to where Fry is.] Fry! Fry! No! No! [She reaches in and pulls something out. Fry has become a blob. He has grown an extra eye and tentacles.]
+	Fry	Any effect?
+	Leela	[She starts to scream but stops and vomits into the lake.] Sorry. I tried to scream but I barfed.
+	Fry	I think I'm knowing what it's like to be a mutant.
+	Zoidberg	So, what's with all the screaming?
+	Fry	Hey, guys.
+	Leela	Fry, this is the stupidest, sweetest thing you've ever done. And you know, maybe now, together, we can be an inspiration to other mutants.
+	Fry	I hope so, Leela.
+	Leela	Aw. Come here. Let me give you a kiss. [Fry puckers up.] Hug. [Fry opens his arms.] Handshake. [Fry sticks out a hand.] I'll text ya.
+	Fry	My fellow mutants, until recently, I dwelt on the surface where a man can gaze up at the sky in wonder without a wet clump falling in his mouth.
+	Mutant	[off screen.] We can do that too. [He is hit by another mutant.]
+	Leela	Who's ready to fight for equality? [The crowd cheers.] The Devolution Revolution' has begun! Beautiful mutants, please welcome Devo!
+	Mutated Mark Mothersbaugh	Hello, Sewer City. [The mutants cheer.] As long-time mutants ourselves, we support your righteous struggle and will do anything we can for you.
+	Mutated Mark Mothersbaugh	No. [To a member of the band.] Play the other one.
+	Leela	Now that we got their attention, it's time to hit them where they sit, by bending the West Side Pipeway to return all sewage to the surface.
+	Fry	But who could possibly bend such a huge pipe?
+	Bender	So lonely. Poor, sad Bender.
+	Fry	Hey, buddy.
+	Bender	[He recoils, screaming. He stops.] Ah, what the heck? [He hugs Fry and sinks into Fry's body.]
+	Mutants	Bend it! Bend it! Bend it!
+	Fry	What goes down, must back up!
+	Sal	[While wading through the sewage.] Yucks. I picked the wrong day to wear my new Crocses
+	Leela	Prepare to storm the surface for the Million Mutant March.
+	Colonel	Move out, Fry. We need out most disgusting mutant leading the charge.
+	Fry	[He is looking at the Land Titanic's manifests.] I'll meet you up there. I need to check out something first.
+	Colonel	Okay. Vyolet, you're up front.
+	Vyolet	Hey!
+	Mrs. Astor	Mayor, this sewage debacle has gone on long enough. As your largest campaign contributor, I demand action!
+	Mayor Poopenmeyer	Very well. $80 worth of action it is.
+	Mayor Poopenmeyer	Voilà! We simply pump the fruits of our excretion into Madison Cube Garden.
+	Mrs. Astor	Well, it seems everything is under... [She gasps. The mutants are coming out of the sewers.]
+	Vyolet	Two!
+	Mutated Mark Mothersbaugh	Four!
+	Colonel	Six eyes!
+	Mutants	The mutant people will arise.
+	Leela	The segregation of the mutant people ends today. We demand equal rights, equal access to the surface, and the blood of your first-born children. [Softly. To Raoul.] That so we have something to give up at the negotiating table.
+	Mrs. Astor	I've never been so moved, and I see no reason to begin now. Hobsy, flush those creatures back into the hole they crawled out of.
+	Hobsy	Madam's sewage seeking missile? [He presents an I See BM and activates it.]
+	Fry	[He bursts out of a manhole, holding the gemerald.] Let my people stay! [He shoots a beam of energy at the wave of sewage, parting it.
+	Bender	Neat! [He takes a picture with his purple camera.]
+	Fry	Mrs. Astor, deep in the sewers, we discovered the wreck of the Land Titanic, on which your husband land-drowned. Inside was something that might interest you.
+	Mrs. Astor	The gemerald ring that my husband was to give me in lieu of children. [She holds it up then throws it away.] So what, I have a chandelier in my car made of those.
+	Fry	Not the gem. This passenger manifest. It turns out there were mutants on that ship, working below deck in the sewage galley.
+	Leela's grandmother	I was just a young girl. [A flashback starts. She is cleaning a pipe.] Drain angels, they called us. When the ship started to go down. [Mutants can be seen fleeing. Leela's great-grandmother picks up her grandmother.] My mother grabbed me and made for the nearest life-car. [Mutants can be seen trying to get onto the cars.] But the places were all taken by surface passengers. As my mother held me tight, I suddenly felt the gentle tap of a cane on my face. I turned to see the kindly smile of Mr. Astor. [In the present, Mrs. Astor looks on in shock. Hobsy covers a second missile.] [In the flashback, Mr. Astor gets up and offers them his seat. They rush into the car as the ship goes down and flashback ends.] Thanks to your husband's humanity, I lived to raise my own daughter, and she, a daughter in turn.
+	Leela	Mom, why have I never heard this?
+	Turanga Munda	[Whispering.] My mother's nuts.
+	Fry	I beg you, Mrs. Astor, if you truly want to honor your husband's memory, treat these people with dignity, as he did.
+	Mrs. Astor	Oh, he was a dear man, Mr. Astor. [To Poopenmeyer.] Randall, let's grant these mutants their freedom.
+	Mayor Poopenmeyer	Okay.
+	Dwayne	Are we not men now?
+	Mutated Mark Mothersbaugh	I'm forty percent potato, but close enough.
+	Leela	Thank you Fry. I think maybe I can stomach that kiss now.
+	Fry	What the?
+	Mr. Astor	Good afternoon. I am Mr. Astor. I did not perish that fateful day, but rather plummeted into the toxic lake, where I mutated and lived in solitude until this ruddy lad here stepped into my mouth and lodged there.
+	Mrs. Astor	Mister? Is that really you? [They hug.]
+	Zoidberg	Horray! A happy ending for the rich people!
+	Leela	Mom, Dad, Grandma, this is where I work.
+	Turanga Munda	Oh! Was there a fire?
+	Amy	So, Bender, how was the party?
+	Bender	Only the greatest party ever! I don't need to have another party in my whole life. I am partied out!
+	Fry	Dang! Sorry we missed it!
+	Bender	We could have another one, if it would make you guys feel better.
+	Fry	Really? No, that's not necessary.
+	Bender	Hit it, Bender! [He shoves a stereo into Fry's arms and turns it on. Bend It starts playing.

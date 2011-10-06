@@ -1,0 +1,232 @@
+	Fry	Hmm. Horsey to pointy guy six. [His knight charges at the bishop and the bishop batters it to the ground with his crook. The horse pulls out a dagger, stabs the bishop and kicks him off the game board. Fry chuckles and reclines in his seat.] Check.
+	Bender	Hmm. Get him, boys!
+	Fry	[hoarse] Good move.
+	Professor Farnsworth	Good news, everyone. [Hermes walks in behind him carrying a package.] We have a mission to further the noble cause of intergalactic peace.
+	Bender	Nope. Watching cartoons.
+	Fry	Sorry.
+	Leela	What's the mission?
+	Professor Farnsworth	It's a delivery for the Democratic Order Of Planets.
+	Fry	DOOP? What's that?
+	Professor Farnsworth	It's similar to the United Nations from your time, Fry.
+	Fry	Uh...
+	Hermes	Or like the Federation from your Star Trek programme.
+	Fry	[getting it] Oh!
+	Professor Farnsworth	Tonight is the ribbon-cutting for the DOOP's new headquarters.
+	Leela	What are we delivering?
+	Professor Farnsworth	Something without which no ribbon-cutting ceremony could proceed. The ceremonial oversized scissors.
+	Leela	We'll get them there as quickly as we can.
+	Professor Farnsworth	Alright, but don't run with them.
+	Fry	Wow! There's a million aliens. I've never seen anything so mind-blowing. Ooh, a reception table with muffins!
+	Glab	Ladies and gentlemen, welcome to the ribbon-cutting ceremony of the DOOP's magnificent new headquarters. A fitting home for an organisation that has fostered peace throughout the universe. Even between the Insectoids and the Space Lizards.
+	Fry	So, what's it like on planet Amazonia?
+	Thog	Big rats there. Me crush with club.
+	Fry	That's so interesting. Maybe we could get to know each other over a coffee.
+	Glab	I can think of no better place for this centre of diplomacy than here in orbit around the Neutral Planet. [She turns to the grey man.] What are your thoughts on this momentous occasion, Your Neutralness?
+	Neutral President	I have no strong feelings one way or the other.
+	Zapp	I hate these filthy Neutrals, Kif. With enemies you know where they stand but with Neutrals, who knows? It sickens me. [Kif sighs. Fry, Leela and Bender walk past with the scissors and Zapp stops them.] Halt. [They gasp.] Why, Leela, I do believe we've met.
+	Bender	[whispering] He means you guys did it.
+	Leela	If you don't mind, we're here to deliver the scissors for the ribbon-cutting.
+	Zapp	Then you're under arrest.
+	Leela	What for?
+	Zapp	How do I know these scissors aren't part of some Neutral plot?
+	Leela	But they're not even sharp. Who could I possibly hurt with them?
+	Zapp	The Yarn People of Nylar 4? [He points at the pink creatures made of yarn.] So, a plan to assassinate a weird-looking alien with scissors. How very Neutral of you.
+	Leela	What?
+	Zapp	It was almost the perfect crime, but you forgot one thing: Rock crushes scissors ... but paper covers rock ... and scissors cut paper. Kif, we have a conundrum. [Kif sighs.] Search them for paper, and bring me a rock.
+	Kif	Why?
+	Zapp	So beautiful, yet so neutral. [He grabs her arms and handcuffs them behind her back.] Drag them to the ship.
+	Glab	And now, to cut the ribbon, the legendary DOOP captain who just returned from a triumphant carpet-bombing of Eden 7, Zapp Brannigan.
+	Zapp	What makes a man turn neutral? Lust for gold? Power? Or were you just born with a heart full of neutrality?
+	Kif	Um, sir, you're supposed to be cutting the ribbon right now.
+	Zapp	No matter. I'll simply cut it from here with the ship's laser.
+	Kif	Sir, I don't think that's wise.
+	Zapp	Kif, if there's one thing I don't need it's your I-don't-think-that's-wise attitude.
+	Zapp	Whoopsie-daisy!
+	Glab	Zapp Brannigan, you stand accused of blowing up DOOP headquarters. How do you plead?
+	Zapp	Absolutely 99% not guilty.
+	Glab	Then the prosecutor will call his first witness.
+	Hyper-Chicken	Your Honour, I'm just a simple Hyper-Chicken from a backwoods asteroid but if it please the court I reckon I'll call the entire jury.
+	Glab	I'm going to allow this.
+	Hyper-Chicken	Members of the jury ... [He pecks the floor.] ... did y'all happen to catch a gander at who blew up that there DOOP headquarters?
+	Juror #1	[simultaneous] That's the guy, right there.
+	Juror #2	[simultaneous] Oh, yeah, right there.
+	Glurmo	[simultaneous] That one.
+	Hyper-Chicken	And are y'all gonna vote to convict him?
+	Neptunian	[simultaneous] You'd better believe it.
+	Juror #1	[simultaneous] You bet.
+	Glab	The jury is instructed to disregard its own testimony.
+	Hyper-Chicken	Your Honour, the prosecution rests.
+	Glab	The evidence against Zapp Brannigan is strong. However, in light of his years of service, and the incompetence of this hillbilly prosecutor, I'm afraid I must dismiss all charges.
+	Leela	Dismiss all charges? Your Honour, I know the case is closed and you've rendered your verdict, but I wanna testify.
+	Glab	I'm going to allow this.
+	Hyper-Chicken	Now, Miss Leela, on the date in question, were you or were you not wearing a hoop skirt?
+	Leela	That's a stupid question. What matters is Zapp Brannigan is the sorriest captain I've ever seen, and I saw the idiot blow up DOOP headquarters with my own eye.
+	Zapp	I'd like to cross-examine the witness.
+	Glab	I'm going to allow this.
+	Zapp	We've met before have we not?
+	Leela	[reluctantly] Yes.
+	Zapp	And on that occasion, did you have sex with someone? May I remind you you are still under oath.
+	Leela	[reluctantly] Yes.
+	Zapp	Please point out the person in this courtroom you had sex with. [Leela points at him and Fry hoots.] And his name is?
+	Leela	Zapp Brannigan.
+	Zapp	The very same Zapp Brannigan who did not blow up DOOP headquarters. I rest my case.
+	Glab	Ladies and gentlemen of the jury, you may begin your deliberations.
+	Glurmo	Your Honour, we have reached a verdict. We find the defendant ... guilty.
+	Glab	Zapp Brannigan, you are hereby stripped of your rank as captain and dismissed from the DOOP.
+	Zapp	I'd like to make one final statement. Kif, c'mere and hold up the flag. [Kif scurries past him and holds up the DOOP flag behind him.] And wave it a little, for God's sakes. My friends, you can take away a man's title and his uniform but you can never take away his integrity or his honour. Plus it was mostly Kif's fault.
+	Kif	What?
+	Glab	Kif Kroker, you are also stripped of your rank and dishonourably discharged.
+	Zapp	One day a man has everything, the next day he blows up a $400 billion space station and the next day he has nothing. It makes you think.
+	Kif	No, it doesn't.
+	Zapp	Come, Kif, it's time to begin our life as civilians. [He walks off and Kif doesn't follow.] That's an order, soldier.
+	Fry	Hey, Bender?
+	Bender	Yeah?
+	Leela	Alright, this is the third hose fight I've broken up today and the second one using actual hoses. Now move your lazy asses and start scrubbing the ship like I ordered you to.
+	Fry	You don't have to get so mad, Leela.
+	Bender	Yeah, Fry already wiped off some of the dirt with his finger.
+	Leela	Zapp?
+	Zapp	Leela, I didn't know where else to turn. You're the only woman who ever loved me.
+	Leela	I never loved you.
+	Zapp	I mean physically.
+	Leela	What do you want?
+	Zapp	Just let me work for a little food. Perhaps I could paint a fence, or service you sexually, or mop the floors.
+	Leela	You don't know how to do any of those things.
+	Zapp	Kif might.
+	Professor Farnsworth	Leela, who are you talking to?
+	Zapp	Just a broken-down hobo who's hit rock-bottom. And his commanding officer.
+	Professor Farnsworth	Why, you're that disgraced starship captain. [He turns to Leela.] Having him on staff will distract people from our horrendous safety record. [He turns back to Zapp and Kif.] Come in.
+	Professor Farnsworth	I'd like everyone to meet our new employees. [He leans over to Hermes.] [whispering] Which ones are new?
+	Hermes	The green dude and the fat man.
+	Professor Farnsworth	Hmm, I could swear I've never seen that robot before either.
+	Bender	I'm Bender. You know? The lovable rascal.
+	Professor Farnsworth	Oh, yes, yes. My good friend, of course. [He turns to Hermes and shrugs.] Anyway, whoever you all are, I have good news. You'll be making a delivery to Stumbos 4, a planet with such high gravity you'll most likely be crushed under the weight of your own hair. Enjoy!
+	Zapp	So, this Leela. I know she's a very sensuous woman but what manner of captain is she?
+	Fry	She's really strict.
+	Bender	And mean.
+	Zapp	I see. Does she by any chance give the crewmembers spankings?
+	Fry	No, she just makes us do work and stuff.
+	Zapp	Good, good. But should she ever institute some sort of bare-bottom spanking policy, let me go in your place. I won't have my comrades harmed.
+	Bender	Hey, this guy's alright!
+	Zapp	Here's to us poor schmoes working for the man. Even if he is a hot, sexy, female man.
+	Kif	I've computed out landing co-ordinates, Captain.
+	Leela	Thanks, Kif. Very nice work.
+	Kif	Wait, what?
+	Leela	I said "very nice work".
+	Kif	This is the happiest day of my life.
+	Leela	OK, crew, listen up. Your job is to delivery these 40 pillows to that hotel.
+	Bender	They're not very heavy but you don't hear me not complaining.
+	Leela	They're not heavy in here because we have an anti-grav pump. But once you get out on the surface the gravity will be very intense.
+	Fry	Hey, no prob', this lead apron'll protect me.
+	Leela	I don't want any screw-ups. Use the hover-dolly and just deliver one pillow at a time.
+	Bender	Hey, here's an idea, let's deliver all the pillows at once.
+	Fry	Yeah!
+	Zapp	That's using the old noodle!
+	Zapp	Come on, girdle. Hold!
+	Bender	Uh-oh.
+	Leela	What the hell happened?
+	Bender	Some breaking occurred, the dolly was involved, that's about all we know.
+	Leela	I told you dumb apes not to overload it. Each of those pillows weighs 150lbs here.
+	Fry	Alright, don't get your panties in a knot. We'll just use the back-up dolly.
+	Bender	I'll start loading up the pillows.
+	Leela	No way, Jack. You disobeyed an order, so now you have to deliver all 40 pillows by hand.
+	Zapp	Let me ask you a serious question, Leela: Does the company that made your bra make a girdle as well? I ask because a friend of mine...
+	Leela	Just get to work.
+	Bender	[mocking] I'm Leela, get to work, neh, neh, neh.
+	Fry	I agree.
+	Kif	The point is, it's just so humiliating working for that man. Once, he actually ordered me to ... shave his armpits while he was in the bathtub. So, I said--
+	Leela	Y'know, why don't we talk about something besides Zapp for a while?
+	Kif	Oh, alright. Um ... well ... how 'bout then, um... OK, well, there he was in the tub, alright?
+	Fry	Ah, some good old high-gravity rain. That'll cool us off.
+	Bender	This is all Leela's fault.
+	Fry	Yeah. If she had let us use the back-up dolly, we could have broken it, given up and gone home by now.
+	Zapp	Y'know, boys, a good captain needs many skills, such as boldness, daring and a velour uniform. And I'm not convinced Leela has any of those things.
+	Fry	Ah, Leela's not that bad. I just wish she didn't make us work so much.
+	Zapp	Back when I was captain all I asked from my men was their complete loyalty. If I had that, then for all I cared they could sit around the whole day drinking beer in their underpants.
+	Bender	Beer?
+	Fry	Underpants?
+	Kif	But now, Zapp's not captain anymore. I'm free! [He laughs.] Oh, you hear that? I'm actually laughing!
+	Fry	This is a mutiny.
+	Bender	You're outta here, lady. Zapp's the new captain.
+	Fry	All hail the new captain.
+	Zapp	Leela, you might be a formidable do-er of the nasty but I am forced to relieve you of your post.
+	Leela	On what grounds, you slobbering oaf?
+	Zapp	Failure to prevent a mutiny. Throw her in the brig.
+	Fry	We don't have a brig.
+	Zapp	Then throw her in the laundry room, which will hereafter be referred to as "the brig".
+	Leela	You really don't want me to be captain anymore?
+	Bender	You got it, genius.
+	Leela	But, didn't I do a good job?
+	Fry	You were mean and you yelled and you made us do all that work.
+	Leela	Sometimes a captain needs to do those things. Besides I, I thought we were friends.
+	Fry	Yeah, well, you shouldn't have been such a mean captain then.
+	Bender	Don't worry, Leela. Soon we'll be able to look back on this and laugh.
+	Zapp	Back in my old uniform, and it nearly still fits. Even after all that fattening hobo cuisine.
+	Kif	What shall I do with your civilian clothes, sir?
+	Zapp	Take them to the laundry-brig. [Kif leaves. Zapp turns to Fry and Bender.] So, do I have your loyalty, men?
+	Bender	[saluting] To the ends of the universe.
+	Fry	Ten hundred percent!
+	Zapp	That's not nearly loyal enough. I order you to sit around and drink beer until you're as loyal as Kif here.
+	Bender	Yes, sir, sir!
+	Kif	Um, may I have a beer, sir?
+	Zapp	No. You're loyal enough already. Meanwhile, I have a plan. We will single-handedly attack our archenemy the Neutral Planet.
+	Kif	Oh, jeez.
+	Zapp	Once the neutral war machine lies in ruins, I'll be a hero again and the DOOP will reinstate me as captain.
+	Kif	But, sir, that plan makes no sense.
+	Zapp	Maybe not to you, Kif, but if I recall correctly, you were court-martialled in disgrace.
+	Fry	Ooh, burn!
+	Bender	Nailed you, buddy!
+	Zapp	Prepare to continue the epic struggle between good and neutral.
+	Fry	This is awesome! We're gonna be like pow-pow-pow, and they're gonna be like ... [He screams and makes explosion noises.] ... and then we'll have pancakes to celebrate and I'll be like...
+	Zapp	Precisely. Now, in the name of all that is good and honourable, we'll call the Neutral President with a message of peace, then blast him.
+	Bender	[saluting] Yes, sir, sirdy-sir-sir-sir!
+	Zapp	Fly the white flag of war.
+	Zapp	[on screen] This is Zapp Brannigan of the good ship ... Planet Express Ship. I come swinging the olive branch of peace.
+	Neutral President's Aide	Should we trust him, Your Neutralness?
+	Neutral President	All I know is my gut says maybe.
+	Bender	What now, chief?
+	Zapp	Now we crash the ship into their headquarters, killing them in a hellish firestorm from which no living thing can escape.
+	Fry	Good, good, then what?
+	Zapp	Then your mission is complete. I, meanwhile, will have ejected to safety, wearing the only spacesuit on board.
+	Fry	Wait a second. Is this plan gonna kill us?
+	Zapp	Of course. What do you think I meant by "loyalty"? Now help me into the only spacesuit. It looks a bit sweaty in there so you may need to apply baby powder.
+	Fry	Leela, we want you to be captain again.
+	Leela	Let me guess. He cancelled naptime? [They shake their heads and she puts the folded sheet on top of a pile.] He ran out of beer? [They shake their heads again.] So he's about to kill us?
+	Fry	We want Leela to be captain again.
+	Zapp	So it's mutiny, is it? I never thought I'd see the day. Come, Kif, let's eject. I found a children's spacesuit you can wear.
+	Kif	To be honest, sir, I'd rather stay here with Captain Leela. She actually listens to what I have to--
+	Leela	Oh, no! He's disabled the steering. [The look ahead as they get closer to the planet.] We're gonna crash!
+	Bender	Leela save me ... and yourself, I guess ... and my banjo. [Fry smiles weakly.] And Fry.
+	Leela	OK, OK. We have one chance. Are you willing to do what I say as captain?
+	Fry	Absolutely.
+	Leela	Even if I make you work hard?
+	Bender	As your God is my witness.
+	Leela	Then go get the hover-dolly you didn't break and load all the dark matter into the left engine.
+	Bender	Oh, man, that crap's heavy.
+	Fry	And warm.
+	Leela	Just do it.
+	Neutral President's Aide	Your Neutralness, it's a beige alert.
+	Neutral President	If I don't survive, tell my wife, "Hello".
+	Leela	Hurry! I don't wanna die at the age of 25.
+	Bender	[on screen] Honey, unless we hit a time warp, I wouldn't worry about it.
+	Fry	It's too low.
+	Bender	Quick.
+	Leela	You did it! You actually did it!
+	Fry	And no one will have to punish anyone for the mutiny.
+	Zapp	And so, when Captain Leela panicked, perhaps distracted by female troubles, my quick thinking allowed me to do whatever I did to save the day.
+	Glab	Captain Leela, is this rambling story of magic and heroism true?
+	Leela	Well, actually--
+	Professor Farnsworth	[whispering] That a girl! If they don't take him back we can keep him as captain.
+	Leela	Your Honour, it's all true: My female incompetence, Zapp's cat-like reflexes, the stuff that made no sense, all of it.
+	Glab	In that case, Zapp Brannigan, I hereby restore your rank and parking privileges.
+	Professor Farnsworth	Oh, foo!
+	Zapp	Come, Kif, we've got work to do.
+	Kif	I-I'll call and tell you about it.
+	Fry	Leela, I just want you to know that even though you're mean, you're the best captain ever.
+	Bender	Yeah, you're one dynamite lady. Can we have a week off?
+	Leela	No.
+	Fry	Please?
+	Bender	Come on, Captain.
+	Leela	Oh, alright.
+	Professor Farnsworth	No time off.
+	Fry	Aw, man.
+	Leela	Let's mutiny!

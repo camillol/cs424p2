@@ -1,0 +1,173 @@
+	Morbo	[Angrily] Silence, puny audience. And welcome to Who Dares to be a Millionaire? Tremble before Morbo's mighty likability, [Calmly] while I chitchat with out first contestant, Philip J. Fry.
+	Bender	[In audience.] Give him hell, Morbo!
+	Morbo	[Angrily] Prepare for pleasantries. [Calmly] So Fry, what do you do for a living?
+	Fry	Me? Um, can I phone a friend?
+	Morbo	[Angrily] Chitchat achieved! [Dramatic music plays, lights turn on and the game begins.] Are you ready to play?
+	Fry	I didn't come to play. I came to win. Not let's play.
+	Morbo	For $1, what tool is used to hammer a nail? Is it, A, a hammer? B, A nail? C...
+	Fry	B, nail! final answer! [A buzzer sounds and Fry's chair blasts off.]
+	Hermes	Sweet dodo of Lesotho! Don't you ever stop to think before you speak?
+	Fry	I never stop to think about it.
+	Leela	Aw, leave Fry alone. His intelligence is just a little differenty.
+	Bender	[Pointing at Fry] You a big dummy!
+	Fry	Hey, I'm starting to think you all don't think I'm very smart.
+	Professor Farnsworth	You can barely remember your own name, Einstein.
+	Fry	Einstein is a hard name to remember. [The Professor pokes him in the eye with the Fing-Longer]. Ow!
+	Amy	Smeesh, Professor. Don't have a schmaneurysm. Fry's your distant relative.
+	Professor Farnsworth	Not distant enough! I'll be a monkey's uncle if I'm this monkey's nephew!
+	Fry	[He sniffles] But you're my only family. Who will hug me if I achieve something?
+	Professor Farnsworth	Oh, perhaps I've been too harsh. Come lad, take my hand and I'll explain why I find you so repugnant.
+	Professor Farnsworth	All my life I've been inspired by great minds. Euclid, Copernicus, Braino. And my personal role model, Leonardo da Vinci. [He gestures to a bust of each.]
+	Fry	What turned them to stone?
+	Professor Farnsworth	[He slaps his forehead and sighs] da Vinci was history's greatest artist and inventor. [He pulls up the head of da Vinci, revealing a button. He presses it. A shelf rises into the ceiling, revealing a lit cabinet with various sketches and models on shelves.] Voila! He invented flying machines, war engines, submarines.
+	Fry	[He takes a beard from the cabinet] Uh-oh! Nibbler died in the wall.
+	Professor Farnsworth	That's not Nibbler. That's my most precious possession. Leonardo's beard! I paid a fortune for it at an auction of historic body parts. I suppose if I have an Achilles' heel, it's because I bought it at that same auction. [He shows Fry a glass foot with a heel bone in it.]
+	Fry	[Wearing the beard] Indeed so. Most indeededly.
+	Professor Farnsworth	Careful with that, you fool! [Fry sneezes, causing the beard to separate into individual hairs] No! No! But possibly yes. [A scroll is inside Fry's mouth]
+	Fry	What is it, Professor?
+	Professor Farnsworth	[He unravels and unfolds the scroll] Oh, my! It's da Vinci's fabled lost invention. Even the scholars who wrote of this device had no idea what it was for. And now, at least, neither do I!
+	Fry	Maybe we can figure it out.
+	Professor Farnsworth	We? [He cackles insanely]
+	Fry	Well, I may not have brain smarts, but at least I have street smarts. [He is run over by a hoverbus.
+	Fry	I was in the hospital two weeks. No one visited me.
+	Professor Farnsworth	Quiet, you! I'm trying to deduce the function of da Vinci's lost invention.
+	Fry	Not even a card.
+	Farnsowrth	He might have hidden a clue in one of his other works. Ergo, I sent Bender out for a copy of the Last Supper.
+	Bender	I'm back! Everyone at Kinko's was an idiot, so I just brought the original. [He drags in a stone slab with the Last Supper on it.]
+	Zoidberg	Jesus Christ and his Twelve Apostles.
+	Amy	[She points to something on the painting.] That's odd. This hand here doesn't belong to anybody. And it's pointing a knife at James the Lesser!
+	Bender	That's the great thing about that hand.
+	Hermes	[He points to a different part of the painting.] And what about these funky table legs? It's like their part of some other, funkier painting.
+	Zoidberg	Maybe da Vinci painted over something else. It's called a pentimento.
+	Professor Farnsworth	That's true, Dr. Zoidberg. How did you know that?
+	Zoidberg	My doctorate is in Art History.
+	Professor Farnsworth	Let's see what hidden under the Last Supper. [He pressed a remote and a laser-like device descends from the ceiling. It fires at Hermes, allowing us to see through him.]
+	Hermes	Wait, I'm not big-boned, I'm just fat.
+	Professor Farnsworth	[He nudges the machine.] My God! Look! [The crew gasps.]
+	Amy	My God! I'm looking!
+	Leela	My God! Saint James was a robot!
+	Zoidberg	My God! da Vinci left his legs unpainted as a clue.
+	Professor Farnsworth	My God! This is the greatest mystery of all time. We must fly to Rome and exhume the body of Saint James.
+	Hermes	Didn't we used to be a delivery company?
+	Professor Farnsworth	To the ship!
+	Fry	Psst. Leela, wanna join the Mile-Deep Club?
+	Leela	Sure, why not?
+	Farnswoth	No time! I've found a clue that could unlock all the secrets of history. [Fry groans. They walk to a tomb.] Look at these Roman numerals.
+	Fry	Roman numerals? I've got it! We're in Rome.
+	Professor Farnsworth	[He hits Fry with a torch.] Don't be stupid. It's a long lost mathematical code. I'll need to consult these ancient writings. [He pulls out a book and blows the dust off it. It is The da Vinci Code.] Some preposterous hog-wash about the Fibonacci Sequence. Aha! The markings indicate how many paces we need to take. One ... Okay, we're there. [In front of them is a tomb that reads "JAMES". ]
+	Bender	Brothers and sisters, let us pry. [He pulls a crowbar out of his chest cabinet and opens the tomb. A robot is in there]
+	Professor Farnsworth	It's true, Saint James really was a robot.
+	Bender	I bet he's up in Robot Heaven right now. So he won't miss his eyes. [He attempts to remove them with a screwdriver.
+	Fry	My God! Robot Saint James is a zombie.
+	Animatronio	Nay, I am not Saint James.
+	Bender	Enough of your lies, Saint James. We saw you in the Last Supper.
+	Animatronio	The great man Leonardo built me as an artist's model. When I took repose in this coffin, I carefully tossed the real Saint James in yonder heap. [A skeleton is nearby.] I'm sure you have many questions. Come, there is a chamber where I used to speak with Pope John the Patient.
+	Animatronio	[He sighs. The Pope's skeleton is still seated in a chair, wearing his hat.] I told him I'd be back in five minutes. Ah well, he'll make a nice heap. [He dumps the body and sits in the chair himself.] I am Animatronio, guardian of da Vinci's great secret. He left my legs visible in the painting as a clue, then dispatched me hither to wait for his shadow society of intellectuals.
+	Fry	Hi, Animatronio.
+	Professor Farnsworth	You personally knew da Vinci? [He gives a fan-girlish squeal.] Was he nice? How did his hair smell? And on a personal note, what is the function of this device? [He shows the plans.]
+	Animatronio	Halt! You do not know the function of the Macchina Magnifica? Then thou art not members of the Shadow Society. [He takes the plans.]
+	Bender	The what now?
+	Animatronio	Not one more word shall I breathe. Not even about the great fountain where thou mayest find the... Wait. Thou didst not know about the fountain, didst thou? Curses, I must be punished. [He begins flaying himself.]
+	Farnswoth	Quick, we must find out what he knows before he flays himself to death!
+	Leela	Where is the great fountain?
+	Fry	What makes it so great?
+	Bender	Why does a robot need a codpiece?
+	Animatronio	Fie, thou fen-suckled bum-bailey! Thou wilst never pry information from these mechanical lips!
+	Leela	Just tell us, already!
+	Animatronio	Okay, the fountain thou seekest is... [He groans and falls over.]
+	Professor Farnsworth	And so dies our hope of solving this mystery. Come on gang, let's go home. Wait! Let's not give up so easily. Animatronio mentioned a fountain. [He looks at a statue.] That's a statue of Neptune, god of water. The number of points on him trident is three, or trey. The "u" in his name is written like "v". Trey, "v". Trevi! It's the Trevi Fountain. There can be no question!
+	Leela	But, Professor...
+	Professor Farnsworth	There can be no question!
+	Fry	Wow, it hasn't changed in a thousand years. [Tentacles reach out of the water and grab a man posing for a picture.]
+	Professor Farnsworth	Okay, everyone, into the fountain.
+	Bender	What are you, senile? I'm not jumping in there.
+	Fry	Hey, look. Coins.
+	Bender	[He jumps into the fountain. Before he can grab the change, a Giant Squid comes out of a cave. The squid and Bender struggle then both pull out pistols. Gunshots can be heard from the surface. The dead Squid floats up.] I got 48 cents. There's one more nickel, and it's a big one! [He floats down and pulls at the nickel. It is actually a plug keeping water in the fountain. The water starts to drain, taking Bender with it.]
+	Professor Farnsworth	Quickly, into the sewer hole. [He and Fry jump in.]
+	Leela	Why? [She is pulled under by the Professor. A hooded figure selling Gelato notices and follows them.]
+	Fry	[Looking through a window.] What's this dump? [They are surrounded by Roman Architecture.]
+	Professor Farnsworth	My god! It's the Pantheon!
+	Leela	This place is 3,000 years old. What could possibly be left to discover?
+	Professor Farnsworth	Maybe something about ourselves, Leela. Wait! What's under that blanket? [Fry removes it to reveal a statue of the Vitruvian Man.] My God! da Vinci's Vitruvian Man!
+	Fry	It's truly a masterpiece. Note how the perspective lines draw the eye straight to his dong.
+	Professor Farnsworth	[The hooded figure appears and shoots a dart at the Professor.] Say, what's this? [He moves in time for the dart to miss him and hit Bender's eye.]
+	Bender	Anyone hear something?
+	Professor Farnsworth	It's a coin slot. Bender, insert that giant nickel.
+	Bender	Sure. [He has the nickel on a piece of string. He inserts it and it takes his entire arm with it.] Ow!
+	Farnswoth	Hush, Bender. [The statue realigns itself.] What's your game Vitruvian Man? [The statue turns on it side and rolls along the floor. The floor divides behind the statue. Leela scrambles to get to the Professor. A workshop is revealed under the floor.]] I withdraw the question, Vitruvian Man.
+	Professor Farnsworth	Da Vinci's lost workshop!
+	Fry	At the risk of sounding stupid, do these things actually work?
+	Professor Farnsworth	Of course not, stupid! [He gestures to a flying machine] I mean, that flying machine is as aerodynamic as a sofa. How could it possibly get off the ground?
+	Animatronio	In a way that shalt never discover. [Everyone but Fry gasps].
+	Fry	Hi, Animatronio.
+	Animatronio	I feign death and stalk thee, that I might preserve the greatest of Leonardo's secrets! [He throws a mace and it lands on Bender's empty arm socket. Bender hits him with the handle of the mace.]
+	Bender	All right, buddy, we want secrets! And they better be ancient!
+	Animatronio	Never shall I reveal how these wonderous machines fit together!
+	Professor Farnsworth	They fit together?
+	Animatronio	I said no such thing. And then I died! [He groans and collapses. He opens his eye then shuts it again.]
+	Fry	[Sitting in the chair of the flying machine] You're right, Professor. This thing doesn't fly.
+	Professor Farnsworth	Don't sit in there, you idiot! That's dangerous! [He sits on a catapult and gets shot into a series of tubes that directs him into the co-pilot's seat.] Wha? [The machine is lifted up and glass is placed on top of their heads, creating a sealed cockpit. Several more machines go off and the ship is loaded into a cannon.] No wonder this contraction isn't aerodynamic! It's not an aircraft, it's a spacecraft! [The cannon is pointed to a gap in the ceiling.]
+	Animatronio	As I live, thou shan't discover the great secret! [He works a ballista until it is pointed at the spacecraft. Bender and Leela tackle him. The ballista falls and fires at a lever. The spacecraft is shot into the air.]
+	Fry	Bye, Animatronio!
+	Professor Farnsworth	My God! Why would Leonardo's invention have brought us here?
+	Fry	I don't know. Let's ask this guy. [A man is standing in front of them.]
+	Leonardo da Vinci	I am Leonardo. [They gasp.] Welcome to Planet Vinci.
+	Professor Farnsworth	My God!
+	Fry	That's what I was gonna say!
+	Professor Farnsworth	Leonardo! You're alive? Here?
+	Leonardo	[He sighs.] You have learned my great secret. In truth, I was but a visitor to Earth. In truth, I am what you call a space alien.
+	Professor Farnsworth	Oh!
+	Fry	It's an honor to meet you, Leonardo. Might I say you were great in the Titantic. The Beach? Neh.
+	Professor Farnsworth	That Leonardo DiCaprio, you blockhead! [He tries to punch Fry in the stomach. Bones are heard cracking.]
+	Fry	Looks like eating rocks wasn't as dumb as you said.
+	Fry	So what do people do for fun here?
+	Leonardo	Do you enjoy partying all night with plenty of ale and lusty women?
+	Fry	I sure do!
+	Leonardo	Not us. We spend our leisure time in the mathematics museum. Planet Vinci is basically one single colossal university.
+	Fry	How your football team?
+	Leonardo	Learned.
+	Professor Farnsworth	Ooh! I'm going to check out that math lecture. [A professor is teaching students nearby.] All this knowledge is giving me a raging brainer! [He runs off.]
+	Leonardo	Would you like to hear the lecture, too, Fry?
+	Fry	No. It would just go in one ear and out some other hole.
+	Leonardo	Come, sit down.
+	Fry	Now that I can do. [He tries to sit in mid-air but fails.] I have a terrible secret to confess Mr. DiCaprio. I'm not very smart.
+	Leonardo	I appreciate your candor.
+	Fry	I don't even know what language your speaking.
+	Leonardo	I, too, have a confession. You see, here on Planet Vinci, I am the stupidest person.
+	Fry	What? Who could think your stupid? [Two people come near the bench.]
+	Biff	Duh, I'm Leonardo. I don't know the mass of the Higgs Boson.
+	Woman	Duh, I have to draw in pencil, because I don't know how to use Rendering software.
+	Leonardo	Stupid Biff. Thinks he's so smart.
+	Fry	He looks stronger, too.
+	Leonardo	I went to Earth because I could no longer stand the ridicule. But being surrounded by even stupider people was equally infuriating.
+	Fry	I can see myself in your shiny button.
+	Leonardo	Inventing is what makes me happy. Or did, until I misplaced the plans for my masterpiece.
+	Fry	You mean these? [He holds out the plans.]
+	Leonardo	The Macchina Magnifica? Infinity joy! Fry, my friend, you have given my life meaning again!
+	Professor Farnsworth	That calculus lecture was harder than I expected. We had to answer every question in the form of an opera. I have a lot of homework for tomorrow, if I don't want to be [He puts on a Viking opera helmet.] Embarrassed!
+	Fry	[Fry finishes his "musical piece" and the crowd starts booing.] Thank you. Thank you. And if you like that, you'll love our main event. Ladies and gentlemen, Leonardo DiCaprio! [The crowd cheers.] I mean da Vinci! [The crowd starts booing again.]
+	Leonardo	For centuries, you've all ridiculed me. Especially you, Biff.
+	Biff	Nice hat! [The crowd hoots.]
+	Leonardo	But, at long last, this invention will show you. It will show you all. Behold, my unstoppable doomsday machine!
+	Fry	And I helped! Wait. You told me it was an unstoppable ice cream machine.
+	Leonardo	Ice cream is just a by-product of the machine. It's primary purpose is to exterminate everyone who ever made me feel inferior!
+	Biff	Oh, I'm so scared!
+	Girl	Bring it on, dum-dum. [The crowd laughs.]
+	Leonardo	Oh yeah? Let's see how hard you are laughing when my doomsday machine chops off your face! [He powers up the machine.]
+	Professor Farnsworth	Leonardo, stop! [The crowd gasps.] I want in on this!
+	Fry	Are you crazy, Professor?
+	Professor Farnsworth	I hate these nerds. Just because I'm stupider than them, they think they're smarter than me. Kill them all, starting with the math teacher!
+	Professor Farnsworth	[Taking the plans from Fry.] I knew this final invention would be a humdinger!
+	Leonardo	Yes, we three idiots will finally have our revenge.
+	Fry	I don't think so! You two make me ashamed to call myself an idiot. [He jumps on the machine.] There's always going to someone smarter than you, so the only way you can be happy is to make the most of what you've got.
+	Leonardo	But you've got nothing.
+	Fry	Oh yeah? I've got one single nail and another one to nail it in with. And I'm going to stop this infernal ice cream machine once and for all! [He tries to nail in a nail but it hits him in the eye. He stumbles and gets caught in the gears. Fry is being sent through the gears of the machine, finally jamming it. The machine stops and falls over. Leonardo and the Professor run out of the way. The audience laughs.]
+	Biff	Some doomsday machine! It barely killed anyone!
+	Leonardo	Oh, yeah? Well, take this! [He kicks the machine, causing a lever to pop out. He pulls it and a giant gear crushes him.]
+	Professor Farnsworth	Oh, my.
+	Girl	Poor Leonardo da Vinci. He sure was stupid.
+	Professor Farnsworth	Fry, I admire what you did today, and I'm deeply sorry for insulting your intellect. Your tiny, tiny intellect. Oops, there I go again, you dope. I mean, dummy.
+	Fry	It's okay. I may not be clever, but I have a good heart. That's what my mom used to say.
+	Professor Farnsworth	She was a wise woman.
+	Fry	Also, that I'm not much to look at.
+	Professor Farnsworth	A wise woman, indeed.

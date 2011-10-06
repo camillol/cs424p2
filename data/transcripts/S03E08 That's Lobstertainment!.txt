@@ -1,0 +1,171 @@
+	Humorbot 5.0	So I says, "Super collider? I just met her!" [The audience laughs.] And then they built the super collider. Thank you, you've been a great audience.
+	Florp	Humorbot 5.0, ladies and gentlemen. Our next stand-up's a veteran of four comedy traffic schools. Give it way up for Bobcat Zoidberg!
+	Fry	[cheering] Alright!
+	Leela	[cheering] Yeah!
+	Bender	[cheering] Alright, Zoidberg!
+	Zoidberg	Earth: What a planet. On Earth, you enjoy eating a tasty clam. On my planet, clams enjoy eating a tasty you. [There is silence.] Maybe I'm not yelling loud enough. [shouting] On Earth, everybody is always looking for a giant squid. On my planet--
+	Bender	Reload.
+	Zoidberg	So these three parasitic worms bore into a human's head--
+	Woman #1	Ew, gross.
+	Zoidberg	And they walk up to the bar and then-- Uh-oh. [He sees a hook come on from the side of the stage.] Wait, stop! I've got more!
+	Zoidberg	My whole life I worked on that act. And they hated it.
+	Hermes	You're a crazy, penniless, lobster doctor. No combination of you should be a comedian.
+	Zoidberg	But comedy is in my valves. My Uncle Harold was a big Hollywood star back in the era of silent holograms.
+	Leela	Your uncle was Harold Zoid?
+	Zoidberg	This I cannot deny.
+	Professor Farnsworth	Why, I've been a Harold Zoid fan since back when my hips were made of bone. As it happens, I still have some of my original 78s.
+	Hermes	You're right, crabby. He's a hell of a lot funnier than you could ever be.
+	Zoidberg	Maybe so, but perhaps if I wrote him and asked for a few hundred pointers...
+	Zoidberg	This letter has to be very personal, so I'm writing it in my own ink. [He puts a jar under his armpit and fills it with black ink. He dips a quill pen in and starts writing.] [thinking] Dear Uncle Zoid, greetings from your long-lost nephew. Norm and Sam and Sadie's boy, remember?
+	Zoidberg	[voice-over] Now I am the most important doctor at the delivery company where I work. But, sadly, my life is bereft of laughter.
+	Zoid	[reading] I beg of you, Mr. Funny Uncle, teach me the comedy business. Sincerely, Zoidberg. [talking] Oy, isn't that nice? He took the time.
+	Woman #2	What's that scribbledy-gook?
+	Zoid	This is a fan letter from my rich doctor nephew, who just might be my ticket out of this flophouse, he might. [The woman makes a weird noise and walks away.] Yeah, you'd better run. [He fills a jar of ink and writes.] Dear Rich Doctor Nephew, I can help you be funny. The first funny thing you must do is put all your money in the form of a cashier's check and come to Hollywood.
+	Zoidberg	[reading] Sincerely, Harold Zoid. P.S. Cashier's check. [talking] Did you hear that? I'm going to Hollywood!
+	Tour Guide	Welcome to Hollywood! I must warn you, there's no refund if you get discovered and leave the tour! [She laughs to herself.] I'm just kidding, that never happens. Now, to your right, you'll see 30th Century Fox Studios. [The building looks just like the logo for 20th Century Fox, updated slightly.] Fox uses those searchlights to blind pilots, then film the resulting plane crashes.
+	Bender	Neat!
+	Tour Guide	Ahead, you'll see the home of Mel Gibson, star of the hit film, Bravehead. [Gibson's head in a jar peeps through the door of his tiny house.] And do we have any fans of Calculon, star of the robot soap opera All My Circuits?
+	Bender	Oh! I am! Me! [He raises his hand, takes his whole arm off and waves it around with the other hand.] Bender is!
+	Tour Guide	Then you'll wanna get a close look at his luxurious Bel-Air home.
+	Bender	Yes, I will.
+	Calculon	Are you my new hot water heater?
+	Bender	No, I'm Bender. We met once, remember?
+	Calculon	Absolutely not.
+	Bender	Come on, don't you remember how much I was bugging you, don't you? 'Cause it was a lot, you remember, right?
+	Calculon	Look, I'm programmed to be very busy. Unless you can heat water to 212 degrees, I'm not interested. [He closes the door and Bender immediately rings the bell. Calculon opens the door again.] Have you got an extra GOTO 10 line? I said I don't need a bender.
+	Bender	Bender? That was the other guy. My name's Boiler.
+	Calculon	Nice work, Boiler.
+	Bender	Thanks. And call me Bender.
+	Zoidberg	That's where I'm meeting Uncle Zoid for lunch to discuss my Hollywood dreams. Next time you see me, don't be surprised if I've eaten.
+	Zoidberg	Uncle Zoid, you're looking young enough to be thrown back!
+	Zoid	Rich nephew, come over here and give your uncle a nice, big meal. [They hug and sit down.] So, here we are: A still-famous film comedian.
+	Zoidberg	And a rich, respected doctor with many surviving patients.
+	Zoid	Eating real food in a restaurant, as we both often do. So, you want to be a comedian, is it?
+	Zoidberg	It's my lifelong dream.
+	Zoid	[shouting] Well that dream dies now. [He bangs his claw on the table.] You're unfunny and untalented. That's why you're perfect for drama.
+	Zoidberg	Hmm. Serious drama. Perhaps it is time to give up comedy.
+	Zoid	I'm putting together a big drama picture right now, as we speak. The script is dynamite. I know because I wrote it myself. And with me directing and starring, I'll be back on top after 50 miserable years-- [Zoidberg gives him a curious look.] Uh, of fame.
+	Zoidberg	Ah, fame. Where do I come in?
+	Zoid	This fame film has a juicy part for you, if you completely finance it with your doctor money. So, are you in?
+	Zoidberg	Uh, OK. How much do I have to invest?
+	Zoid	Oh, not much, not much, [quietly and quickly] A million dollars. [Zoidberg spits water out off every valve in his head.] [normal] Then it's settled. Another blockbuster Hollywood deal.
+	Waiter	What can I get you gentlemen?
+	Zoidberg	Is bread free?
+	Waiter	Yeah.
+	Zoidberg	We'll split an order.
+	Bender	What's with Monstro?
+	Fry	He promised he'd give his Uncle Zoid a million bucks to make a movie.
+	Zoidberg	[crying] I've only been here a day and already I'm a Hollywood phoney.
+	Bender	[proud] Well, perhaps I could call on TV's Calculon to help, now that I'm in showbiz.
+	Fry	Since when have you been in the biz?
+	Bender	Long enough, little man. Long enough.
+	Bender	Calculon, as your hot water heater ... [Calculon uses Bender as a hot water caddy and pours water into a mug with a tea bag in it.] ... I would be remiss if I didn't bring you scripts that could make you an international film star.
+	Calculon	Of course. Tell me about the project.
+	Zoidberg	It's a movie.
+	Calculon	Interesting. Tell me more.
+	Bender	Get this: For a scant $1 million investment, you can be the star.
+	Calculon	And?
+	Bender	And, uh, I guarantee it'll win you an Oscar.
+	Calculon	An Oscar, you say? That would get me out of this festering rat's nest called "television" once and for all. Let me see the script. [Zoidberg hands it to him and he speed-reads it.] No. No, I don't like the font. [He looks at the cover.] Wait! Harold Zoid? Was this written by the Harold Zoid?
+	Zoidberg	Written and Xeroxed.
+	Calculon	Good heavens! A chance to work with the legendary Harold Zoid. He's one of my great idols. And-And you say you can guarantee me the Oscar?
+	Bender	I can guarantee anything you want.
+	Calculon	Then I'll do it!
+	Zoidberg	Hooray!
+	Bender	Here's your chequebook.
+	Calculon	Ladies and gentlemen, I give you our director, the legendary Harold Zoid!
+	Zoid	Thank you. A more classic movie plot there isn't: A son who does not want to follow in his father's business. And that business is being President of Earth, no less. The son, as it happens, is Vice President.
+	Bender	[to Calculon] That plot makes perfect sense. Wink, wink.
+	Zoidberg	Bender, you said "wink, wink" out loud.
+	Bender	No, I didn't. Raise middle finger.
+	Zoid	Now remember, and I can't stress this enough, this is a talkie, so I want the full gamut of emotions from every actor in every scene.
+	Zoidberg	The Magnificent Three. Scene one, take one.
+	Zoid	And, action!
+	Calculon	Take back your gilded pen, Father. Signing bills into law was always your dream, not mine.
+	Zoid	Cut! Cut! Cut it! [He spits.] I said this is a talkie, damnit! You've got to emote more! And you extras, wave your arms and make faces. What is this, a morgue?
+	Zoidberg	The Magnificent Three. Scene 10, take 95.
+	Zoid	Action. And I mean circus-grade action.
+	Calculon	[melodramatically] Sir, I call upon you not as a President but as a father.
+	Zoid	Cut, cut, cut it! [He turns to Calculon.] Would you show a little emotion? [He turns to the extras.] People, people, please. Just because it's a dramatic scene, doesn't mean you can't do a little comedy in the background. [The extras nod.] Throw a pie or two, for God's sake.
+	Calculon	[screaming] Nooo!
+	Zoid	Cut, cut it! Eck! Look, look, it's alright, kid. We'll, uh, we'll get it in editing. Alright, that's a wrap, everybody. I'm gonna see you all at the premiere which, by the way, when is?
+	Zoidberg	Well, editing is a long and expensive process but we spent all the money on pies, so it'll be ready Friday.
+	Bender	Nice turnout, Calculon. That Oscar's practically on your mantel.
+	Calculon	I just pray they like me half as much as I do.
+	Calculon	[in movie] I agreed to be your Vice President but I never agreed to be your son. [He splashes water in Zoid's face and leaves. Zoidberg, wearing a white naval uniform, opens the door for him and salutes.] Thank you, Lieutenant Smith.
+	Zoidberg	[in movie] Good morning, Mr. Vice President!
+	Fry	Leela, we're missing the premiere. [Leela wears a dress and hair sticks.] My only goal in life was to attend a Hollywood shindig. Just pay the valet the two bucks.
+	Leela	No! It's the principle of the thing. Besides, I think I see a parking lot up ahead.
+	Calculon	[in movie] Father, I've asked you to join me on the White House roof so we could have a heart-to-heart talk. I will never follow in your footsteps. Here is my resignation as Vice President.
+	Zoid	[in movie] No! My son will not shame me like this. I would sooner die, I would!
+	Calculon	[in movie] Father! The ledge!
+	Zoid	[in movie] Oy!
+	Calculon	[in movie] Oh!
+	Zoidberg	[in movie] The President is dead. Congratulations, Mr. President!
+	Calculon	[screaming; in movie] Nooo!
+	Bender	[cheering] Woo-hoo! Yeah! He's a visionary!
+	Calculon	Everyone walked out. They hated it. I've seen plagues that had better opening nights than this. You said that Oscar was practically on my mantel.
+	Bender	Now you know why I use the qualifier, "practically".
+	Calculon	You listen to me. I'm out a million bucks here! You get me that Oscar or you're dead! You and these snivelling lobsters! Dead. You hear me? Dead!
+	Zoid	Oy, now he emotes!
+	Zoidberg	Let's just hope Calculon breaks our legs; they'll grow back.
+	Zoid	He's gonna kill us, you klutzel! Who told that under-acting stiff he was going to get an Oscar?
+	Bender	Me. It seemed like the least honest way to get him to pay for the movie.
+	Zoid	He paid? [He turns to Zoidberg.] I though you paid, with your big-shot doctor money.
+	Zoidberg	[crying] I lied.
+	Zoid	OK, enough with the blubbering, already. The way I directed the hell out of him, he may still very well get the nomination.
+	Bender	Wink.
+	Calculon	400 categories and not a single nomination for me.
+	Zoidberg	But you won this Golden Globe!
+	Calculon	Piffle! That's the Emmy of movie awards! [He throws it towards Bender. He dodges it and it hits an All My Circuits: The Movie poster.] I told you I want an Oscar.
+	Bender	Then maybe you should act better.
+	Calculon	The Oscar isn't about acting. It's about earning the respect and admiration of the creative community.
+	Zoid	How 'bout we rig the awards?
+	Calculon	That's fine too.
+	Leela	It's no use. The tar is too thick. Plus, I think I flooded it.
+	Fry	Well, we missed the premiere and we're gonna die. We might as well enjoy the sights. [He looks out of the window and a skeleton floats past.] Oh, my God! Sylvester Stallone!
+	Zoidberg	This is where you live? I though you were a big-shot Hollywood movie star.
+	Zoid	No, I'm not. I'm an even bigger liar than you. My career went down the tubes the day they invented smell-a-vision.
+	Bender	Calculon's gonna kill us for sure. It's all everybody else's fault.
+	Zoid	Oy. All I wanted was for people to think of me one last time before I die.
+	Zoidberg	What are you talking about, Uncle? Everybody remembers Harold Zoid!
+	Zoid	As a pathetic has-been, they remember me. As a forgotten relic, they remember me. Bah! It's better to die now.
+	Zoidberg	No. This is one death Dr. Zoidberg won't be responsible for. Zoidberg away!
+	Rivers	Hi, I'm Joan Rivers' head. I tell you, I've had so many face-lifts, they finally lifted it right off my body! It's true, it's true! Oh, oh, oh! Here comes Jack Nicholson's DNA reconstituted in a gorilla body.
+	Bender	Catering.
+	Rivers	Oh, and here's washed-up actor, whatshisname, Harold Zoid. Are you presenting one of those tacky honorary awards, or just getting one?
+	Zoid	I'm a seat-filler, Joan's head. My only marketable skill is to occupy space.
+	Calculon	You know, the second I don't win that award, you're cat food. Right, Boxy?
+	Announcer	And now, the host of the 1074th Academy Awards, Billy Crystal.
+	Crystal	Now I know how a Pez dispenser feels. [The audience laughs. Jack Nicholson bangs his chest.] Oh, you like that one, Jack? [He impersonates a gorilla. The Oscar statue picks up Crystal's jar and puts it on a podium.] Alright, we're already one hour behind. [Nicholson grunts.] Our first award tonight: Best Cinematography in a Non-Visible Spectrum.
+	Fry	It's been two weeks. You wanna play tic-tac-toe again before we eat our shoes?
+	Leela	Oh, I always knew I'd die at the bottom of a pit. But a pit full of tar?
+	Fry	What was that? A tar dolphin or a tar shark?
+	Leela	It's some kind of hollow tube, devoid of human life. [She gasps.] The Los Angeles subway! We can blast our way in and escape!
+	Fry	Alright, but I still feel like having a shoe.
+	Zoidberg	What category are they on?
+	Bender	They're giving out the minor technical awards. I think they're up to writing.
+	Zoidberg	That just leaves Best Soft-Drink Product Placement and then Best Actor. We don't have much time.
+	Crystal	And the nominees for Best Soft-Drink Product Placement are:
+	Slurm Machine	Star Trek: The Pepsi Generation, They Call Me Mr. Pibb and Snow White and the 7 Ups.
+	Bender	And now to present the award for Best Actor ... [Zoidberg walks onto the stage.] ... a bit player in the flop movie The Magnificent Three ... [The audience murmur.] ... Dr. Zoidberg.
+	Calculon	[quietly] OK, Boxy, keep your prong on the trigger.
+	Zoidberg	And the nominees for Best Actor are: Sir Lawrence-- [He makes a weird noise.] ... in The Merchant of Venus, Hive Mind Gamma 7X in Bikini Party Summer, the Soda Machine Robot in Bikini Party Summer, Mark Jones in How Beige Was My Jacket and, instead of the fifth guy, Calculon, for his powerhouse performance in The Magnificent Three.
+	Man #1	Uh-oh, he read the wrong name.
+	Man #2	[whispering] Shh, just play along, like they did for Marisa Tomei.
+	Zoid	Hooray, I won't be murdered. I'll live another day. Another day of ... pathetic, forgotten misery.
+	Zoidberg	And the winner is... [Calculon starts to stand up.] And the winner, instead of any of the nominees, is the legendary Harold Zoid!
+	Zoid	Thank you. Thank you so much! You know, through all my ups and downs, I always thought the most important thing in life was to win an Oscar. But tonight I realise what's really important is to win two Oscars. Ha! Ha! I'm kidding, I'm kidding. What really matters in life is that people care about you, whether it's a whole crowd ... [The audience is unenthusiastic.] ... or just one die-hard fan.
+	Zoid	Thank you, nephew. [He kisses him.] Now I can die happy. 10 seconds from now, when Calculon kills us.
+	Calculon	Harold Zoid!
+	Bender	Hit the deck!
+	Calculon	Where's that Oscar?
+	Zoid	Here, enjoy. What are you getting upset? It's slightly less fraudulent for you to have it.
+	Calculon	Yes. Yes, it's a real beauty. Someday I hope to win one of my own.
+	Bender	Then you're not going to kill us, Your Majesty?
+	Calculon	Nay. I respect and admire Harold Zoid too much to beat him to death with his own Oscar.
+	Zoidberg	Earthquake!
+	Bender	Hit the deck!
+	Zoid	Let the earth quake, I've got somebody's Oscar!
+	Fry	We made it! I'm at a Hollywood party!
+	Doorman	I'm sorry, sir, this is a private-- Oh, pardon me, I see you're with Mr. Stallone.

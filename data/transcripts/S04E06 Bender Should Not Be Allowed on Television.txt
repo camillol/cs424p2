@@ -1,0 +1,253 @@
+	Announcer	[voice-over; on TV] Previously on All My Circuits...
+	Antonio	[crying; on TV] I'm sorry, Father. But, somewhere along the way, I forgot how to be your son.
+	Calculon	[on TV] Why, Antonio?
+	Antonio	[crying; on TV] Because ... I have amnesia!
+	Monique	[on TV] Calculon? But I thought you were--
+	Calculon	[on TV] Egyptian?
+	Monique	[on TV] Before I kill you, I must ask you one question: Who am I? For I have ... amnesia!
+	Calculon	[on TV] Let me get this straight: Does anyone here not have amnesia?
+	Monique	[on TV] Not sure.
+	Human Friend	[on TV] I 'unno.
+	Cubert	This show is awesome! When I grow up I'm gonna have so much amnesia!
+	Dwight	Me too. I mean, I have it now, but I forgot.
+	Cubert	Well, mine's louder!
+	Bender	Cram a ham in it, you twerps! [He throws his beer bottle at them, it misses and hits Fry, who squeals.] Sorry!
+	Fry	Nah, I had it coming.
+	Calculon	[on TV] Welcome, swingers. Pull up a groove and get fabulous.
+	Monique	[on TV] Nude rocks bands, big piles of what I assume is talcum powder. It's quite a birthday party, Calculon.
+	Cubert	Cool! I'm gonna have a fabulatious birthday party just like Calculon!
+	Dwight	Oh, yeah? Well I'm gonna show up looking good, just like Monique.
+	Leela	Do you two have to imitate everything you see on TV?
+	Cubert	Um, we're 12. So, yes.
+	Dwight	Hold up, Cubert. You're a clone of the Professor. Do clones even have birthdays?
+	Cubert	Um, duh!
+	Dwight	"Duh" what?
+	Cubert	Dad? Do I have a birthday?
+	Professor Farnsworth	Hmm. You didn't have a birth so, technically, no. [Cubert sighs. Farnsworth puts his hand on his shoulder.] Oh, don't feel bad. We can celebrate the day I extracted you from the cloning tank, or the day I scraped your DNA from that growth on my back.
+	Cubert	Ooh! That one!
+	Professor Farnsworth	Ah, yes. It was 13 years ago next week. [He takes something out of his lab coat.] I used this very fork.
+	Hermes	Aw, well isn't that-- Ew!
+	Dwight	Hey! Next week'll be my birthday too.
+	Hermes	That's true. If only there were a way to have one party for both of you here at the office then write it off as a business expense. Wait! I thought of a way! The way I just said!
+	Cubert	Yeah!
+	Dwight	Way to go, Pops!
+	Bender	[shouting; from lounge] Something's happening on television.
+	Calculon	[on TV] Oh, Monique, why did we wait so many years to bathe in champagne?
+	Antonio	[on TV] Father, I've discovered the shocking secret mother has kept from you for 200 years.
+	Monique	[on TV] No! No!
+	Antonio	[on TV] Brace yourself. For when I speak these words, you may well suffer an attack of explosive amnesia. For you see, the horrible secret is--
+	Bender	Whoever's directing this is a master of suspense!
+	Sal	He's busteds. Let's get hims outta heres.
+	Announcer	[voice-over; on TV] We now join America's most popular show already in progress, Everybody Loves Hypno-Toad.
+	Fry	This show's been going downhill since season three.
+	Zoidberg	Look who's here, everyone! It's Zoidberg, the lovable tramp!
+	Leela	Since when are you performing at children's parties?
+	Zoidberg	Performing? What? Please, if someone could spare me money to buy shoes--
+	Dwight	This party pukes.
+	Cubert	Yeah! The guests were supposed to be here three hours ago.
+	Professor Farnsworth	Well, that doesn't mean that no one is coming or that you two are total losers. Who gave you that idea?
+	Dwight	Alright! They must have all come as a group.
+	Cubert	Welcome, swingers! Pull up a groove and get fabulous.
+	Tinny Tim	Good day, fellows. Someone dumped this invitation in my begging cup. Happy growth-scraping day to all!
+	Hermes	Fire 'em all.
+	Professor Farnsworth	Mm-hm. Mm-hm.
+	Bender	[gasping] Guys! Guys! Something's happening on television again.
+	Morbo	[on TV] Welcome to Entertainment And Earth Invasion Tonite. Across the galaxy, my people are completing the mighty space fleet that will exterminate the human race! But first, this news from Tinseltown.
+	Linda	[on TV] Following Antonio Calculon Jr.'s breakdown on the set, the popular TV show All My Circuits will hold an open casting call for child robots to replace him.
+	Bender	An open casting call for child robots? Tinny Tim, are you thinkin' what I'm thinkin'?
+	Tinny Tim	What's that, sir?
+	Bender	That I, Bender, am perfect for the role!
+	Tinny Tim	You raised my hopes and dashed them quite expertly, sir. [He raises his crutch.] Bravo!
+	Leela	Bender, your swarthy Latin charm will only get you so far. There's a lot of famous child acting units here.
+	Fry	Look! There's Macaulay Culkon.
+	Leela	He's just not cute since he got puberty installed.
+	Fry	Pst. There's that robot child actor who grew up and robbed a convenience store!
+	Leela	And there's that robot child actor who grew up and became a convenience store!
+	Robber-bot	Lottery ticket, please.
+	Casting Director	We're ready for the first audition. [She looks at her clipboard.] [reading] Emotitron Jr.?
+	Mombot	Hold on, precious. Let's make you look nice for the lady. [She smoothes his "hair" down and opens his chest cabinet, revealing wires.] What's this? [She snaps the wires out.] What did I tell you? [She whips him with every word.] No more hanging wires!
+	Casting Director	In this scene, you've just found out your real father is Calculon's fourth evil identical septuplet, Sleazy Martinez. OK ... take us there!
+	Emotitron Jr.	Now that I know the truth, Father, I must ride south and join the robo-bandidos at Veracruz.
+	Bender	[shouting; from outside] Awful! Boo! This kid sucks! We want Bender! Boo!
+	Calculon	Well, I thought he was good but the audience seems to have turned on him.
+	Casting Director	But I don't think--
+	Calculon	Next!
+	Macaulay Culkon	--At Veracruz. So, if you'll kindly hand me my poncho--
+	Bender	[shouting; from outside] Boo! Bring on Bender! Boo! Bender's the greatest!
+	Calculon	Sorry, kid. You're flailing up there. [He screams and runs out.] 90 actors and they all got boo-ed. I just wish we could get this Bender I keep hearing about. They say he's the greatest.
+	Casting Director	Well, there is a robot named Bender here but he's much too old for--
+	Calculon	Send him in forthwith!
+	Bender	[shouting] Boo! Not as good as Bender! Boo!
+	Casting Director	Mr. Bender?
+	Casting Director	Have you ever been on TV before?
+	Bender	Once, when I took those hostages.
+	Calculon	I saw that! You were good. Let's hear you audition.
+	Bender	Bandidos, eh? Aw, this is great! 'Cause I happen to have a flawless Spanish accent! [He clears his throat.] [bad Spanish accent] I will see. Adios Padre! Come, Jesus, my faithful ... chee-huey-hua. Tonight we eat ... gee-wack-a-mole by the El Rio!
+	Calculon	That was so terrible I think you gave me cancer! I don't care how popular you are. You will never work on my show!
+	Fry	[shouting; from outside] Yay, Bender!
+	Leela	[shouting; from outside] We demand Bender!
+	Calculon	However, you've got the job. Welcome aboard, son!
+	Bender	Father-o!
+	Calculon	Bender, I'd like you to meet our director ... [He pulls a man with a ponytail and wearing a blernsball cap in front of him.] ... whose name I never learned.
+	Bender	Yo! I read the script and I think it would help my character's motivation if he was on fire.
+	Director	Uh, don't worry about the script, baby. We re-wrote your part to better suit your acting abilities.
+	Bender	So now my character has a British accent?
+	Director	No, now your character's in a coma. Get in bed and don't move. [He moves off the set behind the cameras. Bender grumbles and hops onto the bed and lies down.] And ... action!
+	Bender	[muttering] Stupid dumb coma ... coulda been British.
+	Calculon	Alas that mine only son should sink into an irreversible, permanent ... coma.
+	Bender	[quietly] Permanent? That's completely out of character for Antonio. I'm gettin' up.
+	Calculon	Curse the tragic wildebeest accident that--
+	Bender	Hey, everyone! Antonio here, but you can call me "Bender"! I got ants in my butt and I needs to strut. [He stands up on the bed and starts dancing.] C'mon, baby! [He hums and takes a cigar out of his chest cabinet and takes a few puffs then follows with a gulp of beer.] Come on!
+	Calculon	I'm not familiar with the type of thing I'm seeing.
+	Bender	Bite my shiny metal ass! [He carries on dancing.] Ooh, yeah! C'mon, baby! Come on! Yeah!
+	Director	[shouting] Cut! [He walks onto the set.] That's the worst coma acting I've ever seen. We'll have to shoot it again.
+	Calculon	No! No, no, no. I don't do two takes.
+	Director	But this guy was--
+	Calculon	Amateurs like you do two takes. I do one take. Print it. I'll be in my three-storey trailer.
+	Bender	[on TV] Bite my shiny metal ass! [He starts dancing.] Ooh, yeah! C'mon, baby! Come on! Yeah!
+	Bender	Now that's hospital dancing. [He nudges Calculon.] Pretty good, eh, Calcky?
+	Calculon	Good? I've seen better acting from extras in Godzilla movies. [On the screen Bender whistles nonchalantly as he empties a chest of drawers.] I don't even remember shooting this scene.
+	Director	We didn't. That's security camera footage from your dressing room.
+	Calculon	He stole the scene and my money? That's it! I demand you fire this felonious ham!
+	Director	The network Execubots are coming!
+	Calculon	Oh, dear God!
+	Betabot	Presenting the president of the network.
+	Network President	Greetings, gentlemen. You already know my Execubots: Executive Alpha, programmed to like things it has seen before.
+	Alphabot	Hey, hey, hey.
+	Network President	Executive Beta, programmed to roll dice to determine the fall schedule.
+	Betabot	More reality shows.
+	Network President	And Executive Gamma, programmed to underestimate middle America.
+	Gammabot	It's funny but is it going to get them off their tractors?
+	Network President	Now, who put this obnoxious, dancing robot on my network?
+	Director	We were about to fire him, sir.
+	Network President	Silence, hack! We've been monitoring our Nielsen families carefully. And during the 12 seconds Bender was on screen, viewer eyeball focus was up 90%.
+	Calculon	But, sir, children watch this show. Bender's no role model, he's a filth monger!
+	Network President	At our network, we love filth! Filthy rich, that is! Being filthy rich, that is! [He laughs and signals fizzle towards the Execubots, making them all laugh with him.] "Bite my shiny metal ass" could be a catchphrase.
+	Alphabot	80% likely.
+	Gammabot	It will play in Peoria.
+	Betabot	Gameshows are back.
+	Network President	We need this edgy, sweeps-ready robot on our network. Bender? Can you continue to drink, smoke and steal things on TV?
+	Bender	Yes, I can.
+	Tinny Tim	Yeah! Shooting!
+	Dwight	Alright!
+	Dwight	Yo! Check out what I jacked from my dad.
+	Cubert	A cigar!
+	Tinny Tim	Ripping!
+	Dwight	Look! I'm Bender!
+	Hermes	Ras H. Tafari! What's goin' on here?
+	Professor Farnsworth	The ruffians smoked one of your cigars.
+	Hermes	That's not a cigar. Uh ... and it's not mine!
+	Cubert	Hey, Dad! Bite my shiny metal ass!
+	Professor Farnsworth	What? Such an act would be most uncomfortable for both of us! Where did you learn such language?
+	Tinny Tim	From Bender, my good jerkwad.
+	Hermes	Bender, eh? That guy's really startin' to twist my dreads.
+	Bender	OK, OK, OK. Get ready for this part.
+	Zoidberg	Quiet, robot! Bender's on TV.
+	Monique	[on TV] Oh, Calculon, it's so good to get away from the city and that beastly, yet intriguing, Bender.
+	Bender	[on TV] Try this, kids at home!
+	Linda	[on TV] Is television sensation Bender a bad role model for Earth children?
+	Bender	That's crazy!
+	Linda	[on TV] A new protest group, Fathers Against Rude Television, says "Hell, yes!"
+	Fry	Pft! What kind of bozos would start a Bender protest group?
+	Professor Farnsworth	Good news, everyone. Hermes and I have started a Bender protest group.
+	Zoidberg	That was uncanny.
+	Hermes	Fathers Against Rude Television don't want our kids watching Bender's high-definition filth.
+	Professor Farnsworth	And for what? Some kind of cheap laugh? That's not what F-A-R-T is all about.
+	Hermes	No, sir! Not us FARTers.
+	Bender	Whoa, whoa, whoa! You can't censor me just 'cause I'm an obscenely bad role model.
+	Leela	As unclean as it makes me feel, I agree with Bender. Kids don't turn rotten just from watching TV.
+	Fry	Yeah. Give a little credit to our public schools.
+	Cubert	Our dads are all pumped up on dork-osterone. We're just trying to be cool, like Bender.
+	Dwight	Yeah, and it's not even working. Smoking and drinking make us barf.
+	Tinny Tim	Gentle jerkwads. I know how to emulate Bender without barfing. We could commit a burglary.
+	Dwight	Hey, yeah!
+	Cubert	Bender loves to burgle!
+	Dwight	Hold up, though. Who could we rob? We don't even know anyone with cool stuff.
+	Cubert	Duh! We know someone who runs on pure cool fuel: Bender!
+	Dwight	Whoa!
+	Tinny Tim	We'll rob Bender!
+	Dwight	TV gave us the idea.
+	Bender	[voice-over] You're watching Futurama, the show that does not advocate the cool crime of robbery.
+	Cubert	OK. It's crime time.
+	Fry	Hey, Bender. [Cubert walks past with a Bender portrait.] Hey, Bender. [Dwight struggles with a safe marked "Bender's Loot".] Hey, Bender. [The phone rings. Fry picks up.] Hey, Bender.
+	Professor Farnsworth	What's going on in here? [The music stops. Hermes rubs some dirt off Farnsworth's glasses and Farnsworth straightens them.] Oh. Now I'm really outraged.
+	Hermes	Where did you requisition this party? And Zoidberg, what are you doing here?
+	Zoidberg	I'm networking. Let me give you my card.
+	Cubert	Relax, Dad. We just invited a few friends over.
+	Professor Farnsworth	Hmm. There's something wrong with your story but I can't put my finger on it. [He gasps.] Of course! You don't have friends!
+	Hermes	Yeah. Why do these popular kids consider you cool all of a sudden?
+	Dwight	Um ... we're just cool, is all!
+	Professor Farnsworth	Balderdash! I'll be the judge of who's cool, using the cool-o-meter!
+	Cool-o-Meter	Oh, yeah!
+	Professor Farnsworth	Good Lord! I'm getting a reading of over 40 mega-Fonzies.
+	Hermes	Everybody out!
+	Zoidberg	So, do you guys know about anything else going on, because I'm totally still ready to party.
+	Hermes	There's enough cool stuff here to furnish a happenin' pad. Where did it all come from?
+	Tinny Tim	Don't tell, comrades. All for one and one for all!
+	Dwight	We stole it!
+	Tinny Tim	Oh, crumb!
+	Bender	What? What's going on?
+	Professor Farnsworth	I'll tell you what. Our boys have taken up stealing! One of the worst and coolest of crimes.
+	Hermes	And all from watching you on TV, you cool jerk.
+	Bender	Hey, lay off me. TV would stink if everyone on it was a positive role model. Bender is about entertainment, baby! You can't hold me responsible for what kids do when-- Hey! This is my stuff they stole! [He takes Playbot from Tinny Tim.] That's the last straw! Bender should not be allowed on television!
+	Bender	Bender must be stopped. I've gone too far. Who does that guy think I am? [The dads cheer.] Come on! We're gonna march all the way to Hollywood and make them stop forcing their filthy me down our throats!
+	FART Mob	[chanting] Down with Bender! Down with Bender! Down with Bender! Down with Bender!
+	Bender	This mob's with me.
+	Security Guard	Go ahead.
+	FART Mob	[chanting] Down with Bender! Down with Bender! Down with Bender! Down with-- [They see a red light and a "Quiet When Red Light Is On" sign outside the Everybody Loves Hypno-Toad soundstage and stop chanting. The light goes off and they carry on.] Bender! Down with Bender!
+	Calculon	As a doctor and captain of this hospital ship, I now pronounce you man and wife with six months to live.
+	Professor Farnsworth	Listen up, Hollywood. We're an exciting, new mob.
+	Bender	Yeah!
+	Hermes	You'd better believe it!
+	Calculon	Great Shatner's ghost!
+	Bender	We demand that all TV's be equipped with a B-Chip that blocks Bender from appearing on the screen.
+	Professor Farnsworth	Booya!
+	Network President	I'm afraid the answer is a gritty, in-your-face no.
+	Bender	Then I quit.
+	Network President	Then you don't quit. [His CD-ROM drive opens and one of the Execubots puts a gun in it and connects it to him.] I think you'll be finishing the scene now, Mr. Bender. And don't skimp on the nasty.
+	Professor Farnsworth	There'll be no further nasty. [He takes a laser out of his lab coat.] We still have the option of resorting to violence.
+	Hermes	What makes you think that'll work?
+	Professor Farnsworth	I saw it on TV in that episode where Bender shot Calculon. How cool was that?
+	Bender	Ooh, yeah! C'mon--
+	Professor Farnsworth	Quit the show!
+	Network President	Do the scene.
+	Professor Farnsworth	I'm a cold-blooded punk!
+	Network President	I once put a laugh track on a sitcom that had no jokes in it.
+	Bender	Hey, look! The prop guy has a lamp!
+	Network President	Really?
+	Professor Farnsworth	Wha?
+	Bender	Aha!
+	Professor Farnsworth	I was using that!
+	Bender	Listen up, 'cause I've got a climactic speech! You, cameraman, keep the camera rolling. You, director, gimmie my motivation.
+	Director	You're angry.
+	Bender	Perfect. [He turns to the camera.] Viewers of the world, do smoking and drinking on TV really make me cool? Of course they do. [He blows some cigar smoke.] How 'bout committing crimes and violence? Again, the answer is "yes". But do we really want our kids exposed to that kind of trash on TV? I say absolutely not! [He accidentally fires Farnsworth's laser and a laser bolt flies over Farnsworth's head, narrowly missing him. Bender clears his throat.] Uh ... on the other hand, most, perhaps all the blame, rests with the parents. That's right, you! [He points his firearms at the FART mob and they gasp and duck.] And so I ask you this one question: Have you ever tried simply turning off the TV, sitting down with your children, and hitting them?
+	Hermes	[ashamed] We're just so busy.
+	Bender	Well make time.
+	Director	And ... cut!
+	Calculon	Good enough. Splice in some reaction shots of me and shove it on the air.
+	Bender	[on TV] : Have you ever tried simply turning off the TV, sitting down with your children, and hitting them?
+	Hermes	Well, I'd say we all learned a valuable lesson about TV there.
+	Cubert	What was it?
+	Professor Farnsworth	Uh ... that we should all take TV a little less seriously. And more importantly, turn it off once in a while.
+	Fry	Hear, hear!
+	Leela	Yeah!
+	Bender	Damn right!
+	Dwight	So, should we turn it off now?
+	Professor Farnsworth	Well, uh, that depends what's on.
+	Fry	Nothing good.
+	Professor Farnsworth	Ah, let's just keep watching.
+	Bender	[singing] TV party tonight!
+	Professor Farnsworth	Wha?
+	Bender	[singing] TV party tonight!
+	Professor Farnsworth	Oh!
+	Fry	[singing] We've got nothing better to do.
+	Leela	[singing] Than watch TV and have a couple of brews!
+	Zoidberg	[singing] Don't wanna talk about anything else.
+	Fry	[singing] We don't wanna know!
+	Professor Farnsworth	[singing] We're dedicated, yes!
+	Hermes	[singing] To our favourite shows!
+	Cubert	All My Circuits
+	Dwight	Everybody Loves Hypno-Toad!
+	Amy	Scary Door!
+	Leela	Blernsday Night Blernsball!
+	Bender	Futurama!

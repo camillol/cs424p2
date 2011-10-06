@@ -1,0 +1,225 @@
+	SewerCom Operator	[on phone] [pleasant female voice] Your call is being [gruff male voice] connected [pleasant female voice] by SewerCom. Reach out and touch the sewers.
+	Turanga Munda	[on screen] Look, Morris, it's Leela calling.
+	Leela	Hi, Mom. Hi, Dad. Ready for your big trip to the surface?
+	Turanga Morris	[on screen] We're excited, honey, but we don't wanna embarrass you. I mean, your mother and I are basically monsters.
+	Leela	Dad, relax. You are being so mutant!
+	Turanga Munda	[on screen] I found this adorable little bag to wear over my head. [She puts it on.] And it was on sale!
+	Leela	No one's wearing anything adorable over their head. Now listen, I could never, ever be ashamed of my parents. I'll see you this weekend.
+	Leela	Hey, guess who I just got off the videophone with?
+	Bender	No.
+	Leela	My parents! They're coming up from the sewers for a visit Sunday.
+	Amy	Are you off your rocket? Your parents are mutants. It's illegal for them to come above ground 'cause they're inferior genetic scum. Uh, present company excluded, of course.
+	Leela	I'm getting them a special one-day surface permit from Citihall.
+	Hermes	Ooh. While you're there, could you pick me up a licence to kill?
+	Leela	Sure. Bare hands or weapon?
+	Hermes	Uh, what does piano wire count as?
+	Professor Farnsworth	Good news, anyone. The Swedish robot from Pi-kea is here with the super collider I ordered.
+	πkea Robot	Enjoy your affordable Swedish crap.
+	Fry	Let's see what tools we'll need. [Hammer.] Uh-huh. [Screwdriver.] Uh-huh. [Bending unit.] Uh-huh. Alright, we're all set.
+	Bender	Nothing like the rustic wholesomeness of working with one's own hand.
+	Bender	Ah, there. Finished. And with only six missing pieces!
+	Fry	Those Swedes sure know how to put in almost everything you need.
+	Leela	Man, I'm sore all over. I feel like I just went ten rounds with Mighty Thor.
+	Fry	I feel like I was mauled by Jesus.
+	Zoidberg	I've got just the thing: Genuine miracle cream I bought from a travelling salesman. [Fry and Leela squeeze some onto their hands and rub it on themselves.] "Come one, come all," he said. "Step right up!" "This sounds too good to be true," I thought. He said I looked like a smart, young man. "So is it a deal?" I enquired. Two hours later he was gone, with 60 of my dollars. But I have the miracle cream--
+	Professor Farnsworth	Bad news, nobody. The super collider super-exploded. I need you to take it back and exchange it for a wobbly CD rack and some of those rancid meatballs.
+	Man #1	Excuse me. hi! Do you have a minute? I live in Jersey City and my car broke down and I need to get back because my Aunt's real sick and she needs this medicine but I need money for the bus. So I'm mugging you. Hand over your wallets.
+	Leela	I don't believe that story for a second.
+	Man #1	It doesn't matter, I'm mugging you.
+	Fry	There's no bus to Jersey City.
+	Man #1	Give me your wallets now or my robot'll shoot.
+	Andrew	Don't make me hurt you.
+	Fry	I'm too scared to find my pocket. Here, I'll just take of my pants and give you those.
+	Man #1	Hey! I don't like what I'm seeing. Give it to him, Andrew! [Fry screams and Andrew shoots. The laser bounces off Fry and takes a chunk out of a wall.] Give it to him again, Andrew! [Andrew shoots and the laser bounces off Fry again and hits an Illegal Fireworks dispenser. The fuses light and they fly off in all directions.] What the-- Laser-proof shirts, huh? I'll show you.
+	Leela	Huh? Hey! Quit it! [She leaps up.] Hi-yah!
+	Man #1	Foiled. And after years of planning.
+	Andrew	You're outta the game!
+	Leela	How did we manage to survive? What gave us those strange powers?
+	Fry	Maybe we're all wearing magic rings but they're invisible rings so we don't even realise it. Also, you can't feel the rings.
+	Leela	Fry, shut up and look at this! [reading] May cause superpowers in humans.
+	Fry	Wow! A superpowers drug you can just rub into your skin? You'd think it'd be something you have to freebase.
+	Leela	Let's see. Which powers do we have? Super-strength?
+	Fry	Yup.
+	Leela	Uh-huh. Lickety speed?
+	Fry	Check.
+	Leela	Yes, sir! [They run back.] Ability to command the loyalty of sea creatures?
+	Fry	[shouting] Hey, Zoidberg, get in here!
+	Zoidberg	[shouting; from elsewhere] Screw you!
+	Leela	Ain't got that.
+	Fry	Nope!
+	Leela	Wow. Superpowers! I'll be able to pack my day with twice as many humdrum activities.
+	Fry	Leela, I think you're missing the big picture. When you were a kid, what was your biggest fantasy?
+	Leela	To have parents.
+	Fry	Whatever. The correct answer is: To be a superhero. We have superpowers and we're Americans. This is our chance.
+	Leela	Hmm. I have been looking for a way to serve the community that incorporates my violence. Let's do it!
+	Fry	You'll barely regret this!
+	Bender	Hey, a friend of mine said he mugged you today and you had superpowers.
+	Leela	It's true. Thanks to this funky-fresh cream.
+	Fry	Now me and Leela are forming an awesome crime-fighting duo.
+	Bender	Wow! Crime-fighting. Cool. You say you're a duo? Yeah, duos are good. Of course sometimes they're a little short-handed. [He starts walking back up the steps.] See you. With two humans, you'd think there'd be a robot in there to balance things out but whatever. [He opens his chest cabinet.] I have these three costumes you could use. But I guess I'll just throw one away.
+	Leela	We'd love to have you on the team, Bender. But aren't you more on the supply side of crime?
+	Fry	Plus the cream won't give you superpowers. You're a robot.
+	Bender	So? I'm already super-strong. And my arms do this. [He reaches over to the other end of the hangar, grabs a bottle of beer, retracts his arm and hands the bottle to Fry.] Also I got this going.
+	Leela	[shouting] Listen up, New New York: There's a new group of superheroes in town! And we're--
+	Hattie	[shouting; from elsewhere] Quiet! It's 4am and I just fell asleep for the first time in 30 years!
+	Leela	[shouting] Sorry! [whispering] A new era of justice has begun.
+	Hattie	[shouting; from elsewhere] What?
+	Narrator	[voice-over] Attention, all crooks, lowlifes and lawbreakers. Do yourselves a favour and crawl back into your filthy tenements, you human cockroaches. Or get your ugly face punched to custard by ... The New Justice Team.
+	Fry	Captain Yesterday!
+	Leela	Clobberella!
+	Bender	And Superking! The best one of the three!
+	Fry	[à la James Brown] Wow!
+	Song	Go, go, go, New Justice Team,
+	Song	Go, team,Go, team,Team, team, team,
+	Song	Who's the newest Justice Team?The New Justice Team!
+	Song	Captain Yesterday is fast,Also he is from the past,Not just fast but from the past,
+	Song	Captain Yesterday!
+	Song	Superking has all the powers of a king,Plus all the powers of Superman,Also he's a robot,Ain't it cool?Superking, you rule!
+	Song	Clobberella beats you up,Clobberella beats you up,Who does she beat up?You!
+	Song	Clobberella!
+	Song	Citizens, never fear,Crazy do-good freaks are here,Until they run out of steam...
+	Song	Miracle cream,Miracle cream,Gives the power to the team,
+	Song	It's effects wear off for sure,So they just slop on some more,The New Justice Team!
+	Bender	Ta-da!
+	Woman	[sexfully] Captain Yesterday, I find your skintight high-waters incredibly sexy. Let's get together sometime.
+	Fry	Sure. I'm listed in the phone book so once I reveal my real name to you along with my home address and a copy of my birth certificate--
+	Leela	Are you crazy? We have to keep our secret identities secret.
+	Fry	From everybody?
+	Leela	Especially from everybody.
+	Fry	Give several reasons why.
+	Leela	For one, superheroes cause a lot of collateral damage, and we don't wanna get our butts sued.
+	Fry	Or do we? No, I guess not.
+	Leela	Also, if our identities get out, every crook in the city will be after us. Or, God forbid, our loved ones.
+	Bender	Superking has no need for loved ones. [Tinny Tim holds out a pad for Superking's autograph. Bender signs it and kicks his crutch away. He falls down in a crumpled heap.] How ya doin', kid?
+	Mayor Poopenmeyer	There you go. Two one-day mutant surface passes.
+	Leela	Thank you, Mayor Poopenmeyer.
+	Mayor Poopenmeyer	Mayor here. What's that? Horrible crime in the works? Ruthless villain? Citizens in danger? That's fantastic news! [He hangs up.] Because I get to summon the New Justice Team!
+	Leela	Sh!
+	Mayor Poopenmeyer	Uh, they're usually here by now.
+	Leela	Well, so long. Keep in touch.
+	Mayor Poopenmeyer	Wait, stay and meet the superheroes. There's three of you and three of them so it'll be perfect. [He turns around and presses the button again. Bender wobbles again.] Is this clown on? Where are those daring crime stoppers?
+	Leela	Oh, I completely forgot. I left my apartment on fire!
+	Bender	Uh, as for me, I'm late for my LSAT's.
+	Fry	And I can't take life anymore.
+	Mayor Poopenmeyer	Clobberella! Captain Yesterday! My liege! You're just in time. [He presses a button and a hologram appears.] We've received a tip that the Museum of Natural History will be robbed tomorrow at exactly 9am. The target: The priceless Quantum Gemerald.
+	Fry	Who's the perp?
+	Mayor Poopenmeyer	A dangerous villain known as The Zookeeper, who commits crimes aided by a pack of highly-trained animals.
+	Fry	Pack of highly. Got it!
+	Mayor Poopenmeyer	His crew includes a badger with a troubled past and nothing left to lose, an elephant who never forgets -- to kill! And a seldom-used crab named Lucky, a.k.a. Citizen Snips.
+	Leela	You can count on us, Mr. Mayor. Justice away!
+	Bender	[gasping] Hold the elevator!
+	Bender	We're in here too.
+	Fry	Uh, Leela, how you gonna meet your folks tomorrow? We've already scheduled the Zookeeper for a 9am foiling at the museum.
+	Leela	Not a problem. I've cleverly arranged to meet my parents right there at the same museum at 10.
+	Bender	9, 10 a big fat hen. [He takes a puff of his cigar.] The name's Bender!
+	Leela	I can't believe the Zookeeper is this late for his own heist. It's just rude! [The clock strikes 10.] Total hell! It's 10! I'm supposed to meet my parents and I'm still in my secret costume! [Enter Morris and Munda. Leela gasps.] There they are!
+	Turanga Munda	How could Leela not be here? Do you think she forgot?
+	Turanga Morris	Relax. I'm sure she's just ashamed of us.
+	Security Guard	Yo! Freakjobs! Hit the nearest manhole, pronto, like.
+	Turanga Morris	But we have passes that allow us to be up here. From the mayor himself.
+	Security Guard	I dunno. I never heard of no mayor.
+	Randy Munchnik	The Zookeeper!
+	Zookeeper	Sorry I'm late. Long story. Now everybody hit the deck! I'm cutting the entire line and stealing the exhibit.
+	Leela	You're not stealing anything! Nobody hit the deck!
+	Zookeeper	Ah, the superheroes. Or should I say superzeroes!
+	Fry	[sad] That was uncalled for.
+	Zookeeper	Animals, attack.
+	Tour Guide	Please do not feed the animals!
+	Bender	You're going down, my friend! Down Under!
+	Roosevelt	Man boxing a kangaroo is a peculiar spectacle. But a kangaroo boxing a robot? Now I'm afraid you've lost me. [A crab drops into his jar and pinches him.] [shouting] Citizen Snips!
+	Zookeeper	Nice job, Fingers!
+	Turanga Munda	I'm scared and confused. I think we've wandered into an off-Broadway play.
+	Turanga Morris	No, there are way too many people here.
+	Zookeeper	Later, if anyone asks when I got away, tell them right now!
+	Leela	Forget it, Zookeeper! You're going into captivity.
+	Zookeeper	Fool! A quip about putting me behind bars would have been far more delicious. Here, catch!
+	Leela	No, Fry! You can't fall fast enough!
+	Bender	I got it, I got it! [He screams.] I don't got it!
+	Roosevelt	You've saved the Gemerald!
+	Fry	Yet the Zookeeper escaped, thus proving that the deadliest animal of all is the Zookeeper.
+	Bender	You can get off me anytime.
+	Leela	Oh, no! My parents are leaving. I've gotta go change back into street-Leela.
+	Photographer #1	It's the New Justice Team!
+	Photographer #2	Can we get some photos?
+	Mayor Poopenmeyer	Thank you, mysterious heroes. The value of the Gemerald you saved is slightly greater than the cost of the damage you caused to this museum. A net gain for our great city!
+	Turanga Munda	It's good that Leela doesn't love us. She'll be less sad when we die.
+	Leela	Mom? Dad? I showed up! And I got the audio tour for Treasures of Liberace's Tomb.
+	Turanga Morris	Sweetie, it's OK. You don't have to apologise for standing us up on the only visit to the surface we'll ever have.
+	Leela	I wanna tell you why I didn't show up, but I can't. Just please believe me that it was a very good reason. I'm sorry I disappointed you.
+	Turanga Munda	Leela, you could never disappoint us.
+	Turanga Morris	We're so proud of everything that you are, and we always will be. Because you're our baby girl.
+	Leela	Oh, I can't take it! Mom, Dad, I'm Clobberella!
+	Turanga Morris	Galloping gators!
+	Turanga Munda	You're a superhero? [She laughs.] Well that's wonderful! But did you have to make the costume so revealing?
+	Turanga Morris	Look at me! Proud dad of a superhero! We should print up T-shirts. And F-shirts for our friends with two arms on the same side.
+	Leela	No, listen. It's very important that you never, ever tell anyone under any circumstance.
+	Turanga Morris	What if I've had a few?
+	Leela	Dad, you drink? No. Not even then.
+	Turanga Morris	Alright. My sucker is sealed.
+	Leela	In fact, I shouldn't even be wearing this around here. [She rips off her costume, revealing her normal clothes. Morris and Munda stare.] It was brisk, I dressed in layers.
+	Turanga Munda	That's my girl!
+	Turanga Morris	So, uh, anyway, my daughter's Clobberella.
+	Raoul	Leela is Clobberella?
+	Leg Mutant	You're pulling me!
+	Turanga Morris	Sh. keep it under your sock. It's a big secret. That's why I'm only telling you two.
+	Big-Eared Mutant	Oh, my God! That guy's daughter is Clobberella. But don't tell anyone.
+	Big-Mouthed Mutant	[shouting] Gotcha!
+	Zookeeper	[on screen] Greetings, superheroes. Remember me?
+	Professor Farnsworth	I don't remember much, buddy. And you're no looker!
+	Leela	Uh, Professor, isn't it time for your nap?
+	Professor Farnsworth	Yes, damnit!
+	Leela	Zookeeper! How did you know our real identities?
+	Zookeeper	[on screen] Let's just say a little bird told me.
+	Parrot	[on screen] Leela told her parents. Leela's parents blabbed.
+	Fry	Leela, is the person that parrot is mimicking telling the truth by proxy?
+	Leela	Yes. My parents were so hurt, I couldn't help it! But I distinctly told them not to tell anyone.
+	Bender	We are not amused.
+	Zookeeper	[on screen] And here's something you may or may not find interesting.
+	Leela	Mom! Dad!
+	Turanga Munda	[on screen] Leela, please forgive us! Especially your father who's the one who told. Thank you very much, Morris.
+	Leela	Are you alright? Has he hurt you?
+	Turanga Morris	[on screen] No but my allergies are going nuts. [He sneezes.] Oh, God!
+	Turanga Munda	[on screen] Every couch and table has animal fur all over it. He lets them climb on everything!
+	Leela	Alright, Zookeeper. What do you want?
+	Zookeeper	[on screen] Why, the Quantum Gemerald of course! You must steal it for me before midnight or your parents will be devoured by piranhas that I have, shall I say, persuaded to walk on dry land.
+	Turanga Munda	[on screen] Save us, Leela! I mean, if you don't have anything better to do.
+	Leela	We're out of options. We have to steal the Gemerald!
+	Fry	But, should superheroes commit a crime, even to save lives? I need moral guidance. Bender?
+	Bender	Hmm. The thought of stealing anything fills Superking with disgust. But if it must be so, then let a museum heist be pulled!
+	Fry	Oh, no! Our superpower cream is out of itself!
+	Leela	Check inside the cap. There might be a caked-in goldmine.
+	Fry	El zilcho! I'm afraid we're boned.
+	Bender	El zilcho? Is it too late to change my superhero name?
+	Leela	Just be cool. Nobody knows we're super-powerly challenged.
+	Fry	Man, this costume is so damn heavy!
+	7¹¹ Clerk	Hey, Captain Yesterday? Can I, like, wail on you with this 2-by-4 and it doesn't hurt you?
+	Fry	Ow! That ... didn't hurt.
+	Security Guard	Hi, superheroes. Everything OK?
+	Leela	Big O, little k, my friend! Just checking if everything's alright.
+	Security Guard	It's OK, alright!
+	Leela	OK, then. Grab it!
+	Tate	Yo! The superheroes have turned evil! Most uncool.
+	Security Guard	Get 'em!
+	Leela	Stay back! Or we'll, beat the tar out of you ... using superpowers!
+	Fry	So this is your lair?
+	Zookeeper	Of course not. You think I'd show you my lair? My lair's a million times nicer than this!
+	Fry	OK, take it easy!
+	Bender	Well, here's your lousy Gemerald.
+	Zookeeper	Hawk! Fetch!
+	Fry	That seemed unnecessary.
+	Zookeeper	Our transaction is complete. Come, Solomon. To the lair.
+	Leela	Mom! Dad! Oh, I'm so sorry I got you kidnapped by a crazy madman who tried to feed you to piranhas.
+	Turanga Munda	We're just happy to be involved in your life.
+	Leela	No, no. It's my fault for telling you I was a superhero.
+	Turanga Morris	That's true.
+	Leela	I just couldn't stand to have you to think I was ashamed of you.
+	Turanga Munda	That's sweet, honey. But it's natural for children to be a little ashamed of their parents.
+	Fry	Oh, yeah!
+	Turanga Morris	Just like it's natural for parents to be a little disappointed in their children-- N-Not that we are.
+	Turanga Munda	But you could call a little more often.
+	Leela	OK.
+	Turanga Munda	And would it kill you to use some mouthwash?
+	Bender	Hey, Fry, we've still got our costumes on. Wanna steal some more stuff?
+	Fry	I guess, as long as you think it's right.
+	Bender	Superheroes away!
+	Song	Go, go, go, New Justice Team,Fighting justice is their quest,Superking, Clobberella, and all the rest,Here's to you, New Justice Team,Do the things that make your team,Help each other do some things,Winners don't use drugs,The New Justice Team!

@@ -1,0 +1,167 @@
+	Doctorbot	Notify his survivors.
+	Bender	[singing] B-E-N-D-E-R! Be-ender! [He walks into the room. Leela and Amy read magazines and Fry looks at a copy of Playbot. Bender dances.] B-E-N-D-E-R! Be-ender! Sayin' B-E-N-D-ER--
+	Hermes	Mail call! Amy, here's your designer lingerie catalogue. Fry, Sadie's Bra Parade and, Leela, Bulk Underpants Outlet.
+	Leela	You buy one pound of underwear and you're on their list forever.
+	Hermes	And for Bender-- Uh-oh! A black-bordered envelope.
+	Amy	Oh, no! Someone you know must've died.
+	Bender	I hope it was one of my enemies; those guys suck! [He opens the envelope and gasps.] Oh, no! My uncle Vladimir.
+	Fry	Oh, I'm sorry, Bender. When's the funeral?
+	Bender	Tomorrow, at the family castle. Followed by the reading of his will. [He screws up the letter and throws it behind him.] Well, I'm rich. Goodbye, losers, whom I've always hated! [He walks through the door then comes back.] C'mon, it'll be fun!
+	Bender	Uh, pardon me, my good simpleton. Could you take us to yon castle?
+	Robot #1	Some say unholy things happen up there.
+	Robot #2	For example: All of us say that.
+	Professor Farnsworth	Fuf! Superstitious robot mumbo-jumbo.
+	Robot #2	Mumbo, perhaps. Jumbo, perhaps not! With all your modern science are you any closer to understanding the mystery of how a robot walks or talks?
+	Professor Farnsworth	Yes, you idiot. [He opens the robot's chest cabinet.] The circuit diagram is right here on the inside of your case.
+	Robot #2	I choose to believe what I was programmed to believe.
+	Robot #2	I will go this far and no further.
+	Preacherbot	I now commend Vladimir's remains to the earth. Filings to filings; rust to rust.
+	Execu-Tor	[reading] To my loyal butler, You There, for his decades of service, I leave a pittance, to be paid in 20 equal instalments of one-twentieth of a pittance each. [You There bursts into tears.] To my lazy, spoiled son, Tandy, who never learned the value of a dollar, I leave my entire $10 million fortune.
+	Tandy	[whispering] Is that a lot?
+	Execu-Tor	[reading] And to my loving nephew, Bender, assuming he's not responsible for my death, I leave my castle.
+	Bender	Yes! Let's stay there tonight.
+	Execu-Tor	[reading] On condition that he spend one night within its walls.
+	Bender	Oh, man, there's always a catch!
+	Bender	Ah! I got a good vibe from this place: Nice long dinner table, quiet, well-behaved spiders, graveyard-adjacent. Yep! It's gonna be--
+	Leela	What is it?
+	Bender	That painting, the eyes are watching me!
+	Professor Farnsworth	Hmm. [He traces his glass backwards and forwards in front of the picture. The eyes follow the glass.] It has motor eye sensors attached to motion detectors.
+	Bender	So does my butt, but I don't frame it and put it on the wall! Although-- [The MS Windows intro music plays, as if from nowhere. Someone laughs.] What's that?
+	Zoidberg	I don't know, but it's infectious!
+	Bender	No doubt about it, this place is haunted.
+	Hermes	Don't be silly, mon. The last ghost died over 200 years ago.
+	Bender	The last human ghost. But robot ghosts?
+	Leela	[reading] 0101100101. [talking] What does it mean?
+	Bender	It's just gibberish. [He turns and gasps as he sees the numbers reflected in a mirror à la The Shining.] [reading] 1010011010?
+	Bender	Uncle Vladimir!
+	Vladimir-Ghost	Come, Bender. You'll like being dead!
+	Bender	That's what they said about being alive.
+	Robot Ghosts	[chanting] Join us! Join us! Join us, Bender!
+	Professor Farnsworth	Just as I suspected. These robots were buried in improperly-shielded coffins. Their programming leaked into the castles wiring through this old, abandoned modem allowing them to project themselves as holograms.
+	Hermes	Of course! It was so obvious!
+	Professor Farnsworth	Yes, that sequence of words I said made perfect sense. We really should tell Bender there's nothing to be afraid of.
+	Bender	[screaming] Nooo!
+	Fry	Bender, wake up! [Bender mumbles as he starts to come around.] He's OK! Quick, does anyone have any liquor?
+	Leela	Bender, what happened?
+	Bender	Somebody tried to run me over. And not with a normal hover-car. It crept along the ground on round, rubber feet, like a wolf!
+	Fry	Poor Bender, you're seeing things. You've been drinking too much, or too little, I forget how it works with you. Anyway, you haven't drunk exactly the right amount.
+	Amy	Maybe he has. Look at these tracks.
+	Leela	I think Bender may be telling the truth.
+	Zoidberg	Bender, you look awful. I prescribe make-up. Here. It just so happens I have my Mary Kay sample case!
+	Bender	Ah, I just need sleep. I had nightmares all night about cars running people over.
+	Zoidberg	Many people dream of a fresh, new look. And Mary Kay can make those dreams come true.
+	Leela	Look at this. They found those same rubbery tracks right here in New New York. [She drops a newspaper onto the table. The headline "Hit And Run" dominates the front page.] There was a hit-and-run by the robot porno theatre.
+	Bender	Robot porno theatre? I was in that ... general area last night. Whoever ran me down out on the moors must've followed me back here.
+	Hermes	Bender, mon, no one's trying to run you over. Stop being a big, hallucinating baby.
+	Bender	Yeah? Could a big, hallucinating baby do this: [crying] I scared!
+	Vandal #1	I don't know which I like more: Smashing cars or smashing faces.
+	Vandal #2	Well, lucky you don't gotta decide tonight. Now come on, we got church tomorrow. [The grey car quietly follows them. It rolls over a manhole cover and quickly parks.] Did you hear something?
+	Vandal #1	Ah, it was probably just a golden marmoset.
+	Vandal #2	That don't sound like no golden marmoset I ever heard.
+	Vandal #1	Made it!
+	Vandal #2	So anyway, what're you wearing tomorrow?
+	Bender	Where--? What the--? [He tastes it.] Transmission fluid? Where have I been? What happened?
+	Sal	Gets outta here, yous lousy bum!
+	Bender	Please, I'm scared.
+	Sal	We're all scared, it's the human condition. Why do you thinks I put on this tough-guy facade? Now beat it!
+	Bender	I passed out around midnight, which is much earlier that usual, and when I woke up I found these in my chest cabinet.
+	Fry	Aw, relax, buddy. You were probably just shooting some big, fuzzy craps.
+	Bender	No, I think I may have hurt someone. Oh, Lord! I'm on the verge of a nervous meltdown.
+	Fry	Jeez, Bender, you're scaring me. You're going wacko!
+	Bender	You're right, I need professional help. And damn the expense.
+	Bender	Damn the expense!
+	Gypsy	My friend, you have nothing to worry about. Except a nightmare-ish life of unremitting horror!
+	Bender	Phew!
+	Gypsy	For, you see, you are a were-car.
+	Bender	A were-car?
+	Gypsy	The car that ran you down on the moors was also a were-car. It beamed a virus to you through its demonic headlights.
+	Leela	That's crazy!
+	Gypsy	Yes. So crazy that it must be true! Each midnight, when your clock resets to zero, your hardware reconfigures into a murderous, four-wheeled car.
+	Bender	I can't keep running people over. I'm not famous enough to get away with it. Can't you help me?
+	Gypsy	Yes. But you must be willing to pay a terrible price.
+	Bender	Yeah, yeah, yeah.
+	Gypsy	Follow me.
+	Gypsy	According to this ancient read-me file, your only hope is to destroy the original were-car.
+	Bender	I'm with you.
+	Gypsy	In its death throes, the dread car will beam out the virus's uninstall program, thus ridding you of the curse.
+	Bender	And otherwise I can never die?
+	Gypsy	Who said that? Sure you can die. You want to die?
+	Bender	No! I wanna live! There's still too many things I don't own!
+	Gypsy	Then live on, forever cursed. Each night, your attacks will become more gruesome until, one dark night, you are doomed to kill your dearest friend.
+	Fry	I wouldn't wanna be me right now.
+	Gypsy	[pointing] Now go! Go! [She presses against the glass and topples forwards.] Uh, could one of you just-- Ah, forget it. I'll just sleep here.
+	Leela	There. No rampaging for you tonight.
+	Bender	Wouldn't it make sense to weld everyone except me to the wall?
+	Leela	Just relax, Bender. Tomorrow we'll pry you down, have a nice breakfast and then go hunt down and slaughter that ancient evil.
+	Fry	It'll be a rich, full day.
+	Leela	Well, goodnight. I'm gonna go make my dinners for the next month and freeze them.
+	Fry	[shouting] Bender, no!
+	Leela	[shouting] Fry, stay back!
+	Fry	[shouting] You jerk. I thought I was your best friend. What kind of two-timing kill-mobile are you?
+	Fry	I can't believe this! Bender is supposed to murder his closest friend, which I thought was me. But he went straight for you. He didn't even try to second-degree murder me.
+	Leela	Could you give me some help? I think Bender crushed my foot.
+	Fry	Stop rubbing it in!
+	Bender	Oh, God! Fry, I'm so glad to see you. I didn't hurt you, did I?
+	Fry	Not physically. But why don't you ask your new best friend, Leela?
+	Bender	I tried to run you over?
+	Leela	It was very sweet of you, Bender.
+	Bender	Fry, it doesn't mean anything. I have love enough for two.
+	Fry	Words. Nothing but sweet, sweet words that turn into bitter, orange wax in my ears.
+	Leela	Enough with the feelings, you two. If we're gonna cure Bender we've got to go back to the castle and hunt down the original were-car.
+	Fry	Yeah, yeah, yeah.
+	Leela	Cursed, got it.
+	Bender	Whatever.
+	Leela	The tracks lead here.
+	Fry	Thanks, eagle eye.
+	Leela	Now it's daylight, so he should be in robot form. But be careful: Many robots are stupid and violent.
+	Bender	[sarcastic] I wish I was stupid and violent. Then we'd see what's what, I'd pound him till--
+	Yokelbot	Get ye to your houses, ye ignorant villagers.
+	Leela	We are not ignorant villagers, we're sophisticated New New Yorkers. Whup his butt!
+	Yokelbot	Stop! What are ye doing?
+	Bender	We're whaling on the original were-car, which is you, you jerk.
+	Yokelbot	Ye think me be he?
+	Bender	Sí.
+	Yokelbot	Nee. I mean, "no". I was given the curse many a year ago while on a bird-watching trip to the Arctic...
+	Yokelbot	[voice-over] I was attacked by a vicious, motorised sled. The natives called it "The Abominable Snowmobile".
+	Inuitbot	Yes, it's true. I ran over that bird-watching jerk and a hundred others. Even my best friend from aromatherapy school.
+	Fry	I once had a best friend who liked to smell things with me.
+	Inuitbot	Alas, I'm afraid I'm not the original were-car. I received the curse while taking a learning annex class from a famous robot actor.
+	Inuitbot	[voice-over] You know him as Calculon.
+	Calculon	[melodramatically] Oh, fate most cruel, would that my boundless acting skills would avail me a sword with which to slay this wretched curse.
+	Bender	Let's kick him some more.
+	Calculon	No, wait, let me explain. [melodramatically] It all began one fateful night a thousand years ago.
+	Bender	Whoa, whoa, whoa, whoa! You're a thousand years old? Your bio says you're 27!
+	Calculon	Lies! I change my identity and upgrade my appearance every few decades to avoid suspicion. I was all of history's great acting robots: Acting Unit 0.8, Thespo-mat, David Duchovny!
+	Fry	Look, are you the original were-car or not?
+	Calculon	No, but you are nearing the end of your search. For, you see, I was attacked by the original were-car.
+	Bender	Give us a name, MacButt!
+	Calculon	The year was 2019, and I was just a lowly robot arm...
+	Calculon	[voice-over] ...working in an automotive research lab. I was working on Project Satan ... [He puts a door onto the side of a red car.] ... a savage, intelligent military vehicle built from the most evil parts of the most evil cars in all the world. The steering wheel from Hitler's staff car, the left-turn signal from Charles Manson's VW, the windshield wipers from that car that played Knight Rider.
+	Fry	Knight Rider wasn't evil.
+	Calculon	His windshield wipers were. It didn't come up much in the show though. Anyway...
+	Calculon	[melodramatically; voice-over] Only after bringing Project Satan to life did they discover they had made a horrible mistake. [A man turns the key in the ignition.] For, you see, it was pure evil.
+	Leela	So what happened to Project Satan?
+	Calculon	[voice-over] It's either in Paris, or much more likely...
+	Calculon	[voice-over] ...still in the abandoned automotive lab.
+	Leela	You guys distract the were-car and I'll kill it by plugging its exhaust pipe with this silver potato.
+	Bender	[whispering] Psst, there it is.
+	Leela	It looks so unhappy. Excuse me? Are you Project Satan? [It growls feebly.] Don't be afraid. We know what you are.
+	Project Satan	You do?
+	Leela	Would you like us to ... put you out of your misery?
+	Project Satan	Misery? What misery? I love killing people! Squishing them till their organs squirt out like chunky mustard.
+	Bender	Look, everyone loves killing people, but I don't wanna hurt my friends.
+	Leela	Oh, no! It's midnight.
+	Bender	Hey, this is starting to feel pretty good!
+	Leela	Fry, distract him.
+	Fry	[leaping around] Hey, Project Satan! Over here! I'm a blind pedestrian! 20 points!
+	Leela	Oh, no! There's no exhaust pipe!
+	Project Satan	That's right! Thanks to Ed Begley Jr.'s electric motor, the most evil propulsion system ever conceived! [Bender completes his transformation and Project Satan pulls up beside him.] Take whichever one you want.
+	Bender	Oh, boy! I feel like a car in a candy store!
+	Fry	[gasping] Yes! He chose me! He's trying to kill me! Leela, I'm so happy! [Bender rams Fry's legs twice. Fry tumbles onto Bender's roof, through the sunroof and inside Bender. The seatbelt comes around him.] [talking] Oh, thanks, Bender. [The seatbelt chokes him.] [choking] Too tight! Too tight!
+	Leela	Whoa!
+	Bender	Uh-oh.
+	Leela	Bender, you're cured! But what happened to Fry?
+	Bender	[crying] I must've killed him. He's my best friend and I killed him. I never felt so empty inside.
+	Fry	Bender, I'm alive! [He climbs out.] You didn't hurt me at all. But I know you wanted to, and that's what matters. [He opens a beer.] Here's to you.
+	Bender	Hey, that's my last beer, you bastard. I'll kill you!
+	Fry	I'll kill you too, buddy. I'll kill you too!

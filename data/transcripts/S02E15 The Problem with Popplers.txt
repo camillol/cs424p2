@@ -1,0 +1,272 @@
+	Announcer	[voice-over] Futurama is brought to you by ... [The oval retreats to the upper right corner and a woman wearing goggles and holding a barrel of lava-like stuff fills the screen.] ... Molten Boron!
+	Jingle Singer	[singing] Nobody doesn't like Molten Boron!
+	Fry	I hate the Planet of the Moochers. They take you out for a drink but when the check comes, their wallet's always in their other pants -- which they borrowed from me!
+	Leela	Dinner ready?
+	Bender	Nah, those lousy Moochers cleaned out our pantry. All they left was baking soda and capers. And here it is!
+	Fry	Ugh!
+	Leela	Ugh! Great. We're two days from Earth with no food.
+	Bender	Problem solved: You two fight to the death and I'll cook the loser. [whispering to Leela] Work his gut; I like it tender.
+	Fry	[pointing] Maybe that planet over there has a drive-thru. A Burger Jerk or a Fishy Joe's or a Chizzler or something.
+	Bender	Ah, don't get your hopes up. We're a billion miles from nowhere.
+	Leela	Yeah. It's probably only got a Howard Johnson's.
+	Leela	Well, it's a type-M planet, so it should at least have Roddenberries.
+	Fry	I'm experienced at foraging. I used to find edible mushrooms on my bath mat.
+	Bender	I found some rocks. You guys eat rocks, right?
+	Leela	No.
+	Bender	[tempting] Not even if they're sautéed in a little mud?
+	Fry	Here's something! It looks like a ditch full of fried shrimp.
+	Bender	What are you, blind? It looks more like a hole full of fried prawns.
+	Leela	Hm. This thing I wear on my wrist says they're not poisonous.
+	Fry	Well? How are they? [Leela swallows, her eye widens, and she falls to the ground and starts cramming her mouth with the things. Fry eats one and gasps.] Oh, they're great! They're like sex, except I'm having them!
+	Bender	You know what these would go great with? Rocks.
+	Fry	[pointing] Look! Here's more!
+	Bender	The planet's covered with 'em.
+	Fry	Let's bring back a couple of pocketfuls.
+	Bender	No, a whole Bender-ful!
+	Leela	No. Only what we need. Stuff the ship!
+	Hermes	Planet Express ship, you are cleared to land.
+	Leela	[chewing; on radio] Roger!
+	Hermes	Oh, man, I'm inhaling these things! You guys scored some primo stuff here.
+	Zoidberg	They're tastier than an unguarded penguin nest. What do you call them?
+	Leela	We haven't thought of a name yet.
+	Bender	They're tasty, right? Let's call 'em "Tasty-cles".
+	Amy	Ew!
+	Professor Farnsworth	No!
+	Leela	We can't call them that.
+	Bender	Why not?
+	Leela	It sounds too much like those frozen rocky mountain oysters on a stick. You know, Test-cicles?
+	Hermes	According to government records, the only names not yet trademarked are "Popplers" and "Zittzers".
+	Fry	I know, we'll call them Popplers!
+	Bender	Good idea.
+	Zoidberg	Oh, yeah, why not?
+	Amy	You sure picked it.
+	Fry	Swish!
+	Zoidberg	Call them what you want. I call them a free meal.
+	Bender	Whoa, whoa, whoa! Slow down there, Sigmund. I can't stand idly by while poor people get free food. We gotta sell these things!
+	Fry	Hey, yeah.
+	Leela	Good idea.
+	Bender	Bender's a genius.
+	Fry	Hey, business is great.
+	Bender	Ah, great is OK, but amazing would be great.
+	Vendor	Please, don't push, there's hot dogs for everyone.
+	Bender	Hey, Mac, where do you want those rat droppings you ordered?
+	Woman #1	That's disgusting!
+	Vendor	Wait a minute. You're not the guy who delivers the rat droppings!
+	Man #1	What are you selling? Popplers? Never heard of 'em.
+	Bender	Eat it or beat it.
+	Man #1	Mmm, these are great. Boys, this is your lucky day. I'm Joe Gilman.
+	Fry	Wow! You're some guy who eats at Fishy Joe's?
+	Fishy Joe	Hell, no! I am Fishy Joe! I've got a fast-food franchise on every planet in the known universe. Uh, except McPluto.
+	Bender	Hey, Fishy. I've been meaning to write you about your in-store kiddie parks. The slides won't support an adult robot.
+	Fishy Joe	Good point, not interested. But these Popplers, these are great. How much you sell 'em for?
+	Fry	A dollar a dozen.
+	Fishy Joe	You'll never make money that way. You supply 'em to me and I'll sell 'em for two bucks a dozen at my restaurants. I'll even pay you a dollar a dozen.
+	Bender	Yes! I'm gonna be rich. [He cheers and looks at Fry.] You too but it's hard to get excited about that.
+	Fry	How do we sign?
+	Fry	and [singing] Pop a Poppler in your mouth,When you come to Fishy Joe's,What they're made of is a mystery,Where they come from, no one knows,You can pick 'em,You can lick 'em,You can chew 'em,You can stick 'em,If you promise not to sue us,You can shove one up your nose.
+	Zoidberg	I can't pay.
+	Woman #2	Move it, man. Come on!
+	Fry	Leela! That's the second billboard you've crashed into this week!
+	Leela	Sorry. I was distracted by those protesters outside our building.
+	Hippie #1	[shouting] Disgusting!
+	Hippie #2	[shouting] You should be ashamed!
+	Professor Farnsworth	[shouting] Hey! Unless this is a nude love-in, get the hell off my property!
+	Waterfall Jr.	You can't own property, man!
+	Professor Farnsworth	I can, but that's because I'm not a penniless hippie.
+	Leela	[shouting] What do you people want?
+	Waterfall Jr.	[shouting] We're with Mankind for Ethical Animal Treatment. [He holds up a M.E.A.T. pamphlet with a picture of a man pushing a pig on a swing on the cover.] Popplers are living creatures. You gotta stop harvesting them for food!
+	Bender	[shouting] Or what?
+	Waterfall Jr.	[shouting] Or we'll boycott Fishy Joe's.
+	Leela	You're vegetarians, who cares what you do?
+	Waterfall Jr.	Shut up.
+	Leela	Animals eat other animals. It's nature.
+	Waterfall Jr.	No, it isn't. We taught a lion to eat tofu. [He points at a skinny lion on a leash. It coughs.] The point is you shouldn't eat things that feel pain.
+	Bender	[shouting] OK, we won't eat you.
+	Leela	I'll go get some more bricks.
+	Leela	Fry, I wish you'd throw out these week-old Popplers. They're getting big and scaly. Ooh, there's one left.
+	Poppler	Mama!
+	Leela	Stop! Stop eating Popplers!
+	Amy	Why?
+	Bender	My booze!
+	Leela	Popplers are intelligent. This one called me mama.
+	Zoidberg	Congratulations. I assume Amy is the father.
+	Bender	Popplers can't talk. Leela must be hallucinating from not eating enough Popplers. Here, eat some now.
+	Leela	No!
+	Bender	I said "eat"! Come on, mange!
+	Leela	Sorry, babies.
+	Amy	Leela, maybe you should lie down.
+	Zoidberg	Yes, listen to the father.
+	Leela	I'm telling you, it spoke to me. Come on, little Poppler, say "mama".
+	Fry	Look, Leela, even if you heard one talk, that doesn't mean it's intelligent. I mean, parrots talk and we eat them, right?
+	Bender	Yeah. Maybe it just learned to talk as a parlour trick, like Fry.
+	Fry	[nodding] Like Fry! Like Fry!
+	Professor Farnsworth	There's one way, and only one way, to determine if an animal is intelligent. [He stands up and rubs his hands together.] Dissect its brain!
+	Poppler	No, mama. Stop grandpa!
+	Professor Farnsworth	Enough chit-chat. Restrain the specimen!
+	Man #3	Mmm, good.
+	Woman #3	Give me some of that special sauce.
+	Leela	[shouting] Stop eating Popplers! They can talk!
+	Man #4	[shouting] Don't stop to talk! Eat Popplers!
+	Leela	Hey, cut it out!
+	Man #4	[shouting] Take a coupon, cut it out! [Leela hits him with her sign.] Ow! Ow!
+	Fry	People, I won't let you enter. Popplers are as intelligent as you or me.
+	Man #5	You, maybe!
+	Bender	Hear me, hear me! Stop eating Popplers! Stop eating them with honey mustard sauce. [The crowd murmurs and walks past him and into the restaurant.] Stop eating them with tangy sweet-and-sour sauce. Stop eating the new fiesta Poppler salad. Stop taking advantage of the money-saving 12-pack. [The Planet Express ship flies overhead. The bomb-bay winch doors open and a bomb flies out.] Stop enjoying Popplers on the patio, in the car, or on the boat. Wherever good times are had! [The bomb bounces off the restaurant roof, onto Bender's head and onto the floor.] Ow!
+	Linda	[on TV] Tonight on Datenight: Popplers. Eating them. Is it alright to? We have with us the CEO of Fishy Joe's, Mr. "Fishy" Joseph Gilman. [Gilman appears in a screen above Linda.] Noted anti-eating activist, Free Waterfall Jr. [Waterfall Jr. appears next to Gilman and makes the peace sign.] And the discoverer of Popplers, Captain Turanga Leela.
+	Fry	Turanga?
+	Amy	That's her name, Philip.
+	Bender	Philip?
+	Linda	[on TV] Fishy Joe, is it wrong to eat intelligent animals?
+	Fishy Joe	[on TV] Absolutely not, Linda. I don't think anyone's here to make that claim.
+	Leela	[on TV] I am.
+	Waterfall Jr.	[on TV] Me too.
+	Fishy Joe	[on TV] Listen...
+	Waterfall Jr.	[on TV] Shut up...
+	Fishy Joe	[on TV] ...we're talking about a snack...
+	Waterfall Jr.	[on TV] ...shut up...
+	Fishy Joe	[on TV] ...that's low in fat...
+	Waterfall Jr.	[on TV] ...shut up.
+	Fishy Joe	[on TV] ...and high in profit.
+	Waterfall Jr.	[on TV] You're crazy, man. He is crazy.
+	Fishy Joe	[on TV] There's not even any strong evidence that these Popplers are intelligent.
+	Waterfall Jr.	[speaking fast; on TV] Shut up! Shut up! Shut up! Shut up! Shut up...
+	Leela	[on TV] That's not true. I have one right here that can talk.
+	Waterfall Jr.	[on TV] ...shut up...
+	Leela	[on TV] Come on, say "mama".
+	Poppler	[on TV] Ca-ca!
+	Linda	[on TV] OK, we'll have to bleep that.
+	Leela	[on TV] Look, I'm not saying eating meat is wrong...
+	Waterfall Jr.	[on TV] Shut up.
+	Leela	[on TV] I don't think anyone's here to make that claim.
+	Waterfall Jr.	[on TV] I am.
+	Leela	[on TV] But eating an intelligent animal is different.
+	Waterfall Jr.	[speaking fast; on TV] Shut up! Shut up! Shut up! Shut up! Shut up...
+	Fishy Joe	[on TV] Oh, don't force your tired philosophy on us. I mean, the only reason we don't eat people is because it tastes lousy.
+	Waterfall Jr.	[on TV] You're all nuts. Shut up, let me talk.
+	Linda	[on TV] You shut up, please.
+	Waterfall Jr.	[on TV] No, you shut up, please.
+	Fishy Joe	[on TV] Popplers are no smarter than any other animal I've served. And that includes cats.
+	Poppler	[on TV] Ca-ca head. Mean, old ca-ca head.
+	Fishy Joe	[on TV] Sir, I'm making a point. If these gutter-mouthed creatures are so smart, why don't they defend themselves, huh?
+	Leela	[on TV] Stop it!
+	Waterfall Jr.	[on TV] I call murder on that.
+	Fishy Joe	[on TV] Look, I'm willing to grant that it's murder. The real issue is: Who's gonna stop me?
+	Linda	[on TV] We seem to be experiencing technical difficulties. [A girder falls down behind her.] And, crap like I've never seen!
+	Lrrr	[on TV] People of Earth, I am Lrrr of the planet Omicron Persei 8. [He hears feedback behind him.] Turn down that TV, Nd-Nd.
+	Professor Farnsworth	Dear Lord, they're back!
+	Amy	We're doomed!
+	Hermes	Doooomed!
+	Bender	Doooo...
+	Lrrr	[on TV] Now then, the creatures you call "Popplers" come from a nursery planet in our sector.
+	Nd-Nd	[on TV] You monsters have been eating our babies!
+	Leela	Eck!
+	Nd-Nd	[on TV] We demand justice. As you ate our children, so shall you be eaten by us!
+	Lrrr	[on TV] We will begin with the firemen, then the math teachers, and so on in that fashion until everyone is eaten. [He laughs and the others join in.] Transmission over! [The picture stays on but Lrrr doesn't notice. He turns to Nd-Nd.] Well, that went OK. I tell you, when-when you know you can't scratch, that's when you really have to, huh? [He scratches himself.] Oh! Oh, yeah, that feels a lot better. What? It's still on?
+	Zapp	As chief negotiator, I speak for all of Earth when I mourn the regrettable loss of the Omicronian young. We share your pain. [He reaches into a box and eats a Poppler. Kif sighs.] Mmm. [chewing] If we could undo the damage-- [He eats some more and turns to Kif.] These would be great with quack-a-mole.
+	Lrrr	[shouting] Stop eating our young! And it's pronounced guacamole!
+	Zapp	Alright, I'm putting them away. [He puts the box under the table and eats some more. Kif sighs again. Zapp wipes his mouth.] Now, uh, what is it you want?
+	Lrrr	We demand-- [Zapp burps.] We demand to eat one human for each Omicronian that was eaten.
+	Zapp	Fair enough. How many is that?
+	Kif	198 billion, sir.
+	Lrrr	Very well. You will provide us with 198 billion humans. And, uh, small fries.
+	Nd-Nd	Lrrr!
+	Lrrr	Oh, alright, cottage cheese!
+	Kif	Sir? [whispering] There aren't that many human beings.
+	Zapp	A thought occurs: There aren't that many humans.
+	Lrrr	We're willing to wait a few weeks while you shore up the numbers.
+	Zapp	Hmm. 198 billion babies in a few weeks. We'll need an army of super-virile men scoring round the clock! I'll do my part. Kif, clear my schedule.
+	Fry	I wish they'd just wipe out humanity and get it over with. It's the waiting I can't stand.
+	Leela	That's stupid!
+	Zapp	My fellow Earthlings, we have reached an agreement. Using the twin guns of grace and tact, I blasted our worthless enemies with a fair compromise. [The crowd cheers.] They will not eat everyone on Earth.
+	Lrrr	I filled up on nuts at the negotiation.
+	Zapp	Instead, they will eat only a single human of their choice.
+	Lrrr	We choose to eat the first Earthling who ate our offspring. [He takes out a remote control.] Here is the culprit, as photographed by our nanny-cam satellite. [He turns on a big TV overhead. It shows Leela eating the Popplers on the planet.] She must be sacrificed, but the rest of you shall be spared.
+	Linda	Tonight, the world watches in horror as an earthling is eaten alive on network television. This grim scene of unimaginable carnage is brought to you by Fishy Joe's! Try our new Extreme Walrus Juice! [An ad comes up on the screen of a surfer riding on the back of a walrus.] 100% fresh-squeezed walrus. Ride the walrus!
+	Announcer	[on loudspeaker] Ladies and gentlemen. The Omicronians!
+	Lrrr	Greetings, Earth morsels.
+	Man #6	[shouting] You suck!
+	Lrrr	Get a job!
+	Bender	I'll miss you, Leela. [Leela is in a circus animal cage.] I know you're just a carbon-based life form but I'll always think of you as a big pile of titanium.
+	Fry	What Bender means is, you're really brave, and smart, and beautiful, and a great friend.
+	Bender	[crying] Just like titanium!
+	Leela	This is all a big load. I was the one trying to save the Popplers. [She points at Fry.] You were sucking them down like the fat hog you are and you were stepping on them for fun. [She points at Bender who stares blankly back at her.] You both should be in here instead of me.
+	Bender	[whispering to Fry] Someone's acting awfully aluminum.
+	Zapp	Leela, my sweet, I've come to save you. I have a devious plan!
+	Leela	Oh, great, Captain Moron has a plan. Why don't you tell it to Wingus and Dingus here?
+	Zapp	Wingus, Dingus, listen up. We're gonna give the aliens the old switcheroo!
+	Fry	You mean--
+	Zapp	Correct. I found a giant hideous ape that looks exactly like Leela.
+	Leela	It doesn't look anything like me. The hair is all wrong.
+	Zapp	Don't worry. Kif is an expert stylist, as you can plainly see. [He strokes his own hair.] Mmm!
+	Leela	You know, this might actually work. The Omicronians seem to have trouble telling one person from another.
+	Zapp	True. At the negotiations, they thought Kif here was the statesman and I was a jabbering mental patient. Isn't that right, Kif?
+	Kif	Please, I'm creating. [He takes the sheet off the orang-utan and puts an eye patch over one of it's eyes. It now has a purple ponytail like Leela.] Voila!
+	Bender	Bingo!
+	Fry	That's Leela!
+	Zapp	I'm seeing double!
+	Lrrr	I grow hungry! Bring on the one called "Leela".
+	Waiter	That comes with salad or soup.
+	Lrrr	Uh, salad.
+	Waiter	Ranch or vinaigrette?
+	Lrrr	Vinaigrette!
+	Waiter	Balsamic or raspberry?
+	Woman #4	[murmuring] What's going on here? It's very strange.
+	Zapp	[whispering] People of Earth: Shh!
+	Woman #4	[murmuring] Oh, I get it.
+	Woman #5	[murmuring] I understand.
+	Lrrr	Hmm. Yes, this is one. Definitely. I recognise her slumping posture and hairy knuckles.
+	Nd-Nd	[sarcastic] Would you like some human with your salt?
+	Linda	This is it. If the aliens fall for Zapp's ploy, the Earth will be saved. Brought to you by Fishy Joe's. Ride the walrus.
+	Waterfall Jr.	[shouting] Wait! Stop! It's a trick! That's not Leela.
+	Lrrr	W-What's happening? I'm losing the crowd.
+	Waterfall Jr.	It's an orang-utan. One of Mother Earth's most precious creatures.
+	Zapp	Why'd you open your bong hole, you smelly hippie? You'd sacrifice a beautiful woman to save a moderately-attractive monkey? You must've smoked some bad granola.
+	Lrrr	The one called "Smelly Hippie" is right. This is a monkey!
+	Nd-Nd	Yes. Definitely.
+	Lrrr	Where is the real female?
+	Zapp	I'll never tell.
+	Lrrr	Where is the real female?
+	Zapp	I'll get her for you.
+	Zapp	I realise this may hurt our chances of consummating our relationship again.
+	Leela	Go consummate yourself.
+	Lrrr	Stop talking, you're getting cold.
+	Leela	Please! I just paid off my car!
+	Fry	No!
+	Bender	I can't look!
+	Poppler	Stop! [The Poppler runs onto the stage and leaps into Leela's mouth. It leans forward to the microphone.] People of Earth. I am Jrrr of the planet Omicron Persei 8. Could someone lower this thing for me? [Leela does.] Now then, if Leela gets eaten, I get eaten.
+	Nd-Nd	Little one, get out of there. I'm going to count to blorx!
+	Jrrr	But, elder one--
+	Nd-Nd	Flingle ... glorg ... glorg and a gloob.
+	Jrrr	Hear me out. There are many good reasons to eat: Hunger, boredom, wanting to be the world's fattest man. But not revenge. Are we no better than they? Besides, Leela's my friend.
+	Lrrr	[mumbling] Is this true, Earthling?
+	Leela	[mumbling] Yeah, it is.
+	Lrrr	Leela's garbled words have opened my eyes.
+	Waterfall Jr.	OK, that's a start, that's very Earth-friendly. Now everyone join hands. Join hands, please. I'd like to lead you all in some swaying. Come on, pay attention. [The audience is not impressed.] I said do it! Yeah...
+	Lrrr	Is he your friend too?
+	Jrrr	No.
+	Waterfall Jr.	This is not happening.
+	Lrrr	I think there was something funny in that hippie.
+	Leela	Thank you, Jrrr. [She kisses him.] I hope you'll always think of me as your mom.
+	Jrrr	When my species grows up, we eat our moms!
+	Leela	Whoop!
+	Lrrr	People of Earth-- Oh, that hippie's starting to kick in. we've all learned a valuable lesson today. I realise now that-- [high] Dude! My hand are huge! [The audience whispers. Leela looks at Fry who shrugs.] They can touch anything but themselves. [He puts his hands together.] Oh, wait.
+	Nd-Nd	Let's go.
+	Lrrr	[high] Whoa!
+	Lrrr	[high; from ship] Whoa, I feel like I'm flying!
+	Professor Farnsworth	A toast to Leela. She showed us it's wrong to eat certain things.
+	Fry	Hear, hear!
+	Bender	Let's get drunk!
+	Leela	Aww, thanks, guys. Pass the veal, please.
+	Bender	Here you go.
+	Fry	Mmm, let me get some of that suckling pig.
+	Bender	Who wants dolphin?
+	Leela	Dolphin? But dolphins are intelligent.
+	Bender	Not this one. He blew all his money on instant lottery tickets.
+	Fry	OK.
+	Leela	Oh, OK.
+	Amy	That's different.
+	Professor Farnsworth	Good, good.
+	Leela	Pass the blowhole.
+	Amy	Can I have a fluke?
+	Hermes	Hey, quit hogging the bottle-nose.
+	Professor Farnsworth	Toss me the speech centre of the brain!
