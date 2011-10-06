@@ -140,7 +140,7 @@
 	Widnar	I'm Dr. Widnar, a naturalist.
 	Bender	And I'm Bender, baby. My human slaves and I come from a planet where organic life and robotic life evolved side by side.
 	Professor Farnsworth	Oh, shut up!
-	Widnar'	Amazing. [She pokes Hermes.] I've theorized that carbon-based, fat-filled life could exist, but until today, I never had any proof.
+	Widnar	Amazing. [She pokes Hermes.] I've theorized that carbon-based, fat-filled life could exist, but until today, I never had any proof.
 	Leela	Good for you. Can we go home now? [Widnar throws a net on Leela.]
 	Widnar	Welcome, museum members, or, as I like to call you, future exhibits. [A robot coughs.] I now present my latest discovery, the amazing non-mechanical man, Homo farnsworth.
 	Professor Farnsworth	Thank you. I must say, I'm so proud to see what you've blossomed into since I first created your ancestors.

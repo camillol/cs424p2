@@ -32,11 +32,13 @@ name_map = {
 	'Nixon': 'Richard Nixon',
 	'NIxon': 'Richard Nixon',
 	'Farnsworth': 'Professor Farnsworth',
+	'Clinton': 'Bill Clinton',
 }
 
 # what about Lucy Liu? we don't want the Liubots to count as her, do we?
 # what about the orphans? and other groups?
 # what about "Bender duplicate #2" or "Amy 420"?
+# also the Grunka Lunkas. and all chars ending with #1 etc.
 
 url_name_map = {
 	'http://theinfosphere.org/Al_Gore%27s_head': 'Al Gore',
@@ -97,6 +99,8 @@ for season_name in os.listdir(vivek_dir):
 					charnames = [uni_name(name, url) for name in names]
 					for charname in charnames:
 						characters[charname] += 1
+						if charname.startswith('(') or charname.startswith('.') or charname.endswith("'"):
+							print "BAD NAME", season, epnum, dialogue
 					
 #					if len(charnames) > 1: print charnames
 					

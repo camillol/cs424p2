@@ -1,17 +1,17 @@
 Fry	3822
 Bender	3425
-Leela	3019
+Leela	3020
 Professor Farnsworth	1760
 Zoidberg	899
 Amy	886
 Hermes	786
-Zapp	497
+Zapp	498
 Kif	252
 Mom	177
 Calculon	165
 Cubert	146
 Richard Nixon	145
-Lrrr	144
+Lrrr	145
 Nibbler	105
 Robot Devil	90
 Mr. Wong	90
@@ -197,6 +197,7 @@ Barker	11
 High Priest	11
 Fatbot	11
 Blue Elder	11
+Momon	11
 Zoidberg A	10
 Zoidberg 1	10
 Queen	10
@@ -211,7 +212,6 @@ Susan	10
 Fnog	10
 Uecker	10
 Dr. Schlovinowitz	10
-Momon	10
 Banjo	10
 Computer Voice	9
 Hermes-Droid	9
@@ -273,6 +273,7 @@ Barrierbot #1	7
 Female Announcer	7
 Teller	7
 Penn Jillette	7
+Widnar	7
 Fry A	7
 Mysterious Voice	7
 Subtitle	7
@@ -308,7 +309,6 @@ Male voice	6
 Delivery-Boy Man	6
 Koji	6
 Gygax	6
-Widnar	6
 V-GINY	6
 Washington	6
 Inez	6
@@ -332,7 +332,6 @@ Fry's Photo	5
 Brain #2	5
 Skipper	5
 Bee	5
-Pac-Man	5
 Number 1.0	5
 Heather	5
 Amy 1	5
@@ -342,6 +341,7 @@ Hermenthotip	5
 Hick	5
 McNeal	5
 Human Friend	5
+Pac-Man	5
 Doctor #2	5
 Man #4	5
 Snake	5
@@ -446,7 +446,6 @@ Campaign Manager	3
 Woman #2	3
 Woman #1	3
 Recruitment Officer	3
-Pathologist #1	3
 Liubot #4	3
 Ahab	3
 Chainsaw-Eating Robot	3
@@ -457,6 +456,7 @@ Female inhabitant	3
 Kirk	3
 Hooded Figure #2	3
 Mermaid	3
+Pathologist #1	3
 Hookerbot	3
 John Adams	3
 John Hancock	3
@@ -580,6 +580,7 @@ Prototype	2
 Statue	2
 Robot General	2
 Emperor Chop Chop	2
+Bill Clinton	2
 Senator	2
 Father Changstein-el-Gamahl	2
 Gammabot	2
@@ -768,6 +769,7 @@ Mexican Border Patrolman	1
 Worm Announcer	1
 Robot Devil's ghost	1
 Camera	1
+Frame #1	1
 Decapodian Woman #2	1
 Decapodian Woman #3	1
 Decapodian Woman #1	1
@@ -785,7 +787,6 @@ Guardbot #4	1
 Souter	1
 Tenant #2	1
 Tenant #3	1
-Leela'	1
 Grumpy Snail	1
 Clark	1
 Doll	1
@@ -813,7 +814,6 @@ Merman	1
 Lane	1
 Monroe-bot	1
 Toilet	1
-Bill Clinton	1
 Orphans	1
 Horrible Gelatinous Hick	1
 Grade 53 Bureaucrat	1
@@ -904,7 +904,6 @@ George H.W. Bush	1
 Sibling #2	1
 Deformed man	1
 Frakes	1
-Clinton	1
 Aki	1
 ALL YIVOS	1
 Noticeably F.A.T.	1
@@ -934,7 +933,6 @@ Crewman	1
 Striped Biologist-Taunter	1
 Holo-Fry	1
 TV Commentator	1
-Frame #1	1
 Bidder #2	1
 Fratbot #3	1
 Bidder #1	1
@@ -971,7 +969,6 @@ Mine Spokesman	1
 Bike Thief	1
 Hot Dog Stand	1
 Fred	1
-(Sobbing	1
 Monk #3	1
 Holo-Leela	1
 Planet Express Ship Alarm	1
@@ -1132,7 +1129,6 @@ Warren Harding	1
 Leela's grandmother	1
 Bill	1
 Bender 1729	1
-Widnar'	1
 Clearcutter	1
 Radio announcer	1
 Italian #2	1
@@ -1147,7 +1143,6 @@ Heads	1
 Ceiling Fan	1
 Elf	1
 Three Leos on the Machine	1
-(From the die	1
 Garbage Disposal	1
 Cronkite	1
 Kid #1	1
@@ -1173,7 +1168,6 @@ Conspiracy Nutter	1
 Mutant #1	1
 Pain Monster	1
 George W. Bush	1
-.	1
 Pachinko machine	1
 Policeman #2	1
 Stripperbot	1

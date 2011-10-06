@@ -91,7 +91,7 @@
 	Frydo	I'm too exhausted. I can't go on.
 	Zoidberg Head	I'm here for you, my friend. Grab onto my testicles.
 	Frydo	You know, I think maybe I can walk after all.
-	(From the die	That's not Wipe Castle.
+	Momon	(From the die) That's not Wipe Castle.
 	Zoidberg Head	What are you waiting for, Frydo? Throw it already in the boiling plastic.
 	Frydo	I would. But... (In raspy voice:) Me's enjoys owning it.
 	Zoidberg Head	Stop talking like that. It gives me anxiety. [He launches himself at Frydo and bites his tushie.]

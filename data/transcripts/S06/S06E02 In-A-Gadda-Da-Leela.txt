@@ -49,7 +49,7 @@
 	Leela	But it's only a one-man craft...I say.
 	Zapp	There'll only be one man. Me. How would you feel if I rode rear as your personal tail gunner?
 	Leela	Creeped out.
-	.	Then it's decided.
+	Zapp	Then it's decided.
 	Leela	[stepping into the ship] Are you sure I have to sit in your lap?
 	Zapp	It'll help us achieve maximum thrust.
 	Fry	[giving Leela a bag of trail mix] I made you some trail mix for the flight. [Leela takes it as Fry picks up a huge painting of himself in a robe smoking a pipe] Also this picture to remember me by.

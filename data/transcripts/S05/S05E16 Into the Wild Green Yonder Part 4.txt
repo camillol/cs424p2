@@ -17,7 +17,7 @@
 	Dogg	Proceed.
 	Leela	These charges are outrageous. Our only goal was to save a rare violet star and its precious ecosystem. If protecting the environment is a crime, then...
 	Judge Dogg	Protecting the environment is a crime.
-	Leela'	[She clears her throat.] I rest my mouth.
+	Leela	[She clears her throat.] I rest my mouth.
 	Bailiff	Do you swear to tell the whole truth and nothing but the truth?
 	Richard Nixon	I... Well, now, I... Am I under oath when I take the oath?
 	Ruth Bader Ginsburg	Can the witness identify the feminista leader?
