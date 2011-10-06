@@ -10,6 +10,15 @@ Button mainB1;
 ListBox otherChars;
 ListBox episodes;
 
+PImage leelaImg = loadImage("leela.png");
+PImage zappImg = loadImage("zapp.png");
+PImage benderImg = loadImage("bender.png");
+PImage wongImg = loadImage("wong.png");
+PImage farnsworthImg = loadImage("farnsworth.png");
+PImage fryImg = loadImage("fry.png");
+PImage nibblerImg = loadImage("nibbler.png");
+PImage zoidbergImg = loadImage("zoidberg.png");
+
 void setup()
 {
   loadCharacters();
@@ -20,6 +29,10 @@ void setup()
   
   background(30, 30, 30);
   rect(50,480,690,200);
+  
+  
+  image(leela, 0, 0);
+  leela.resize(40, 40);
   
   rootView = new View(0, 0, 1024, 768);
   controlP5 = new ControlP5(this);
