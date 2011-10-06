@@ -27,9 +27,9 @@
 	Man #1	[on an ad] Throw your voice!
 	Woman	[on an ad] Sea monkeys!
 	Man #2	[on an ad] Throw your sea monkeys!
-	Professor Farnsworth	[on an ad] My disintegrator ray really works!
+	Prof. Farnsworth	[on an ad] My disintegrator ray really works!
 	Amy	But that's you.
-	Professor Farnsworth	That's how I know it's bunkum. The Farnsworth Novelty Disintegrator Ray is nothing more than a common teleporter ray. [He shoots a trashcan, it reappears next to him and he throws the toy away.] Worthless toy.
+	Prof. Farnsworth	That's how I know it's bunkum. The Farnsworth Novelty Disintegrator Ray is nothing more than a common teleporter ray. [He shoots a trashcan, it reappears next to him and he throws the toy away.] Worthless toy.
 	Fry	I'm sick of being critiqued by nitpicking nerds. I'm taking this to a comic book convention!
 	Amy	Smeesh, it's crowded!
 	Bender	Good thing everyone is freshly bathed and groomed.
@@ -71,10 +71,10 @@
 	Ndnd	I might dress up in a face if you ever took me anywhere nice!
 	Lrrr	Oh, boy, here we go. I built this castle with my own two slaves. What are you gonna to do, kick me out?
 	Lrrr	I am Lrrr, ruler of the planet Omicron Persei 8. May I crash on your couch?
-	Professor Farnsworth	So he just showed up unannounced, raided the liquor cabinet, sprayed urine on the ceiling and passed out?
+	Prof. Farnsworth	So he just showed up unannounced, raided the liquor cabinet, sprayed urine on the ceiling and passed out?
 	Amy	And the walls.
 	Lrrr	Leave me alone. My wife hates me and planetary conquest has become a chore.
-	Professor Farnsworth	There, there. You're just having a mid-life crisis.
+	Prof. Farnsworth	There, there. You're just having a mid-life crisis.
 	Lrrr	Mid-life crisis, eh? [He pulls out a ray-gun.] Lrrr demands the comfort of pop-psychological platitudes.
 	Bender	Look, hoss, your wife threw you out. That's your license to be a jerk. Do whatever the hell you want then walk away and light a cigar. [He pulls a cigar out of his chest cabinet, lights it, and walks away.
 	Leela	Don't listen to him. Bender may seem happy. [Bender can be heard laughing.] But in the long-tern, you need to reinvest in your relationship with Ndnd.
@@ -194,7 +194,7 @@
 	Zoidberg	Of course1 I'll marry you!
 	Amy	Wait, what the Shmell happened? I thought Ndnd disintegrated you with this ray gun.
 	Grrrl	It's just a cheap teleporter. I bought it off the back of a comic book.
-	Professor Farnsworth	Cha-ching!
+	Prof. Farnsworth	Cha-ching!
 	Leela	The teleporter gun? But that means Fry might still be...
 	Zoidberg	Fry?
 	Bender	[He opens the shower. Fry is sitting there.] Is this him?

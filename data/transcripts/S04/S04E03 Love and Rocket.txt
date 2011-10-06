@@ -10,17 +10,17 @@
 	Hermes	People, it's Valentine's Day next week, so your beloved company has gotten you all new uniforms.
 	Amy	Clool!
 	Zoidberg	Clothing, delicious clothing!
-	Professor Farnsworth	We'll need to look our best if we're to get the account of our new potential customer, Romanticorp.
+	Prof. Farnsworth	We'll need to look our best if we're to get the account of our new potential customer, Romanticorp.
 	Amy	Romanticorp? Are they a corporation that makes romantic stuff?
 	Hermes	Very good, Amy!
-	Professor Farnsworth	Everyone suit up. We're off to the most romantic city on Earth!
-	Professor Farnsworth	Remember, we've got to show these people we're not bitter husks of human beings who long ago abandoned hope of finding love in this lifetime. Leela, you'll have to do some acting.
+	Prof. Farnsworth	Everyone suit up. We're off to the most romantic city on Earth!
+	Prof. Farnsworth	Remember, we've got to show these people we're not bitter husks of human beings who long ago abandoned hope of finding love in this lifetime. Leela, you'll have to do some acting.
 	Leela	Check!
 	Sheldon	Welcome. Oh, I'm just so excited! [They both kiss.] I'm Sheldon, and this is my chief financial officer, Gwen.
 	Gwen	For 30 years we've shared the adventure of managing Romanticorp.
 	Sheldon	Not to mention the adventure of marriage.
 	Leela	Oh, you have got to be kidding! [Farnsworth shocks her with a cattle prod.] Ow! I-I mean, "Aww! That's so sweet!" [He shocks her again.] Ow! I mean, "Aww dat's show shweet!"
-	Professor Farnsworth	You know, romance is an important part of our work too. Uh, right, everyone?
+	Prof. Farnsworth	You know, romance is an important part of our work too. Uh, right, everyone?
 	Leela	Yeah, sure.
 	Bender	[unenthusiastic] Oh, sure.
 	Sheldon	Do any of you collect Lovey Bears?
@@ -38,15 +38,15 @@
 	Fry	Whoa! Letters like "U" and "R" can mean words like "You" and "Are". Here, Leela, "U-R-2 Cute".
 	Leela	Perhaps. What's your point?
 	Fry	I've never been able to put into words how I feel about you. But somewhere among these trillions of hearts, those words must already exist. And I'm gonna find them.
-	Professor Farnsworth	So, do we have the contract?
-	Professor Farnsworth	With that big new Romanticorp contract, I've been able to make those government-mandated upgrades you've all been suing me about.
+	Prof. Farnsworth	So, do we have the contract?
+	Prof. Farnsworth	With that big new Romanticorp contract, I've been able to make those government-mandated upgrades you've all been suing me about.
 	Leela	Ooh, look! You taped up the cracks in the dark matter reactor.
 	Fry	And you got a cage for the lion!
 	Bender	Hey, who's been messing with the radio? This isn't alternative rock, it's college rock!
-	Professor Farnsworth	Oh, it must have been the ship's new improved personality software I installed.
+	Prof. Farnsworth	Oh, it must have been the ship's new improved personality software I installed.
 	Ship	Yeah, it was me. It's a cute song.
 	Bender	Listen, Ship! No one changes my stations! I hope you have a good mechanic!
-	Professor Farnsworth	It even comes with an adjustable voice.
+	Prof. Farnsworth	It even comes with an adjustable voice.
 	Ship	[male voice] We each get one of the four buttons. [female voice] Remember, Bender? That was the deal.
 	Bender	What? Did you just say--
 	Ship	If you don't like the stations you could just ... play with my buttons till you find something we both enjoy. [Bender growls sexfully.] Oh, gosh! That came out all wrong!

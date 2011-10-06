@@ -41,9 +41,9 @@
 	Leela	You're a lucky man. But are they way more expensive than regular eggs?
 	Brown-haired mMan	Way more.
 	Leela	Ooh! I'll take a dozen.
-	Professor Farnsworth	Wha?! You're not my breakfast friends! What are you doing here?!
+	Prof. Farnsworth	Wha?! You're not my breakfast friends! What are you doing here?!
 	Amy	Leela blackmailed us all into eating healthy, organic food.
-	Professor Farnsworth	Blackmail? What does she have on you?
+	Prof. Farnsworth	Blackmail? What does she have on you?
 	Hermes	As long as we eat 'er filthy scrambled eggs, you'll never find out.
 	Leela	They're not filthy! They're wholesome, fertile, and fresh from the forest floor. There's some filth.
 	Fry	FERTILE? What does that mean?
@@ -80,23 +80,23 @@
 	Hermes	Sweet freak of Mozambique! That thing's colossal! It's gonna kill us all!
 	Amy	It's so huge! How big does one o' those things get?!
 	Fry	Well, that depends on what one o' those things is. That seems like a fact worth knowing.
-	Professor Farnsworth	Good, startling news, everyone!
-	Professor Farnsworth	I found a description of the creature in this medieval monster manual. Just as I feared. Attack type J.
+	Prof. Farnsworth	Good, startling news, everyone!
+	Prof. Farnsworth	I found a description of the creature in this medieval monster manual. Just as I feared. Attack type J.
 	Amy	No! [extendedly] No!
-	Professor Farnsworth	[extendedly] Yes! [back to normal] It kills its prey by sucking out the skeleton, leaving nothing but a puddle of flesh.
+	Prof. Farnsworth	[extendedly] Yes! [back to normal] It kills its prey by sucking out the skeleton, leaving nothing but a puddle of flesh.
 	Amy	Ew!
 	Leela	Ugh!
 	Bender	Ew!
-	Professor Farnsworth	Hence the Latin name bonus vampirus. Or, as you non-Catholics would say, the bone vampire!
+	Prof. Farnsworth	Hence the Latin name bonus vampirus. Or, as you non-Catholics would say, the bone vampire!
 	Zoidberg	Dios mío.
 	Fry	That's ridiculous. Mr. Peppy doesn't eat bones. I raised 'im on a simple diet o' Brussels sprouts an' mixed soda.
 	Hermes	At least there's only one of 'em. The good news is they can't start breedin'.
-	Professor Farnsworth	The bad news, everyone, is the beast reproduces asexually. A single bone vampire, left alone with some quiet music and some bone-vampire porn, could produce dozens of deadly offspring.
+	Prof. Farnsworth	The bad news, everyone, is the beast reproduces asexually. A single bone vampire, left alone with some quiet music and some bone-vampire porn, could produce dozens of deadly offspring.
 	Zoidberg	That lucky bastard. I say kill it!
 	Fry	But it loves me! And I love it.
 	Zoidberg	Kill 'em both!
 	Leela	Killing them seems like a hassle. Can't we just set it free to live with its own kind?
-	Professor Farnsworth	Poor, ignorant Leela. The bone vampire is now extinct on its home planet.
+	Prof. Farnsworth	Poor, ignorant Leela. The bone vampire is now extinct on its home planet.
 	Leela	That's perfect! We can reintroduce it to the wild and repopulate the species!
 	Fry	Yeah! Let's do those Leela things.
 	Fry	Well, buddy, how d'ya like your new home? See? He's happy already.
@@ -138,7 +138,7 @@
 	Fry	It's nice! But there's still somethin' I don't like about that guy. My dad always said you could tell a lot about a man by the rigidity of 'is shins.
 	Zoidberg	What is?!
 	UNKNOWN	UNKNOWN, Gryffindor, Slytherin an' Hufflepuff! It killed Little Angus!
-	Professor Farnsworth	They're all dead! And their bones are gone! This was no accident.
+	Prof. Farnsworth	They're all dead! And their bones are gone! This was no accident.
 	Angus McZongo	Still think your Mr. Peppy is harmless, Fry?
 	Fry	He wouldn't do this in our sleep. He would not, could not to a sheep.
 	Angus McZongo	The deal is off! The beast must die!
@@ -151,7 +151,7 @@
 	Hermes	Look! The bone vampire!
 	Leela	Mr. Peppy attacked me. Quick! Count my bones. There should be two-hundred-and-five!
 	Leela	Okay. That's better. Keep 'em comin'!
-	Professor Farnsworth	I'm sorry, Fry, but no vegetarian could've done this.
+	Prof. Farnsworth	I'm sorry, Fry, but no vegetarian could've done this.
 	Fry	I know. An', as much as I love Mr. Peppy, I love Leela more. He has to be... Put down.
 	Amy	Aw, don't feel bad. Major McZongo's an experienced hunter. He'll blow Mr. Peppy's head off as painlessly as possible.
 	Fry	No! Not McZongo! If anyone's gonna kill Mr. Peppy, it should be me.
@@ -176,7 +176,7 @@
 	Angus McZongo	I work there as a greeter! Your beast was my chance to be a hero again. But the damn thing was a vegetarian! So I slaughtered the sheep meself.
 	Leela	But why did you attack me?
 	Angus McZongo	So I could impress you by seeking revenge on the creature. Us greeters don't get a lot of action. On paper, it seemed like a win-win situation.
-	Professor Farnsworth	Do you realise what this means, Fry?! Your pet's not dangerous after all!
+	Prof. Farnsworth	Do you realise what this means, Fry?! Your pet's not dangerous after all!
 	Fry	I told ya! Mr. Peppy's a lover, not a fighter. Like Dwayne "The Rock" "The Tooth Fairy" Johnson.
 	UNKNOWN	UNKNOWN! Hey. What's that bone-sucking sound?
 	Fry	It's Mr. Peppy! I'd know 'im anywhere.

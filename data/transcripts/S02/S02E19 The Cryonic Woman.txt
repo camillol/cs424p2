@@ -4,9 +4,9 @@
 	Bender	[pointing] Hey, look! The keys to the real spaceship.
 	Fry	Do you think we should?
 	Bender	[firmly] Yes, I do.
-	Professor Farnsworth	Leela, have you seen the keys to the spaceship?
+	Prof. Farnsworth	Leela, have you seen the keys to the spaceship?
 	Leela	[patting her pockets] I must've left them onboard.
-	Professor Farnsworth	Eh, wha? I mean, what?
+	Prof. Farnsworth	Eh, wha? I mean, what?
 	Leela	Relax. The ship's not going anywhere. I anchored it with the unbreakable diamond tether.
 	Amy	Oh, no!
 	Hermes	Sweet ghost of Babylon.
@@ -20,17 +20,17 @@
 	Italian #2	We like you a lot!
 	Fry	That was great!
 	Bender	And no one suspects a thing! [He laughs and gasps when he sees the rest of the staff standing angrily at the bottom of the steps.] Whoa! [A wall collapses.] And that's how we learned our lesson!
-	Professor Farnsworth	You've gone too far this time -- all three of you!
+	Prof. Farnsworth	You've gone too far this time -- all three of you!
 	Leela	What did I do?
-	Professor Farnsworth	You left the keys in the ignition. I mean, look at those two. Wasn't it obvious what would happen?
+	Prof. Farnsworth	You left the keys in the ignition. I mean, look at those two. Wasn't it obvious what would happen?
 	Fry	Yeah, Leela.
 	Bender	We're all very disappointed in you.
-	Professor Farnsworth	I should fire you three right now, but I'm just not that cold-hearted.
+	Prof. Farnsworth	I should fire you three right now, but I'm just not that cold-hearted.
 	Hermes	You're all fired.
 	Zoidberg	[waving] Goodbye, friends. I'll miss you. [They round a corner and hear Zoidberg talking to the others through a hole in the wall.] Good riddance to them. Now Zoidberg is the popular one!
-	Professor Farnsworth	Yes, yes! Let's all talk to Zoidberg.
+	Prof. Farnsworth	Yes, yes! Let's all talk to Zoidberg.
 	Amy	Hey, Dr. Zoidberg, I've been thinking, do you think we could go out?
-	Professor Farnsworth	So, Zoidberg, what's new?
+	Prof. Farnsworth	So, Zoidberg, what's new?
 	Hermes	Tell me, Zoidberg: Is it carapace or carapass?
 	Zoidberg	Oh, you know!
 	Fry	What are we supposed to do for money? [He opens his wallet.] All I've got is my frequent taffy eater's card, my first moustache ... [He holds it up in a bag.] ... and this picture of me and my old girlfriend, Michelle, and that ski instructor she was just friends with.
@@ -129,12 +129,12 @@
 	Sal	I'm on loan from the Louvre.
 	Leela	Please, Professor. Give us our jobs back. We deserve another chance.
 	Bender	Yeah, and if you won't give me another chance, perhaps you'd give one to ... [He puts his gorilla mask on.] ... Og, gorilla emperor of Earth!
-	Professor Farnsworth	I'm sorry, Og, but I've got a new crew.
-	Professor Farnsworth	So, how was delivery to Fantasy Planet, where everyone's fantasies come to life?
+	Prof. Farnsworth	I'm sorry, Og, but I've got a new crew.
+	Prof. Farnsworth	So, how was delivery to Fantasy Planet, where everyone's fantasies come to life?
 	Amy	Great!
 	Hermes	Organised!
 	Zoidberg	For one beautiful night, I knew what it was to be a grandmother. Subjugated, yet honoured.
-	Professor Farnsworth	You see, Og? Everything's running smoothly, yes. And with Fry fired, I can finally leave my jigsaw puzzles out without him eating the pieces.
+	Prof. Farnsworth	You see, Og? Everything's running smoothly, yes. And with Fry fired, I can finally leave my jigsaw puzzles out without him eating the pieces.
 	Leela	Forget about Fry. You can hire us back and he'd never have to know.
 	Fry	Hey, guys.
 	Leela	Oh, uh, hey, Fry!
@@ -144,7 +144,7 @@
 	Fry	And this is Dr. Zoidberg.
 	Hermes	Dating you ex, Fry? Have you lost all self-respect?
 	Fry	All what?
-	Professor Farnsworth	This can only end badly, Fry. Kids, a house--
+	Prof. Farnsworth	This can only end badly, Fry. Kids, a house--
 	Bender	A home invasion by a former roommate.
 	Fry	But things are different this time. Before, she was demanding and possessive. But now she wants me to do stuff and stay with her all the time.
 	Zoidberg	There you go, dearies.
@@ -218,10 +218,10 @@
 	Fry	Leela? What are you guys doing here in the year 4000?
 	Leela	It's not the year 4000.
 	Bender	You were only frozen for two days. Uh, by the way, I broke your bed.
-	Professor Farnsworth	You were in Pauly Shore's tube and they were delivering it to his movie screening.
+	Prof. Farnsworth	You were in Pauly Shore's tube and they were delivering it to his movie screening.
 	Leela	But, when they noticed you weren't him, they chucked you in a ditch.
 	Fry	So you're saying these aren't the decaying ruins of New York in the year 4000?
-	Professor Farnsworth	You wish! You're in Los Angeles!
+	Prof. Farnsworth	You wish! You're in Los Angeles!
 	Fry	But there was this gang of 10-year-olds with guns.
 	Leela	Exactly, you're in L.A.
 	Fry	But everyone is driving around in cars shooting at each other.
@@ -232,6 +232,6 @@
 	Michelle	It's not working out, Fry.
 	Shore	[shouting] Tis better to have loved and lost, n'est ce-pas?
 	Fry	That's it. I've had it with women. From now on, I'm concentrating on my career. Can I have my old job back?
-	Professor Farnsworth	Why, I've forgotten why I even fired you.
+	Prof. Farnsworth	Why, I've forgotten why I even fired you.
 	Bender	'Cause he destroyed your business, your home and all your possessions.
-	Professor Farnsworth	Oh, that's right. Get lost!
+	Prof. Farnsworth	Oh, that's right. Get lost!

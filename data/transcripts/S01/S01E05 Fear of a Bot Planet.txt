@@ -2,7 +2,7 @@
 00:05	Fry	It really puts things in perspective. I mean, from up here an entire world can seem utterly insignificant.
 00:49	Bender	Hey nice seats! We're close enough so when you knock a player down with a beer bottle, he stays down!
 00:54	Fry	I don't get it. Is blernsball exactly the same as baseball?
-00:58	Professor Farnsworth	Baseball?? God forbid!
+00:58	Prof. Farnsworth	Baseball?? God forbid!
 01:00	Leela	Face it Fry. Baseball was as boring as mum and apple pie. That's why they jazzed it up.
 01:05	Fry	Boring? Baseball wasn't - hmm, so they finally jazzed it up?
 01:14	Fry	Home run!! Woooo! Right?
@@ -23,7 +23,7 @@
 02:27	Leela	Except for the word "blern" that was complete gibberish. [The blernsball falls into a hole and indescribable mayhem ensues! Fry scratches his head in confusion. Leela writes on her score card. All right! Yes!!
 02:50	Fry	What just happened?
 02:53	Leela	Miller's on a pace to hit 70 blerns!
-02:58	Professor Farnsworth	He's good all right. But he's no Clem Johnson. And Johnson played back in the days when steroid injections were mandatory.
+02:58	Prof. Farnsworth	He's good all right. But he's no Clem Johnson. And Johnson played back in the days when steroid injections were mandatory.
 03:05	Bender	Clem Johnson? That skin bag wouldn't have lasted one pitch in the old Robot Leagues! Now Wireless Joe Jackson, there was a blern hitting machine!
 03:15	Leela	Exactly! He was a machine designed to hit blerns! I mean come on! Wireless Joe was nothing but a programmable bat on wheels.
 03:22	Bender	Oh and I suppose pitching at 5000 was just a modified howitzer.
@@ -33,21 +33,21 @@
 03:35	Bender	Yeah doing crap work! They're bat boys, ball polishers, sprinkler systems. But how many robot managers are there?
 03:43	Fry	Eleven?
 03:44	Bender	Zero! [He throws his bottle on the floor and it breaks. A small robot comes out and cleans it up.] And what a surprise! Look who's scraping up the filth! Is it a human child? I wish!
-03:53	Professor Farnsworth	Oh dear Lord!
+03:53	Prof. Farnsworth	Oh dear Lord!
 03:54	Fry	What's wrong?
-03:56	Professor Farnsworth	It's...my...new...pager.
+03:56	Prof. Farnsworth	It's...my...new...pager.
 04:01	Hermes	[on pager] : This is Hermes. A package just came in. Everyone is to return to the office immediately. [The crew grumble. A pigeon lands next to Hermes' image.] Get away you filthy bird! Shoo! Professor turn me off quick!
-04:14	Professor Farnsworth	I'm sorry what?
+04:14	Prof. Farnsworth	I'm sorry what?
 04:16	Hermes	[on pager] : Argh! [The bird takes off with the hologram. Hermes screams.] See you at the office!
 04:21	Bender	Admit it. You all think robots are machines built by humans to make their lives easier.
 04:26	Fry	Well, aren't they?
 04:27	Bender	I've never made anyone's life easier and you know it!
-04:30	Professor Farnsworth	Great news everyone. You'll be delivering a package to Chapek 9. A world where humans are killed on sight!
+04:30	Prof. Farnsworth	Great news everyone. You'll be delivering a package to Chapek 9. A world where humans are killed on sight!
 04:37	Fry	Why is that great news?
-04:39	Professor Farnsworth	I'm glad you asked that question Fry. You see Chapek 9 was colonised centuries ago by a murderous crew of radical robot separatists.
+04:39	Prof. Farnsworth	I'm glad you asked that question Fry. You see Chapek 9 was colonised centuries ago by a murderous crew of radical robot separatists.
 04:48	Bender	Oh so just 'cause a robot wants to kill humans that makes him a radical?
 04:53	Leela	Hey hold on. I understand these robots hate humans but how do they feel about humanoid aliens?
-04:58	Professor Farnsworth	They're not fans.
+04:58	Prof. Farnsworth	They're not fans.
 05:00	Hermes	That's why Bender will have to make the actual delivery.
 05:02	Bender	Oh I get it, make the robot do all the work!
 05:06	Leela	This is the first actual work you've ever had to do around here.
@@ -59,7 +59,7 @@
 05:25	Bender	It wasn't just a blast it was a sacred tribute to my ancestral prototypes which happened to take the form of a drinking contest.
 05:33	Hermes	Now look here Bender. I respect your diversity to the extent the law requires but you used up all your days off when you had that bout of Roberculosis.
 05:42	Bender	All right, I'll go. But so help me, I'll hold a grudge against every last one of you for the rest of your lives.
-05:50	Professor Farnsworth	Well then it's settled. So long everyone!
+05:50	Prof. Farnsworth	Well then it's settled. So long everyone!
 05:56	Fry	So let me get this straight: This planet is completely uninhabited?
 05:59	Bender	No. It's inhabited by robots!
 06:02	Fry	Oh. Kinda like how a warehouse is inhabited by boxes.

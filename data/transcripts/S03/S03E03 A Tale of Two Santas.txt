@@ -6,14 +6,14 @@
 	Cronkite	[on TV] In all the tinsel and terror of the holiday season we too often underestimate that murderous brute better known as Santa Claus. With images of last year's gingerbread massacre freshly baked into our memories, I remind you to bolt your doors, say goodbye to your pets and lock your children in the closet. This is Walter Cronkite saying, "I told you so".
 	Hermes	Sacred boa of West and Eastern Samoa. We've got to secure for Santa's arrival.
 	Fry	Just as well. I'm getting tired of this wood show.
-	Professor Farnsworth	Cover that fireplace, confound you! I've only a few years to live. I don't wanna spend them dead.
+	Prof. Farnsworth	Cover that fireplace, confound you! I've only a few years to live. I don't wanna spend them dead.
 	Leela	We're pushing as hard as we can.
 	Bender	Oh, pushing!
-	Professor Farnsworth	Oh, we're doomed! Every year we're doomed. Thanks be I had these bullet-proof shutters installed.
-	Professor Farnsworth	Bring it on, Santa! That bloodthirsty cadaver junkie can't touch us as long as we're not stupid enough to leave this building.
+	Prof. Farnsworth	Oh, we're doomed! Every year we're doomed. Thanks be I had these bullet-proof shutters installed.
+	Prof. Farnsworth	Bring it on, Santa! That bloodthirsty cadaver junkie can't touch us as long as we're not stupid enough to leave this building.
 	Fry	[cheering] Alright!
 	Leela	[cheering] Yeah!
-	Professor Farnsworth	In a related matter, you'll be delivering this sack of children's letters directly to Santa at his death fortress on Neptune.
+	Prof. Farnsworth	In a related matter, you'll be delivering this sack of children's letters directly to Santa at his death fortress on Neptune.
 	Fry	These letters are real butt-nutters! [He opens one.] Listen to this one: [reading] Dear Santa.
 	Girl	[voice-over; writing] Please, please don't bring me any gifts. The bicycle you fired at me last year from your bicycle gun really tore up my insides.
 	Leela	Awful! Let's read some more. [reading] Dear Santa.
@@ -114,10 +114,10 @@
 	Fry	Ah! Bathtub eggnog! Just the way Grandma used to drink. [He tastes it and spits it out.] Ew! It went sour!
 	Zoidberg	Can't I have a scented bath in peace?
 	Leela	Remember, Professor, Bender is Santa. So we don't need to hurt him, right?
-	Professor Farnsworth	Yes, yes, yes. You sound like a broken mp3!
+	Prof. Farnsworth	Yes, yes, yes. You sound like a broken mp3!
 	Bender	Ho, ho-- [Farnsworth blasts Bender in the chest with a shotgun and he falls back.] Ow!
 	Leela	[shouting] Professor! Don't you remember what I told you?
-	Professor Farnsworth	[shouting] No!
+	Prof. Farnsworth	[shouting] No!
 	Bender	[crying] Oh, there's gotta be a better way.
 	Bender	Bender, you're a genius!
 	Vyolet	This creates an unrealistic standard of beauty!
@@ -128,7 +128,7 @@
 	Bailiff	This Xmas Day session of court will come to order. The Honourable Judge Whitey presiding.
 	Whitey	Santa Claus, you stand accused of crimes against humanity. How do you plead?
 	Bender	Not Santa!
-	Professor Farnsworth	There he is again!
+	Prof. Farnsworth	There he is again!
 	Hyper-Chicken	Now, Pramala, I know it's scary in that there witness box but t'ain't no need to fear me. [He clucks and she flinches.] I'm sorry, I thought you was corn. Now, would you please point at that robot over there. [She points and the court gasps.] No further questions. [He walks off, sits down and opens his briefcase. There are nine chicks inside.] Daddy done good, huh?
 	Bender	Isn't it true that you have been paid for your testimony?
 	Pramala	Yes. You gave me a dollar and some candy.
@@ -172,7 +172,7 @@
 	Mayor Poopenmeyer	You people aren't Santa. You're not even robots! Ninety-one. How dare you lie in front of Jesus! [The display shows "00".] Hey! Zero!
 	Bender	No! Not the magnets! [His eyes widen.] [singing] Swing low, sweet chariot, coming for to carry me home. [The witnesses applaud.] Swing low, sweet...
 	Fry	This is horrible.
-	Professor Farnsworth	But it's not boring!
+	Prof. Farnsworth	But it's not boring!
 	Santa	Ho, ho, ho!
 	Mayor Poopenmeyer	My God! The real Santa! Get him, Jesus!
 	Zoidberg	I help those who help themselves.
@@ -187,13 +187,13 @@
 	Santa	Let it snow!
 	Bender	Merry Xmas, kids!
 	Leela	This wangs chun! After all the good we tried to do, Xmas turned out as rotten as ever.
-	Professor Farnsworth	No heat.
+	Prof. Farnsworth	No heat.
 	Amy	No power.
 	Hermes	Huddled together in fear like lice in a burning wig.
 	Fry	Wait a second! Maybe your futuristic Xmas isn't so rotten after all.
 	Leela	What are you talking about, you crouton? You said it yourself: Xmas should be about bringing people together, not blowing them apart.
 	Fry	But don't you see? Fear has brought us together. That's the magic of Xmas!
-	Professor Farnsworth	That's a big crock of-- [There is an explosion outside.] Hold me!
+	Prof. Farnsworth	That's a big crock of-- [There is an explosion outside.] Hold me!
 	Bender	On, Trasher! On, Smasher! [The Kwanzaabot flies alongside.] Hey, Kwanzaabot, where you off to?
 	Kwanzaabot	Ah, you didn't hear about it? Chanukah Zombie's having a luau at the B'nai B'rith! You comin'?
 	Bender	Word!

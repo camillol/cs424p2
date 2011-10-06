@@ -3,7 +3,7 @@
 	Fry	Man, it's hot! [different voice] How hot is it? [normal voice] It's so hot, I poured McDonald's coffee in my lap to cool off. [He chuckles.] Johnny Carson said it.
 	Leela	No, Nibbler! Don't drink the pool water! It's full of chlorine!
 	Bender	Lightweights! Oh, wait, chlorine!
-	Professor Farnsworth	Perhaps this movie will help us take our minds off the heat.
+	Prof. Farnsworth	Perhaps this movie will help us take our minds off the heat.
 	Bender	[jittery] Focus!
 	Narrator	[voice-over] Global Warming Or: None Like It Hot!
 	Narrator	[in movie] You're probably wondering why your ice cream went away. Well, Suzie, the culprit isn't foreigners, it's global warming!
@@ -21,11 +21,11 @@
 	Narrator	[angry; in movie.] Once and for all!
 	Leela	Well, we just need one of those big ice cubes. Someone should call the losers who are supposed to deliver it. [The phone rings. Leela answers.] Hello?
 	Richard Nixon	[on screen] President Nixon here. [Zoidberg salutes.] I'm hiring you losers to deliver the ice. And hurry up! I'm sweating like J. Edgar Hoover trying to squeeze into a new girdle!
-	Professor Farnsworth	You heard the good news, everyone! Save the Earth, et cetera, et cetera! [He stands up and starts ushering them out.] Bye!
+	Prof. Farnsworth	You heard the good news, everyone! Save the Earth, et cetera, et cetera! [He stands up and starts ushering them out.] Bye!
 	Fry	Wait! Where do we get the ice?
-	Professor Farnsworth	The wha? Oh, Halley's Comet, of course. The only sufficient source of ice cubes that don't have bugs in them.
+	Prof. Farnsworth	The wha? Oh, Halley's Comet, of course. The only sufficient source of ice cubes that don't have bugs in them.
 	Fry	Wow! Mining a comet! That sounds fun.
-	Professor Farnsworth	Yes, there's no safer occupation than mining. Especially when you're perched on a snowball whipping through space at a million miles an hour. [He mimes a snowball whipping through space at a million miles an hour.] Safe!
+	Prof. Farnsworth	Yes, there's no safer occupation than mining. Especially when you're perched on a snowball whipping through space at a million miles an hour. [He mimes a snowball whipping through space at a million miles an hour.] Safe!
 	Bender	[shouting] Deploying ice drill.
 	Fry	Wow! That ice dispenser's so big, the ice crushes you! [He chuckles.] Yakov Smirnov said it.
 	Leela	No, he didn't.
@@ -61,9 +61,9 @@
 	Man	I've got a degree in homeopathic medicine!
 	Van	You've got a degree in baloney!
 	Amy	Professor Farnsworth, you're a scientist!
-	Professor Farnsworth	Forget it, I'm not going! I have my reasons! Shut up, all of you!
+	Prof. Farnsworth	Forget it, I'm not going! I have my reasons! Shut up, all of you!
 	Hermes	Strange. You haven't acted this suspicious since I found those "ape bones" in the basement.
-	Professor Farnsworth	My hip hurts! I'm in the middle of cooking a turkey! I have warranty cards to fill out! I am not just making excuses! Alright, I'll go!
+	Prof. Farnsworth	My hip hurts! I'm in the middle of cooking a turkey! I have warranty cards to fill out! I am not just making excuses! Alright, I'll go!
 	Woman #1	[shouting] Oh, God, I can't believe it!
 	Woman #2	[shouting] I love you!
 	Rivers	Oh, oh, oh! It's Hubert Farnsworth! He's looking sharp in a standard white lab coat and dark slacks! His wristwatch is a Casio.
@@ -75,43 +75,43 @@
 	Al Gore	That's why I'm offering a bag of Moon Sapphires to the first scientist who can solve this problem once and for all. [The audience "Ooh's".] Lovely, aren't they?
 	Dark Wizard	Sapphires? [He cackles.] With those I could open the Gate of Kerash!
 	Al Gore	First up is Professor Ogden Wernstrom.
-	Professor Farnsworth	Wernstrom!
+	Prof. Farnsworth	Wernstrom!
 	Wernstrom	Ladies and gentlemen, I have placed in orbit a giant mirror that will reflect 40% of the sun's rays, thus cooling Earth. Observe.
 	Wernstrom	Problem solved.
 	Man	Ooh! That's a little bright.
 	Al Gore	Alright, what else we got?
 	Fry	Professor, you're a professor. You must have some ideas.
-	Professor Farnsworth	Absolutely not! I won't speak! I've got nothing to hide!
+	Prof. Farnsworth	Absolutely not! I won't speak! I've got nothing to hide!
 	Al Gore	Our next speaker is Professor--
-	Professor Farnsworth	I demand the floor!
+	Prof. Farnsworth	I demand the floor!
 	Al Gore	Yes, it's your turn to speak.
-	Professor Farnsworth	Well nuts to me. I'm taking the stage! [He walks on stage.] I know the source of the greenhouse gases. But in my shame I've kept it secret for 75 long years. Oh, it haunts my memory still.
+	Prof. Farnsworth	Well nuts to me. I'm taking the stage! [He walks on stage.] I know the source of the greenhouse gases. But in my shame I've kept it secret for 75 long years. Oh, it haunts my memory still.
 	Fry	Professor, no! Don't do it!
-	Professor Farnsworth	Don't do what? Don't use this memory ray so I can remember what happened back then?
-	Professor Farnsworth	[voice-over] It was October 17th at 1:54pm and 14 birds were flying by the window. I was working at Mom's Friendly Robot Company. Back then, you see, robots were slow-moving, stiff and a little on the uptight side.
+	Prof. Farnsworth	Don't do what? Don't use this memory ray so I can remember what happened back then?
+	Prof. Farnsworth	[voice-over] It was October 17th at 1:54pm and 14 birds were flying by the window. I was working at Mom's Friendly Robot Company. Back then, you see, robots were slow-moving, stiff and a little on the uptight side.
 	Prototype	Oh, dear. Might I favour master with a tender kiss on the forehead?
-	Professor Farnsworth	Oh, I've failed again.
+	Prof. Farnsworth	Oh, I've failed again.
 	Prototype	Oh, dear! Oh, dear! Oh, dear!
-	Professor Farnsworth	[voice-over] The owner of the company pressured me to create a bigger sportier robot.
-	Professor Farnsworth	Stop!
-	Professor Farnsworth	[voice-over] It wasn't easy but, by sacrificing fuel efficiency, I succeeded.
+	Prof. Farnsworth	[voice-over] The owner of the company pressured me to create a bigger sportier robot.
+	Prof. Farnsworth	Stop!
+	Prof. Farnsworth	[voice-over] It wasn't easy but, by sacrificing fuel efficiency, I succeeded.
 	Mom	What was that?
-	Professor Farnsworth	A flaming burp.
+	Prof. Farnsworth	A flaming burp.
 	Mom	Does it always do that?
-	Professor Farnsworth	It's not always a burp. We still have one problem though: This robot will never meet emission standards.
+	Prof. Farnsworth	It's not always a burp. We still have one problem though: This robot will never meet emission standards.
 	Mom	Crap spackle! [She slaps him.] We'll just call it a sport utility robot and classify it as a light truck.
-	Professor Farnsworth	Well, I suppose the environment can take one more for the team.
-	Professor Farnsworth	[voice-over] What a fool I was. If only I had made the effort to develop a cleaner-burning robot. But I was tired and in love.
+	Prof. Farnsworth	Well, I suppose the environment can take one more for the team.
+	Prof. Farnsworth	[voice-over] What a fool I was. If only I had made the effort to develop a cleaner-burning robot. But I was tired and in love.
 	Mom	Take me now, you stud!
-	Professor Farnsworth	Oh, this is all my fault!
+	Prof. Farnsworth	Oh, this is all my fault!
 	Fry	That's awful, Professor. Especially the making-out part.
 	Al Gore	Yeah, I didn't need to hear that.
-	Professor Farnsworth	All modern robots descend from my original smog-blasting designs. And that's the cause of global warming today.
+	Prof. Farnsworth	All modern robots descend from my original smog-blasting designs. And that's the cause of global warming today.
 	Wernstrom	Huh, so the robots are to blame. As I suspected. [He speaks into the microphone.] We are left with only one possible course of action, grim though it be.
 	Bender	I got a good feeling about this!
 	Wernstrom	We must immediately and permanently shut down, dismantle and destroy all robots!
 	Bender	No!
-	Professor Farnsworth	Wait, surely there's a better--
+	Prof. Farnsworth	Wait, surely there's a better--
 	Van	The conference is over.
 	Al Gore	I must go now, to help collect cans on Jupiter. Peace out, y'all!
 	Crowd	[chanting] Destroy all robots! Destroy all robots!
@@ -156,21 +156,21 @@
 	Preacherbot	Oh, mercy!
 	Bender	Come on!
 	Hedonismbot	Let the games begin!
-	Professor Farnsworth	Everyone, listen!
+	Prof. Farnsworth	Everyone, listen!
 	Preacherbot	Aw, damn!
-	Professor Farnsworth	I've devised a way to save you and stop global warming at the same time. Granted, you're all blasting out greenhouse gases--
+	Prof. Farnsworth	I've devised a way to save you and stop global warming at the same time. Granted, you're all blasting out greenhouse gases--
 	Bender	[shouting] You're one to talk!
-	Professor Farnsworth	But we can use those very gases to save the planet. If you all vent your exhaust directly upward in one burst, it should thrust the Earth further from the sun, thus cooling it. [The robots "Ooh".] By my calculations, we'll need the full force of every last robot. So, quickly, everyone point your exhaust vents straight upwards. [The robots turn their exhausts up.] Now vent! Vent like the wind! [The robots vent. A huge flame rises into the sky but nothing happens.] Harder! Harder!
+	Prof. Farnsworth	But we can use those very gases to save the planet. If you all vent your exhaust directly upward in one burst, it should thrust the Earth further from the sun, thus cooling it. [The robots "Ooh".] By my calculations, we'll need the full force of every last robot. So, quickly, everyone point your exhaust vents straight upwards. [The robots turn their exhausts up.] Now vent! Vent like the wind! [The robots vent. A huge flame rises into the sky but nothing happens.] Harder! Harder!
 	Fry	Why isn't this working?!
 	Leela	Some lazy or polite robot is holding it in.
 	Bender	Help! Help!
-	Professor Farnsworth	A billion robot lives are about to be extinguished. Oh, the Jedis are going to feel this one!
+	Prof. Farnsworth	A billion robot lives are about to be extinguished. Oh, the Jedis are going to feel this one!
 	Bender	I'm sorry, buddy. At least we'll die on our backs, helpless. [The turtle starts to rock from side to side.] Huh? What the hell are you doing? [It rocks onto it's feet and walks away.] Hey, you trying to make me look bad? [He rocks on his back, working his body with his arms and manages to get up.] Aha! I'm even greater than I thought I was! And now to fulfill my destiny.
 	Richard Nixon	Fire! [Wernstrom presses a button but the pulse misses.] What the--?
 	Wernstrom	We missed!
 	Richard Nixon	Professor, for saving the Earth and foiling me, I proudly, yet angrily, present you with Earth's new highest honour: The Polluting Medal of Pollution.
-	Professor Farnsworth	Thank you. I deserve this!
+	Prof. Farnsworth	Thank you. I deserve this!
 	Bender	Hey, Professor, now that the Earth's orbit is further from the sun, won't that make the year longer?
-	Professor Farnsworth	Why, yes! One week longer to be exact.
+	Prof. Farnsworth	Why, yes! One week longer to be exact.
 	Richard Nixon	In that case I hereby declare it Robot Party Week!
 	Bender	Alright, baby!

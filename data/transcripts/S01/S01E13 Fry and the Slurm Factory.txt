@@ -18,7 +18,7 @@
 	Leela	Bender, what's wrong?
 	Bender	I'm sick.
 	Leela	You poor baby. Let me check if you have a fever. [She puts the back of her hand against his head and it sizzles. She pulls it away quickly.] Ow!
-	Professor Farnsworth	According to Bender's temperature gauge, which I suggest you use next time, Leela, he's running a fever of ... 900 degrees.
+	Prof. Farnsworth	According to Bender's temperature gauge, which I suggest you use next time, Leela, he's running a fever of ... 900 degrees.
 	Hermes	Bender, mon, lie yourself down. [Bender lies on the couch and it bursts into flames. It burns away and leaves nothing but ash. Bender falls to the floor.] You're payin' for that!
 	Zoidberg	I'll have a look, but I remind you, I'm an expert on humans not robots.
 	Fry	I'm not Bender, I'm Fry.
@@ -30,13 +30,13 @@
 	Amy	You should try homeopathic medicine, Bender. Take some zinc.
 	Bender	I'm 40% zinc.
 	Amy	Then take some Echinacea or a St. John's wort.
-	Professor Farnsworth	Or a big fat placebo. It's all the same crap.
+	Prof. Farnsworth	Or a big fat placebo. It's all the same crap.
 	Leela	Hey, what's rattling around in there?
-	Professor Farnsworth	It may well be the cause of Bender's illness. But more importantly, it's a flimsy pretext to try out my latest invention. To the laboratory!
-	Professor Farnsworth	I call this the F-ray. It's like an X-ray only it allows you to see through anything, even metal. Now, the neutrino beam it emits is a tad dangerous, so you'll all need protective goggles. [Amy, Hermes, Fry and Leela put on some goggles and gasp when they see Farnsworth putting on a full-body radiation suit. He picks up the F-ray and turns to Bender.] You may feel a slight stinging sensation -- all of you! [The crew look shocked and Farnsworth turns on the F-ray and shines it on Bender's casing. He adjusts it and the beam lights up Bender's inner workings. Farnsworth points the beam at Bender's head showing his CPU number, 6502, then he points it at his arms, feet and back to his body. A watch has jammed Bender's workings.] Aha! There's the cause of your illness.
+	Prof. Farnsworth	It may well be the cause of Bender's illness. But more importantly, it's a flimsy pretext to try out my latest invention. To the laboratory!
+	Prof. Farnsworth	I call this the F-ray. It's like an X-ray only it allows you to see through anything, even metal. Now, the neutrino beam it emits is a tad dangerous, so you'll all need protective goggles. [Amy, Hermes, Fry and Leela put on some goggles and gasp when they see Farnsworth putting on a full-body radiation suit. He picks up the F-ray and turns to Bender.] You may feel a slight stinging sensation -- all of you! [The crew look shocked and Farnsworth turns on the F-ray and shines it on Bender's casing. He adjusts it and the beam lights up Bender's inner workings. Farnsworth points the beam at Bender's head showing his CPU number, 6502, then he points it at his arms, feet and back to his body. A watch has jammed Bender's workings.] Aha! There's the cause of your illness.
 	Amy	Hey, that's my watch!
 	Bender	I was wondering where I put that. [He puts his hand down his throat and hands Amy her watch through his door. He turns from the reddish colour back to his normal blue-grey colour.] Hey, now I feel much better! Thanks, Professor. And, Amy, I'm sorry I took your watch.
-	Professor Farnsworth	Well, I've got to go take this suit to the decontaminators. You two lock up the F-ray and for the love of God don't let it fall into the wrong hands.
+	Prof. Farnsworth	Well, I've got to go take this suit to the decontaminators. You two lock up the F-ray and for the love of God don't let it fall into the wrong hands.
 	Bender	What should we point it at first?
 	Fry	I 'unno. Try it on me. [Bender turns it on and points it at Fry's crotch. Fry doubles over in pain.] Ow! My sperm!
 	Bender	Wow, neat! Mind if I try that again?
@@ -69,11 +69,11 @@
 	Glurmo	But before the party, you're all in for a fun-derful treat: A VIP tour of the Slurm factory!
 	Slurms	Enjoy the tour, dudes! [The leave and he droops over.] I'm gonna go lie down.
 	Glurmo	Welcome, my friends, to the wondrous world of whimsy that we like to call "Slurms Centralised Industrial Fabrication Unit".
-	Professor Farnsworth	Oh, my!
+	Prof. Farnsworth	Oh, my!
 	Bender	Look! Flowers! And a boat!
-	Professor Farnsworth	Who are those horrible orange creatures over there?
+	Prof. Farnsworth	Who are those horrible orange creatures over there?
 	Glurmo	Why, those are the Grunka Lunkas. They work here in the Slurm factory.
-	Professor Farnsworth	Tell them I hate them.
+	Prof. Farnsworth	Tell them I hate them.
 	Glurmo	As we sail down the river of Slurm you'll see our mix-ologists at work. [He points to some Grunka Lunkas stirring cauldrons of yellow-orange stuff.] They take 900 of the finest ingredients, add a touch of child-like delight and mix it all with glacial spring water from our glacial spring water generator. [He points to a Grunka Lunka pumping water into a bucket from two containers labelled "H2" and "O".] Then, last of all, we add the secret ingredient that makes Slurm so deliciously addictive.
 	Fry	So, what's the secret ingredient?
 	Glurmo	It's whatever your imagination wants it to be.
@@ -130,7 +130,7 @@
 	Leela	No. There's already a soda like that: Soylent Cola.
 	Fry	Oh. How is it?
 	Leela	It varies from person to person.
-	Professor Farnsworth	Ooh!
+	Prof. Farnsworth	Ooh!
 	Zoidberg	Do you have any that aren't so tight around the thorax?
 	Glurmo	Yes, over in-- Say, weren't there more people in your group at the start of the tour?
 	Amy	Hey, yeah. Fry, Leela and Bender are missing.
@@ -202,18 +202,18 @@
 	Bender	Party on, Slurms!
 	Slurms	Party on, contest winners. Party on.
 	Slurm Queen	No! We're ruined! They know our disgusting secret!
-	Professor Farnsworth	Commissioner, my crew has made a horrific discovery: It seems that Slurm is produced in a colossal worm hiney!
+	Prof. Farnsworth	Commissioner, my crew has made a horrific discovery: It seems that Slurm is produced in a colossal worm hiney!
 	Commissioner	[on screen] Hmm, "hiney", you say? Why, with your testimony we'll finally be able to outlaw this insidious Slurm.
 	Fry	Outlaw Slurm? [He looks at a can and runs between Farnsworth and the screen.] Uh, don't pay any attention to him, sir...
 	Fry	[on screen] Grandpa's making up crazy stories again.
-	Professor Farnsworth	[on screen] I'm not your grandpa, you're my uncle! From the year 2000!
+	Prof. Farnsworth	[on screen] I'm not your grandpa, you're my uncle! From the year 2000!
 	Commissioner	[patronising; on screen] OK, grandpa, we'll take care of the "bad worms", don't you worry.
 	Fry	Ah, I just wish Slurms MacKenzie were here to enjoy this with me.
 	Bender	Yeah, that Slurms sure loved to party. Whattya say we all party one last time for him?
 	Leela	For Slurms!
 	Amy	[simultaneous] For Slurms!
 	Bender	[simultaneous] For Slurms!
-	Professor Farnsworth	[simultaneous] For Slurms!
+	Prof. Farnsworth	[simultaneous] For Slurms!
 	Fry	[simultaneous] For Slurms!
 	Zoidberg	[simultaneous] Whammy-wazzle!
 	Bender	Hey, that's not that bad.

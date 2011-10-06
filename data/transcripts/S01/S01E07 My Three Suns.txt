@@ -54,16 +54,16 @@
 05:04	Bender	[shouting] Thank you!
 05:07	Leela	What the hell were you doing? I warned you to stay away from those guys.
 05:10	Fry	I'm capable of making my own decisions, Leela. Did you ever stop to think I might be happier with gills?
-05:16	Professor Farnsworth	Good news, everyone--
+05:16	Prof. Farnsworth	Good news, everyone--
 05:17	Bender	Uh-oh, I don't like the sound of that.
-05:19	Professor Farnsworth	You'll be making a delivery to the planet Trisol...
+05:19	Prof. Farnsworth	You'll be making a delivery to the planet Trisol...
 05:22	Bender	Here it comes.
-05:23	Professor Farnsworth	A mysterious world in the darkest depths of the Forbidden Zone.
+05:23	Prof. Farnsworth	A mysterious world in the darkest depths of the Forbidden Zone.
 05:28	Bender	Thank you, and goodnight.
 05:29	Leela	Uh, Professor, are we even allowed in the Forbidden Zone?
-05:33	Professor Farnsworth	Why, of course! It's just a name! Like the Death Zone or the Zone of No Return. All the zones have names like that in the Galaxy of Terror!
+05:33	Prof. Farnsworth	Why, of course! It's just a name! Like the Death Zone or the Zone of No Return. All the zones have names like that in the Galaxy of Terror!
 05:42	Leela	Uh, Professor--
-05:43	Professor Farnsworth	Off you go. Pleasant trip!
+05:43	Prof. Farnsworth	Off you go. Pleasant trip!
 05:50	Fry	[shouting] Hey, Bender, how's dinner coming?
 05:52	Bender	[shouting; from galley] Almost ready!
 06:00	Bender	Now for a dash of salt! [He coats the slug in salt and it starts to shrivel up.] Uh-oh!

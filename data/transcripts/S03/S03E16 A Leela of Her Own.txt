@@ -1,9 +1,9 @@
 	Leela	Oh, put down the binoculars, Fry. The wall of that strip club isn't going to collapse twice in one day.
 	Fry	I know, and I've grown to accept that. Now I'm more interested in that new pizza parlour across the street. Kinda makes me pine for my days as a pizza delivery boy. "Here's you pizza," I'd say. "I didn't order any," they'd say. And then I'd be off to my next adventure.
 	Leela	That story stunk. Hand me the binoculars. [He hands them to her and she snaps it in half and looks through it like a telescope. Across the street an alien opens up Family Bros. Pizza.] I think the owner is from Cygnus 5.
-	Professor Farnsworth	Cygnoids? On our block? Flying foo! They should go back where they came from.
+	Prof. Farnsworth	Cygnoids? On our block? Flying foo! They should go back where they came from.
 	Leela	Professor, please! Society's never gonna make any progress until we all learn to pretend to like each other. Now let's go over there and make these hideous strangers feel welcome.
-	Professor Farnsworth	No!
+	Prof. Farnsworth	No!
 	Blek	You sure about these chairs? Guidebook says human legs bend down at knee.
 	Blek	It's OK, Mama. Anyone complains, I bend legs up for free. [He sees Fry, Bender and Leela through the window.] Ooh! Customers! [Enter the trio.] Welcome to Earth pizza store. Here, sit. I bend knees for you.
 	Bender	Ooh! That's a-comfy!
@@ -26,7 +26,7 @@
 	Fry	Well, if you're going to be Earthicans, we'll have to teach you. How about your pizzeria plays a game against Planet Express? Oh, but you'll need nine players.
 	Cygnoid Woman	No problem!
 	Cygnoid #2	Play the ball!
-	Professor Farnsworth	[shouting] Go, team! Beat those no good Cygnoids! Show them they stink at a game they've never played before!
+	Prof. Farnsworth	[shouting] Go, team! Beat those no good Cygnoids! Show them they stink at a game they've never played before!
 	Blek	Ah, this is why I love Earth! Beautiful star-brightened day, friendly blernsball game with chum pals! So pleasant for everybody.
 	Scruffy	Hit by a pitch. Take your base.
 	Leela	[shouting] Sorry about that. I guess I needed a few more warm-up pitches.
@@ -55,7 +55,7 @@
 	Commissioner	Again, yeah, but basically you'd just be--
 	Leela	Ta-da! The first woman ever to play Major League Blernsball. How do I look?
 	Hermes	Like a sexy Yogi Berra!
-	Professor Farnsworth	Why is your number seven-eighth's?
+	Prof. Farnsworth	Why is your number seven-eighth's?
 	Leela	All the whole numbers have been retired.
 	Fry	Wow! I must say, I'm impressed. You look just like a ball player. Can I pat you on the butt?
 	Leela	Fry, I'm a professional athlete! So go ahead.
@@ -170,7 +170,7 @@
 	Skipper	Alright then. Get in there and pitch like you've never pitched like you before!
 	Announcer	[on loudspeaker] Now pitching for the Mets: Turanga Leela.
 	Crowd	[chanting] Bean! Bean! Bean! Bean! Bean! [The bean counters open a banner.] Go, Leela!
-	Professor Farnsworth	[shouting] Go, Leela!
+	Prof. Farnsworth	[shouting] Go, Leela!
 	Amy	[shouting] Come on, Leela!
 	Bender	[shouting] Put it right down the pike!
 	Fry	[shouting] Strike him out, Leela! Do it for the hundreds of women everywhere!

@@ -9,7 +9,7 @@
 	Fry	I feel better now. [The parade continues. Two men dressed in green are holding a sign reading St. Patrick's Day Parade, a dragon is sustaining a sign reading CHINESE NEW YEAR PARADE, six blue Aliens are circling the road in their spaceships, and Bender is still carrying Fry on his back.] Why is so many different parades smooshed together?
 	Leela	It's the Parade Day parade.
 	Fry	What's Parade Day?
-	Professor Farnsworth	It used to be that every group in New New York wanted their own parade. Why, when I was a boy, we had a parade every day. Those were dark times.
+	Prof. Farnsworth	It used to be that every group in New New York wanted their own parade. Why, when I was a boy, we had a parade every day. Those were dark times.
 	Leela	Now we just combine them all into one big Parade Day parade and get it over with.
 	Zoidberg	Hey, look! A fog is rolling in.
 	Hermes	No, that's just the Jamaican pride float.
@@ -48,7 +48,7 @@
 	Fry	He did it. [Fry walks up to the conference table, where Amy, Leela, Professor Farnsworth, Zoidberg, and Hermes are sitting. He lays Bender's body on the table.] He actually did it this time.
 	Hermes	No way, mon. He's fakin' it. [Hermes grabs a $1 bill and waves it over Bender's head. Bender doesn't react. Hermes gasps.] He really is gone. [Hermes stands up.] Everyone, put on your takin'-off caps.
 	Fry	Our what?
-	Professor Farnsworth	It's a sign of respect, you savage!
+	Prof. Farnsworth	It's a sign of respect, you savage!
 	Amy	Poor, nasty, mean, old Bender. I can't believe we'll never hear his evil laugh again.
 	Fry	I miss 'im so much.
 	Hermes	There, there, Fry. He may be gone, but he'll always be with us as a trash can.
@@ -105,9 +105,9 @@
 	Fry	Gho—
 	Female voice	The number you have dialled has been lame since 1989.
 	Fry	Now do you believe me?!
-	Professor Farnsworth	Oh, fuff. [Professor Farnsworth stands up.] Enough of your superstitious nonsense. I'm sure that whatever is happening can be explained by science.
+	Prof. Farnsworth	Oh, fuff. [Professor Farnsworth stands up.] Enough of your superstitious nonsense. I'm sure that whatever is happening can be explained by science.
 	Gypsy	Let the séance begin!
-	Professor Farnsworth	I said science!
+	Prof. Farnsworth	I said science!
 	Gypsy	The veil is lifting. I am gazing into the spirit world... And... Nothing. [to Fry] You said something about a buffet?
 	Bender's ghost	I'm right here, you lazy shyster!
 	Gypsy	[calmly, as she is attacked] Wait. I'm sensing something.
@@ -116,7 +116,7 @@
 	Gypsy	There's no such thing as ghosts, you donkey monkey! It's a Robot ghost.
 	Fry	A Robot ghost?! What Robot would wanna haunt me?
 	Bender's ghost	Me, dumbass! Bender, Bender, Bender, Bender! [Fry scratches his back with Bender's arm.] Aw! [to the gypsy] Tell 'im, you baggy, old crone!
-	Professor Farnsworth	Finally! Any more ridiculous ideas?
+	Prof. Farnsworth	Finally! Any more ridiculous ideas?
 	Preacherbot	Hallelujah! [Reverend Preacherbot stands in front of the door and it is opened by Leela.] I'm here to conduct a exorcism and avail myself of the buffet. [Reverend Preacherbot takes his hat off, gives it to Leela, and enters.] Can I get an amen and a goodly helpin' of Scruffy's famous corn biscuits?
 	Scruffy	Right away, Reverend.
 	Preacherbot	Oh, Lord. I got the too much macaroni sweats. Now where's this alleged apparition? [Reverend Preacherbot screams after seeing several machines flying around Fry, who is sitting on the floor, helpless. The machines are being controlled by Bender's ghost.] Might be a problem with your circuit breaker. See ya.
@@ -131,7 +131,7 @@
 	Robot Devil	Fry's dead, you say? Funny. That's not what it says on his Wikipedia page.
 	Bender's ghost	Survived the heart attack?! Damn you, Obamacare!
 	Dr. Cahill	I'm afraid your heart has suffered a lot of damage, Mr. Fry. And my cleavage isn't helping.
-	Professor Farnsworth	[smiling] Not helping him.
+	Prof. Farnsworth	[smiling] Not helping him.
 	Dr. Cahill	One more sudden shock will kill you.
 	Bender's ghost	Sudden? That's just the kind of one more shock I was plannin'.
 	Fry	The machines. They're after me!

@@ -53,15 +53,15 @@
 	URL	And Smitty was just a few days from retirement.
 	Fry	Wuh— What happened?
 	URL	He took a early retirement. Damn.
-	Professor Farnsworth	Let's get down to business.
+	Prof. Farnsworth	Let's get down to business.
 	Amy	Aren't you gonna say [imitating Professor Farnsworth's voice] Good news, everyone?
-	Professor Farnsworth	No, I just said that for Fry's benefit. May the poor fellow feel better about his pointless job.
+	Prof. Farnsworth	No, I just said that for Fry's benefit. May the poor fellow feel better about his pointless job.
 	Hermes	As much as I miss 'im, he didn't really serve much purpose around here. [Leela and Amy open their eyes.] Though he did walk Zoidberg.
-	Professor Farnsworth	In any case, I've improved on Fry by sticking some wheels on a board so Leela and Bender can easily make the next delivery without him.
+	Prof. Farnsworth	In any case, I've improved on Fry by sticking some wheels on a board so Leela and Bender can easily make the next delivery without him.
 	Bender	Neat. So where are we goin'?
-	Professor Farnsworth	Pandora.
+	Prof. Farnsworth	Pandora.
 	Leela	That dangerous, 3-D planet? Can't we just send our avatars?
-	Professor Farnsworth	No! It's cheaper just to have you die.
+	Prof. Farnsworth	No! It's cheaper just to have you die.
 	Fry	Whoa! Fifteen miles over the speed of light.
 	URL	That's a violation of the law of Lorentz invariance, baby.
 	Fry	Light 'em up.
@@ -203,9 +203,9 @@
 	URL	With the added benefit of me and the Chief bein' locked in a small room.
 	Hedonism Bot	Shall we adjourn to the dungeon?
 	Fry	Well, I got my shield for stopping Bender. [Fry lifts up his NNYPD badge. Zoidberg, Amy, Professor Farnsworth, Leela, Hermes, and Bender are sitting at the conference table. They all cheer.] But then I got fired for tipping off Bender.
-	Professor Farnsworth	Fry, we have no idea what you do around here, but we desperately need you back.
+	Prof. Farnsworth	Fry, we have no idea what you do around here, but we desperately need you back.
 	Fry	Ruh— Really? Um, I don't suppose there's any chance I can get a promotion...
-	Professor Farnsworth	Sure! What the heck! I hereby promote you to... [Professor Farnsworth stands up.] Executive delivery boy!
+	Prof. Farnsworth	Sure! What the heck! I hereby promote you to... [Professor Farnsworth stands up.] Executive delivery boy!
 	Fry	Executive?!
 	Hermes	[whispering to Leela] It's a meanin'less title, but it helps insecure people feel better about themselves.
 	Fry	I feel better about myself!

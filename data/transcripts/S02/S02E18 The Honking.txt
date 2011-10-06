@@ -10,9 +10,9 @@
 	Bender	Uh, pardon me, my good simpleton. Could you take us to yon castle?
 	Robot #1	Some say unholy things happen up there.
 	Robot #2	For example: All of us say that.
-	Professor Farnsworth	Fuf! Superstitious robot mumbo-jumbo.
+	Prof. Farnsworth	Fuf! Superstitious robot mumbo-jumbo.
 	Robot #2	Mumbo, perhaps. Jumbo, perhaps not! With all your modern science are you any closer to understanding the mystery of how a robot walks or talks?
-	Professor Farnsworth	Yes, you idiot. [He opens the robot's chest cabinet.] The circuit diagram is right here on the inside of your case.
+	Prof. Farnsworth	Yes, you idiot. [He opens the robot's chest cabinet.] The circuit diagram is right here on the inside of your case.
 	Robot #2	I choose to believe what I was programmed to believe.
 	Robot #2	I will go this far and no further.
 	Preacherbot	I now commend Vladimir's remains to the earth. Filings to filings; rust to rust.
@@ -25,7 +25,7 @@
 	Bender	Ah! I got a good vibe from this place: Nice long dinner table, quiet, well-behaved spiders, graveyard-adjacent. Yep! It's gonna be--
 	Leela	What is it?
 	Bender	That painting, the eyes are watching me!
-	Professor Farnsworth	Hmm. [He traces his glass backwards and forwards in front of the picture. The eyes follow the glass.] It has motor eye sensors attached to motion detectors.
+	Prof. Farnsworth	Hmm. [He traces his glass backwards and forwards in front of the picture. The eyes follow the glass.] It has motor eye sensors attached to motion detectors.
 	Bender	So does my butt, but I don't frame it and put it on the wall! Although-- [The MS Windows intro music plays, as if from nowhere. Someone laughs.] What's that?
 	Zoidberg	I don't know, but it's infectious!
 	Bender	No doubt about it, this place is haunted.
@@ -37,9 +37,9 @@
 	Vladimir-Ghost	Come, Bender. You'll like being dead!
 	Bender	That's what they said about being alive.
 	Robot Ghosts	[chanting] Join us! Join us! Join us, Bender!
-	Professor Farnsworth	Just as I suspected. These robots were buried in improperly-shielded coffins. Their programming leaked into the castles wiring through this old, abandoned modem allowing them to project themselves as holograms.
+	Prof. Farnsworth	Just as I suspected. These robots were buried in improperly-shielded coffins. Their programming leaked into the castles wiring through this old, abandoned modem allowing them to project themselves as holograms.
 	Hermes	Of course! It was so obvious!
-	Professor Farnsworth	Yes, that sequence of words I said made perfect sense. We really should tell Bender there's nothing to be afraid of.
+	Prof. Farnsworth	Yes, that sequence of words I said made perfect sense. We really should tell Bender there's nothing to be afraid of.
 	Bender	[screaming] Nooo!
 	Fry	Bender, wake up! [Bender mumbles as he starts to come around.] He's OK! Quick, does anyone have any liquor?
 	Leela	Bender, what happened?

@@ -4,11 +4,11 @@
 	Amy	Temperature? Woah! The magma P.I. is 10,000 degrees Selleck! [Leela is emptying Nibbler's litter box in the magma. Amy swears in Cantonese.] Leela, I am collecting data. Can't you dump that somewhere else.
 	Leela	Not really. It's highly volatile Dark Matter, and some corn.
 	Amy	But I'm presenting my thesis tomorrow and I've barely had time to prepare.
-	Professor Farnsworth	Nonsense. You've been my grad student for twelve years. You were ready six years ago.
+	Prof. Farnsworth	Nonsense. You've been my grad student for twelve years. You were ready six years ago.
 	Amy	What?
-	Professor Farnsworth	I probably should have told you. Anyway, the important thing is to be relaxed tomorrow.
+	Prof. Farnsworth	I probably should have told you. Anyway, the important thing is to be relaxed tomorrow.
 	Amy	Are you sure?
-	Professor Farnsworth	Yes. Do what you young people do to unwind. Take a joyride in your jalopy. Wear a T-shirt and eat a fish stick. Go!
+	Prof. Farnsworth	Yes. Do what you young people do to unwind. Take a joyride in your jalopy. Wear a T-shirt and eat a fish stick. Go!
 	Kif	Okay, amigos, one teensy drink to help Amy relax. [They drink.]
 	Amy	Hmmm. I guess I'm still kinda nervous.
 	Leela	One more teensy drink to help Amy relax. [They press buttons on their glasses and they refill by themselves. They drink again.]
@@ -31,14 +31,14 @@
 	Kif	[He is the puddle Amy walked in.] Yes, I did.
 	Morris Katz	Where's your candidate, Farnsworth. I have a long list of students to humiliate today. [A door opens and Kif, Leela, Bender, Fry and Amy walk in.] You're late, Miss Wong.
 	Amy	Oh, God, this is like one of those nightmares. [She is in only her bra and underpants. She screams.]
-	Professor Farnsworth	Here, take my lab coat. [He offers it to her. He only has suspenders and his underpants underneath it.]
+	Prof. Farnsworth	Here, take my lab coat. [He offers it to her. He only has suspenders and his underpants underneath it.]
 	Katz	Allow me to introduce your examining committee in order of grumpiness. Professor Ogden Wernstrom.
 	Farsnworth	Wernstrom!
 	Katz	Downtown Professor of Applied Physics, Ethan 'Bubblegum' Tate.
 	Tate	I see by your curriculum vitæ that you're a Sagittarius.
 	Katz	And Professor Fisherprice Shpeekenshpell.
 	Shpeekenshpell	The cow says... Moo.
-	Professor Farnsworth	[Whispering to Bubblegum.] He proved that 50 years ago, and he's been coasting on it ever since.
+	Prof. Farnsworth	[Whispering to Bubblegum.] He proved that 50 years ago, and he's been coasting on it ever since.
 	Katz	I am the esteemed Professor Morris Katz, and you are wasting my time. Proceed.
 	Amy	Imagine, if you will...
 	Katz	Oh, God!
@@ -47,7 +47,7 @@
 	Amy	Well, yes, but that's not revelant. I'm talking about Earth. Earth's the generator. [Shpeekenshpell lands on a sheep and makes a bleating noise.] Suppose this basketball is the whole world.
 	Tate	[He is spinning a basketball on his finger.] To many young men in the inner city, it is.
 	Amy	As it spins, it's producing an enormous magnetic field. If we could use that field to generate electrical current, we could actually harness the Earth's rotational ener... Ener... '[She sneezes.]
-	Professor Farnsworth	Yes, the Earth's rotational ener-kerchoo. Go on.
+	Prof. Farnsworth	Yes, the Earth's rotational ener-kerchoo. Go on.
 	Amy	Sorry, I'm super-allergic to cats. Professor Katz, do you mind.
 	Katz	Miss Wong, I mind everything.
 	Amy	[Holding a model.] You just need to polarize the Earth's core with a huge static charge, [The cat starts toying with the model.] by ratcheting Superconducting wire down into... [She sneezes.]
@@ -60,7 +60,7 @@
 	Hermes	Leela, muzzle that skunk! We can't stop a meeting for some cute, fuzzy, little... [He notices Katz's cat.]] Hey, look, a kitty cat.
 	Amy	[The cat rubs against Amy. Static discharges.] You again? [She sneezes.] Get away you mangy ball of Histamines.
 	Hermes	[He picks the cat up.] You leave kitty cat alone! [The crew, except for Amy and Nibbler gather around, cooing at the cat.]
-	Professor Farnsworth	People, please, I'm trying to run a business, so I get to hold kitty. [The crew keeps cooing.]
+	Prof. Farnsworth	People, please, I'm trying to run a business, so I get to hold kitty. [The crew keeps cooing.]
 	Fry	Over here. I wanna hold him.
 	Bender	Aw! It's anus looks like an asterisk.
 	Leela	Captain Fuzzytoes reporting for duty. I mean, cutie. [They laugh.]
@@ -74,7 +74,7 @@
 	Leela	[She is kneeling before the cat.] Yes, my lord. Amy and Nibbler are a tewwible thweat. They must be spayed and neutered, wespectivewy. [Nibbler crouches and hisses like a cat.]
 	Amy	[She runs into the meeting room, carrying Nibbler.] The cat is evil! We have proof!
 	Nibbler	It was summoning a saucer!
-	Professor Farnsworth	Of course it was wanted a saucer you idiot. A saucer of dewicious cweam. [He has a gray cat in his lap.]
+	Prof. Farnsworth	Of course it was wanted a saucer you idiot. A saucer of dewicious cweam. [He has a gray cat in his lap.]
 	Nibbler	You fool, this isn't about the cream.
 	Bender	It's pwonounced "cweam". [He also has a cat, in his chest cabinet.]
 	Zoidberg	I'm petting mine to the bone. [He strokes a cat, causing hair to be chopped off.]
@@ -88,7 +88,7 @@
 	Amy	Uh, the basement. I think I left the air hockey table on.
 	Bender	Without a cat, you ain't going nowhere. [He points to a sign that says "All employeez must haz catz to enter".]
 	Nibbler	Can you at least tell us what's going on down there?
-	Professor Farnsworth	We're certainly not building something sinister, if that's what your implying. Now, come on, Bender. Something sinister won't build itself. [They walk into the elevator.]
+	Prof. Farnsworth	We're certainly not building something sinister, if that's what your implying. Now, come on, Bender. Something sinister won't build itself. [They walk into the elevator.]
 	Amy	Professor Katz's last name is Katz. Do you think he has something to do with these cats?
 	Nibbler	The conclusion is an inescapable as it is moronic. [He wheels out his spaceship.] I say we pay him a visit, and if he won't talk to us, he'll talk to Smith & Wesson, [He pulls out a hand gun.] or, perhaps, [[Consolidated Head Melter. [He takes out a huge blaster. He and Amy get into the ship and it takes off.]
 	Amy	[She knocks on the door then kicks it in.] Professor Katz, we want answers! [Katz just sits in his chair, with his back to them.]
@@ -135,16 +135,16 @@
 	Bender	And why am I full of sand? And Tootsie Rolls?
 	Nibbler	You were all under the spell of those obnoxious space cats.
 	Thubanian leader	[The Thubanians are leaving.] Enjoy being broiled alive by the Sun and also the dead bird we've left in your slipper. [He laughs then leaves.]
-	Professor Farnsworth	Quickly! If we turn the ratchet the other way, perhaps we can restart the Earth. [The ratchet won't move.]
+	Prof. Farnsworth	Quickly! If we turn the ratchet the other way, perhaps we can restart the Earth. [The ratchet won't move.]
 	Hermes	It won't turn. Push harder, Bender!
 	Bender	I can't. You should have called my cousin, Turner.
 	Amy	It's hopeless. Even in theory the device can only apply force in one direction.
 	Fry	Can someone open a window? It's getting a little warm in here.
 	Bender	[He opens a window and gets hit by flames.] Is that better?
 	Amy	Shmezzus, it's hot! Why'd I have to invent that awful device?
-	Professor Farnsworth	Amy, technology isn't intrinsically good or evil. It's how it's used. Like the death ray.
+	Prof. Farnsworth	Amy, technology isn't intrinsically good or evil. It's how it's used. Like the death ray.
 	Amy	Maybe you're right. I guess that science has to keep pushing forward with the hope that... [She gasps.] That's it! Pushing forward! Professor, I know how to restart the Earth.
-	Professor Farnsworth	[He scoffs.] You can't suddenly know something just by assembling a committee of words. [He gasps.] That's it. I'll assemble your committee!
+	Prof. Farnsworth	[He scoffs.] You can't suddenly know something just by assembling a committee of words. [He gasps.] That's it. I'll assemble your committee!
 	Amy	The ratchet won't turn backwards, but what if we kept pushing it forward? [She demonstrates on the hologram.] Earth would start turning again.
 	Wernstrom	Yes, the wrong direction! [He laughs.]
 	Amy	So?
@@ -153,13 +153,13 @@
 	Zoidberg	But we're plotzing here!
 	Amy	Then look at Nibbler! [Nibbler is in his naval uniform. He does a little dance. Everyone speeds up.]
 	Thubanian Leader	[Addressing numerous other Thubanians.] On the whole, Earth's society is worthless. But they do these things called antique rugs that are great for peeing on. [Thuban 9 starts shaking as the rotational energy is returned to Earth. The cats go flying.]
-	Professor Farnsworth	And though the Earth is now spinning in the wrong direction, it's good enough. Well done, Amy.
+	Prof. Farnsworth	And though the Earth is now spinning in the wrong direction, it's good enough. Well done, Amy.
 	Wernstrom	I'm honored to begrudgingly present you with your Ph.D. in applied physics.
 	Tate	Also, some kind of sportsmanship award I had in my glove compartment.
 	Amy	Yay! I'm finally done with school. How's the job market?
 	Shpeekenshpell	[He spins to a dog.] Ruff!
-	Professor Farnsworth	Congratulations, Dr. Wong!
+	Prof. Farnsworth	Congratulations, Dr. Wong!
 	Kif	Congratulations.
 	Nibbler	[Still dressing in his naval uniform.] Permission to come aboard?
 	Leela	Granted, schnookums. [Nibbler climbs into Leela's lap and settles.]
-	Professor Farnsworth	You've got a bright future, Amy. As sure as the Sun sets in the east.
+	Prof. Farnsworth	You've got a bright future, Amy. As sure as the Sun sets in the east.

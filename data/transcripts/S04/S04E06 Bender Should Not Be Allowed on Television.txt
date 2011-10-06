@@ -23,9 +23,9 @@
 	Cubert	Um, duh!
 	Dwight	"Duh" what?
 	Cubert	Dad? Do I have a birthday?
-	Professor Farnsworth	Hmm. You didn't have a birth so, technically, no. [Cubert sighs. Farnsworth puts his hand on his shoulder.] Oh, don't feel bad. We can celebrate the day I extracted you from the cloning tank, or the day I scraped your DNA from that growth on my back.
+	Prof. Farnsworth	Hmm. You didn't have a birth so, technically, no. [Cubert sighs. Farnsworth puts his hand on his shoulder.] Oh, don't feel bad. We can celebrate the day I extracted you from the cloning tank, or the day I scraped your DNA from that growth on my back.
 	Cubert	Ooh! That one!
-	Professor Farnsworth	Ah, yes. It was 13 years ago next week. [He takes something out of his lab coat.] I used this very fork.
+	Prof. Farnsworth	Ah, yes. It was 13 years ago next week. [He takes something out of his lab coat.] I used this very fork.
 	Hermes	Aw, well isn't that-- Ew!
 	Dwight	Hey! Next week'll be my birthday too.
 	Hermes	That's true. If only there were a way to have one party for both of you here at the office then write it off as a business expense. Wait! I thought of a way! The way I just said!
@@ -45,12 +45,12 @@
 	Zoidberg	Performing? What? Please, if someone could spare me money to buy shoes--
 	Dwight	This party pukes.
 	Cubert	Yeah! The guests were supposed to be here three hours ago.
-	Professor Farnsworth	Well, that doesn't mean that no one is coming or that you two are total losers. Who gave you that idea?
+	Prof. Farnsworth	Well, that doesn't mean that no one is coming or that you two are total losers. Who gave you that idea?
 	Dwight	Alright! They must have all come as a group.
 	Cubert	Welcome, swingers! Pull up a groove and get fabulous.
 	Tinny Tim	Good day, fellows. Someone dumped this invitation in my begging cup. Happy growth-scraping day to all!
 	Hermes	Fire 'em all.
-	Professor Farnsworth	Mm-hm. Mm-hm.
+	Prof. Farnsworth	Mm-hm. Mm-hm.
 	Bender	[gasping] Guys! Guys! Something's happening on television again.
 	Morbo	[on TV] Welcome to Entertainment And Earth Invasion Tonite. Across the galaxy, my people are completing the mighty space fleet that will exterminate the human race! But first, this news from Tinseltown.
 	Linda	[on TV] Following Antonio Calculon Jr.'s breakdown on the set, the popular TV show All My Circuits will hold an open casting call for child robots to replace him.
@@ -135,10 +135,10 @@
 	Tinny Tim	Ripping!
 	Dwight	Look! I'm Bender!
 	Hermes	Ras H. Tafari! What's goin' on here?
-	Professor Farnsworth	The ruffians smoked one of your cigars.
+	Prof. Farnsworth	The ruffians smoked one of your cigars.
 	Hermes	That's not a cigar. Uh ... and it's not mine!
 	Cubert	Hey, Dad! Bite my shiny metal ass!
-	Professor Farnsworth	What? Such an act would be most uncomfortable for both of us! Where did you learn such language?
+	Prof. Farnsworth	What? Such an act would be most uncomfortable for both of us! Where did you learn such language?
 	Tinny Tim	From Bender, my good jerkwad.
 	Hermes	Bender, eh? That guy's really startin' to twist my dreads.
 	Bender	OK, OK, OK. Get ready for this part.
@@ -149,10 +149,10 @@
 	Bender	That's crazy!
 	Linda	[on TV] A new protest group, Fathers Against Rude Television, says "Hell, yes!"
 	Fry	Pft! What kind of bozos would start a Bender protest group?
-	Professor Farnsworth	Good news, everyone. Hermes and I have started a Bender protest group.
+	Prof. Farnsworth	Good news, everyone. Hermes and I have started a Bender protest group.
 	Zoidberg	That was uncanny.
 	Hermes	Fathers Against Rude Television don't want our kids watching Bender's high-definition filth.
-	Professor Farnsworth	And for what? Some kind of cheap laugh? That's not what F-A-R-T is all about.
+	Prof. Farnsworth	And for what? Some kind of cheap laugh? That's not what F-A-R-T is all about.
 	Hermes	No, sir! Not us FARTers.
 	Bender	Whoa, whoa, whoa! You can't censor me just 'cause I'm an obscenely bad role model.
 	Leela	As unclean as it makes me feel, I agree with Bender. Kids don't turn rotten just from watching TV.
@@ -170,16 +170,16 @@
 	Bender	[voice-over] You're watching Futurama, the show that does not advocate the cool crime of robbery.
 	Cubert	OK. It's crime time.
 	Fry	Hey, Bender. [Cubert walks past with a Bender portrait.] Hey, Bender. [Dwight struggles with a safe marked "Bender's Loot".] Hey, Bender. [The phone rings. Fry picks up.] Hey, Bender.
-	Professor Farnsworth	What's going on in here? [The music stops. Hermes rubs some dirt off Farnsworth's glasses and Farnsworth straightens them.] Oh. Now I'm really outraged.
+	Prof. Farnsworth	What's going on in here? [The music stops. Hermes rubs some dirt off Farnsworth's glasses and Farnsworth straightens them.] Oh. Now I'm really outraged.
 	Hermes	Where did you requisition this party? And Zoidberg, what are you doing here?
 	Zoidberg	I'm networking. Let me give you my card.
 	Cubert	Relax, Dad. We just invited a few friends over.
-	Professor Farnsworth	Hmm. There's something wrong with your story but I can't put my finger on it. [He gasps.] Of course! You don't have friends!
+	Prof. Farnsworth	Hmm. There's something wrong with your story but I can't put my finger on it. [He gasps.] Of course! You don't have friends!
 	Hermes	Yeah. Why do these popular kids consider you cool all of a sudden?
 	Dwight	Um ... we're just cool, is all!
-	Professor Farnsworth	Balderdash! I'll be the judge of who's cool, using the cool-o-meter!
+	Prof. Farnsworth	Balderdash! I'll be the judge of who's cool, using the cool-o-meter!
 	Cool-o-Meter	Oh, yeah!
-	Professor Farnsworth	Good Lord! I'm getting a reading of over 40 mega-Fonzies.
+	Prof. Farnsworth	Good Lord! I'm getting a reading of over 40 mega-Fonzies.
 	Hermes	Everybody out!
 	Zoidberg	So, do you guys know about anything else going on, because I'm totally still ready to party.
 	Hermes	There's enough cool stuff here to furnish a happenin' pad. Where did it all come from?
@@ -187,7 +187,7 @@
 	Dwight	We stole it!
 	Tinny Tim	Oh, crumb!
 	Bender	What? What's going on?
-	Professor Farnsworth	I'll tell you what. Our boys have taken up stealing! One of the worst and coolest of crimes.
+	Prof. Farnsworth	I'll tell you what. Our boys have taken up stealing! One of the worst and coolest of crimes.
 	Hermes	And all from watching you on TV, you cool jerk.
 	Bender	Hey, lay off me. TV would stink if everyone on it was a positive role model. Bender is about entertainment, baby! You can't hold me responsible for what kids do when-- Hey! This is my stuff they stole! [He takes Playbot from Tinny Tim.] That's the last straw! Bender should not be allowed on television!
 	Bender	Bender must be stopped. I've gone too far. Who does that guy think I am? [The dads cheer.] Come on! We're gonna march all the way to Hollywood and make them stop forcing their filthy me down our throats!
@@ -196,28 +196,28 @@
 	Security Guard	Go ahead.
 	FART Mob	[chanting] Down with Bender! Down with Bender! Down with Bender! Down with-- [They see a red light and a "Quiet When Red Light Is On" sign outside the Everybody Loves Hypno-Toad soundstage and stop chanting. The light goes off and they carry on.] Bender! Down with Bender!
 	Calculon	As a doctor and captain of this hospital ship, I now pronounce you man and wife with six months to live.
-	Professor Farnsworth	Listen up, Hollywood. We're an exciting, new mob.
+	Prof. Farnsworth	Listen up, Hollywood. We're an exciting, new mob.
 	Bender	Yeah!
 	Hermes	You'd better believe it!
 	Calculon	Great Shatner's ghost!
 	Bender	We demand that all TV's be equipped with a B-Chip that blocks Bender from appearing on the screen.
-	Professor Farnsworth	Booya!
+	Prof. Farnsworth	Booya!
 	Network President	I'm afraid the answer is a gritty, in-your-face no.
 	Bender	Then I quit.
 	Network President	Then you don't quit. [His CD-ROM drive opens and one of the Execubots puts a gun in it and connects it to him.] I think you'll be finishing the scene now, Mr. Bender. And don't skimp on the nasty.
-	Professor Farnsworth	There'll be no further nasty. [He takes a laser out of his lab coat.] We still have the option of resorting to violence.
+	Prof. Farnsworth	There'll be no further nasty. [He takes a laser out of his lab coat.] We still have the option of resorting to violence.
 	Hermes	What makes you think that'll work?
-	Professor Farnsworth	I saw it on TV in that episode where Bender shot Calculon. How cool was that?
+	Prof. Farnsworth	I saw it on TV in that episode where Bender shot Calculon. How cool was that?
 	Bender	Ooh, yeah! C'mon--
-	Professor Farnsworth	Quit the show!
+	Prof. Farnsworth	Quit the show!
 	Network President	Do the scene.
-	Professor Farnsworth	I'm a cold-blooded punk!
+	Prof. Farnsworth	I'm a cold-blooded punk!
 	Network President	I once put a laugh track on a sitcom that had no jokes in it.
 	Bender	Hey, look! The prop guy has a lamp!
 	Network President	Really?
-	Professor Farnsworth	Wha?
+	Prof. Farnsworth	Wha?
 	Bender	Aha!
-	Professor Farnsworth	I was using that!
+	Prof. Farnsworth	I was using that!
 	Bender	Listen up, 'cause I've got a climactic speech! You, cameraman, keep the camera rolling. You, director, gimmie my motivation.
 	Director	You're angry.
 	Bender	Perfect. [He turns to the camera.] Viewers of the world, do smoking and drinking on TV really make me cool? Of course they do. [He blows some cigar smoke.] How 'bout committing crimes and violence? Again, the answer is "yes". But do we really want our kids exposed to that kind of trash on TV? I say absolutely not! [He accidentally fires Farnsworth's laser and a laser bolt flies over Farnsworth's head, narrowly missing him. Bender clears his throat.] Uh ... on the other hand, most, perhaps all the blame, rests with the parents. That's right, you! [He points his firearms at the FART mob and they gasp and duck.] And so I ask you this one question: Have you ever tried simply turning off the TV, sitting down with your children, and hitting them?
@@ -228,23 +228,23 @@
 	Bender	[on TV] : Have you ever tried simply turning off the TV, sitting down with your children, and hitting them?
 	Hermes	Well, I'd say we all learned a valuable lesson about TV there.
 	Cubert	What was it?
-	Professor Farnsworth	Uh ... that we should all take TV a little less seriously. And more importantly, turn it off once in a while.
+	Prof. Farnsworth	Uh ... that we should all take TV a little less seriously. And more importantly, turn it off once in a while.
 	Fry	Hear, hear!
 	Leela	Yeah!
 	Bender	Damn right!
 	Dwight	So, should we turn it off now?
-	Professor Farnsworth	Well, uh, that depends what's on.
+	Prof. Farnsworth	Well, uh, that depends what's on.
 	Fry	Nothing good.
-	Professor Farnsworth	Ah, let's just keep watching.
+	Prof. Farnsworth	Ah, let's just keep watching.
 	Bender	[singing] TV party tonight!
-	Professor Farnsworth	Wha?
+	Prof. Farnsworth	Wha?
 	Bender	[singing] TV party tonight!
-	Professor Farnsworth	Oh!
+	Prof. Farnsworth	Oh!
 	Fry	[singing] We've got nothing better to do.
 	Leela	[singing] Than watch TV and have a couple of brews!
 	Zoidberg	[singing] Don't wanna talk about anything else.
 	Fry	[singing] We don't wanna know!
-	Professor Farnsworth	[singing] We're dedicated, yes!
+	Prof. Farnsworth	[singing] We're dedicated, yes!
 	Hermes	[singing] To our favourite shows!
 	Cubert	All My Circuits
 	Dwight	Everybody Loves Hypno-Toad!

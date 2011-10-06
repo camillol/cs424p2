@@ -4,7 +4,7 @@
 	Bender	I know not of this Bender. I am Titanius Anglesmith, fancy man of Cornwood.
 	Dr. Perceptron	Please, send in the patient.
 	Bender	Wee!
-	Professor Farnsworth	The collar will be triggered any time your thoughts turn to violence. [She is shocked.]
+	Prof. Farnsworth	The collar will be triggered any time your thoughts turn to violence. [She is shocked.]
 	Leela	Ouch!
 	Fry	Jeez, doesn't that shock collar hurt?
 	Leela	Actually, I guess I'm starting to associate it with the pleasure of beating people up.
@@ -19,7 +19,7 @@
 	Fry	Well, actually, no. You forgot to blank our memories after you spoke last time.
 	Nibbler	Then why did you let me eat Friskies and make bo-bo in a litter box?
 	Fry	Well, you're cuter that way.
-	Professor Farnsworth	Cute as a baby's buttocks.
+	Prof. Farnsworth	Cute as a baby's buttocks.
 	Leela	So what happened? How did Mom capture all you Nibblonians?
 	Nibbler	[He sighs.] It all began 36 years ago... [He looks at his watch.] Now! On the planet Vergon 6. [Fade to the surface of Vergon 6. There are many animals moving around.] (VO:) It was a veritable Eden, brimming with unique and irreplaceable species. [Nibbler eats a tortoise looking animal.] Most of which were delicious. [he belches up the animal's shell.] I was Supreme Fuzzler of a Nibblonian scientific outpost. It was paradise, until they came. One of your DOOP ships struck dark matter, little realizing it was not a natural deposit, but rather centuries of Nibblonian fecal material.
 	Fry	The big faecal enchilada. Anyone else hungry?
@@ -43,7 +43,7 @@
 	Nibbler	A silly name for a high-ranking Fuzzler. But, hey, I was glad to be rescued. [Flashback Nibbler watches Vergon 6 explode.]
 	Nibbler	I was kidnapped yesterday by Mom's vile sons in their moronic disguises.
 	Igner	I was an owl exterminator. [They turn around. Igner is pointing a gun at them.] Do you have the crysal?
-	Professor Farnsworth	It's pronounced "crystal," you lump.
+	Prof. Farnsworth	It's pronounced "crystal," you lump.
 	Igner	Go, run fast. [He points at the large pipe labelled "Primary Chicken Valve." A marching is heard and the door opens. Walt, Larry and many Killbots enter the room.]
 	Igner	Me?
 	Walt	Yes, you. You're the only one here.
@@ -64,10 +64,10 @@
 	Leela	[Swings over to the top of the incline the brothers are trying to scale and slides down, boot first, at them. She kicks them and then slides across the icy floor. The collar is emitting a shock.] Ooh. That feels good.
 	Mom	Oh, for crying out... [She fires at Farnsworth, but the shots quickly whither away to nothing.] Oh, the freaking battery's dead. Walt, where's the charger?
 	Walt	In the hardware drawer, Mother. [Leela punches him and she is shocked.]
-	Professor Farnsworth	We're almost there. The crystals are beginning to engorge. [Leela and the brothers are trying to battle on ice, Mom is trying to untangle the charger and Fry is hanging onto Farnsworth as he leans closer to the single non-local metaparticle crystal.] I can't quite reach. Fry, grab onto my easy-fit waistband. Just a few more inches. Come on, really wedgie it on in there. [Fry pulls harder on the underpants and they rip, sending Farnsworth toward the ground. He, somehow, lands on his feet.] So, that's why they call me the Catman. [Fry lands behind him.]
+	Prof. Farnsworth	We're almost there. The crystals are beginning to engorge. [Leela and the brothers are trying to battle on ice, Mom is trying to untangle the charger and Fry is hanging onto Farnsworth as he leans closer to the single non-local metaparticle crystal.] I can't quite reach. Fry, grab onto my easy-fit waistband. Just a few more inches. Come on, really wedgie it on in there. [Fry pulls harder on the underpants and they rip, sending Farnsworth toward the ground. He, somehow, lands on his feet.] So, that's why they call me the Catman. [Fry lands behind him.]
 	Fry	Save us, Catman.
 	Mom	It's over, Hubert. Give me the anti-backwards crystal.
-	Professor Farnsworth	Never! [He eats the crystal and begins to chuckle. The crystal glows in his stomach, along with the keys to the ship.]
+	Prof. Farnsworth	Never! [He eats the crystal and begins to chuckle. The crystal glows in his stomach, along with the keys to the ship.]
 	Farsnworth	No! [Mom laughs.]
 	Bender	Cornwood! [Purple waves expanding from Bender's head fills the screen and Bender vanishes in a bright flash.]
 	Nurse Ratchet	But, Doctor, I love you. [Dr. Perceptron's head explodes.]

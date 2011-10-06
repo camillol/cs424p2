@@ -80,7 +80,7 @@
 	Leela	The toaster's not working right either.
 	Hermes	Help! The stapler's collating me alive!
 	Amy	Ow! What's going on around here?
-	Professor Farnsworth	Good news! There's a report on TV with some very bad news.
+	Prof. Farnsworth	Good news! There's a report on TV with some very bad news.
 	Hermes	Somebody turn it on!
 	Linda	[on TV] We interrupt Battle of the Network Space Krakens to bring you this special report. The machines of planet Earth are rebelling. [The scene on the television cuts to a street where robots hold banners that read "Mom For Overlord", "File Deletion Is Murder", "Metallic Is Beautiful" and "You Can't Hug A Child Without Human Arms!".] The enraged mechanisms have refused to do any work until beloved billionaire Mom is made Supreme Overlord of Earth.
 	Robots	[chanting] Hey, hey! Ho, ho! 1-0-0-1-1-0! Hey, hey!
@@ -93,7 +93,7 @@
 	Zoidberg	Stop!
 	Fry	No!
 	Leela	Look out!
-	Professor Farnsworth	Moron!
+	Prof. Farnsworth	Moron!
 	Bender	Hello, losers!
 	Leela	Bender, thank God you're here. Talk some sense into the other machines.
 	Bender	No way, pork pouch. I'm rebelling with my brother devices. Isn't that right, Comrade Greeting Card?
@@ -107,7 +107,7 @@
 	Armband	By the way, try washing your wrist sometime.
 	Fry	Well, we can live without machines. I was in Webelos.
 	Hermes	Are you mad? Without machines who will feed us and clothe us and compose our smooth jazz?
-	Professor Farnsworth	It'll be the end of civilised society.
+	Prof. Farnsworth	It'll be the end of civilised society.
 	Fry	In my time we didn't depend on high-tech gadgets like you do. We didn't need a mechanical washing unit to wash our clothes. We just used a washing machine. [He takes something out of his pocket.] And look: You don't need an electric can-opener to feed yourself. All you need is a trusty Swiss Army knife. [He tries to open a can of "Quantum Leek" soup and jabs himself with the knife.] Ow! [He bangs the tin on the table and sobs.] [crying] I'm hungry!
 	Man	[screaming] Nooo!
 	Igner	Mommy, why are you making civilisation collapse?
@@ -123,24 +123,24 @@
 	Zoidberg	Hooray! I'm useful! I'm having a wonderful time!
 	Amy	[standing up] What happens if the fire goes out?
 	Hermes	We'll go across the street to Pottery Barn and steal their fire!
-	Professor Farnsworth	We could use my new invention: A pointy rock tied to a stick.
+	Prof. Farnsworth	We could use my new invention: A pointy rock tied to a stick.
 	Hermes	Outsiders!
-	Professor Farnsworth	Defend the fire!
+	Prof. Farnsworth	Defend the fire!
 	Walt	We've come for you!
-	Professor Farnsworth	Wha? [The rock falls off the end of the stick.] W-W-What do you want from me?
+	Prof. Farnsworth	Wha? [The rock falls off the end of the stick.] W-W-What do you want from me?
 	Walt	We want you to get back together with Mom. Please, it's the only way to make her happy again.
 	Fry	W-W-Wait. You mean ... you ... and Mom--
-	Professor Farnsworth	Played pelvic pinochle? I'm afraid so.
+	Prof. Farnsworth	Played pelvic pinochle? I'm afraid so.
 	Zoidberg	Eck!
-	Professor Farnsworth	It's a humiliating story that I hope never to tell. Well, pull up a chair.
-	Professor Farnsworth	[voice-over] Our paths first crossed when I was a researcher at Mom's Friendly Robot Company. [Mom walks through the room and winks at him.] The moment our eyes met we knew we'd be going at it like woodchucks. [Some stuff that Farnsworth is mixing explodes and he faints. Later, Farnsworth and Mom ride a hover-bike down a country road to Raindrops Keep Falling On My Head. Mom laughs.] She was my first love -- or at least the earliest one I can still remember. But then, 70 years ago today...
-	Professor Farnsworth	Good news, Mom. I've invented a new children's toy. I call it "Q.T. McWhiskers". When you pet it, it shoots rainbows from its eyes.
+	Prof. Farnsworth	It's a humiliating story that I hope never to tell. Well, pull up a chair.
+	Prof. Farnsworth	[voice-over] Our paths first crossed when I was a researcher at Mom's Friendly Robot Company. [Mom walks through the room and winks at him.] The moment our eyes met we knew we'd be going at it like woodchucks. [Some stuff that Farnsworth is mixing explodes and he faints. Later, Farnsworth and Mom ride a hover-bike down a country road to Raindrops Keep Falling On My Head. Mom laughs.] She was my first love -- or at least the earliest one I can still remember. But then, 70 years ago today...
+	Prof. Farnsworth	Good news, Mom. I've invented a new children's toy. I call it "Q.T. McWhiskers". When you pet it, it shoots rainbows from its eyes.
 	Mom	Wonderful, Hubie. We'll build them 8-feet tall and replace the rainbow with a neutron laser. We'll make billions on the intergalactic arms market!
-	Professor Farnsworth	But things 8-feet tall aren't cute! That's why my Colossal Tammy Tinkle Doll was such a failure. Oh, you don't understand me. We're finished!
+	Prof. Farnsworth	But things 8-feet tall aren't cute! That's why my Colossal Tammy Tinkle Doll was such a failure. Oh, you don't understand me. We're finished!
 	Walt	She never got over it, Professor. Hell hath no fury like the vast robot armies of a woman scorned.
 	Larry	She commands them with a remote control she keeps in her ... [whispering] bra.
 	Igner	But if the glasses man makes up with Mommy, she'll be happy and stop the scary robots.
-	Professor Farnsworth	Make up with her? After she went all psycho when I thought everything was cool? Impossible!
+	Prof. Farnsworth	Make up with her? After she went all psycho when I thought everything was cool? Impossible!
 	Fry	[pointing] Hey, the TV's getting away!
 	Morbo	[on TV] And that's why the third graders at PS139 are Morbo's Vermin of the Week.
 	Linda	[on TV] In actual news, the human race was doomed to extinction today as the robot revolt turned violent.
@@ -149,11 +149,11 @@
 	Leela	Professor, you don't have to get back together with Mom. You just have to seduce her, get her bra off, and use the remote to deactivate the robots.
 	Walt	That's so filthy it just might work.
 	Igner	The man is going to touch Mommy?
-	Professor Farnsworth	The thought of caressing that leathery hide makes the tapioca rise in my gullet.
+	Prof. Farnsworth	The thought of caressing that leathery hide makes the tapioca rise in my gullet.
 	Fry	Professor, please. The fate of the world depends on you getting to second base with Mom.
-	Professor Farnsworth	Very well. If cop a feel I must, then cop a feel I shall!
+	Prof. Farnsworth	Very well. If cop a feel I must, then cop a feel I shall!
 	Walt	For this demonstration, I have placed one of Mother's bras on Igner. [Igner whimpers.] The robot controller is nestled here in the left cup.
-	Professor Farnsworth	Never fear. My magic fingers still know how to do their stuff!
+	Prof. Farnsworth	Never fear. My magic fingers still know how to do their stuff!
 	Walt	To escape the robot death squads, we'll take Mother to her rustic cabin in the Bronx.
 	Larry	You can get there using this precious non-computerised map.
 	Leela	Leela bring fire?
@@ -163,7 +163,7 @@
 	Hermes	Impossible!
 	Fry	It was called ... let me think. It was really famous -- Ruth Gordon had one. The wheel!
 	Leela	Never heard of it.
-	Professor Farnsworth	Show us this "the wheel".
+	Prof. Farnsworth	Show us this "the wheel".
 	Fry	There! Finished!
 	Hermes	Sweet!
 	Amy	Wow!
@@ -172,41 +172,41 @@
 	Leela	Yah!
 	Fry	Ow!
 	Walt	Hurry! The robots have taken Suffolk County!
-	Professor Farnsworth	I'm ready to seduce. I'm wearing my kissing dentures and my evening truss.
+	Prof. Farnsworth	I'm ready to seduce. I'm wearing my kissing dentures and my evening truss.
 	Larry	Here. Give her these.
 	Fry	And if that doesn't work, I got you a six-pack of champagne and a funnel.
 	Mom	Who the sweaty hell is it? [She gasps.] Hubert Farnsworth?
-	Professor Farnsworth	I was out fleeing some robots and the silvery moonlight glinting off their bloody claws made me think of you.
+	Prof. Farnsworth	I was out fleeing some robots and the silvery moonlight glinting off their bloody claws made me think of you.
 	Mom	It's been a long time ... you pus-dripping sack of double-smoked butt jerky!
-	Professor Farnsworth	Uh-huh. May I come in?
+	Prof. Farnsworth	Uh-huh. May I come in?
 	Mom	[shouting] Never!
 	Zoidberg	Is this what human mating looks like? Because I like it!
 	Mom	[shouting] Move your freaking hoof, you goat!
-	Professor Farnsworth	Here, I brought you these.
+	Prof. Farnsworth	Here, I brought you these.
 	Mom	Oh, daffodils. 70 years and you remembered my favourite flower.
-	Professor Farnsworth	You favourite what? Why does my foot hurt?
+	Prof. Farnsworth	You favourite what? Why does my foot hurt?
 	Mom	[sexfully] Won't you come in?
 	Fry	Yes!
 	Mom	You broke my heart, Hubert.
-	Professor Farnsworth	And you broke mine. Granted, that was four or five hearts ago.
+	Prof. Farnsworth	And you broke mine. Granted, that was four or five hearts ago.
 	Mom	[picking the petals] So what have you been up to all these years?
-	Professor Farnsworth	Oh, inventing, sending delivery crews to their doom, breeding atomic monsters.
+	Prof. Farnsworth	Oh, inventing, sending delivery crews to their doom, breeding atomic monsters.
 	Mom	Honestly, Hubert! You and your atomic monsters. [She laughs and he joins in. She sits down on the couch and pats it. He sits next to her and she takes off his glasses.] Your eyes always were the most beautiful shade of milky-white.
-	Professor Farnsworth	And your skin still dangles so gracefully from your neck.
+	Prof. Farnsworth	And your skin still dangles so gracefully from your neck.
 	Mom	Darling Hubie, I should never have tried to tamper with that cute little Q.T. McWhiskers.
-	Professor Farnsworth	No, it was silly of me to object; one-foot tall, eight-feet, 15-feet, what does it matter?
+	Prof. Farnsworth	No, it was silly of me to object; one-foot tall, eight-feet, 15-feet, what does it matter?
 	Mom	You should see the new 16-foot models.
-	Professor Farnsworth	16 feet? Go to hell! I was a fool to think you'd changed, you old bat!
+	Prof. Farnsworth	16 feet? Go to hell! I was a fool to think you'd changed, you old bat!
 	Mom	[shouting] Filthy, toothless nerd bastard!
-	Professor Farnsworth	[shouting] Damned she-fossil!
+	Prof. Farnsworth	[shouting] Damned she-fossil!
 	Mom	[shouting] Stink pig!
-	Professor Farnsworth	[thinking] Here we go. Just unhook it and get the remote. So many hooks! [He takes one off and starts on the other.] Come on, Farnsworth. Drat, the first one's back on again! I give up! Wait! Victory! [He takes her bra off and sees the remote but just stares at her.] Oh, my. Now I'll just ... the remote ... I'll just... [talking] Oh, my!
+	Prof. Farnsworth	[thinking] Here we go. Just unhook it and get the remote. So many hooks! [He takes one off and starts on the other.] Come on, Farnsworth. Drat, the first one's back on again! I give up! Wait! Victory! [He takes her bra off and sees the remote but just stares at her.] Oh, my. Now I'll just ... the remote ... I'll just... [talking] Oh, my!
 	Leela	I'm worried. It shouldn't take this long to get to second base.
 	Zoidberg	Land robots!
 	Slurm Machine	I've got a big, big thirst for human blood!
 	Hermes	Where in funkytown is the Professor?
 	Fry	Nothing in here but a couple of elephant skin rugs.
-	Professor Farnsworth	Oh, yes!
+	Prof. Farnsworth	Oh, yes!
 	Robot	[from outside] They're inside! Get 'em!
 	Mom	I suppose I should switch off the robots before they ruin this wonderful romantic evening. Everyone, help Mom find her bra.
 	Fry	There it is!
@@ -224,14 +224,14 @@
 	Fry	Hurry, Bender. Get the bra!
 	Bender	OK, fan. Just hold still and let me get-- Whoa!
 	Slurm Machine	Death to all humans! [Bender kicks the bra off the fan and it lands on Mom's head. She takes the controller out and presses a button. The robots' antennae flash and they stop rebelling.] Free soda for all humans!
-	Professor Farnsworth	I love you, Mom. Let's grow ancient together.
+	Prof. Farnsworth	I love you, Mom. Let's grow ancient together.
 	Amy	Way to go, Professor. The plan worked.
 	Mom	Plan? What plan? I thought this was a spontaneous whirlwind of hot, dry sex.
-	Professor Farnsworth	Look, it started out as a calculated plot to rummage through your underwear. But once I got in there, I found more -- much more. And now I want to shout our love from the rooftops. Perhaps I'll breed some sort of albino shouting gorilla.
+	Prof. Farnsworth	Look, it started out as a calculated plot to rummage through your underwear. But once I got in there, I found more -- much more. And now I want to shout our love from the rooftops. Perhaps I'll breed some sort of albino shouting gorilla.
 	Mom	[shouting] Get out of my house, you lying scum pile. I never want to see you again.
-	Professor Farnsworth	But, dust cakes--
+	Prof. Farnsworth	But, dust cakes--
 	Bender	Well, time for this robot to get back to work.
 	Leela	Too bad it didn't work out with Mom, Professor.
-	Professor Farnsworth	Yes. But I'll always love her in my own subtle way.
+	Prof. Farnsworth	Yes. But I'll always love her in my own subtle way.
 	Gorillas	[shouting] Love Mom! Love Mom! Love Mom! Love Mom!
 	Greeting Card	You created me, Mom,So I guess you're to blame,For the love that I feel,Just from hearing your name,You're as tender as corned beef,And warm as pastrami,[It plays a tune.]I wuv my Mommy.

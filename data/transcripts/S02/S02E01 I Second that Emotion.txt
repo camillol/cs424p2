@@ -26,7 +26,7 @@
 	Jeffery	Um, I'm still a little woozy from a gazelle kick this morning but if he's anything like the common tree, the rings might indicate his age.
 	Fry	Yeah, well, good luck. It'd take some kind of genius to count all those rings.
 	Jeffery	He's five.
-	Professor Farnsworth	Happy birthday, young Nibbler.
+	Prof. Farnsworth	Happy birthday, young Nibbler.
 	Leela	Aww, look how cuddly he looks in his new cape!
 	Bender	[sarcastic] I'd be cuddly too if someone gave me a new cape.
 	Fry	Who's playing pin the tail on the moon maggot?
@@ -57,31 +57,31 @@
 	Bender	Of course I do. Right now I feel sorry for you.
 	Leela	You do?
 	Bender	Yeah. I mean, one cantaloupe-sized bloodshot eye? You ain't winning no beauty pageants, lady.
-	Professor Farnsworth	And so we say goodbye to our beloved pet, Nibbler, who's gone to a place where I too hope one day to go: The toilet.
+	Prof. Farnsworth	And so we say goodbye to our beloved pet, Nibbler, who's gone to a place where I too hope one day to go: The toilet.
 	Leela	[crying] I wouldn't feel so bad if Bender just understood the pain he caused me.
 	Calculon	[on TV] Give it to me straight, doctor, don't sugarcoat it.
 	Doctorbot	[on TV] Very well. Your entire family died when a plane piloted by your fiancée crashed into your uninsured home. And you have inoperable cancer.
 	Bender	Bet you weren't expecting that one, Calculon!
 	Amy	It's like he doesn't understand simple humanoid emotion.
 	Leela	I wish just once Bender could feel exactly what I feel.
-	Professor Farnsworth	Actually, through the miracle of science, that can be arranged.
+	Prof. Farnsworth	Actually, through the miracle of science, that can be arranged.
 	Fry	Uh-oh. Is this gonna be another crazy experiment that crosses a line Man was not meant to cross?
 	Linda	[on TV] The official death toll in that tragic rocket crash has now been raised to 54,000.
 	Bender	Hey, what the hell are you doing with my head?
-	Professor Farnsworth	I need to tinker in it.
+	Prof. Farnsworth	I need to tinker in it.
 	Bender	Why don't you just use a potted plant like Fry?
-	Professor Farnsworth	Quiet, you. I'm installing an empathy chip.
+	Prof. Farnsworth	Quiet, you. I'm installing an empathy chip.
 	Fry	And that'll allow Bender to feel other people's emotions?
-	Professor Farnsworth	Yes. If by "allow" you mean "force".
+	Prof. Farnsworth	Yes. If by "allow" you mean "force".
 	Bender	Ooh! Ow! Son of a-- Careful with that! Ow...
-	Professor Farnsworth	[hammering] Oh, dear. Oh, my. I got it. Once more.
+	Prof. Farnsworth	[hammering] Oh, dear. Oh, my. I got it. Once more.
 	Bender	Ow! Professor!
-	Professor Farnsworth	[hammering] Steady now.
+	Prof. Farnsworth	[hammering] Steady now.
 	Bender	Ow!
-	Professor Farnsworth	There we go. [He takes Bender's head out of the vice and rejoins it to his body.] Now I'll simply tune it to Leela's emotional frequency.
+	Prof. Farnsworth	There we go. [He takes Bender's head out of the vice and rejoins it to his body.] Now I'll simply tune it to Leela's emotional frequency.
 	Bender	My God! I'm overcome with ... feelings. I'm experiencing a powerful yearning to ... to cram my gullet full of mackerel heads.
 	Zoidberg	That's me, baby!
-	Professor Farnsworth	Hmm.
+	Prof. Farnsworth	Hmm.
 	Bender	Now I'm worried that I'm not as smart as Leela, but at the same time I feel relieved that I'm cuter than her.
 	Amy	Uh ... that's me.
 	Fry	[whispering] Thanks for covering.
@@ -123,7 +123,7 @@
 	Amy	Are you crazy? There's mutants down there! They'll eat you alive.
 	Zoidberg	They're hideous!
 	Leela	There's no such thing as mutants. That's a ridiculous urban myth.
-	Professor Farnsworth	Oh, don't be so sure. Many scientists believe humans really could mutate down there. Uh, due to exposure to toxic waste and radioactive run-off and good old American faeces!
+	Prof. Farnsworth	Oh, don't be so sure. Many scientists believe humans really could mutate down there. Uh, due to exposure to toxic waste and radioactive run-off and good old American faeces!
 	Fry	God bless America.
 	Fry	Phew! Uh, ladies first.
 	Fry	Oh, and the aftertaste!
@@ -223,12 +223,12 @@
 	Raoul	Let's have a tissue-tape parade!
 	Bender	No, thanks!
 	Dwayne	Gather round, children, to hear the legend of Bender.[He strums the guitar.](singing) He came from above with a--[A string snaps and he sighs.](talking) It's gonna be many a year before someone flushes another guitar string.
-	Professor Farnsworth	That was a disgusting story.
+	Prof. Farnsworth	That was a disgusting story.
 	Leela	And it's all thanks to Bender. I love you, Bender.
 	Bender	I love you too. [He turns to Farnsworth.] Get that stupid chip out of me before I kill myself!
-	Professor Farnsworth	Bender, you won't believe this, but the empathy chip burned out. The emotion you felt for Nibbler was actually your own.
+	Prof. Farnsworth	Bender, you won't believe this, but the empathy chip burned out. The emotion you felt for Nibbler was actually your own.
 	Fry	Looks like Bender learned an important lesson about respecting other people's feelings afterall.
-	Professor Farnsworth	No, I'm wrong. The empathy chip was running at triple capacity.
+	Prof. Farnsworth	No, I'm wrong. The empathy chip was running at triple capacity.
 	Bender	And I still barely felt anything. Goodnight, losers!
 	Leela	You know, Bender may not have learned anything from me, but I think I actually learned something from him. [She stands up and heads for the door.] [shouting] So long, jerkwads!
-	Professor Farnsworth	[waving] So long!
+	Prof. Farnsworth	[waving] So long!

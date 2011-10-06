@@ -4,7 +4,7 @@
 	Younger Mom	A new super fuel, eh?
 	Mom	If the crystals get within six inches of each other... [She slaps Larry.] Wham! All my dark matter will be worthless.
 	Mom	Give me the anti-backwards crystal.
-	Professor Farnsworth	Never! [He eats the crystal and begins to chuckle. The crystal glows in his stomach, along with the keys to the ship. The ground cracks open and everybody falls into the hole with the ice.]
+	Prof. Farnsworth	Never! [He eats the crystal and begins to chuckle. The crystal glows in his stomach, along with the keys to the ship. The ground cracks open and everybody falls into the hole with the ice.]
 	Frydo	What's happening? And why am I enjoying it so much?
 	Leegola	I'm not taking any chances with the Tunneling Horror.
 	Zoidberg	I'm not the Tunneling Horror.
@@ -131,19 +131,19 @@
 	Mom	What happened?
 	Leela	My God, we're out of that weird, crazy world and back in our regular crazy world.
 	Fry	Did we all just have some kind of freaky dream or was it ghosts?
-	Professor Farnsworth	Neither, Fry. It was science. Bender's mighty imagination amplified by a dark matter resonance created an alternate reality that very nearly blew our minds.
+	Prof. Farnsworth	Neither, Fry. It was science. Bender's mighty imagination amplified by a dark matter resonance created an alternate reality that very nearly blew our minds.
 	Hermes	Exactly. You can't make that kind of stuff up.
 	Mom	Quit trying to explain everything. I defeated you in that world and I'll defeat you in this one. Boys, the crystal’s still in his stomach.
 	Walt	Commencing intestinal flash flood.
-	Professor Farnsworth	Wait! Before my moment of shame, can I...
+	Prof. Farnsworth	Wait! Before my moment of shame, can I...
 	Mom	Yes, speak up.
-	Professor Farnsworth	Can I give my boy a hug?
+	Prof. Farnsworth	Can I give my boy a hug?
 	Mom	All right. Fine. I've never done it. I guess somebody should.
 	Inger	Daddy. [They hug.]
 	Igner	We both eated the crysals. [They giggle together.]
 	Mom	My dark matter. It's worthless.
-	Professor Farnsworth	That's right, Mom. But fear not, fancy folk for I've just thunk up an alternative energy source. Nibbler-power.
+	Prof. Farnsworth	That's right, Mom. But fear not, fancy folk for I've just thunk up an alternative energy source. Nibbler-power.
 	Nibbler	Hurray. Wait. What?
-	Professor Farnsworth	Mush! Mush! [He whips the Nibblonians.]
-	Professor Farnsworth	Faster, [Whip] faster. [Whip] Slower. [Whip]
+	Prof. Farnsworth	Mush! Mush! [He whips the Nibblonians.]
+	Prof. Farnsworth	Faster, [Whip] faster. [Whip] Slower. [Whip]
 	Garry Gygax	Anyone wanna play Dungeons & Dragons for the next quadrillion years?

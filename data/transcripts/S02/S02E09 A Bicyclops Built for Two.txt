@@ -1,7 +1,7 @@
-	Professor Farnsworth	Good news, everyone! Several years ago I tried to log on to AOL, and it just went through. Whee! We're online!
-	Professor Farnsworth	Go ahead, get into these net suits. I designed and tested them myself.
+	Prof. Farnsworth	Good news, everyone! Several years ago I tried to log on to AOL, and it just went through. Whee! We're online!
+	Prof. Farnsworth	Go ahead, get into these net suits. I designed and tested them myself.
 	Leela	They smell like burning Rhesus Monkey.
-	Professor Farnsworth	Really? I guess when you're around it all day you stop noticing. Off you go.
+	Prof. Farnsworth	Really? I guess when you're around it all day you stop noticing. Off you go.
 	Fry	Hey!
 	Bender	Behold: The Internet!
 	Fry	My God! It's full of ads!
@@ -166,7 +166,7 @@
 	Fry	That's weird. It's another Cyclops, only this one has five eyes.
 	Bender	And here's another one with no eyes.
 	Preacherbot	Does anyone have a reason why this couple shall not be joined in the irrevocable shackles of holy bliss?
-	Professor Farnsworth	Saving a race of one-eyed monsters? Who could object to that?
+	Prof. Farnsworth	Saving a race of one-eyed monsters? Who could object to that?
 	Alcazar	Cut to the chase, Preach!
 	Preacherbot	Do you, Alcazar ... [Alcazar fast-forwards the Preacherbot.] ... [fast] take this woman before you ... to love ... in sickness ... do you part?
 	Alcazar	Yeah, sure I do. Come on, faster!
@@ -199,5 +199,5 @@
 	Leela	Thanks for saving me from that creep, Fry.
 	Fry	Hey, that's what I do.
 	Leela	I guess I was so desperate to find out who I really was, I forgot who I really was.
-	Professor Farnsworth	No harm done. In the many decades you'll work to repay me for that shipment of popcorn you destroyed, you'll have plenty of time to search for your true home.
+	Prof. Farnsworth	No harm done. In the many decades you'll work to repay me for that shipment of popcorn you destroyed, you'll have plenty of time to search for your true home.
 	Leela	Yeah. I mean, how many planets can there be?

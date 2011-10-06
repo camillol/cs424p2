@@ -21,7 +21,7 @@
 	Hermes	[shouting] Baby needs a new pair of shoes!
 	Zoidberg	To hell with your spoiled baby! I need those shoes!
 	Announcer	[on loudspeaker] And it's a dead heat! They're checking the electron microscope. And the winner is ... [A man holds up a "3" in a window.] ... number 3, in a quantum finish.
-	Professor Farnsworth	No fair! You changed the outcome by measuring it.
+	Prof. Farnsworth	No fair! You changed the outcome by measuring it.
 	Leela	How'd you do, Fry?
 	Fry	I'll tell you when my horse finishes ... bad.
 	Mr. Wong	In today's field we own four horses and two jockeys.
@@ -63,7 +63,7 @@
 	Fry	I hid it in a secret hiding place whose location I never told anyone. Not even Scruffy.
 	Zoidberg	So the clover is still in the hiding place, maybe?
 	Fry	Hey, yeah! Maybe it is still there. Underground in the ruins of Old New York, helping some ant defeat another ant or helping some piece of dirt turn its luck around.
-	Professor Farnsworth	Dirt doesn't need luck.
+	Prof. Farnsworth	Dirt doesn't need luck.
 	Fry	I'm going down there to get my clover back. Some of the tunnels have metal bars so I'll need someone who's good at bending. Leela, how 'bout you?
 	Leela	Sure. I'll do it.
 	Bender	Like hell you will! Bending's my middle name.
@@ -160,14 +160,14 @@
 	Bender	Apparently this brave Adonis, this Cadillac of men, was the first person on Mars.
 	Fry	First person on Mars? I should have been the first person on Mars. He stole my clover, he stole my name and he stole my life. [He punches the statue.] And now he broke my hand!
 	Bender	His legend lives on.
-	Professor Farnsworth	So you opened the record vault and the clover was gone?
+	Prof. Farnsworth	So you opened the record vault and the clover was gone?
 	Bender	Yep. Nothing in there but all the best music of the 1980's in one amazing collection.
 	Leela	Survivor, Pat Benatar, The Scorpions. The list goes on.
 	Fry	That clover helped my ratfink brother steal my dream of going into space. Now I'll never get there.
 	Leela	You went there this morning for doughnuts.
 	Hermes	First person on Mars? Oh, so your brother was that Philip J. Fry.
 	Fry	I'm Philip J. Fry! He stole my name after I got frozen.
-	Professor Farnsworth	Shut up, friends. My Internet browser heard us saying the word "Fry" and it found a movie about Philip J. Fry for us. [The staff gather around.] It also opened my calendar to Friday and ordered me some French fries.
+	Prof. Farnsworth	Shut up, friends. My Internet browser heard us saying the word "Fry" and it found a movie about Philip J. Fry for us. [The staff gather around.] It also opened my calendar to Friday and ordered me some French fries.
 	Narrator	[voice-over; in movie] Philip J. Fry: Astronaut, philanthropist, entrepreneur was a great man truly worthy of narration. Fry was the first man on Mars ... [The scene changes to a man planting the American flag on Mars.] ... a feat that has never since been equalled.
 	Fry	That should have been me!
 	Narrator	[voice-over; in movie] The ever-lucky Fry made his fortune after striking oil in the bathroom of the mansion he had won in a lottery.

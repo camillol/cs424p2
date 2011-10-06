@@ -1,4 +1,4 @@
-	Professor Farnsworth	[Groans] I fear I may not survive this war reenactment. We’re only twelve feet from the parking lot.
+	Prof. Farnsworth	[Groans] I fear I may not survive this war reenactment. We’re only twelve feet from the parking lot.
 	Fry	[standing in mud, surrounded by flies] This is every bit as fun as the real Civil War.
 	Leela	Not the Civil War private. We’re reinacting the Sith-il War. [She points to a plaque that says “Sith Invasion of 2865 Historic Site]
 	Fry	Sith? What the Hoth?
@@ -15,7 +15,7 @@
 	Darth Stroyer	I shall rip out your heart and show it to you! [touches Scruffy with a lightsaber] It is done.
 	Scruffy	The candle that burns twice as bright burns half as long. [He lays on the ground and acts dead.] Mhrm.
 	Darth Sploder	You're dead!
-	Professor Farnsworth	No, I'm just very old. [He makes choking noises and falls down]
+	Prof. Farnsworth	No, I'm just very old. [He makes choking noises and falls down]
 	Darth Sploder	[He taps the Professor with his foot and gets no response.] Woah! That good acting!
 	Fry	It's payback time, Sploder! [Fry's gun fires a beam that tags Sploder then falls flat. Fry presses a button on his gun and the beam retracts.]
 	Darth Sploder	Tell my mother... to pick me up outside Quiznos.
@@ -34,9 +34,9 @@
 	Hermes	Okay. The winners, at a net cost of only $12 per life cut tragically short, our Sith Overlords.
 	Darth Sploder	Hot diggity! I mean... [Breathes like Darth Vader in his best basso profundo voice.] Supreme diggity.
 	Fry	It may have been a fake war, but my scuffed knee is all too real.
-	Professor Farnsworth	I have pain in joints I had removed a century ago. Bender, bring me my soft chair with the wheels on it.
+	Prof. Farnsworth	I have pain in joints I had removed a century ago. Bender, bring me my soft chair with the wheels on it.
 	Bender	Your wheelchair?
-	Professor Farnsworth	I don't need a wheelchair! The one with the wheels!
+	Prof. Farnsworth	I don't need a wheelchair! The one with the wheels!
 	Bender	Poor flimsy humans. Don't you wish you were flawless like me? A towering inferno of physical perfection?
 	Leela	I hate to pop your blimp-like ego, but you're not perfect.
 	Bender	Am so!
@@ -44,23 +44,23 @@
 	Bender	Is too!
 	Leela	Says who?
 	Bender	Says the only human whose opinion I even remotely respect. [He takes a scrap of paper out of his chest cabinet and kisses it] Inspector 5, the best inspector a kid could want. The day I was built, he looked me over, probably with tears of pride in his eyes, and proclaimed to the world, by means of this scrap of paper, that I was perfect and infallible in every way!
-	Professor Farnsworth	Hey, Mr. Perfect? You wet the chair. [He points to the oil stain on the wheelchair]
+	Prof. Farnsworth	Hey, Mr. Perfect? You wet the chair. [He points to the oil stain on the wheelchair]
 	Bender	Huh? Wasn't me. Must be some of that urine your all so proud of.
 	Fry	[He tastes some of the puddle with his finger] That's not urine, it's oil.
 	Bender	Impossible! I'm triple sealed to prevent any chance of ... [He looks behind him and shrieks. He is leaking oil.]
 	Zoidberg	You call that an ink defense? [His coat tears off and he sprays ink everywhere and scuttles off] Goodbye, friends!
 	Bender	What could have caused the leak? Excessive heat, on the count that I'm so hot?
-	Professor Farnsworth	Alas, no. Oh, Bender, I'm afraid it's a symptom of a fatal defect.
+	Prof. Farnsworth	Alas, no. Oh, Bender, I'm afraid it's a symptom of a fatal defect.
 	Bender	Yeah, fatal schmatal. If I die I can just download my backup copy into my new, equally fabulous, body.
-	Professor Farnsworth	That's just it! You can't. You were built without a backup unit.
+	Prof. Farnsworth	That's just it! You can't. You were built without a backup unit.
 	Bender	[He sits up, shocked] There's no backup copy of me?
-	Professor Farnsworth	That's what I just said, you mortal coil.
+	Prof. Farnsworth	That's what I just said, you mortal coil.
 	Bender	So, if I die...
-	Professor Farnsworth	You die. Or as you put it [He blows a raspberry]
+	Prof. Farnsworth	You die. Or as you put it [He blows a raspberry]
 	Bender	[Nervous] Um, excuse me for a moment. [He unscrews his head and puts it into his chest cabinet] [muffled] No!
 	Bender	I can't believe it! I'm gonna die.
 	Fry	How much time does he have left, Professor?
-	Professor Farnsworth	Between a minute and a billion years.
+	Prof. Farnsworth	Between a minute and a billion years.
 	Fry	[He puts his hand on Bender's shoulder] Well, at least you can plan accordingly.
 	Bender	Dying sucks butt! How do you living beings cope with mortality?
 	Leela	Violent outbursts.

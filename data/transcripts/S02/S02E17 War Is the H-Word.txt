@@ -14,7 +14,7 @@
 	Recruitment Officer	Correct. There's no obligation. [Fry and Bender laugh as they sign. The man takes their papers back.] Unless, of course, war were declared.
 	Fry	What's that?
 	Recruitment Officer	War were declared.
-	Professor Farnsworth	Now be careful, Fry. And if you kill anyone, make sure to eat their heart, to gain their courage. Their rich, tasty courage.
+	Prof. Farnsworth	Now be careful, Fry. And if you kill anyone, make sure to eat their heart, to gain their courage. Their rich, tasty courage.
 	Hermes	I don't want you to worry about your jobs while you're away. That's why I'm firing you now.
 	Leela	I wanna enlist. My friends always die if I'm not there to save them.
 	Zapp	Sorry, but the army's instituted a men-only policy.
@@ -190,10 +190,10 @@
 	Bender	Then I guess you learned a valuable lesson: Don't mess with Earth.
 	Brain Ball #1	May you bounce in peace.
 	Bender	Get the hell off my planet.
-	Professor Farnsworth	Well, that's it. Let's reactivate him. [shouting] Wake up!
+	Prof. Farnsworth	Well, that's it. Let's reactivate him. [shouting] Wake up!
 	Bender	Hey, chumps and chumpettes. Did you get the bomb out? Can I go back to saying the word I love to say?
 	Zoidberg	I'm sorry but we couldn't remove it.
-	Professor Farnsworth	It's stuck in there with glue or something, I don't know.
+	Prof. Farnsworth	It's stuck in there with glue or something, I don't know.
 	Bender	[ironic] Well, this is just great! What's the point of living if I can't say "ass"? [He gasps.] Hey, I didn't blow up! Ass, ass, ass, ass, ass! Alright! I'm back in the saddle!
 	Leela	We couldn't disarm the bomb so we reset the word that triggers it.
 	Amy	It's from the list of words you almost never say.

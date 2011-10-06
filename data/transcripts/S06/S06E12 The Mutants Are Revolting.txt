@@ -1,12 +1,12 @@
-	Professor Farnsworth	Good news, everyone. We've been hired to make our 100th delivery.
+	Prof. Farnsworth	Good news, everyone. We've been hired to make our 100th delivery.
 	Zoidberg	100!
 	Hermes	That's almost 10 per year.
 	Bender	This calls for a party, baby. I'm ordering a hundred kegs, a hundred hookers, and a hundred Elvis impersonators who aren't above a little hooking, should the occasion arise!
 	Elzar	[He pushes a soufflé on a cart.] Be very gentle, folks. This is the soufflé you'll be delivering to Mrs. Astor.
 	Bender	Oh my God, it's Elzar! Hi, Elzar! Great soufflé, Elzar!
 	Elzar	Whatever you do, don't drop it. [He holds up a bottle labeled "Nitroglycerine. Danger! Explosive!"] See, Mrs. Astor takes Nitroglycerine for her heart, and being a class act, she prefers it in soufflé form. [He lets a drop of nitroglycerine soak into the soufflé.] [Softly.] Bam.
-	Professor Farnsworth	To prevent the soufflé from exploding, Bender will carry it. He's gyroscopically stable.
-	Professor Farnsworth	Look, Mrs. Astor's mansion, just across that rickety rope bridge. [Part of the bridge falls off.]
+	Prof. Farnsworth	To prevent the soufflé from exploding, Bender will carry it. He's gyroscopically stable.
+	Prof. Farnsworth	Look, Mrs. Astor's mansion, just across that rickety rope bridge. [Part of the bridge falls off.]
 	Amy	Wow, it's ricketier than it looks. You'd better try to jump it, Bender.
 	Bender	Okay, let me back up for a running start. [He runs backwards, all the way around the asteroid, across the bridge, back to where he started. He then runs forwards, crossing the bridge and ends up near the crew again. He jumps across the gap. The rest of the crew walk up. Fry rings the doorbell.]
 	Hobsy	[He opens the door.] I shall inform Mrs. Astor that the circus is in town.
@@ -16,9 +16,9 @@
 	Hobsy	One does not explode Mrs. Astor's face.
 	Mrs. Astor	I couldn't eat another bite. Hobsy?
 	Mrs. Astor	Well done, sir. Have you a name?
-	Professor Farnsworth	Hubert Farnsworth, at your service.
+	Prof. Farnsworth	Hubert Farnsworth, at your service.
 	Mrs. Astor	A Farnsworth, you say? Well, if I'm not mistaken, the Farnsworths have been in New New York for almost two hundred years.
-	Professor Farnsworth	Yes, I have.
+	Prof. Farnsworth	Yes, I have.
 	Fry	And I'm his uncle!
 	Mrs. Astor	How charmingly unconventional. Say, would you Farnsworths care to be my guests tomorrow at the [[Astor Endowment Fundraiser? All the best families will be there.
 	Fry	We can take 'em.
@@ -92,13 +92,13 @@
 	Amy	Shmeepers, it's the Land Titanic, the biggest and onlyest land boat ever constructed..
 	Hermes	This was one hell of a bus.
 	Zoidberg	Well, everyone debone a bunk and get some shut-eye. [He removes the skeleton.]
-	Professor Farnsworth	Zoidberg, show some respect! This is a sacred shrine to the thousands who lost their lives.
+	Prof. Farnsworth	Zoidberg, show some respect! This is a sacred shrine to the thousands who lost their lives.
 	Amy	[off screen.] Hey, I found a safe!
-	Professor Farnsworth	It's coming loose. Hand me more of that cruise director. [Amy hands him a leg bone which he uses to pry off the lock. The door opens.] The original passenger manifests. [He hands them to Hermes.]
+	Prof. Farnsworth	It's coming loose. Hand me more of that cruise director. [Amy hands him a leg bone which he uses to pry off the lock. The door opens.] The original passenger manifests. [He hands them to Hermes.]
 	Hermes	Spreadsheets were so elegant back then.
-	Professor Farnsworth	Just one other item. [He opens a case, revealing a Quantum Gemerald.]
+	Prof. Farnsworth	Just one other item. [He opens a case, revealing a Quantum Gemerald.]
 	Amy	It's jewelry. Jewelry! It's jewelry, people!
-	Professor Farnsworth	It's a priceless quantum-force gemerald. [He uses it to blast the cruise director, turning the skeleton to an ash stain on the wall.]
+	Prof. Farnsworth	It's a priceless quantum-force gemerald. [He uses it to blast the cruise director, turning the skeleton to an ash stain on the wall.]
 	Zoidberg	What's that enscibbled on it?
 	Hermes	[He reads the inscription.] "My dear Mrs. Astor. My love for you is as unsinkable as this land ship and as brilliant as this stone. Dictated not read, Mr. Astor."
 	Amy	Aw! That's so valuable.

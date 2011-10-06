@@ -1,15 +1,15 @@
-	Professor Farnsworth	Good news, everyone! The university is bringing me up on disciplinary charges. Wait, that's not good news at all.
+	Prof. Farnsworth	Good news, everyone! The university is bringing me up on disciplinary charges. Wait, that's not good news at all.
 	Leela	Whatever you did, Professor, I'm sure there's a reasonable explanation.
-	Professor Farnsworth	Yes, but they won't listen. Everyone's always in favour of saving Hitler's brain but when you put it in the body of a great white shark, ooh, suddenly you've gone too far.
+	Prof. Farnsworth	Yes, but they won't listen. Everyone's always in favour of saving Hitler's brain but when you put it in the body of a great white shark, ooh, suddenly you've gone too far.
 	Vernon	Professor Farnsworth, do you know why we've called you here today?
-	Professor Farnsworth	Listen to me, you pompous frauds. If I'm going down, I'm taking you all with me. Dean Vernon, I know the truth: It was you driving your hover-car that night, not your horse. Dean Epsilon, I know all about your "Department of Pool Boy Studies". And Dr. Wernstrom ... Wernstrom!
+	Prof. Farnsworth	Listen to me, you pompous frauds. If I'm going down, I'm taking you all with me. Dean Vernon, I know the truth: It was you driving your hover-car that night, not your horse. Dean Epsilon, I know all about your "Department of Pool Boy Studies". And Dr. Wernstrom ... Wernstrom!
 	Vernon	Actually, Professor, we merely called you here to say... [The lights come on.] Surprise!
 	Man #1	Surprise!
 	Man #2	Happy birthday!
 	Hermes	Surprise!
-	Professor Farnsworth	And you, Coach Smalley, or should I say "Coach hairpiece"?
+	Prof. Farnsworth	And you, Coach Smalley, or should I say "Coach hairpiece"?
 	Leela	No, Professor! It's a surprise party for your 150th birthday.
-	Professor Farnsworth	[muttering] Hundred and ... what? [He smiles.] Ooh!
+	Prof. Farnsworth	[muttering] Hundred and ... what? [He smiles.] Ooh!
 	Bender	Good evening, I'm-- [Feedback. He turns the knob on the side of his casing.] Whoa, sorry. I'm Bender and I'll be emceeing this roast. Y'know, they say you can judge a man by the company he keeps. So here's the Professor's oldest friend, a grotesque, stinking lobster.
 	Zoidberg	Good evening, ladies and germs. [The band plays a rimshot.] That wasn't a joke, I was talking to Dean Streptococcus. [In the audience a big green germ waves.] Now, I'm not saying Professor Farnsworth is old, but if you consider his age, he's likely to die soon. [He grins. There is no rimshot and the audience don't laugh. A man drums his fingers on the table.] Hey, Ringo, that was the joke. Oh, it's Showtime at the Apollo all over again.
 	Bender	Where would the Professor be without students who love and respect him? Right there! [He points at Farnsworth and chuckles.] But seriously, of all the former crew members of the Professor's delivery ship, our next speaker is by far the most alive. Captain Musky?
@@ -19,24 +19,24 @@
 	Leela	[voice-over; in movie] Hubert J. Farnsworth was born April 9th 2851 in New New York's nerdiest slum, Hell's Laboratory. A precocious child, young Hubert learned to read while he was still in diapers -- at age 8. [A photo of young Farnsworth sitting reading a book on some steps in diapers appears on the screen.] And before long he blossomed into a greasy teenager.
 	Fry	[whispering] Dork alert!
 	Leela	[voice-over; in movie] After 14 years of graduate school, Farnsworth settled into the glamorous life of a scientist: Fast cars, trendy nightspots, beautiful women -- the Professor designed them all working out of his tiny, one-room apartment. [The pictures appear on a blackboard in his apartment.] For 50 years he worked at Mom's Friendly Robot Company, where he created the first robot capable of qualifying for a boat loan. [There is a short video clip of the robot buying its boat. The picture changes to Farnsworth tinkering with Bender's head.] And even as he nears his 150th birthday, the Professor retains the fiery passion of youth.
-	Professor Farnsworth	[in movie] Listen, you pompous frauds. If I'm going down, I'm taking you all with me.
+	Prof. Farnsworth	[in movie] Listen, you pompous frauds. If I'm going down, I'm taking you all with me.
 	Bender	How 'bout a few words, Professor?
-	Professor Farnsworth	Eh, wha?
+	Prof. Farnsworth	Eh, wha?
 	Bender	I said "words".
-	Professor Farnsworth	Uh, what a pleasure it is to see my lifetime of accomplishment summed up in a 3-minute film. My best years are behind me. So much left undone. So little time.
+	Prof. Farnsworth	Uh, what a pleasure it is to see my lifetime of accomplishment summed up in a 3-minute film. My best years are behind me. So much left undone. So little time.
 	Bender	Funny, funny stuff.
-	Professor Farnsworth	My life is over.
+	Prof. Farnsworth	My life is over.
 	Leela	No, it isn't. You have another 10 years left.
 	Fry	Leela! He could live another 100 years!
 	Leela	No, he couldn't. When you turn 160, robots from the Sunset Squad take you to a mysterious planet and you never return.
 	Fry	Wow, a whole planet of old people. Where is it?
 	Bender	[spookily] Nobody knows!
-	Professor Farnsworth	So many loves half-loved, so many inventions half-invented. That damn time machine alone set me back 15 years.
+	Prof. Farnsworth	So many loves half-loved, so many inventions half-invented. That damn time machine alone set me back 15 years.
 	Zoidberg	If only it'd worked, you could go back and not waste your time on it.
-	Professor Farnsworth	There's no one to carry on after I'm gone. No one to take care of my work and my research and my fabulous fortune. [He gasps.] By God, that's it! I've got to name a successor.
+	Prof. Farnsworth	There's no one to carry on after I'm gone. No one to take care of my work and my research and my fabulous fortune. [He gasps.] By God, that's it! I've got to name a successor.
 	Fry	A successor?
 	Zoidberg	A successor to the Professor?
-	Professor Farnsworth	There's no time to lose. I'm off to my lab to build a successor-naming machine!
+	Prof. Farnsworth	There's no time to lose. I'm off to my lab to build a successor-naming machine!
 	Fry	Man, the Professor's been in his lab for days.
 	Bender	I hope he didn't die. Unless he left a note naming me his successor. Then I hope he did die.
 	Zoidberg	You? The successor? Over my empty shell! The Professor will pick me. Only I have his lobster-like tenacity.
@@ -47,25 +47,25 @@
 	Amy	Yesh, he would.
 	Fry	Sorry, everyone, but need I remind you? Blood is thicker than water.
 	Zoidberg	[writing] Blood ... thicker ... water.
-	Professor Farnsworth	Everyone, I have a very dramatic announcement. So anyone with a weak heart should leave now. Goodbye.
+	Prof. Farnsworth	Everyone, I have a very dramatic announcement. So anyone with a weak heart should leave now. Goodbye.
 	Leela	Uh, Professor?
-	Professor Farnsworth	Oh, oh, yes, the announcement! As you all know, I am not long for this world.
+	Prof. Farnsworth	Oh, oh, yes, the announcement! As you all know, I am not long for this world.
 	Leela	Yes, we know.
 	Hermes	True, mon.
 	Amy	Buh!
 	Fry	One foot in the grave.
-	Professor Farnsworth	So I've picked my successor. It's someone in whom I have great faith -- even though his mind is undeveloped and he's accomplished nothing. [Fry flexes his fingers and chuckles.] My closest living relative.
+	Prof. Farnsworth	So I've picked my successor. It's someone in whom I have great faith -- even though his mind is undeveloped and he's accomplished nothing. [Fry flexes his fingers and chuckles.] My closest living relative.
 	Fry	Oh, yeah!
-	Professor Farnsworth	My clone, Cubert Farnsworth.
+	Prof. Farnsworth	My clone, Cubert Farnsworth.
 	Zoidberg	He's horrible!
 	Fry	Crud. Can I at least be in charge of your dentures?
 	Amy	You wish!
 	Fry	Where did Cubert come from?
-	Professor Farnsworth	12 years ago I began the cloning process by removing some skin cells from one of the shapelier growths on my back.
+	Prof. Farnsworth	12 years ago I began the cloning process by removing some skin cells from one of the shapelier growths on my back.
 	Leela	Wait. If he's your clone, why doesn't his nose look like yours?
-	Professor Farnsworth	I left him in his first tube too long and he got squished up against the side.
+	Prof. Farnsworth	I left him in his first tube too long and he got squished up against the side.
 	Bender	Is he dumb or just ugly?
-	Professor Farnsworth	Let's find out.
+	Prof. Farnsworth	Let's find out.
 	Cubert	What? You've never seen a genius's wiener before?
 	Zoidberg	No.
 	Leela	Never.
@@ -79,53 +79,53 @@
 	Leela	Why, you little--
 	Cubert	Wow, that hurt -- the air!
 	Bender	Im pending para un bending!
-	Professor Farnsworth	Oh, Cubert, come in here. I have something amazing to show you.
+	Prof. Farnsworth	Oh, Cubert, come in here. I have something amazing to show you.
 	Cubert	What is it? A competent employee? I doubt that very much!
 	Fry	Little twerp.
 	Bender	Aye, Chihuahua!
-	Professor Farnsworth	As my successor, I'm trusting you to carry on my work. These are just some of the half-finished inventions you'll spend your life finishing.
+	Prof. Farnsworth	As my successor, I'm trusting you to carry on my work. These are just some of the half-finished inventions you'll spend your life finishing.
 	Cubert	I didn't realise you were the inventor of the junk heap.
-	Professor Farnsworth	That's my prize-winning Smellescope. If a dog craps anywhere in the universe, you can bet I won't be out of the loop. [He points at a green machine with an oscilloscope built into it.] And this is my universal translator. Unfortunately so far it only translates into an incomprehensible dead language.
+	Prof. Farnsworth	That's my prize-winning Smellescope. If a dog craps anywhere in the universe, you can bet I won't be out of the loop. [He points at a green machine with an oscilloscope built into it.] And this is my universal translator. Unfortunately so far it only translates into an incomprehensible dead language.
 	Cubert	Hello.
 	Universal Translator	Bonjour!
-	Professor Farnsworth	Crazy gibberish!
+	Prof. Farnsworth	Crazy gibberish!
 	Cubert	Don't you have any worthwhile inventions?
-	Professor Farnsworth	Why, certainly. Step over here.
-	Professor Farnsworth	These are the dark matter engines I invented. They allow my starship to travel between galaxies in mere hours.
+	Prof. Farnsworth	Why, certainly. Step over here.
+	Prof. Farnsworth	These are the dark matter engines I invented. They allow my starship to travel between galaxies in mere hours.
 	Cubert	That's impossible. You can't go faster than the speed of light.
-	Professor Farnsworth	Of course not. That's why scientists increased the speed of light in 2208.
+	Prof. Farnsworth	Of course not. That's why scientists increased the speed of light in 2208.
 	Cubert	Also impossible.
-	Professor Farnsworth	And what makes my engines truly remarkable is the afterburner which delivers 200% fuel efficiency.
+	Prof. Farnsworth	And what makes my engines truly remarkable is the afterburner which delivers 200% fuel efficiency.
 	Cubert	That's especially impossible.
-	Professor Farnsworth	Not at all. It's very simple.
+	Prof. Farnsworth	Not at all. It's very simple.
 	Cubert	Then explain it.
-	Professor Farnsworth	Now that's impossible. It came to me in a dream and I forgot it in another dream.
+	Prof. Farnsworth	Now that's impossible. It came to me in a dream and I forgot it in another dream.
 	Cubert	Your explanations are pure weapons-grade bolog-nium. It's all impossible.
-	Professor Farnsworth	Nothing is impossible. Not if you can imagine it. That's what being is a scientist is all about.
+	Prof. Farnsworth	Nothing is impossible. Not if you can imagine it. That's what being is a scientist is all about.
 	Cubert	No, that's what being a magical elf is all about.
 	Bender	Oh, my God! Oh, my God! It's Elzar, the TV chef! Oh, kill me now, people!
 	Elzar	How we doing here?
 	Bender	Oh, Elzar, everything's so good!
 	Elzar	What are you, an ass-kissing machine?
 	Bender	Yes, sir! Good one, sir!
-	Professor Farnsworth	Oh, it's a gem of an evening. I feel so wonderful having someone to take over my life's work. And it's all thanks to Cubert.
+	Prof. Farnsworth	Oh, it's a gem of an evening. I feel so wonderful having someone to take over my life's work. And it's all thanks to Cubert.
 	Cubert	Look, Professor, I may be identical to you in every possible way but that doesn't mean I'm anything like you.
-	Professor Farnsworth	You ... wha?
+	Prof. Farnsworth	You ... wha?
 	Cubert	I don't wanna be an inventor. I wanna be something useful like a teacher's aide or a prison guard or a science-fiction cartoon writer.
-	Professor Farnsworth	But-But what about my hopes and my dreams and my wonderful inventions?
+	Prof. Farnsworth	But-But what about my hopes and my dreams and my wonderful inventions?
 	Cubert	In your entire life your only half-decent invention was me and I didn't turn out like you wanted either.
 	Elzar	You folks still doing alright?
 	Bender	Oh, yes, Elzar.
 	Elzar	Good, 'cause it turns out I forgot to cook that chicken.
-	Professor Farnsworth	Bad news, everyone. By the time you watch this tape, I'll be gone, leaving behind me nothing but a history of failure and my original hip-bones. You see, I've been lying about my age; I'm not actually 150, I'm 160. Oh, vanity, thy name is Professor Farnsworth. And now that I have nothing to live for, I've alerted the Sunset Squad robots to take me away.
-	Professor Farnsworth	Goodbye, cruel world. [He stops walking.] Goodbye, cruel lamp. [He stops again by the window.] Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin ... [The Reaperbot growls.] ... and the cute little pom-pom curtain pull cords, cruel though they may be a--
-	Professor Farnsworth	[on holo-recorder] And now that I've nothing to live for, I've alerted the Sunset Squad robots to take me away.
+	Prof. Farnsworth	Bad news, everyone. By the time you watch this tape, I'll be gone, leaving behind me nothing but a history of failure and my original hip-bones. You see, I've been lying about my age; I'm not actually 150, I'm 160. Oh, vanity, thy name is Professor Farnsworth. And now that I have nothing to live for, I've alerted the Sunset Squad robots to take me away.
+	Prof. Farnsworth	Goodbye, cruel world. [He stops walking.] Goodbye, cruel lamp. [He stops again by the window.] Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin ... [The Reaperbot growls.] ... and the cute little pom-pom curtain pull cords, cruel though they may be a--
+	Prof. Farnsworth	[on holo-recorder] And now that I've nothing to live for, I've alerted the Sunset Squad robots to take me away.
 	Amy	What?
 	Hermes	Oh, no!
 	Zoidberg	Oh.
-	Professor Farnsworth	[on holo-recorder] I know you're all very upset, especially Bender.
+	Prof. Farnsworth	[on holo-recorder] I know you're all very upset, especially Bender.
 	Bender	Well, life goes on. Except for you!
-	Professor Farnsworth	[on holo-recorder] I'm sure that Bender has just made a cutting remark, but he doesn't know I taped over his soap operas to record this message.
+	Prof. Farnsworth	[on holo-recorder] I'm sure that Bender has just made a cutting remark, but he doesn't know I taped over his soap operas to record this message.
 	Bender	You bastard!
 	Fry	We've gotta get him back.
 	Cubert	Impossible! No one knows where they take those old geezers.
@@ -203,14 +203,14 @@
 	Amy	Yeah!
 	Hermes	Wow!
 	Leela	All right!
-	Professor Farnsworth	I'm as spry as a 140-year-old. [He jumps and something cracks.] See? I only broke one ankle.
+	Prof. Farnsworth	I'm as spry as a 140-year-old. [He jumps and something cracks.] See? I only broke one ankle.
 	Fry	So what were they doing to you in that awful drawer?
-	Professor Farnsworth	Oh, they had me hooked up to a bizarre virtual world that seemed absolutely real.
+	Prof. Farnsworth	Oh, they had me hooked up to a bizarre virtual world that seemed absolutely real.
 	Amy	What was it like?
-	Professor Farnsworth	It was as though I were living in a facility in Florida with hundreds of other old people. All day long we'd play bingo, eat oatmeal and wait for our children to call.
+	Prof. Farnsworth	It was as though I were living in a facility in Florida with hundreds of other old people. All day long we'd play bingo, eat oatmeal and wait for our children to call.
 	Leela	It's a hundred times more horrible than anything I could imagine.
-	Professor Farnsworth	Oh, my, yes. Thank you all for saving me. Especially you, my little clone. No matter what you decide to do with your life, I'm still proud of you.
+	Prof. Farnsworth	Oh, my, yes. Thank you all for saving me. Especially you, my little clone. No matter what you decide to do with your life, I'm still proud of you.
 	Cubert	I've already decided. Dad, when I grow up I wanna be just like you.
-	Professor Farnsworth	Don't worry, son, you will. Incidentally, you might want to read up on a condition known as "wandering bladder".
+	Prof. Farnsworth	Don't worry, son, you will. Incidentally, you might want to read up on a condition known as "wandering bladder".
 	Cubert	Why?
-	Professor Farnsworth	No reason. No reason at all.
+	Prof. Farnsworth	No reason. No reason at all.

@@ -80,10 +80,10 @@
 	Fry	I'm just glad we hit something. I thought we'd never stop.
 	Bending Unit	Ow! I think I got whiplash.
 	Fry	How's that robot I ran over?
-	Professor Farnsworth	We did all we could.
+	Prof. Farnsworth	We did all we could.
 	Fry	You mean he's--
-	Professor Farnsworth	Good as new? Yes!
-	Professor Farnsworth	Leela, Zoidberg, the rest of you, this is Flexo.
+	Prof. Farnsworth	Good as new? Yes!
+	Prof. Farnsworth	Leela, Zoidberg, the rest of you, this is Flexo.
 	Hermes	Sweet llamas of the Bahamas! Except for that stylish beard, he looks just like Bender!
 	Flexo	No duh, dreadlock, we're both bending units.
 	Bender	Hey, brobot, what's you serial number?
@@ -126,27 +126,27 @@
 	Leela	Oh, I get it. This is cute. You're jealous of Bender's new friend!
 	Fry	No, I'm not. Mark my words: Flexo's evil. He's the evil Bender.
 	Hermes	Rage dump!
-	Professor Farnsworth	[on screen] Good news, everyone. Report to my bedroom for a private exhibition.
-	Professor Farnsworth	Everyone get in bed with me. I have something to show you. [Everyone climbs on and Farnsworth presses a button and makes the curtains around the bed close. What goes on inside is hidden from view.] Feast your eyes on this!
+	Prof. Farnsworth	[on screen] Good news, everyone. Report to my bedroom for a private exhibition.
+	Prof. Farnsworth	Everyone get in bed with me. I have something to show you. [Everyone climbs on and Farnsworth presses a button and makes the curtains around the bed close. What goes on inside is hidden from view.] Feast your eyes on this!
 	Leela	It's beautiful.
 	Amy	And huge.
 	Fry	Can I touch it?
 	Zoidberg	So what is it, already?
-	Professor Farnsworth	It's a single atom of jumbonium, an element so rare the nucleus alone is worth more than $50,000.
+	Prof. Farnsworth	It's a single atom of jumbonium, an element so rare the nucleus alone is worth more than $50,000.
 	Bender	How much more?
-	Professor Farnsworth	100,000. That's why I hid it here, under my mattress.
+	Prof. Farnsworth	100,000. That's why I hid it here, under my mattress.
 	Leela	Uh, Professor, can we discuss this somewhere else?
-	Professor Farnsworth	Why certainly.
-	Professor Farnsworth	The atom sits atop this dimestore tiara which will be awarded to the winner of this year's Miss Universe pageant on the planet Tova 9. [He puts the atom on the tiara and it floats.] Your job is to deliver it, safe and sound.
+	Prof. Farnsworth	Why certainly.
+	Prof. Farnsworth	The atom sits atop this dimestore tiara which will be awarded to the winner of this year's Miss Universe pageant on the planet Tova 9. [He puts the atom on the tiara and it floats.] Your job is to deliver it, safe and sound.
 	Amy	Wow! When I was a little girl on Mars I dreamed of being Miss Universe.
 	Leela	That's kinda pathetic.
 	Amy	Aw, come on, Leela. Deep down all girls wanna be Miss Universe.
 	Leela	Not me.
 	Amy	Really? Maybe it's just cute girls.
-	Professor Farnsworth	Due to the atoms tremendous value, Planet Express would go bankrupt if it was stolen. Therefore we'll need to hire on additional security for the mission.
+	Prof. Farnsworth	Due to the atoms tremendous value, Planet Express would go bankrupt if it was stolen. Therefore we'll need to hire on additional security for the mission.
 	Flexo	Oh, oh, oh, oh! Mr. Professor, right here!
 	Fry	Uh, maybe we should stick with people we know and trust. I mean, Flexo's great, but--
-	Professor Farnsworth	"Flexo's great," you say? Well that's good enough for me. [He shakes Flexo's hand.] Welcome aboard, lad.
+	Prof. Farnsworth	"Flexo's great," you say? Well that's good enough for me. [He shakes Flexo's hand.] Welcome aboard, lad.
 	Leela	Space bandidos have been operating in this quadrant so you'll each take 8-hour shifts guarding the safe. First Bender, then Flexo, then Fry.
 	Fry	Wait, hold on. I don't like the sound of that. Let's just go alphabetically.
 	Leela	OK. First Bender, then Flexo, then Fry.

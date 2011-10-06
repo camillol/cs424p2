@@ -31,28 +31,28 @@
 	Fry	Well, my lead pipe hurts a little.
 	Zoidberg	That's normal. Next patient.
 	Bender	He's a witch!
-	Professor Farnsworth	Fry, did you eat anything unusual recently?
+	Prof. Farnsworth	Fry, did you eat anything unusual recently?
 	Fry	No.
 	Leela	What about that bathroom egg salad from the truck stop?
 	Fry	I've had better.
-	Professor Farnsworth	Egg salad? Hmm. Zoidberg will have to examine your gastrointestinal tract. Come, everyone. Give Fry some privacy.
-	Professor Farnsworth	If you can't see well enough through the two-way mirror, there'll be a close-up on this video screen.
+	Prof. Farnsworth	Egg salad? Hmm. Zoidberg will have to examine your gastrointestinal tract. Come, everyone. Give Fry some privacy.
+	Prof. Farnsworth	If you can't see well enough through the two-way mirror, there'll be a close-up on this video screen.
 	Zoidberg	Hmm. We'll need to have a look inside you with this camera. [He holds up an endoscope. Fry opens his mouth.] Guess again.
 	Amy	Gross!
 	Bender	[leaning over her shoulder] Go, man! Go!
-	Professor Farnsworth	Watch for any subtle irregularity in Fry's bowel.
+	Prof. Farnsworth	Watch for any subtle irregularity in Fry's bowel.
 	Amy	It's gorgeous. That place used to be a big dump.
 	Bender	Oh! Ew!
 	Amy	Worms? Ew! Puke-a-tronic!
 	Leela	So the eggs in that egg salad sandwich were--
-	Professor Farnsworth	Correct! Worm eggs! And the mayonnaise was probably none too fresh either.
+	Prof. Farnsworth	Correct! Worm eggs! And the mayonnaise was probably none too fresh either.
 	Hermes	It's nauseating, mon! [He chomps a handful of popcorn.] Is there no way to get rid of the disgusting maggots?
-	Professor Farnsworth	Only one. We'll have to travel deep inside Fry, in this!
+	Prof. Farnsworth	Only one. We'll have to travel deep inside Fry, in this!
 	Bender	Shotgun!
 	Zoidberg	[almost simultaneous] Shotgun!
-	Professor Farnsworth	In each gastro-survival kit, you'll find a rain slicker, a disposable fun camera, and something to protect you against bacteria -- a harpoon!
+	Prof. Farnsworth	In each gastro-survival kit, you'll find a rain slicker, a disposable fun camera, and something to protect you against bacteria -- a harpoon!
 	Bender	Yo, old guy, why do we have to use those tiny micro-droids? Can't you just shrink us?
-	Professor Farnsworth	Oh, my, no. That would require extremely tiny atoms, and have you priced those lately? I'm not made of money! Leave me alone!
+	Prof. Farnsworth	Oh, my, no. That would require extremely tiny atoms, and have you priced those lately? I'm not made of money! Leave me alone!
 	Zoidberg	Me next!
 	Farnsworth-Droid	Anyhoo, your net suits will let you experience Fry's worm-infested bowels as if you were actually wriggling through them.
 	Zoidberg-Droid	There's no part of that sentence I didn't like.
@@ -143,9 +143,9 @@
 	Leela-Droid	Perfect.
 	Zoidberg-Droid	Ouch!
 	Amy	I'm OK.
-	Professor Farnsworth	Leela, you ignorant dope! Now the worms will be in Fry forever.
+	Prof. Farnsworth	Leela, you ignorant dope! Now the worms will be in Fry forever.
 	Leela	So? Did you ever stop to think that Fry is better off with worms?
-	Professor Farnsworth	Oh, that's stupid!
+	Prof. Farnsworth	Oh, that's stupid!
 	Fry	If anyone wants to tell me what's going on here, I'll be in the lounge.
 	Fry	Of all the parasites I've had over the years, these worms are among the-- Hell! They are the best! Leela, how can I ever repay you for saving them?
 	Leela	[sexfully] I'll think of something.

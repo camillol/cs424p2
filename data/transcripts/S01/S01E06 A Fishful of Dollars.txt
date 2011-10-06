@@ -10,7 +10,7 @@
 01:44	Fry	So you're telling me they broadcast commercials into people's dreams?
 01:47	Leela	Of course.
 01:48	Fry	But, how is that possible?
-01:49	Professor Farnsworth	It's very simple. The ad gets into your brain just like this liquid gets into this egg. [He holds up an egg and injects it with liquid. The egg explodes, covering him and Leela in yolk.] Although, in reality, it's not liquid, but gamma radiation.
+01:49	Prof. Farnsworth	It's very simple. The ad gets into your brain just like this liquid gets into this egg. [He holds up an egg and injects it with liquid. The egg explodes, covering him and Leela in yolk.] Although, in reality, it's not liquid, but gamma radiation.
 02:00	Fry	That's awful. It's like brainwashing.
 02:03	Leela	Didn't you have ads in the 20th century?
 02:05	Fry	Well, sure, but not in our dreams. Only on TV and radio. And in magazines and movies and at ball games and on buses and milk cartons and T-shirts and written in the sky. But not in dreams. No, sir-ee!
@@ -68,9 +68,9 @@
 07:30	Robot Chef	[mechanical voice] Invalid selection. (normal voice) Yo, what are you talking about?
 07:33	Fry	Anchovies? You know? Those little headless fish?
 07:35	Robot Chef	[mechanical voice] Does not compute. Does not compute.
-07:40	Professor Farnsworth	I'm sorry, Fry, but the anchovy has been extinct since the 2200's.
+07:40	Prof. Farnsworth	I'm sorry, Fry, but the anchovy has been extinct since the 2200's.
 07:45	Fry	What?
-07:46	Professor Farnsworth	Oh, my, yes. Fished to death. Just about the time your people arrived on Earth wasn't it, Zoidberg?
+07:46	Prof. Farnsworth	Oh, my, yes. Fished to death. Just about the time your people arrived on Earth wasn't it, Zoidberg?
 07:52	Zoidberg	[defensively] I'm not on trial here.
 07:53	Fry	So none of you has ever had anchovies? Oh, man! You don't know what you're missing. They were all salty and oily and they melted in your mouth and--
 08:01	Zoidberg	Stop! Stop! I admit it! My people ate them all! We kept saying "One more can't hurt" and then they were gone. We're sorry!
@@ -216,7 +216,7 @@
 18:40	Repo-bot	Uh, cheque bounced. We're taking it all back.
 18:44	Fry	Oh, no! My ATM card! My secret PIN number -- 1077. I've got nothing left. Except...
 18:55	Leela	You're Fry's relative. Do you have any idea how he got so crazy?
-18:59	Professor Farnsworth	Uh, wha? Oh, yes! They say madness runs in our family. Some even call me mad! And why? Because I dared to dream of my own race of atomic monsters. Atomic supermen with octagonal-shaped bodies that suck blood out of...
+18:59	Prof. Farnsworth	Uh, wha? Oh, yes! They say madness runs in our family. Some even call me mad! And why? Because I dared to dream of my own race of atomic monsters. Atomic supermen with octagonal-shaped bodies that suck blood out of...
 19:15	Fry	Leela! Bender! I missed you so much!
 19:17	Leela	You did? What happened?
 19:19	Fry	I was robbed. They got everything except these.

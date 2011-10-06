@@ -10,26 +10,26 @@
 	Zoidberg	Huh? I thought it was mine!
 	Hermes	Bureaucrat Grade 34, Hermes Conrad
 	Hermes	Is who I am. And now I am proud to present the owner and founder of Planet Express, Professor Hubert J. Farnsworth!
-	Professor Farnsworth	You're all fired.
+	Prof. Farnsworth	You're all fired.
 	Hermes	Sweet bongo of the Congo!
-	Professor Farnsworth	In fact, you were fired two years ago! That's when we were shut down by the delivery network.
-	Professor Farnsworth	Yes, I'm afraid the brainless drones who run the network canceled our license.
+	Prof. Farnsworth	In fact, you were fired two years ago! That's when we were shut down by the delivery network.
+	Prof. Farnsworth	Yes, I'm afraid the brainless drones who run the network canceled our license.
 	Fry	We were canceled?
-	Professor Farnsworth	Oh, it's terrible. Just terrible. Well, clear out your desks and move along. Chop-chop.
-	Professor Farnsworth	Yes? I see.
-	Professor Farnsworth	Good news, everyone! Those asinine morons who cancelled us were themselves fired for incompetence.
+	Prof. Farnsworth	Oh, it's terrible. Just terrible. Well, clear out your desks and move along. Chop-chop.
+	Prof. Farnsworth	Yes? I see.
+	Prof. Farnsworth	Good news, everyone! Those asinine morons who cancelled us were themselves fired for incompetence.
 	Staff	Woohoo!
-	Professor Farnsworth	And not just fired, but beaten up, too. And pretty badly.
+	Prof. Farnsworth	And not just fired, but beaten up, too. And pretty badly.
 	Staff	Woo!
-	Professor Farnsworth	In fact, most of them died from their injuries.
+	Prof. Farnsworth	In fact, most of them died from their injuries.
 	Staff	Woo? [Bender laughs]
-	Professor Farnsworth	And then they were ground up into a fine pink powder.
+	Prof. Farnsworth	And then they were ground up into a fine pink powder.
 	Fry	Why?
-	Professor Farnsworth	Oh, it's got a million and one uses.
-	Professor Farnsworth	Ahhh, that soothes the fire.
+	Prof. Farnsworth	Oh, it's got a million and one uses.
+	Prof. Farnsworth	Ahhh, that soothes the fire.
 	Leela	So what does this mean for us and our many fans?
-	Professor Farnsworth	It means we're back on the air!
-	Professor Farnsworth	Yes, flying on the air in our mighty spaceship!
+	Prof. Farnsworth	It means we're back on the air!
+	Prof. Farnsworth	Yes, flying on the air in our mighty spaceship!
 	Staff	Woooohoooo!
 	Bender	We're back, baby!
 	All	Party! Go, go, go!
@@ -83,7 +83,7 @@
 	LaBarbara	No, not soon enough. Come, Dwight, let's find you a handsome new father.
 	Hermes	LaBarbara, no!
 	Bender	It's okay, Hermes. We're all here for you.
-	Professor Farnsworth	Good news, everyone! We've got a delivery to the nude beach planet.
+	Prof. Farnsworth	Good news, everyone! We've got a delivery to the nude beach planet.
 	Staff	Woohoo!
 	Bender	So long, jerk.
 	Leela	It feels great to be back at the wheel after two long years.
@@ -94,7 +94,7 @@
 	Bender	You know, it's funny.
 	Fry	What?
 	Bender	Your weiner!
-	Professor Farnsworth	Well, I'm going in the water to prune up a bit before I strut. Who's with me?
+	Prof. Farnsworth	Well, I'm going in the water to prune up a bit before I strut. Who's with me?
 	Amy	I'm in!
 	Leela	I'm in.
 	Bender	Yeah, I'll go.
@@ -109,7 +109,7 @@
 	Leela	Hey, Fry, I didn't know you had a tattoo of Bender on your ass.
 	Fry	Me neither.
 	Bender	You got a tattoo of me? Neat. It's like looking in a smelly mirror.
-	Professor Farnsworth	So he's got a little ink. Big whoop.
+	Prof. Farnsworth	So he's got a little ink. Big whoop.
 	Bender	Sweet photons. I don't know if you're waves or particles, but you go down smooth.
 	Nudar	Sir, would you care to sign our petition?
 	Bender	I support and oppose many things, but not strongly enough to pick up a pen.
@@ -139,21 +139,21 @@
 	Zoidberg	Wait, there's more. Once I wire some good-faith money to an overseas bank account, I'll inherit his kingdom, his canoe, and his plump young wife.
 	Hermes	You dumb stumps. Don't you realize you're being scammed?
 	Zoidberg	That is low, Hermes. Just because you don't have a body, you don't want anyone else to be prince of Nigeria. Well, try and stop me from wiring that money.
-	Professor Farnsworth	What's going on here? According to my illegal key logging software, you've all been giving out personal information over the Internet. If Hermes were here, he'd fire you all.
+	Prof. Farnsworth	What's going on here? According to my illegal key logging software, you've all been giving out personal information over the Internet. If Hermes were here, he'd fire you all.
 	Hermes	I am here!
-	Professor Farnsworth	Quiet, you. In his absence, I'm calling a mandatory company security seminar. To the mandatorium!
-	Professor Farnsworth	Now, it's not hard to spot a phoney Internet come-on. "Get rich quick x7 q"? Phoney. "Lose weight with space parasites"? Phoney. What's this? I've won the Spanish National Lottery?
+	Prof. Farnsworth	Quiet, you. In his absence, I'm calling a mandatory company security seminar. To the mandatorium!
+	Prof. Farnsworth	Now, it's not hard to spot a phoney Internet come-on. "Get rich quick x7 q"? Phoney. "Lose weight with space parasites"? Phoney. What's this? I've won the Spanish National Lottery?
 	Leela	No, it's a scam!
-	Professor Farnsworth	My goodness, I'm rich! And to think I didn't even know I had a ticket. I just need to wire some collateral to collect the winnings.
+	Prof. Farnsworth	My goodness, I'm rich! And to think I didn't even know I had a ticket. I just need to wire some collateral to collect the winnings.
 	Hermes	Professor, stop! You're giving away personal information!
-	Professor Farnsworth	I can afford to give away anything I want. I've won the Spanish National Lottery.
+	Prof. Farnsworth	I can afford to give away anything I want. I've won the Spanish National Lottery.
 	Amy	No, don't!
 	Leela	It's a scam!
 	Hermes	Why won't anybody listen to me?!?
-	Professor Farnsworth	And my mother's maiden name and her bank account numbers and ... There! I'm rich. Rich. Rich!
-	Professor Farnsworth	That must be my $400 now. Hello. Or should I say, '"Buenos dias"?
+	Prof. Farnsworth	And my mother's maiden name and her bank account numbers and ... There! I'm rich. Rich. Rich!
+	Prof. Farnsworth	That must be my $400 now. Hello. Or should I say, '"Buenos dias"?
 	Nudar	Hi. We own your company now.
-	Professor Farnsworth	Hwhaa?
+	Prof. Farnsworth	Hwhaa?
 	Bender	Welcome, boss.
 	Nudar	Guess I was wrong. There was a robot stupid enough to download the obedience virus.
 	Bender	I sure was. Make a hole, chumps. [Bender gets a red carpet out of his cavity and imitates a trumpet fanfare] Presenting our new masters!
@@ -206,7 +206,7 @@
 	Nudar	It's a special sense organ our species possesses. It engorges in the presence of... [moans] Information.
 	Zoidberg	Lucky you. All I have is a gland that gives off foul odors when I'm bored.
 	Bender	Hey, look, a safe!
-	Professor Farnsworth	That's my safe. I call keep-offsies.
+	Prof. Farnsworth	That's my safe. I call keep-offsies.
 	Nudar	No callsies! Open it!
 	Fleb	It's a gold mine. Tax forms, Social Security cards. Combination hair, blood and stool samples!
 	Fry	I don't get it. How can you say Lars is more mature than me?
@@ -220,7 +220,7 @@
 	Nudar	It's in his pants!
 	Fry	What the hell are you talking about?
 	Nudar	Faster, faster!
-	Professor Farnsworth	I'm sciencing as fast as I can.
+	Prof. Farnsworth	I'm sciencing as fast as I can.
 	Bender	What do you say, folks? Hot or not?
 	Nudar	You, boogerbot, read the code or I'll shoot this guy.
 	Bender	Who the hell is he?
@@ -234,7 +234,7 @@
 	Nudar	And we can steal them! We just go to the past and take stuff with our superior weapons!
 	Nibbler	Stop, you fools!
 	Amy	What's going on?
-	Professor Farnsworth	What is happening?
+	Prof. Farnsworth	What is happening?
 	Leela	Nibbler, you... You can talk?
 	Nibbler	I can do more than talk. I can pontificate. You must not use the code of codes. With each and every use, you risk tearing the universe asunder.
 	Schlump	The poodle-monkey may be right. The legend warns that the code is powerful and dangerous.

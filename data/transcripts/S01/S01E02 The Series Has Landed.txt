@@ -1,6 +1,6 @@
-00:04	Professor Farnsworth	As new employees, I'd like your opinion on our commercial. I paid to have it air during the Super Bowl.
+00:04	Prof. Farnsworth	As new employees, I'd like your opinion on our commercial. I paid to have it air during the Super Bowl.
 00:10	Fry	Wow!
-00:11	Professor Farnsworth	Not on the same channel, of course.
+00:11	Prof. Farnsworth	Not on the same channel, of course.
 00:15	Announcer	[voice-over; on screen] Interplanetary deliveries - what a headache!
 00:18	Horrible Gelatinous Blob	[on screen] Evans! Where's that package from Earth?
 00:20	Man	[on screen] Uh... [Horrible Gelatinous Blob eats him. The man is suspended in the creature's translucent body.] [shouting] I'm not Evans!
@@ -11,14 +11,14 @@
 00:48	Evans	[on screen] Thank you, sir!
 00:50	Announcer	[voice-over; on screen] Planet Express: Our crew is replaceable. Your package isn't.
 00:56	Fry	Are there really giant birds like that?
-00:58	Professor Farnsworth	No, no! That was all just special effects! Now let's have breakfast. I hope everyone likes eggs.
+00:58	Prof. Farnsworth	No, no! That was all just special effects! Now let's have breakfast. I hope everyone likes eggs.
 01:47	Fry	I'm never going to get used to the 31st century. [He points to his breakfast.] Caffinated bacon? Baconated grapefruit? Admiral Crunch?
 01:54	Leela	Well, if you don't like that, try some Archduke Chocula.
-01:58	Professor Farnsworth	Ah, Hermes! Crew, meet Hermes Conrad. He manages my delivery business, pays the bills, notifies next of kin, what have you.
+01:58	Prof. Farnsworth	Ah, Hermes! Crew, meet Hermes Conrad. He manages my delivery business, pays the bills, notifies next of kin, what have you.
 02:07	Hermes	Someone come and dropped this package through the slot last night. Now which one of you is the captain?
-02:12	Professor Farnsworth	Oh, my! I haven't picked a new captain yet. It's always so hard to choose.
+02:12	Prof. Farnsworth	Oh, my! I haven't picked a new captain yet. It's always so hard to choose.
 02:17	Fry	Ooh! Ooh, ooh, ooh!
-02:22	Professor Farnsworth	Hmm, you!
+02:22	Prof. Farnsworth	Hmm, you!
 02:26	Hermes	OK, Captain, this is just a standard legal release protecting Planet Express from lawsuits in the event of the unforeseen.
 02:33	Leela	[reading] Death by airlock failure.
 02:34	Hermes	Mm.
@@ -28,24 +28,24 @@
 02:38	Hermes	[chuckling] Oh, you don't want that!
 02:40	Leela	Look, I don't know about any of your previous captains but I intend to do as little dying as possible.
 02:46	Hermes	Sign the paper!
-02:48	Professor Farnsworth	Now, Fry, before you go into space you'll need to see our staff doctor. I should warn you though, he's a little ... unusual. [whispering] He wears sandals!
+02:48	Prof. Farnsworth	Now, Fry, before you go into space you'll need to see our staff doctor. I should warn you though, he's a little ... unusual. [whispering] He wears sandals!
 03:01	Fry	Hi--
-03:02	Professor Farnsworth	Dr. Zoidberg, this is Fry, the new delivery boy. He needs a physical.
+03:02	Prof. Farnsworth	Dr. Zoidberg, this is Fry, the new delivery boy. He needs a physical.
 03:06	Zoidberg	Excellent, excellent!
-03:11	Professor Farnsworth	You'll be fine.
+03:11	Prof. Farnsworth	You'll be fine.
 03:15	Zoidberg	Now open your mouth and let's have a look at that brain. [Fry opens his mouth.] No, no, no, no, no, not that mouth!
 03:20	Fry	I only have one.
 03:22	Zoidberg	Really?
 03:24	Fry	Uh, is there a human doctor around?
 03:26	Zoidberg	Young lady, I'm an expert on humans. Now pick a mouth, open it and say... [He makes a weird noise. Fry clears his throat and tries to imitate him but fails.] What? My mother was a saint! Get out!
-03:45	Professor Farnsworth	Dear Lord, Bender, you're filthy.
+03:45	Prof. Farnsworth	Dear Lord, Bender, you're filthy.
 03:47	Bender	Yeah, like you don't have crap in your neck!
-03:50	Professor Farnsworth	Amy, why don't you give his body a going over with the cleaning pick?
+03:50	Prof. Farnsworth	Amy, why don't you give his body a going over with the cleaning pick?
 03:54	Amy	OK. Does it hurt when I go like this?
 03:57	Leela	Ow!
 03:58	Bender	A little.
 03:59	Fry	Well, the doctor says I'm as healthy as a crab. Can I go into space now?
-04:03	Professor Farnsworth	As soon as we finish cleaning Bender. Oh, and Fry, this is our intern, Amy Wong. She's an engineering student of mine. [whispering] I like having her around because she's the same blood type as me.
+04:03	Prof. Farnsworth	As soon as we finish cleaning Bender. Oh, and Fry, this is our intern, Amy Wong. She's an engineering student of mine. [whispering] I like having her around because she's the same blood type as me.
 04:14	Amy	Hey! You're the unfrozen guy! From the 20th century, right?
 04:19	Fry	[chuffed] Last time I checked.
 04:20	Leela	Hang on. Amy Wong? Of the Mars Wongs?
@@ -53,7 +53,7 @@
 04:26	Leela	Uh-huh! What sorority do you belong to?
 04:28	Amy	[ashamed] Kappa Kappa Wong.
 04:30	Bender	Hey, rich girl. Look over here! It's me, Bender. I'm being entertaining. [His body reaches into Amy's back pocket, takes out her wallet and empties the money into his neck.] [singing] Look at my head. It's all painted! Look at my head! I got a big, old head, hey! Ho! [His body replaces the wallet and signals an all clear] [talking] Alright, show's over, I'm tired.
-04:44	Professor Farnsworth	Ah, to be young again. And also a robot. Now, as I recall, you youngsters have a package to deliver.
+04:44	Prof. Farnsworth	Ah, to be young again. And also a robot. Now, as I recall, you youngsters have a package to deliver.
 04:51	Fry	Finally! Come on, Bender. Let's mosey!
 04:57	Bender	Nice catch, idiot!
 05:04	Fry	So where are we going anyway?
@@ -61,7 +61,7 @@
 05:07	Fry	The moon? The moon moon? Wow! I'm gonna be a famous hero just like Neil Armstrong and those other brave guys no one ever heard of!
 05:15	Amy	Oh, I love stuff like the moon! Can I come, Leela?
 05:18	Leela	Well ... I guess so. Just be careful. I'd like to hold off any major screw-ups until at least my second day as captain.
-05:25	Professor Farnsworth	Nothing will go wrong. [He leans over to Leela.] [whispering] If something goes wrong, bring back the blood.
+05:25	Prof. Farnsworth	Nothing will go wrong. [He leans over to Leela.] [whispering] If something goes wrong, bring back the blood.
 05:37	Fry	Can I do the countdown?
 05:39	Leela	Huh? Oh, sure. Knock yourself out.
 05:41	Fry	Ten ... [The ship takes off, clears the atmosphere and approaches the moon.] ... nine--
@@ -198,7 +198,7 @@
 17:07	Fry	Hey, cool! Dark side of the moon!
 17:10	Leela	Nightfall's coming. [The shadow falls over Fry and he starts to shiver.] Hurry, before we freeze.
 17:15	Bender	What do you mean "we", mammal?
-17:24	Professor Farnsworth	Oh, dear! I really ought to do something. But I am already in my pyjamas.
+17:24	Prof. Farnsworth	Oh, dear! I really ought to do something. But I am already in my pyjamas.
 17:35	Leela	We can't outrun it forever.
 17:38	Fry	Over there! Look! It's the moon landing site! We found it!
 17:48	Leela	Quick, get in.

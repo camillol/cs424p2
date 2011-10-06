@@ -1,21 +1,21 @@
-	Professor Farnsworth	[shouting; from inside] Oh, Lordy Lou! Help!
+	Prof. Farnsworth	[shouting; from inside] Oh, Lordy Lou! Help!
 	Fry	[shouting] I know you've rejected me a lot before but, frankly, I wasn't sure we were right for each other either. But now I am. So how 'bout a date tonight?
 	Leela	[shouting] Sorry. I think I, um, I think I left my toaster on.
-	Professor Farnsworth	[shouting; from attic] Buddha! Zeus! God! One of you guys do something!
+	Prof. Farnsworth	[shouting; from attic] Buddha! Zeus! God! One of you guys do something!
 	Fry	[shouting] Come on, Leela, what's the real reason you won't go out with me?
-	Professor Farnsworth	[shouting; from attic] Help! Satan! You owe me!
+	Prof. Farnsworth	[shouting; from attic] Help! Satan! You owe me!
 	Leela	[shouting] Look, um, I'm embarrassed to admit this but you forced me to: I can't go out tonight because... [The shaking stops but Leela still shouts.] I have sweaty boot rash.
 	Amy	No spluh! Why do you think I'm sitting over here in the stink-free zone?
 	Fry	So, will you go out with me?
-	Professor Farnsworth	Good news, everyone. I'm still technically alive. Yes! [He lifts something up off the floor.] But I need to you to dispose of this crazy-ass experiment that almost killed me. [He puts a box on the table.] You'll have to throw it into the sun itself. For only the thermo-nuclear inferno of the sun has enough energy to ensure its total destruction.
+	Prof. Farnsworth	Good news, everyone. I'm still technically alive. Yes! [He lifts something up off the floor.] But I need to you to dispose of this crazy-ass experiment that almost killed me. [He puts a box on the table.] You'll have to throw it into the sun itself. For only the thermo-nuclear inferno of the sun has enough energy to ensure its total destruction.
 	Bender	I can hit it with a shovel.
-	Professor Farnsworth	That's not good enough.
+	Prof. Farnsworth	That's not good enough.
 	Bender	This one time I pounded a guy into the ground like a stake with a shovel.
-	Professor Farnsworth	Yes, yes.
+	Prof. Farnsworth	Yes, yes.
 	Zoidberg	So what's in the box, already?
-	Professor Farnsworth	No peeking! [He hits Zoidberg with a hammer. Zoidberg cries out in pain.] I don't know what's in there but I'm sure our minds would be unable to comprehend it.
+	Prof. Farnsworth	No peeking! [He hits Zoidberg with a hammer. Zoidberg cries out in pain.] I don't know what's in there but I'm sure our minds would be unable to comprehend it.
 	Hermes	Ow! You hurt my collator!
-	Professor Farnsworth	I don't care. [He stands up.] Listen well: No matter what happens, no matter how great your curiosity, you are forbidden to look in this box. Forbidden! [He shakes his fist in the air then rubs the lid.] Pretty tantalising though!
+	Prof. Farnsworth	I don't care. [He stands up.] Listen well: No matter what happens, no matter how great your curiosity, you are forbidden to look in this box. Forbidden! [He shakes his fist in the air then rubs the lid.] Pretty tantalising though!
 	Fry	Whatever's in there, it's the only thing I've ever wanted.
 	Zoidberg	In my experience, boxes are usually empty. Or maybe with a little cheese stuck to the top. And one time pepperoni! [He clasps his claws together.] What a day that was! [He screams and pushes Fry and Bender out of the way.] [shouting] Give me the box!
 	Hermes	Scram, you lousy green snakes! [Fry, Bender and Zoidberg run out.] Here, Leela. Take this and use it to shoot those guys.
@@ -200,12 +200,12 @@
 	Leela	Well, I guess you deserve one more flip.
 	Fry	So, heads or tails?
 	Leela	Y'know, let's just say it's heads.
-	Professor Farnsworth	Ready?
-	Professor Farnsworth	and One, two, three, pull!
-	Professor Farnsworth	There. That space-time eversion has given us their box and vice versa.
+	Prof. Farnsworth	Ready?
+	Prof. Farnsworth	and One, two, three, pull!
+	Prof. Farnsworth	There. That space-time eversion has given us their box and vice versa.
 	Leela	So, what you think you just explained to us is that--
-	Professor Farnsworth	Correct! This box contains our own universe.
+	Prof. Farnsworth	Correct! This box contains our own universe.
 	Hermes	Sweet honey bee of infinity!
 	Leela	Bender! Quit destroying the universe!
 	Bender	But--
-	Professor Farnsworth	Yes, all that is and ever shall be is in that box. And the box itself is probably worth something too. We must cherish it, as we cherish every moment of our lives.
+	Prof. Farnsworth	Yes, all that is and ever shall be is in that box. And the box itself is probably worth something too. We must cherish it, as we cherish every moment of our lives.

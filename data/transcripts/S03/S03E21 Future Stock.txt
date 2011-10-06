@@ -1,11 +1,11 @@
 	Man	Yes! Good thing I noticed the similar shapes.
 	Hermes	[from behind curtain] Planet Express stockholders, I present our chief executive officer, Professor Hubert Farnsworth.
-	Professor Farnsworth	Oh!
+	Prof. Farnsworth	Oh!
 	Amy	There he is!
 	Hattie	[shouting] Take it off!
-	Professor Farnsworth	Where am I?
+	Prof. Farnsworth	Where am I?
 	Hermes	Move forward. Walk into the light.
-	Professor Farnsworth	Oh, God, I'm dead! Well, no matter. [He takes some cards out of his coat and walks under the spotlight to the lectern.] [reading] Thank you all for coming. I don't recognise any of you, nor can I recall why I am here. Now, without further ado, a film highlighting Planet Express Inc.'s latest fiscal year.
+	Prof. Farnsworth	Oh, God, I'm dead! Well, no matter. [He takes some cards out of his coat and walks under the spotlight to the lectern.] [reading] Thank you all for coming. I don't recognise any of you, nor can I recall why I am here. Now, without further ado, a film highlighting Planet Express Inc.'s latest fiscal year.
 	Narrator	[voice-over; in movie] Planet Express is on the move. For this hip, young delivery company, tomorrow is today and today is yesterday. You heard me. [The ship zooms off and the scene cuts to Fry handing a package to Kug.] It was a year of soaring profits and significant one-time losses.
 	Fry	[whispering] Psst! Watching myself work is making me hungry. Help me find some food somewhere.
 	Zoidberg	I'll not only help you find it, I'll help you do more to it!
@@ -23,7 +23,7 @@
 	Hermes	Worthless.
 	Bender	[shouting] I'll kill you!
 	Hattie	I own one share of Planet kajiggers so I'm entitled to some answers. Question 1: Why does no one visit me in my home?
-	Professor Farnsworth	'Cause your apartment smells like Polygrip and cat pee.
+	Prof. Farnsworth	'Cause your apartment smells like Polygrip and cat pee.
 	Fry	This is perfect for me.
 	Zoidberg	Question: Do you have to have been cryogenically frozen to get the free-- [The man slams the door in his face.] You didn't let me finish. I was going to say "to get the free food".
 	Joe	My name's Joe and I'm a defrostee.
@@ -45,7 +45,7 @@
 	Bender	Aw, come on! I've got a lot of ransom notes to send!
 	Hattie	Enough talk. It's time for action. I move that everyone come to my apartment to snuggle my cat.
 	Scruffy	Second.
-	Professor Farnsworth	I move that your cat stinks and is ugly.
+	Prof. Farnsworth	I move that your cat stinks and is ugly.
 	Scruffy	Second.
 	Hattie	I move that we vote on a new chief executive officer and oust this old creep. And also that make cat smells good and is pretty.
 	Scruffy	Second.
@@ -53,10 +53,10 @@
 	Amy	Second.
 	Leela	Second.
 	Bender	Second.
-	Professor Farnsworth	I'm your man.
+	Prof. Farnsworth	I'm your man.
 	Leela	I vote my 10,000 shares for the Professor.
 	Hermes	Yeah, the Professor!
-	Professor Farnsworth	Me!
+	Prof. Farnsworth	Me!
 	Fry	I nominate That Guy. Not just because he has a suit but because he knows about business and stuff and he has a tie. [Everyone mutters. Fry pulls out a crumpled piece of paper from his jacket.] My shares still count if they went through the washing machine, right?
 	Hermes	Well, if I know anything about which number is bigger than the other number, I'd say that--
 	Scruffy	Now hold on there. Scruffy votes his 40,000 shares for the mysterious stranger.
@@ -71,11 +71,11 @@
 	Steve Castle	Gutsy question. You're a shark. Sharks are winners and they don't look back 'cause they don't have necks. Necks are for sheep. [Everyone sinks down and covers their necks.] I am proud to be the shepherd of this herd of sharks and I am gonna lead you to the top in this industry of ... of--
 	Fry	[whispering] Package delivery.
 	Steve Castle	Package delivery? Oh, God! [He covers his face.] Fantastic! Now, the first order of business is to blame everything on the guy before me. Professor?
-	Professor Farnsworth	I'll ruin you like I ruined this company.
+	Prof. Farnsworth	I'll ruin you like I ruined this company.
 	Steve Castle	Terrific. Question number one: What was your overall business plan?
-	Professor Farnsworth	Um, business plan, uh, yes. I keep it here, right next to my heart.
+	Prof. Farnsworth	Um, business plan, uh, yes. I keep it here, right next to my heart.
 	Steve Castle	This isn't a business plan, it's an escape plan.
-	Professor Farnsworth	So long, suckers!
+	Prof. Farnsworth	So long, suckers!
 	Steve Castle	Fry, as a fellow 80's dollar-jockey, I'm making you my new vice chairman.
 	Fry	I'm rollin' up the corporate ramp.
 	Zoidberg	It's the end of the line!
@@ -142,7 +142,7 @@
 	Suz	[on intercom] No, sir, Mr. Fry.
 	Fry	Thanks, doll.
 	Leela	I don't care what Ms. Johnson says. That Guy's turning this place into some kind of business.
-	Professor Farnsworth	This isn't a business. I've always thought of it more of a source of cheap labour, like a family.
+	Prof. Farnsworth	This isn't a business. I've always thought of it more of a source of cheap labour, like a family.
 	Fry	You're right, Professor. We might not be a traditional family like the Murphy's next door or the lesbian coven across the street. But we are a family and That Guy understands that.
 	Steve Castle	[on screen] Everyone's fired and we're out of business.
 	Amy	Oh, no!
@@ -207,7 +207,7 @@
 	Fry	I don't think so. 'Cause, as vice chairman of the company, I gain voting control of his shares.
 	Mom	Don't be a fool, you idiot!
 	Fry	I'll be whatever I wanna do! That Guy was the greatest businessman that ever lived. And before his mysterious death, he taught me everything he knew. [The stock price changes to 114.] But some things I had to learn myself. [It changes to 99.] I learned that money is fine but in the end what counts is people ... [57.] ... people you love. [46.] You can't put a price on that. [28.] So I'm giving up control of the company ... [107.] ... to a man of enormous experience ... [115.] ... Professor ... [150.] ... Hubert Farnsworth.
-	Professor Farnsworth	Oh, uh, what? I'm awake, I'm awake!
+	Prof. Farnsworth	Oh, uh, what? I'm awake, I'm awake!
 	Bender	Fry! Stop doing the right thing, you jerk!
 	Leela	Let Mom buy the company! We all wanna be filthy, stinking rich!
 	Zoidberg	Trust me, two out of three doesn't cut it!

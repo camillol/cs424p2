@@ -77,9 +77,9 @@
 	Bender	Oh, so it's just coincidence that Zoidberg here is desperately poor and miserably lonely? Puh-lease!
 	Leela	For your information, it's because he's hideous.
 	Hermes	Well I think Amy and Fry go together like a lime and coconut.
-	Professor Farnsworth	Do I hear wedding bells?
+	Prof. Farnsworth	Do I hear wedding bells?
 	Fry	What? No!
-	Professor Farnsworth	Really? Oh, dear.
+	Prof. Farnsworth	Really? Oh, dear.
 	Zoidberg	You're both very lucky. I'd pay anything to end my miserable loneliness. If only I weren't so desperately poor.
 	Bender	Wait. You mean people will pay good money for romance? Hmm. I think I have a scheme so deviously clever that I--
 	Judge	$500 and time served.
@@ -249,7 +249,7 @@
 	Zoidberg	There you are, good as new. Except for your dorsal fin. I'm afraid I couldn't find it after the crash.
 	Fry	Can I live without it?
 	Zoidberg	If you call that living.
-	Professor Farnsworth	I still don't understand why you wouldn't let me graft a laser cannon onto your chest. To crush those who disobey you. [He sighs.] But I guess we're just two different people.
+	Prof. Farnsworth	I still don't understand why you wouldn't let me graft a laser cannon onto your chest. To crush those who disobey you. [He sighs.] But I guess we're just two different people.
 	Fry	So, uh, thanks for the ride, Amy. And I hope there are no hard feelings about your date, or stuff.
 	Amy	It's OK, I had fun. And if I ever feel lonely I can just look over at this disfiguring scar and think of you.
 	Fry	Well, anyway, it's nice to have my own body back.

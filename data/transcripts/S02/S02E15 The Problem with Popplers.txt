@@ -31,7 +31,7 @@
 	Leela	We haven't thought of a name yet.
 	Bender	They're tasty, right? Let's call 'em "Tasty-cles".
 	Amy	Ew!
-	Professor Farnsworth	No!
+	Prof. Farnsworth	No!
 	Leela	We can't call them that.
 	Bender	Why not?
 	Leela	It sounds too much like those frozen rocky mountain oysters on a stick. You know, Test-cicles?
@@ -70,9 +70,9 @@
 	Leela	Sorry. I was distracted by those protesters outside our building.
 	Hippie #1	[shouting] Disgusting!
 	Hippie #2	[shouting] You should be ashamed!
-	Professor Farnsworth	[shouting] Hey! Unless this is a nude love-in, get the hell off my property!
+	Prof. Farnsworth	[shouting] Hey! Unless this is a nude love-in, get the hell off my property!
 	Waterfall Jr.	You can't own property, man!
-	Professor Farnsworth	I can, but that's because I'm not a penniless hippie.
+	Prof. Farnsworth	I can, but that's because I'm not a penniless hippie.
 	Leela	[shouting] What do you people want?
 	Waterfall Jr.	[shouting] We're with Mankind for Ethical Animal Treatment. [He holds up a M.E.A.T. pamphlet with a picture of a man pushing a pig on a swing on the cover.] Popplers are living creatures. You gotta stop harvesting them for food!
 	Bender	[shouting] Or what?
@@ -100,9 +100,9 @@
 	Fry	Look, Leela, even if you heard one talk, that doesn't mean it's intelligent. I mean, parrots talk and we eat them, right?
 	Bender	Yeah. Maybe it just learned to talk as a parlour trick, like Fry.
 	Fry	[nodding] Like Fry! Like Fry!
-	Professor Farnsworth	There's one way, and only one way, to determine if an animal is intelligent. [He stands up and rubs his hands together.] Dissect its brain!
+	Prof. Farnsworth	There's one way, and only one way, to determine if an animal is intelligent. [He stands up and rubs his hands together.] Dissect its brain!
 	Poppler	No, mama. Stop grandpa!
-	Professor Farnsworth	Enough chit-chat. Restrain the specimen!
+	Prof. Farnsworth	Enough chit-chat. Restrain the specimen!
 	Man #3	Mmm, good.
 	Woman #3	Give me some of that special sauce.
 	Leela	[shouting] Stop eating Popplers! They can talk!
@@ -153,7 +153,7 @@
 	Fishy Joe	[on TV] Look, I'm willing to grant that it's murder. The real issue is: Who's gonna stop me?
 	Linda	[on TV] We seem to be experiencing technical difficulties. [A girder falls down behind her.] And, crap like I've never seen!
 	Lrrr	[on TV] People of Earth, I am Lrrr of the planet Omicron Persei 8. [He hears feedback behind him.] Turn down that TV, Nd-Nd.
-	Professor Farnsworth	Dear Lord, they're back!
+	Prof. Farnsworth	Dear Lord, they're back!
 	Amy	We're doomed!
 	Hermes	Doooomed!
 	Bender	Doooo...
@@ -253,7 +253,7 @@
 	Nd-Nd	Let's go.
 	Lrrr	[high] Whoa!
 	Lrrr	[high; from ship] Whoa, I feel like I'm flying!
-	Professor Farnsworth	A toast to Leela. She showed us it's wrong to eat certain things.
+	Prof. Farnsworth	A toast to Leela. She showed us it's wrong to eat certain things.
 	Fry	Hear, hear!
 	Bender	Let's get drunk!
 	Leela	Aww, thanks, guys. Pass the veal, please.
@@ -265,8 +265,8 @@
 	Fry	OK.
 	Leela	Oh, OK.
 	Amy	That's different.
-	Professor Farnsworth	Good, good.
+	Prof. Farnsworth	Good, good.
 	Leela	Pass the blowhole.
 	Amy	Can I have a fluke?
 	Hermes	Hey, quit hogging the bottle-nose.
-	Professor Farnsworth	Toss me the speech centre of the brain!
+	Prof. Farnsworth	Toss me the speech centre of the brain!

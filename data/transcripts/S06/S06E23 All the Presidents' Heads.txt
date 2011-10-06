@@ -1,10 +1,10 @@
-	Professor Farnsworth	Good news, everyone! Remember when you asked to see my family tree?
+	Prof. Farnsworth	Good news, everyone! Remember when you asked to see my family tree?
 	Leela;Bender;Zoidberg;Hermes;Amy;Fry	No.
-	Professor Farnsworth	Ta-da! [Professor Farnsworth activates the holographic projector. The holographic projector shows a tree filled with spheres. Professor Farnsworth touches one of the spheres.] This is my ancestor Philo Farnsworth, inventor of television and, as a bonus, childhood obesity. [The sphere enlarges and shows a television screen depicting a man who resembles Professor Farnsworth. Professor Farnsworth touches another sphere.] And here's Dean Farnsworth, developer of the Farnsworth test for colour blindness. [The sphere enlarges and shows a set of coloured balls depicting another man who resembles Professor Farnsworth. Professor Farnsworth adjusts his glasses.] Where is he, blast it?! [Professor Farnsworth touches a third sphere.] And, just recently, I learned of a modern-day Farnsworth, who invented the anti-senility truss.
+	Prof. Farnsworth	Ta-da! [Professor Farnsworth activates the holographic projector. The holographic projector shows a tree filled with spheres. Professor Farnsworth touches one of the spheres.] This is my ancestor Philo Farnsworth, inventor of television and, as a bonus, childhood obesity. [The sphere enlarges and shows a television screen depicting a man who resembles Professor Farnsworth. Professor Farnsworth touches another sphere.] And here's Dean Farnsworth, developer of the Farnsworth test for colour blindness. [The sphere enlarges and shows a set of coloured balls depicting another man who resembles Professor Farnsworth. Professor Farnsworth adjusts his glasses.] Where is he, blast it?! [Professor Farnsworth touches a third sphere.] And, just recently, I learned of a modern-day Farnsworth, who invented the anti-senility truss.
 	Leela	That's you, Professor.
-	Professor Farnsworth	Wha?! [Professor Farnsworth's belly enlarges until his sweater and his pants are separated. Professor Farnsworth is wearing a metallic truss. The metallic truss unleashes several sparks. Professor Farnsworth adjusts his clothes.] Ah, yes. The Farnsworths boast a proud and distinguished lineage. No wormy fruit on this tree.
+	Prof. Farnsworth	Wha?! [Professor Farnsworth's belly enlarges until his sweater and his pants are separated. Professor Farnsworth is wearing a metallic truss. The metallic truss unleashes several sparks. Professor Farnsworth adjusts his clothes.] Ah, yes. The Farnsworths boast a proud and distinguished lineage. No wormy fruit on this tree.
 	Amy	What about Fry? [Fry is snoring.] Isn't he your distant uncle?
-	Professor Farnsworth	Very distant. Not a true Farnsworth, mind you. [A fourth sphere shows Fry. The sphere's branch is filled with fungus and dung beetles.] He's way over here on this filthy branch riddled with fungus and dung beetles.
+	Prof. Farnsworth	Very distant. Not a true Farnsworth, mind you. [A fourth sphere shows Fry. The sphere's branch is filled with fungus and dung beetles.] He's way over here on this filthy branch riddled with fungus and dung beetles.
 	Fry	What's with the seventeen dung beetles?
 	Hermes	Well, it's six o'clock. [Hermes removes the hat from the hangar and puts it on.] I guess we'll have to deliver that Human heart tomorrow. Good work, people!
 	Bender	Woohoo! Time to go clubbin'. [With his right hand, Bender opens his chest cabinet and grabs a baseball bat. Bender's chest cabinet closes itself.] Baby seals, here I come.
@@ -43,14 +43,14 @@
 	Hermes	Oh. Well, nice talking to you.
 	Thomas Jefferson	Why, I used to smoke about four feet of rope a day.
 	Hermes	Let me give you my pager number.
-	Professor Farnsworth	Hey, Reagan. Remember when you asked to see my family tree?
+	Prof. Farnsworth	Hey, Reagan. Remember when you asked to see my family tree?
 	Ronald Reagan	I asked you to leave me alone.
-	Professor Farnsworth	The Farnsworths are a remarkable—
+	Prof. Farnsworth	The Farnsworths are a remarkable—
 	George Washington	[off camera] Farnsworth?! [The camera pans over to George Washington's head. George Washington's head spits in his jar's glass.] That name is a stain on American history! One of the worst traitors of the Revolution was a Farnsworth!
-	Professor Farnsworth	You're lying!
+	Prof. Farnsworth	You're lying!
 	Leela	[whispering] He's George Washington! He tends not to do that!
 	George Washington	David Farnsworth was a notorious British agent and counterfeiter. [The camera zooms in on George Washington's head.] He conspired to bring down our nation with his fraudulent currency.
-	Professor Farnsworth	A Farnsworth did this?! [Professor Farnsworth holds the piece of paper with his right hand and puts his left hand on his head.] Oh, dear! My good name is ruined!
+	Prof. Farnsworth	A Farnsworth did this?! [Professor Farnsworth holds the piece of paper with his right hand and puts his left hand on his head.] Oh, dear! My good name is ruined!
 	Gerald Ford	Hi! I'm Jerry. I like movies.
 	Bender	Anyone seen Ulysses Grant? [Leela opens her eyes, looking at Bender.] He owes me a cheroot.
 	Leela	He's over there, pukin' in the Bushes.
@@ -60,13 +60,13 @@
 	Amy;Bender;Hermes	Alright!
 	Zoidberg	Hey, hey, LBJ. You wanna get drunk?
 	Lyndon Johnson	Oh, hell, yeah. [Zoidberg begins drinking the water in Lyndon Johnson's jar.] Whoa!
-	Professor Farnsworth	Zoidberg, no! [Professor Farnsworth and Amy run towards Zoidberg.] The effects of jar juice aren't fully understood!
+	Prof. Farnsworth	Zoidberg, no! [Professor Farnsworth and Amy run towards Zoidberg.] The effects of jar juice aren't fully understood!
 	Zoidberg	Uh... Not bad. A hint of vitalis and—
 	Amy	I recognise this! [The camera zooms out, revealing Professor Farnsworth to be barefoot.] It's the 1960s! [Zoidberg touches Professor Farnsworth's beard. Professor Farnsworth looks angry and moves away from Zoidberg.] I did a report on it for my drug-taking class.
 	Blond man	Hi. I'm Andy Warhol and you're some kind of... Marvellous lobster man.
 	Zoidberg	Right on! Say, you got any real soup or just this schlock?
 	Andy Warhol	What a horrid bore.
-	Professor Farnsworth	Ooh.
+	Prof. Farnsworth	Ooh.
 	Amy	Wha?
 	Zoidberg	Far out! That head gave me a total head trip!
 	Fry	Really?! [The camera pans over to a shelf.] I'm gonna lick Herbert Hoover's head!
@@ -76,26 +76,26 @@
 	Bender	I'm not a still! [The bartender turns to Bender. Bender points at himself with his right hand and puts his right hand back on the table.] I just smell like one!
 	Male voice	Dutch Schultz, come out with your bootleg whisky. We're thirsty!
 	Hermes	What the heck is goin' on?! Jefferson, did you sell me some bad rope?!
-	Professor Farnsworth	It must have something to do with the jar fluid. [Professor Farnsworth puts his left hand in Thomas Jefferson's jar, takes it out, and smells it.] Aha! [Professor Farnsworth turns to Dr. Cahill.] Dr. Cahill, do I detect a trace of opal essence?
+	Prof. Farnsworth	It must have something to do with the jar fluid. [Professor Farnsworth puts his left hand in Thomas Jefferson's jar, takes it out, and smells it.] Aha! [Professor Farnsworth turns to Dr. Cahill.] Dr. Cahill, do I detect a trace of opal essence?
 	Dr. Cahill	Very observant, Professor. To preserve the heads, we use a rare form of powdered crystalline opal. [Dr. Cahill opens a safe and grabs a test tube filled with powdered crystalline opal with her right hand.] This is the world's entire supply. [Dr. Cahill holds the test tube with her left hand.] Yet it's so powerful, it should last a thousand years. It keeps the heads alive, but... We don't know how.
 	Amy	Why did it give us those hallucinations?
-	Professor Farnsworth	Because it didn't!
+	Prof. Farnsworth	Because it didn't!
 	Amy	Uh... Yuh-huh!
-	Professor Farnsworth	Opal has unusual temporal properties. [Professor Farnsworth turns to the others and illustrates the situation with both his hands.] It preserves each head in a time-stasis bubble. Ergo, licking those heads actually sent us back in time to their original eras. [Professor Farnsworth points at a painting on the wall resembling Shot Marilyns that bears Zoidberg's face instead of Marilyn Monroe's. To its left, there is a sign reading UNWELCOME GUEST - 1968.] Look!
+	Prof. Farnsworth	Opal has unusual temporal properties. [Professor Farnsworth turns to the others and illustrates the situation with both his hands.] It preserves each head in a time-stasis bubble. Ergo, licking those heads actually sent us back in time to their original eras. [Professor Farnsworth points at a painting on the wall resembling Shot Marilyns that bears Zoidberg's face instead of Marilyn Monroe's. To its left, there is a sign reading UNWELCOME GUEST - 1968.] Look!
 	Zoidberg	Fuh! Schlock and more schlock!
 	Dutch Schultz	Pssst! Is the coast clear?
 	Bender	Button your yap, you mug!
-	Professor Farnsworth	I've discovered a new means of time travel! I'll call it the Farnsworth effect!
+	Prof. Farnsworth	I've discovered a new means of time travel! I'll call it the Farnsworth effect!
 	George Washington	Nice try. [Professor Farnsworth looks at George Washington's head.] But even this discovery won't undo the treachery wrought by your nefarious ancestor David Farnsworth.
-	Professor Farnsworth	It will if we go back in time and stop him!
+	Prof. Farnsworth	It will if we go back in time and stop him!
 	Leela	Professor, no! [Leela and Fry run towards Professor Farnsworth and hold him. Bender runs towards George Washington's head and removes his jar from Professor Farnsworth's hands.] You can't tongue the father of our country!
 	Fry	Where are we? Also, when are we?
-	Professor Farnsworth	68th and Broadway, colonial era. [A cowbell-ringing sound is heard and a cow is seen. The cow moos.] Rush hour.
-	Professor Farnsworth	By my calculations, this head trip will last, at most, 24 hours. We need to stop that monster, David Farnsworth!
+	Prof. Farnsworth	68th and Broadway, colonial era. [A cowbell-ringing sound is heard and a cow is seen. The cow moos.] Rush hour.
+	Prof. Farnsworth	By my calculations, this head trip will last, at most, 24 hours. We need to stop that monster, David Farnsworth!
 	Leela	Look at the date on this newspaper. [She picks it up and reads it.] April 17th, 1775.
-	Professor Farnsworth	Say, on this exact date, the Continental Congress was meeting secretly in New York. Maybe they can help us.
+	Prof. Farnsworth	Say, on this exact date, the Continental Congress was meeting secretly in New York. Maybe they can help us.
 	Bender	But they could be meetin' anywhere! What are we gonna do? Search building to building?
-	Professor Farnsworth	[pointing to the building on the left] We'll start with that one.
+	Prof. Farnsworth	[pointing to the building on the left] We'll start with that one.
 	Thomas Jefferson	Alexander Hamilton of New York, how say you?
 	Alexander Hamilton	Nay.
 	Thomas Jefferson	John Hancock and John Adams of Massachusetts?
@@ -109,39 +109,39 @@
 	Leela	Uh, ever been to Peru?
 	John Hancock	Certainly not!
 	Leela	[pushing down Hancock's musket so she can get through] I'm from Peru.
-	Professor Farnsworth	Clam up, founding fathers! We need help locating the treacherous forger [takes out the counterfeit currency] who forged this forgery!
+	Prof. Farnsworth	Clam up, founding fathers! We need help locating the treacherous forger [takes out the counterfeit currency] who forged this forgery!
 	Thomas Jefferson	[takes the counterfeit] My word! If these enter circulation, our economy will be destroyed! And with it, our chance at independence!
 	Alexander Hamilton	[taking the counterfeit from Jefferson] Only one man in the colonies has a printing press fine enough to make these. Our good friend, Ben Franklin.
 	Leela	Uh-oh. Isn't Franklin in Philadelphia?
 	Thomas Jefferson	When he's not in Charlotte, or Maribel, or Louisa!
 	Fry	I don't get it.
-	Professor Farnsworth	I'm sure no one's ever said this before, but I must get to Philadelphia as quickly as possible!
-	Professor Farnsworth	Oh! Why couldn't my disgraced ancestor have lived in the NASCAR era?!
+	Prof. Farnsworth	I'm sure no one's ever said this before, but I must get to Philadelphia as quickly as possible!
+	Prof. Farnsworth	Oh! Why couldn't my disgraced ancestor have lived in the NASCAR era?!
 	Woman	Dr. Franklin, your new steam engine is here.
 	Bender	I ain't no stinkin' steam engine! [a bell dings] Chicken's ready.
 	Benjamin Franklin	You may go, Louisa.
 	Fry	[leaning into the frame] Now I get it!
 	Benjamin Franklin	Fascinating. Be you man or machine?
 	Bender	Mostly machine. Might be a couple dead cats in there.
-	Professor Farnsworth	Dr. Franklin, with all due respect to the brilliant inventor of the... [motions toward the device behind him] stove, I must speak with you. [walks toward Franklin, who has a chicken leg in his mouth] I'm looking for the scoundrel who made [takes out the counterfeit again] this!
+	Prof. Farnsworth	Dr. Franklin, with all due respect to the brilliant inventor of the... [motions toward the device behind him] stove, I must speak with you. [walks toward Franklin, who has a chicken leg in his mouth] I'm looking for the scoundrel who made [takes out the counterfeit again] this!
 	Benjamin Franklin	[takes the counterfeit and inspects it] Intricate filigree, satanic symbols, looks like one of mine. [looks closer at it and gasps] But no! This is a fake!
 	Fry	Duh! It says [points to the words on the currency] "Colony of Maffachufetts"!
 	Bender	[scoffs] More like "Taxachufetts"!
 	Benjamin Franklin	[sighs] That's just how we print S's, you "ƒtupid ƒhitheads"! Someone must've used my press while I was poking around in Charlotte. Let's ask my apprentice, David Farnsworth.
-	Professor Farnsworth	[gasps] Farnsworth?!! That's him! Arm yourselves!
+	Prof. Farnsworth	[gasps] Farnsworth?!! That's him! Arm yourselves!
 	Benjamin Franklin	I call it "the Franklinator".
 	Benjamin Franklin	The apprentice's suite is empty! He's gone!
-	Professor Farnsworth	Wait! What's that glistening in the chamber pot?
+	Prof. Farnsworth	Wait! What's that glistening in the chamber pot?
 	Bender	[walking toward the chair] Let's find out.
 	Leela	Bender, do you know what a chamber pot is?
 	Bender	I don't know and I don't care!
-	Professor Farnsworth	A Massachusetts hapenny?
+	Prof. Farnsworth	A Massachusetts hapenny?
 	Bender	Probably fake, too. There's one way to find out. [Bender takes the hapenny, opens his teeth to bend the coin and the others, beside Farnsworth, look in disgust.] What?
 	Fry	Bender bent a poo penny! Bender bent a poo penny!
 	Benjamin Franklin	Look! 'Tis but worthless tin!
-	Professor Farnsworth	Where could Farnsworth have minted such a high quality fake?
+	Prof. Farnsworth	Where could Farnsworth have minted such a high quality fake?
 	Benjamin Franklin	Not here. But, you know, I have a friend in Boston who's an expert silversmith. They could be connected. [brief pause] There's only like forty people who do anything around here.
-	Professor Farnsworth	But Boston's 300 miles away and Bender kicked our horse to death! We'll never get there in time! Unless you have another "invention" up your sleeve! Foh!
+	Prof. Farnsworth	But Boston's 300 miles away and Bender kicked our horse to death! We'll never get there in time! Unless you have another "invention" up your sleeve! Foh!
 	Benjamin Franklin	[thinks] Hmmm...
 	Bender	How's this going to get us to Boston?
 	Bender	Stupid Franklin— [lightning shocks him again as he runs faster]
@@ -149,39 +149,39 @@
 	Bender	I'm 40% scrap metal. [bangs his chest and walks inside]
 	Paul Revere	Ah, Ben Franklin, [shakes Franklin's hand] my fellow Son of Liber— [notices a couple of redcoats outside] Tea kettles, heh. Yes, I've made some new tea kettles. Perfect for special occasions. Like hanging King George in effigy— [Franklin motions Revere to calm down because of the redcoats again] and H and I are monograms you can put on those tea kettles. [one of the redcoats notices Revere speaking strangly] Whatta you looking at, you British bastards?!?!?!
 	Benjamin Franklin	[pushing Revere inside as the others follow him] Paul, we talked about this.
-	Professor Farnsworth	Mr. Revere, we're looking for a counterfeiter who minted [gives Revere the fake coins] these smelly hapennies. His name is David Farnsworth.
+	Prof. Farnsworth	Mr. Revere, we're looking for a counterfeiter who minted [gives Revere the fake coins] these smelly hapennies. His name is David Farnsworth.
 	Paul Revere	[inspecting the fakes] Farnsworth? I just hired him for the fall candlestick rush. He's in the foundry this very moment!
 	Benjamin Franklin	[holding a sack of Franklinators] Everybody take a Franklinator.
 	Fry	Aw, I gotta chipmunk.
 	Leela	[kicking the door down] Hee-ya!
 	Professor Farnsoworth	David Farnsworth, I presume?
 	David Farnsworth	[in an indistinguishable British accent] Ma name's David Farnsworth.
-	Professor Farnsworth	Fuff! You're a disgrace to the very name Fowvwuh!
+	Prof. Farnsworth	Fuff! You're a disgrace to the very name Fowvwuh!
 	Fry	Look out! He's got a bezeling planisher!
 	David Farnsworth	'At's right! 'Oo wonts ta be bezel'd?!
 	Bender	You idiot, I'm not a cannon!
 	Bender	Oh, I guess I am a cannon.
-	Professor Farnsworth	Time to prune the family tree! [He knocks out his ancestor unconscious with a candlestick. Everybody cheers.] Huzzah! I've saved the Farnsworth name!
+	Prof. Farnsworth	Time to prune the family tree! [He knocks out his ancestor unconscious with a candlestick. Everybody cheers.] Huzzah! I've saved the Farnsworth name!
 	Ben Beeler	An urgent message for Mr. Revere!
 	Paul Revere	Mr. Revere, pray, do not 'ƒhit' your pants. The British attack has begun. Cross the river and watch for my signal. [Revere finishes reading the letter.] I must ride.
 	Leela	He has so much stuff. [Leela puts a set of tableware into a seemingly bottomless purse.] He won't miss this.
-	Professor Farnsworth	Let's burn these counterfeits and paddle the next swan boat the hell out of Boston.
+	Prof. Farnsworth	Let's burn these counterfeits and paddle the next swan boat the hell out of Boston.
 	Fry	Here you go.
-	Professor Farnsworth	Thanks. [The Professor throws the lantern onto the pile, causing it to shatter. The counterfeits start burning.] Say, where did you get that lantern?
+	Prof. Farnsworth	Thanks. [The Professor throws the lantern onto the pile, causing it to shatter. The counterfeits start burning.] Say, where did you get that lantern?
 	Fry	From that old church to the north. [Fry points to a church.] They had two burning, so I figured they wouldn't miss one.
 	Paul Revere	One if by land. Two if by sea. [Revere stops by a river and sees one lantern hanging on the wall of the church.] [shouting] The British are coming! The British are coming! [Revere goes back to riding the horse.] [shouting] By land! By land! [whispering] Gotta treat this OCD. Gotta treat this OCD.
-	Professor Farnsworth	Fry, you dope! You've really screwed the granny this time! History needed that second lantern!
+	Prof. Farnsworth	Fry, you dope! You've really screwed the granny this time! History needed that second lantern!
 	Leela	We better stop Paul Revere before—
 	Leela	[in a British accent] I guess everything worked out jolly oll right, eh, guv'nor?
 	Bender	[laughing, in a Cockney accent] Wot's with th' fruity accent, ducky? Bollocks! Ah've got it, too!
 	Fry	[in a British accent] Where's all th' Presidents' heads, then?
-	Professor Farnsworth	[in a British accent] Ah say, appears we've changed 'istory too much, disahster of nightmarish proportions an' wotnot. [smokes a pipe calmly as a dramatic musical sting is heard] Quite.
+	Prof. Farnsworth	[in a British accent] Ah say, appears we've changed 'istory too much, disahster of nightmarish proportions an' wotnot. [smokes a pipe calmly as a dramatic musical sting is heard] Quite.
 	Hermes	Where 'ave you blokes been? [cut to a shot of Hermes now wearing a shirt that says "Manchester United"] You nearly missed elevenses.
 	Amy	[wearing a hat and elegant clothing and carrying a tray of tea and other delicacies] Who's for tea and shmavories?
 	Bender	Wot in bloody 'ell's goin' on aroun' 'ere ah says?
-	Professor Farnsworth	Indeed. Wot's become of the dear old USA?
+	Prof. Farnsworth	Indeed. Wot's become of the dear old USA?
 	Amy	Beg pardon?
-	Professor Farnsworth	The Revolution? 1776 and wot all?
+	Prof. Farnsworth	The Revolution? 1776 and wot all?
 	Hermes	Oh, the Colonial Dustoff(?). Well, there's nuthin' we Brits enjoy more dan a good document'ry. Turn on the televiser, Dr. Zoidsmythe.
 	Zoidsmythe	I'll dial up the Beeb. They've always got a nice doccy-woccy on. [He turns on the TV, which shows the continent of North America, which is filled in by the Union Jack.]
 	Narrator	The Vanquished Pride of the Yankees, [Zoidsmythe silly walks away] or [reading the title] America the Dutiful! [During the speech, several images are shown, including the Liberty Bell, which is now the Tyranny Bell, the Lincoln Memorial statue, now the Hitchcock Memorial and surrounded by birds, and a Dunkin' Donuts, now Dunkin' Crumpets.] North America or Wes' Britannia as we now call it, has been under British rule for fourteen-hundred years... [An arm pulls down a screen showing a scene not unlike Terry Gilliam's animations from Monty Python.] all thanks to a nutter known as "Wrong Way Revere".
@@ -190,26 +190,26 @@
 	Amy	Scuffed kippers, anyone?
 	Zoidsmythe	Right kind of you, mum. [gobbles all the fish in Zoidbergian fashion]
 	Narrator	The humiliated conspirators were forced to sign the Declaration of Dependence, proclaiming British rule forever. [Cut to George Washington's bedroom, Washington is seen sleeping in his bed when his door opens.] Meanwhile, a loyal Brit by the name of David Farnsworth tracked down the traitor George Washington and bravely smothered him with his wig. [David Farnsworth covers Washington with his wig, Washington's screams are muffled.]
-	Professor Farnsworth	Oh, criminy!
+	Prof. Farnsworth	Oh, criminy!
 	Narrator	In gratitude, King George named Farnsworth a duke and granted his family massive land holdings in the colonies.
-	Professor Farnsworth	Blimey. I've never felt so ashamed to be a Farnsworth.
+	Prof. Farnsworth	Blimey. I've never felt so ashamed to be a Farnsworth.
 	Scruffy	Will m'lord be returning to his massive land holdings for luncheon?
-	Professor Farnsworth	Huh-woh?
+	Prof. Farnsworth	Huh-woh?
 	Leela	[yawns] I know we're ladies-in-waiting but what are we waiting for?
-	Professor Farnsworth	How should I know? Just shut up and wait!
+	Prof. Farnsworth	How should I know? Just shut up and wait!
 	Bender	[he is looking out a window, his back turned to the camera] Say, how is it that we've got socialized medicine [turns around to reveal his dental problems] bot me teeth still loo' like this?
 	Fry	Con't we just go back in time an' set things roight again?
-	Professor Farnsworth	Don't want to. Rather nice living under the crown and so forth.
+	Prof. Farnsworth	Don't want to. Rather nice living under the crown and so forth.
 	Zoidsmythe	[being used as a footstool by Farnsworth] Rather. [Farnsworth whips Zoidsmythe with his cane]
-	Professor Farnsworth	Wot's more, couldn't go back even if we wonted to. No more crystalline opal left in all the world, don't you know.
+	Prof. Farnsworth	Wot's more, couldn't go back even if we wonted to. No more crystalline opal left in all the world, don't you know.
 	Scruffy	M'lord, the Queen is here for 'er, eh, weekly, irrrrr, visit.
-	Professor Farnsworth	The Queen? Sounds most satisfactory. All of you out!
+	Prof. Farnsworth	The Queen? Sounds most satisfactory. All of you out!
 	Bender	[sighs, and exits with the others] Right, then. Let's go play some quoits...wotever that is.
 	Squire	Presenting the Queen of England, America, and two parking spaces in Tokyo.
 	Queen	Where's me consort at?
-	Professor Farnsworth	[gulps] C-C-Consort?
+	Prof. Farnsworth	[gulps] C-C-Consort?
 	Queen	That's right, luv. Fer cent'ries, a Farnsworth gentleman 'as provided service to the Queen. Now close yer eyes an' think of England!
-	Professor Farnsworth	Ah say, what's that in your crown?
+	Prof. Farnsworth	Ah say, what's that in your crown?
 	Queen	You mean Andamooka Opal? Why, it's th' most precious gem in all th'— [Farnsworth raises his cane]
 	Bender	Yes! Three rubbers on the hob!
 	Queen	Stop him! He crowned me in th' knickers an' nicked me crown!
@@ -218,12 +218,12 @@
 	Leela	We've got to go back in toime an' set things straight! 'Urry up an' lick Washin'ton's 'ead again!
 	Bender	We can't! There's no George Washington nor any other Presidents.
 	Fry	[pointing somewhere] Wot about this bloke? 'e's from Revolutionary times.
-	Professor Farnsworth	Farnsworth!
+	Prof. Farnsworth	Farnsworth!
 	David Farsnworth	Hey! Yer the plaunkers wot candlesticked me! Well, ah showed you! Ah killed George Washin'ton an' now I'm married to one of the Spice Girls! Don't rightly know which one.
-	Professor Farnsworth	Bender, fetch me that powdered opal!
-	Professor Farnsworth	It's time to restore dignity to the Farnsworth name!
+	Prof. Farnsworth	Bender, fetch me that powdered opal!
+	Prof. Farnsworth	It's time to restore dignity to the Farnsworth name!
 	Fry	[speaking in his normal voice] There. That time, I left both lanterns in place.
-	Professor Farnsworth	[speaking in his normal voice] And I hit Farnsworth much, much harder. Eh, perhaps too hard.
+	Prof. Farnsworth	[speaking in his normal voice] And I hit Farnsworth much, much harder. Eh, perhaps too hard.
 	Leela	[speaking in her normal voice] Look! All the Presidents are back! Even John Tyler!
 	John Tyler	That's the first time anyone's spoken to me in twelve-hundred years.
-	Professor Farnsworth	Yes, from Chester A. Arthur to Chester Z. Arthur, they're all here. Our republic and the Farnsworth family name are saved. [walks away] And no one will ever know.
+	Prof. Farnsworth	Yes, from Chester A. Arthur to Chester Z. Arthur, they're all here. Our republic and the Farnsworth family name are saved. [walks away] And no one will ever know.

@@ -19,12 +19,12 @@
 	Fry	Nope. Not vaccinated either! Besides, it's not like one vote ever made a difference.
 	Leela	That's not true; the first robot president won by exactly one vote.
 	Bender	Ah, yes, John Quincy Adding Machine. He struck a cord with the voters when he pledged not to go on a killing spree.
-	Professor Farnsworth	But, like most politicians, he promised more than he could deliver.
+	Prof. Farnsworth	But, like most politicians, he promised more than he could deliver.
 	Leela	The point is, one vote can make a difference and even though it won't, I'm still taking you to get registered.
-	Professor Farnsworth	Yes, that's a capital idea. Let's all go register!
+	Prof. Farnsworth	Yes, that's a capital idea. Let's all go register!
 	Fry	Professor, when did you become so obsessed with voting?
-	Professor Farnsworth	The very instant I became old.
-	Professor Farnsworth	The problem with both parties is that they always want to give your tax dollars to the less fortunate.
+	Prof. Farnsworth	The very instant I became old.
+	Prof. Farnsworth	The problem with both parties is that they always want to give your tax dollars to the less fortunate.
 	Fry	The less fortunate get all the breaks!
 	Zoidberg	You know, Fry, you could join a third party, maybe.
 	Amy	Only weirdos and mutants join third parties.
@@ -41,9 +41,9 @@
 	Stoned Guy	Dave's not here, man.
 	Amy	I also heard hemp makes great shampoo.
 	Stoned Guy	It does? No way! I gotta check out this brochure!
-	Professor Farnsworth	So what are you doing to protect my constitutional right to bear doomsday devices?
+	Prof. Farnsworth	So what are you doing to protect my constitutional right to bear doomsday devices?
 	N.R.A. Man	Well, first off, we're gonna get rid of that three-day waiting period for mad scientists.
-	Professor Farnsworth	Damn straight! Today, the mad scientist can't get a doomsday device, tomorrow it's the mad grad student. Where will it end?
+	Prof. Farnsworth	Damn straight! Today, the mad scientist can't get a doomsday device, tomorrow it's the mad grad student. Where will it end?
 	N.R.A. Man	Amen, brother. I don't go anywhere without my mutated anthrax ... [He takes a vial of the stuff out of his pocket.] ... for duck hunting.
 	Zoidberg	Sure, humans are cute, but how else are we supposed to test cosmetics?
 	Hermes	I concur.
@@ -75,7 +75,7 @@
 	Leela	Bender? What happened to you?
 	Fry	Yeah, you look different. Did you get a haircut?
 	Bender	No, I sold my body.
-	Professor Farnsworth	Sold your body? Oh, Bender, I've been down that road. I know it's glamorous and the parties are great but you'll end up spending every dollar you make on jewellery and skintight pants.
+	Prof. Farnsworth	Sold your body? Oh, Bender, I've been down that road. I know it's glamorous and the parties are great but you'll end up spending every dollar you make on jewellery and skintight pants.
 	Fry	This is crazy, Bender. How are you gonna live without a body?
 	Bender	Pft! Bodies are for hookers and fat people! All I need is a wad of cash with a head wrapped around it.
 	Fry	Well, at least now you can pay off your loan shark.
@@ -133,7 +133,7 @@
 	Fry	Hey, my clothes are worth 50 bucks!
 	Pawnbroker	Deal.
 	Bender	[crying] Oh! How could I let this happen? I can't go through the rest of my life like this.
-	Professor Farnsworth	Don't you have a self-destruct button?
+	Prof. Farnsworth	Don't you have a self-destruct button?
 	Bender	[crying] Yeah, but it's on my body. What am I gonna do?
 	Fry	Ah, I can't stand to see a robot cry. Let's watch TV!
 	Richard Nixon	[on TV] And so, ladies and gentlemen, I'm throwing my head into the ring. I'm announcing my candidacy for the presidency of Earth.
@@ -210,7 +210,7 @@
 	Fry	Why would robots vote for Nixon now that he's just a head in a jar?
 	Campaign Manager	I give you the next president of Earth!
 	Richard Nixon	[shouting] Nixon's back!
-	Professor Farnsworth	I can't believe it. He won by a single vote.
+	Prof. Farnsworth	I can't believe it. He won by a single vote.
 	Bender	Well it ain't my fault. I'm a non-voting felon, thank you.
 	Fry	Well it's not my fault either 'cause I forgot to vote.
 	Leela	Oh, crud. I knew there was something I meant to do today.

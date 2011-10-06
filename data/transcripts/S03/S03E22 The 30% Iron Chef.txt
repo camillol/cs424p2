@@ -9,29 +9,29 @@
 	Bender	Okey-dokey!
 	Hermes	Ooh!
 	Leela	Nice!
-	Professor Farnsworth	Yes, it's a perfect scale model of the universe's largest bottle. I put a tiny spaceship inside to keep it from being boring.
+	Prof. Farnsworth	Yes, it's a perfect scale model of the universe's largest bottle. I put a tiny spaceship inside to keep it from being boring.
 	Zoidberg	Oh!
-	Professor Farnsworth	Get--! [He snatches it away.] For the last time, Zoidberg, look with your eyes, not with your claws.
+	Prof. Farnsworth	Get--! [He snatches it away.] For the last time, Zoidberg, look with your eyes, not with your claws.
 	Fry	Brace yourselves. Bender is making us brunch.
 	Zoidberg	Oh, boy!
-	Professor Farnsworth	Oh, God! My tract!
+	Prof. Farnsworth	Oh, God! My tract!
 	Fry	He's so proud of his awful cooking. If we don't eat it he'll be crushed.
 	Leela	Alright, don't panic. If we can get to the ship, we can fly north and hide under the polar icecaps for a few weeks.
 	Fry	Hurry!
-	Professor Farnsworth	Good idea!
+	Prof. Farnsworth	Good idea!
 	Zoidberg	What's the hold-up?
 	Bender	Fleeing somewhere?
 	Fry	With you blocking the only escape route? Don't be silly.
 	Bender	In that case brunch is served! Let's go! Move it out! Stop crying, Leela!
-	Professor Farnsworth	Zoidberg, are you coming?
+	Prof. Farnsworth	Zoidberg, are you coming?
 	Zoidberg	Sure. Me.
-	Professor Farnsworth	Because I don't want you touching that thing.
+	Prof. Farnsworth	Because I don't want you touching that thing.
 	Zoidberg	I know that. [Farnsworth leaves and Zoidberg picks up the bottle.] Surrender your mysteries to Zoidberg! [He wiggles his mouth flaps inside the bottle and breaks off part of the ship. He screams and cuts the bottle in half.] Oh, no! Professor will hit me. But if Zoidberg fixes it, then perhaps gifts! [He picks up some "Strong Force Krazy Glue" but squeezes the bottle too soon and the glue squirts all over him. He screams and steps back. He turns around and some lab equipment and a sign reading "Zoidberg: Don't Touch!" gets stuck to him.] Ow! What? Oh!
 	Bender	Today, I've personalised each of your meals. For example, Amy, you're cute, so I baked you a pony. [Everyone gasps. The pony leg on Amy's plate still has a horseshoe on the hoof.] Come on! Eat! I slaved all day over a filthy stove.
 	Hermes	This is terrible!
-	Professor Farnsworth	Good thing I secretly installed this wormhole in the table.
+	Prof. Farnsworth	Good thing I secretly installed this wormhole in the table.
 	Amy	Where does the other end come out?
-	Professor Farnsworth	You know, I'm not quite sure. [He peers into the wormhole. The food falls from above and onto his head.] Oh, dear me!
+	Prof. Farnsworth	You know, I'm not quite sure. [He peers into the wormhole. The food falls from above and onto his head.] Oh, dear me!
 	Bender	The pie is ready. You guys like swarms of things, right?
 	Zoidberg	Casual hello. It's me, Zoidberg. Act naturally. [The clock goes off and the cuckoo hits Zoidberg in the face.] Ow! Ouch! Get off of me! Stop!
 	Leela	How interesting, Dr. Zoidberg. Do go on.
@@ -84,16 +84,16 @@
 	Bender	Or like how Rembrandt was blind and had wooden hands.
 	Spargle	Bender, hear me well. I shall train you. But first, you must forget everything you know about cooking.
 	Bender	Done.
-	Professor Farnsworth	That's right, Ricardo. A ship in a bottle! What's that? Well hang on, I'll look.
+	Prof. Farnsworth	That's right, Ricardo. A ship in a bottle! What's that? Well hang on, I'll look.
 	Ricardo	[on phone] Ola? Professor? Qué pasa?
-	Professor Farnsworth	I've gathered you all here in the accusing parlour because one of you is a miniature ship wrecker.
+	Prof. Farnsworth	I've gathered you all here in the accusing parlour because one of you is a miniature ship wrecker.
 	Zoidberg	I'm acting astonished.
-	Professor Farnsworth	Certain clues suggest that the culprit is none other than our own ... Philip J. Fry!
+	Prof. Farnsworth	Certain clues suggest that the culprit is none other than our own ... Philip J. Fry!
 	Fry	What?
-	Professor Farnsworth	Oh, it was a brilliant scheme. But you made one fatal mistake ... leaving this confession note.
+	Prof. Farnsworth	Oh, it was a brilliant scheme. But you made one fatal mistake ... leaving this confession note.
 	Zoidberg	Fry, you scoundrel!
 	Fry	Well, I don't remember any of that but I don't have the wherewithal to defend myself.
-	Professor Farnsworth	Then I have no choice but to charge you the full cost of the materials: $10.
+	Prof. Farnsworth	Then I have no choice but to charge you the full cost of the materials: $10.
 	Fry	There you go.
 	Zoidberg	[shouting] What have I done?
 	Spargle	Your training is complete, little dessert spoon. Now, just as the man who wishes to be world chess champion must win at least one game of chess, so must you serve at least one edible meal. [quietly] Succeed and I shall reveal to you the age-old secret [whispering] of perfect flavour.
@@ -160,7 +160,7 @@
 	Hiroki	And now, judgement. The winner will become the new iron cook, the loser is doomed to scrub. [Dirty pots and pans are piled around a sink.] Whose confection will achieve perfection? Whose foodstuff will be the good stuff?
 	Koji	Challengeruu Benderuu!
 	Fry	Yay!
-	Professor Farnsworth	[shouting] That's my robot! I own him!
+	Prof. Farnsworth	[shouting] That's my robot! I own him!
 	Bender	You honour me, Chairman Koji.
 	Koji	Domo arigato, Mr. Roboto.
 	Bender	Chairman-san, I came here with one goal: To humiliate Elzar in a large stadium. I believe I've done that.
@@ -171,10 +171,10 @@
 	Zoidberg	Fry did it!
 	Bender	And that's how I defeated Elzar, thanks to Spargle's magic liquid.
 	Leela	Yes, we were there. And we just finished watching it again on TV.
-	Professor Farnsworth	Hmm. Let me see that vial, Bender. [He takes it and puts it in a microwave-like machine. A readout prints and he looks at it and gasps.] Good Lord! According to the spectrolizer, Spargle's magic ingredient was ... water. Ordinary water!
+	Prof. Farnsworth	Hmm. Let me see that vial, Bender. [He takes it and puts it in a microwave-like machine. A readout prints and he looks at it and gasps.] Good Lord! According to the spectrolizer, Spargle's magic ingredient was ... water. Ordinary water!
 	Hermes	No!
 	Fry	Ah, so the real gift Spargle gave you was confidence. The confidence to be your best.
-	Professor Farnsworth	Yes, ordinary water. Laced with nothing more than a few spoonfuls of LSD.
+	Prof. Farnsworth	Yes, ordinary water. Laced with nothing more than a few spoonfuls of LSD.
 	Bender	The important thing is, by my standards, I won fair and square. Now, who wants brunch? Cooked with plenty of ... "confidence"?
 	Leela	I'm in!
-	Professor Farnsworth	I do!
+	Prof. Farnsworth	I do!

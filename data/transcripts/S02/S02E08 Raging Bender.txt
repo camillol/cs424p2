@@ -1,9 +1,9 @@
-	Professor Farnsworth	Good news, everyone. I've taught the toaster to feel love. [The toaster bounds across the table, barking like a dog and licks Bender. He knocks it away and it hits the wall. Toast springs out of it.] And Hermes returns from his vacation today.
+	Prof. Farnsworth	Good news, everyone. I've taught the toaster to feel love. [The toaster bounds across the table, barking like a dog and licks Bender. He knocks it away and it hits the wall. Toast springs out of it.] And Hermes returns from his vacation today.
 	Hermes	[monotonous] Good morning, people.
 	Fry	Hey, Hermes!
 	Zoidberg	Hello!
 	Leela	Good to see you.
-	Professor Farnsworth	Yo!
+	Prof. Farnsworth	Yo!
 	Bender	My man!
 	Amy	So how was the Spleef Nebula?
 	Hermes	[monotonous] The flight had a stopover on the Brain Slug Planet. Hermes liked it so much he decided to stay of his own free will.
@@ -13,7 +13,7 @@
 	Hermes	[monotonous] On to new business. Today's mission is for all of you to go to the Brain Slug Planet.
 	Zoidberg	What are we going to do there?
 	Hermes	[monotonous] Just walk around not wearing a helmet.
-	Professor Farnsworth	Sounds great, Hermes! Whatever you say. [He nods and then leans in to the others.] [whispering] Let's ditch him and go to the movies!
+	Prof. Farnsworth	Sounds great, Hermes! Whatever you say. [He nods and then leans in to the others.] [whispering] Let's ditch him and go to the movies!
 	Fry	Hey, yeah!
 	Zoidberg	I'm seeing a movie with friends!
 	Fry	Cool! Let's see this one!
@@ -27,7 +27,7 @@
 	Refreshment-bot	For only 25 cents less, you can get a super-small.
 	Fry	Uh, OK. [The robot puts a tiny cup under the machine and it fills with a drip. Fry takes it and walks away. He trips and it spills onto his shirt.] Oh, man!
 	Bender	Hey, gimme a large diet malt liquor and a popcorn with extra motor oil.
-	Professor Farnsworth	Down in front!
+	Prof. Farnsworth	Down in front!
 	Announcer	[voice-over; on screen] Glagnar's Human Rinds presents: This Week In The Universe.
 	Fry	[sarcastic] Ooh, this is real futuristic!
 	Crow T. Robot	Shh! Don't talk during the movie.
@@ -64,13 +64,13 @@
 	Doubledeal	Kid, I want you in the Ultimate Robot Fighting League.
 	Bender	Ultimate Robot Fighting? Sounds pleasant! I'll do it.
 	Flabby	My hero!
-	Professor Farnsworth	Aw. They don't make movies like this anymore.
+	Prof. Farnsworth	Aw. They don't make movies like this anymore.
 	Bender	I'm gonna be the greatest Ultimate Robot Fighter ever. Float like a floatbot, sting like an automatic stinging machine!
 	Amy	Bender, you can't be an Ultimate Robot Fighter. It's the most brutal form of competition in the galaxy!
 	Bender	It is?
-	Professor Farnsworth	There are no rules. Two robots enter, one robot leaves. Then later the other robot leaves after being declared the winner.
+	Prof. Farnsworth	There are no rules. Two robots enter, one robot leaves. Then later the other robot leaves after being declared the winner.
 	Bender	Well, that doesn't sound so bad.
-	Professor Farnsworth	Oh, did I mention the crippling, agonising pain? I'm pretty sure I did. Oh, yes, definitely.
+	Prof. Farnsworth	Oh, did I mention the crippling, agonising pain? I'm pretty sure I did. Oh, yes, definitely.
 	Bender	Crippling pain? That's not covered by my insurance fraud! Count me out.
 	Leela	No! You've got to do it. I don't care how suicidal it is.
 	Fry	Hey! How come when I wanna do fun stuff that'll kill me you're against it?
@@ -141,7 +141,7 @@
 	Fry	Man, I thought Ultimate Robot Fighting was real, like pro wrestling. But it turns out it's fixed, like boxing.
 	Bender	It's one thing to win a fixed fight; there's dignity in that. But to lose? And in this atrocity? I can't do it! Leela, you gotta train me to win.
 	Leela	No way! If you wouldn't take my help when you didn't need it, why should I give it to you now when you do need it?
-	Professor Farnsworth	What the hell are you talking about?
+	Prof. Farnsworth	What the hell are you talking about?
 	Leela	I don't know. But I'm not helping.
 	Announcer	[voice-over; on TV] You loved him as Bender the Offender! Now get ready to hate him as he threatens your sexuality in his new persona ... The Gender Bender!
 	Bender	[girly; on TV] I'm a real toughie!
@@ -160,7 +160,7 @@
 	Bender	Sorry, buddy. Here you go!
 	Hermes	[monotonous] Thank you. It was cold down there on the floor.
 	Amy	Here, Professor, I got you a programme.
-	Professor Farnsworth	Oh, good. Just let me put on my reading glasses. [He puts on some glasses with super-thick lenses and opens the programme. His lenses rip through it.] Why, Zoidberg, there's a lovely photo of you in here.
+	Prof. Farnsworth	Oh, good. Just let me put on my reading glasses. [He puts on some glasses with super-thick lenses and opens the programme. His lenses rip through it.] Why, Zoidberg, there's a lovely photo of you in here.
 	Referee	In this corner, the confused young robot with the golden curls. Weighing 525lbs: The Gender Bender!
 	Zapp	Boo!
 	Richard Nixon	[shouting] Get that hippie out of the ring!
@@ -191,7 +191,7 @@
 	Little	No argument here.
 	Fry	Bender? How did the fight go? I heard somebody got flattened!
 	Amy	Fry, where's your Brain Slug?
-	Professor Farnsworth	Poor little guy starved to death.
+	Prof. Farnsworth	Poor little guy starved to death.
 	Leela	I'm proud of you, Bender. Sure, you lost. You lost bad. But the important thing is I beat up someone who hurt my feelings in high school.
 	Bender	I'm in tremendous pain here.
 	Doubledeal	Great job, kid. You lost and you made it look almost half real. I want you to have this card good for 10% off at Bed Bath & Beyond.

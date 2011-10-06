@@ -26,16 +26,16 @@
 	Richard Nixon	Options?
 	Zapp	My instinct is to hide in this barrel. [camera cuts to reveal Zapp doing so] Like the wily fish.
 	Richard Nixon	[sighs] Then we're down to our last hope. A radical new weapon built by a visionary scientist I once dismissed as crazy.
-	Professor Farnsworth	Let's see how crazy I am now, Nixon! [camera zooms out to reveal he is actually speaking to Nixon and the entire Planet Express crew] The correct answer is: very.
+	Prof. Farnsworth	Let's see how crazy I am now, Nixon! [camera zooms out to reveal he is actually speaking to Nixon and the entire Planet Express crew] The correct answer is: very.
 	Richard Nixon	Alright, Professor. Sock it to me!
-	Professor Farnsworth	Top secret news, everyone! I've developed a tiny one-man stealth fighter that's virtually undetectable.
+	Prof. Farnsworth	Top secret news, everyone! I've developed a tiny one-man stealth fighter that's virtually undetectable.
 	Zapp	[coming out of a barrel] How undetectable?
-	Professor Farnsworth	It's right in front of you.
+	Prof. Farnsworth	It's right in front of you.
 	Zapp	[walking toward a semmingly empty space] I find that—OW! [bumps into something]—to believe.
 	Bender	But how exactly is this Happy Meal toy gonna destroy a giant death sphere?
-	Professor Farnsworth	From within. This ship should be able to sneak undetected through the sphere's one vulnerable opening.
+	Prof. Farnsworth	From within. This ship should be able to sneak undetected through the sphere's one vulnerable opening.
 	Hermes	What vulnerable opening?
-	Professor Farnsworth	All death spheres have one vulnerable opening.
+	Prof. Farnsworth	All death spheres have one vulnerable opening.
 	Zoidberg	Well, sure, but who's brave enough to fly into something we all keep calling a "death sphere"?
 	Richard Nixon	I say Brannigan.
 	Zapp	[saluting] I say no.
@@ -54,7 +54,7 @@
 	Zapp	It'll help us achieve maximum thrust.
 	Fry	[giving Leela a bag of trail mix] I made you some trail mix for the flight. [Leela takes it as Fry picks up a huge painting of himself in a robe smoking a pipe] Also this picture to remember me by.
 	Leela	You hold on to it. [kisses him] I'll be back soon.
-	Professor Farnsworth	[scoffs] Activate stealth shielding.
+	Prof. Farnsworth	[scoffs] Activate stealth shielding.
 	Leela	Liftoff!
 	Zapp	I'll rodger that.
 	Fry	Did anyone else feel aroused and jealous and worried?
@@ -66,10 +66,10 @@
 	Zapp	Switching to pillow talk mode.
 	Leela	Look. What are those huge letters?
 	Zapp	"V-GINY?" Doesn't ring a bell.
-	Professor Farnsworth	Hmmm....
-	Professor Farnsworth	I don't like the looks of this "V-GINY." Does anyone recognize those call letters?
+	Prof. Farnsworth	Hmmm....
+	Prof. Farnsworth	I don't like the looks of this "V-GINY." Does anyone recognize those call letters?
 	Hermes	Nope. It's not in the Janeway's Guide either.
-	Professor Farnsworth	Deciphering that ID code is critical. I'll be in the Chamber of Understanding.
+	Prof. Farnsworth	Deciphering that ID code is critical. I'll be in the Chamber of Understanding.
 	Leela	This is it! The moment we should've trained for!
 	Leela	Holy cr—
 	Zapp	Incoming yucky!
@@ -100,19 +100,19 @@
 	Hermes	What difference does it make? When that death sphere gets to Earth, we'll all be blown to Manwich meat!
 	Amy	Well, I guess it's time to indulge in some end-of-the-world debauchery. Who's up for an orgy?
 	Zoidberg	Maybe a Parcheesi tournament.
-	Professor Farnsworth	Belay that Parcheesi tournament! I've identified the death sphere! We may yet have a faint hope of survival!
+	Prof. Farnsworth	Belay that Parcheesi tournament! I've identified the death sphere! We may yet have a faint hope of survival!
 	Zoidberg	Still, a Parcheesi tournament.
-	Professor Farnsworth	This is a top secret military satellite launched by the Air Force in 1998.
-	Professor Farnsworth	And this is a top secret FCC satellite launched that same year to censor indecent TV programs.
+	Prof. Farnsworth	This is a top secret military satellite launched by the Air Force in 1998.
+	Prof. Farnsworth	And this is a top secret FCC satellite launched that same year to censor indecent TV programs.
 	Bender	Like The Pimpsons? And Assarama?
-	Professor Farnsworth	Precisely. However, the satellites collided shortly after launch and were never heard from again.
+	Prof. Farnsworth	Precisely. However, the satellites collided shortly after launch and were never heard from again.
 	Zoidberg	I found the board!
-	Professor Farnsworth	Now, I've simulated that collision using Shrapnovision(?).
+	Prof. Farnsworth	Now, I've simulated that collision using Shrapnovision(?).
 	Fry	[taking a piece of one of the satellites out of his hair] Granted, all that makes perfect sense, but why is this death sphere destroying planets?
-	Professor Farnsworth	That makes the most sense of all. [puts up a projection of planets destroyed by the death sphere] Look at the planet it's destroyed so far. First came XXX, the nude beach planet. Then Poopiter. [a planet labelled "#!@€$!#%&" comes on screen] And finally that world that can't be mentioned in polite company.
+	Prof. Farnsworth	That makes the most sense of all. [puts up a projection of planets destroyed by the death sphere] Look at the planet it's destroyed so far. First came XXX, the nude beach planet. Then Poopiter. [a planet labelled "#!@€$!#%&" comes on screen] And finally that world that can't be mentioned in polite company.
 	Fry	You mean... [whispers something to Farnsworth and the crew get angry at him for doing so, causing Farnsworth to slap him]
 	Hermes	So the death sphere is "censoring" indecent planets?
-	Professor Farnsworth	Indeed. And we're next if we can't keep it in our collective pants! Our sole hope is to persuade the people of Earth to abandon their smutty ways.
+	Prof. Farnsworth	Indeed. And we're next if we can't keep it in our collective pants! Our sole hope is to persuade the people of Earth to abandon their smutty ways.
 	Amy	So the orgy's off?
 	Leela	So thirsty. Why couldn't a water fountain have fallen on me?
 	Zapp	I couldn't find any water. But the moisture in these fruit and nut berries should sustain you.
@@ -129,8 +129,8 @@
 	Leela	Did that snake say, "Hello"?
 	Zapp	No, we're both delirious from dehydration.
 	Snake	Just like Adam and Eve.
-	Professor Farnsworth	We can still save Earth. People are sure to clean up their act when presented with cold hard facts by rational folks like us.
-	Professor Farnsworth	The end is near! Repent thy sins!
+	Prof. Farnsworth	We can still save Earth. People are sure to clean up their act when presented with cold hard facts by rational folks like us.
+	Prof. Farnsworth	The end is near! Repent thy sins!
 	Sal	[giving money to Petunia] I'll thinks it overs while I engages this five dollar hooker.
 	Fry	[taking the bullhorn from Farnsworth] Don't do it! It's not worth it!
 	Petunia	Okay, make it three dollars.
@@ -145,10 +145,10 @@
 	Zapp	Let's find out together. I'll brave the ship's wreckage to fetch you the telescope. [exits]
 	Leela	That's so sweet.
 	Snake	I'm just sayin' is all.
-	Professor Farnsworth	I know my new plan is a long shot, but it's the only hope left.
+	Prof. Farnsworth	I know my new plan is a long shot, but it's the only hope left.
 	Hermes	Well, now I've heard everything [the camera cuts to a closeup of his face revealing he has earbuds in his ears, which he takes out] on my eyePod. So, do you have a new plan, Professor, and is there any hope left?
-	Professor Farnsworth	Indeed. We're here on Earth's last unspoiled acre to show the death sphere there's still purity in the world. Begin transmitting.
-	Professor Farnsworth	Commence purity chant.
+	Prof. Farnsworth	Indeed. We're here on Earth's last unspoiled acre to show the death sphere there's still purity in the world. Begin transmitting.
+	Prof. Farnsworth	Commence purity chant.
 	Fry	Hey, I'm proud of you, Bender. Avoiding sin for almost a full minute. [opens his eyes to reveal that Zoidberg is now holding his hand] Bender?
 	Bender	Aw, yeah, baby. You're quite a dish.
 	Bender	Aw, quiet, you riot. What's the worst that could happen?
@@ -202,7 +202,7 @@
 	V-GINY	People of Earth, hear the righteous word of the Mighty V-GINY!
 	Bender	The Mighty V-GINY!
 	V-GINY	Seeing you frolic in this unspoiled garden gives hope that this world may yet be redeemed.
-	Professor Farnsworth	Huzzah! The purity chant worked!
+	Prof. Farnsworth	Huzzah! The purity chant worked!
 	V-GINY	Unacceptable wardrobe malfunction! I was referring to Adam and Eve.
 	Leela	We're not Adam and Eve. You see, due to a series of—
 	V-GINY	Consummate your union or I shall destroy Earth!

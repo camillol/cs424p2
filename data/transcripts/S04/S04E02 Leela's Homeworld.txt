@@ -1,26 +1,26 @@
-	Professor Farnsworth	Good news, everyone! You all know the orphanarium where Leela grew up?
+	Prof. Farnsworth	Good news, everyone! You all know the orphanarium where Leela grew up?
 	Fry	Sure. We talk about it all the time.
 	Leela	Really?
 	Fry	No. Burn!
-	Professor Farnsworth	Well done, fellows! Anyway, said orphanarium has named Leela "Orphan of the Year".
+	Prof. Farnsworth	Well done, fellows! Anyway, said orphanarium has named Leela "Orphan of the Year".
 	Amy	Yee-ha!
 	Bender	Alright!
 	Amy	Your parents must be so proud. Oops! Sorry.
-	Professor Farnsworth	And the good news keeps on coming. Behold my latest invention.
+	Prof. Farnsworth	And the good news keeps on coming. Behold my latest invention.
 	Bender	Neat!
-	Professor Farnsworth	Ta-da! It's a glow-in-the-dark nose you can wear over your regular non-glowing nose. Observe.
+	Prof. Farnsworth	Ta-da! It's a glow-in-the-dark nose you can wear over your regular non-glowing nose. Observe.
 	Amy	Whoa, clool!
 	Bender	Now I can punch you in the nose in the dark.
 	Bender	[snuffed] Where'd it go?
 	Amy	Hey, Professor, what's all this scloop, glorking out of the machine?
-	Professor Farnsworth	That? It's, uh ... nothing. Yes, nothing. If you think it's anything, you're a suspicious moron.
+	Prof. Farnsworth	That? It's, uh ... nothing. Yes, nothing. If you think it's anything, you're a suspicious moron.
 	Hermes	It looks like toxic waste. [He sniffs.] And it smells like toxic waste.
 	Fry	What does it taste like?
 	Hermes	Delicious fig pudding! Ooh, that's good! But a distinct aftertaste of toxic waste.
-	Professor Farnsworth	Alright, alright, so the machine produces a few toxic by-products! You don't have to make a federal case out of it.
+	Prof. Farnsworth	Alright, alright, so the machine produces a few toxic by-products! You don't have to make a federal case out of it.
 	Hermes	I'm afraid I do. [He takes out his Federal Bureaucracy badge and Farnsworth gasps.] I order you dispose of that toxic waste properly or bribe me. Either way it'll cost $500.
 	Bender	500 real dollars? That's an outrage! Professor, I'll take care of that waste for $499 and 100 cents.
-	Professor Farnsworth	Hmm, I know that's a rip but I'll pay for the convenience. Do you take credit cards?
+	Prof. Farnsworth	Hmm, I know that's a rip but I'll pay for the convenience. Do you take credit cards?
 	Bender	Let's find out.
 	Bender	Alright, environment, you've met your match!
 	Smitty	Hey, get back in the sewer, weird-y. No mutants on the surface.
@@ -129,17 +129,17 @@
 	Warden Vogel	Sure. [He hands Fry the paper.] I just wish I could be more helpful. Would you like some dirt on any other orphans?
 	Fry	Look, I'm trying to save someone here. I'll have to come back for those later.
 	Fry	Can you translate it?
-	Professor Farnsworth	Of course. But only into Beta Crypt 3, a language so complex there's even less chance of understanding it.
+	Prof. Farnsworth	Of course. But only into Beta Crypt 3, a language so complex there's even less chance of understanding it.
 	Fry	I didn't ask for a completely reasonable excuse. I asked you to get busy.
-	Professor Farnsworth	Very well.
+	Prof. Farnsworth	Very well.
 	Fry	Isn't that the same machine that makes noses?
-	Professor Farnsworth	It can do other things. Why shouldn't it? [He throws the switch.] Of course, even if it is possible to analyse the message, there's no way of knowing how long it would take. It could take an hour or it could take a hundred million years.
+	Prof. Farnsworth	It can do other things. Why shouldn't it? [He throws the switch.] Of course, even if it is possible to analyse the message, there's no way of knowing how long it would take. It could take an hour or it could take a hundred million years.
 	Fry	Is it done?
-	Professor Farnsworth	Certainly not. Two dings means it's done. [Two dings.] But not like that. Slightly more rapid.
+	Prof. Farnsworth	Certainly not. Two dings means it's done. [Two dings.] But not like that. Slightly more rapid.
 	Leela	Where did they go?
 	Bender	Good news, Leela. I landed the contract to empty all the spittoons in Little Italy.
 	Leela	Ew!
-	Professor Farnsworth	That's it! It's done! [Fry gasps.] I can't believe it! My mind is boggling. The analysis of the note is printing out now.
+	Prof. Farnsworth	That's it! It's done! [Fry gasps.] I can't believe it! My mind is boggling. The analysis of the note is printing out now.
 	Doctor	It's a girl.
 	Mother	My God! She's beautiful. No extra anythings.
 	Father	Good people skills!

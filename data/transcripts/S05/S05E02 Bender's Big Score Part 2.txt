@@ -1,5 +1,5 @@
 	Nudar	Stand back you wing wangs. I'm gonna try out this timesphere with a quick test drive to yesterday.
-	Professor Farnsworth	Bushwah. You can't go mucking about in the past without creating paradoxes.
+	Prof. Farnsworth	Bushwah. You can't go mucking about in the past without creating paradoxes.
 	Nibbler	I'm afraid he can. It's a paradox correcting time code. It all works perfectly. Except when it rips open the universe. Don't do it, I beg you ...
 	Nudar	Yesterday please, and make it snappy.
 	Crew	wha???
@@ -10,9 +10,9 @@
 	Nudar	Nothing gets past you eagle eye. I went back to last night and met the me of that time for a drink. One thing led to another and we ended up at my place, or should I say our place.
 	Leela	Blech.
 	Nudar	Oh come on ya bunch of prudes.
-	Professor Farnsworth	This isn't merely revolting, it's impossible to boot. I know a paradox when I see one.
-	Professor Farnsworth	Whaaa?
-	Professor Farnsworth	Ahh, paradox resolved. Someone get a mop.
+	Prof. Farnsworth	This isn't merely revolting, it's impossible to boot. I know a paradox when I see one.
+	Prof. Farnsworth	Whaaa?
+	Prof. Farnsworth	Ahh, paradox resolved. Someone get a mop.
 	Dwight	You're looking well pops.
 	Hermes	How can you look me in the eye 'n eye and say that? I'm nothin' but a brain. A useless, filthy brain.
 	Barbados Slim	You forgot lice infested.
@@ -25,7 +25,7 @@
 	Hermes	No I can't. But I can ask him to stop wiggling them in my face.
 	Slim	I'm not wiggling them. They do that by themselves.
 	Nudar	I think I'll go back in time and steal the Liberty Bell before it cracked. Or is the crack the valuable part?
-	Professor Farnsworth	I don't know you naked crook.
+	Prof. Farnsworth	I don't know you naked crook.
 	Fleb	[reading from "A Brief History of Time Travel"] We have a problem Nudar. It's a one way time code. It can take us to the past, but it can't bring us back to the present.
 	Bender	Oh oh oh oh oh oh! Masters, if I might, let me do the stealing. I'll go to the past and snatch everything I can get my greasy mitts on. Then, as a robot, I could just wait it out for a few centuries in the limestone cavern beneath this building. Oh, it'll be ever so much fun.
 	Nudar	Hey, that's perfect. We sit back and let dum dum here do the stealing.
@@ -34,19 +34,19 @@
 	Bender	Sorry, it's not quite finished.
 	Schlump	: Da Vinci give you any trouble?
 	Bender	Let's just say he may not make it to The Last Supper. Hahahahahaha.
-	Professor Farnsworth	Preposterous twaddlecock. Time travel is impossible.
+	Prof. Farnsworth	Preposterous twaddlecock. Time travel is impossible.
 	Fry	But Professor, you time traveled yourself, remember, when we went back to Roswell?
-	Professor Farnsworth	That proves nothing. And furthermore, you'd think I'd remember a thing like that. Plus, who are you anyway?
+	Prof. Farnsworth	That proves nothing. And furthermore, you'd think I'd remember a thing like that. Plus, who are you anyway?
 	Bender	Man, this is fun on a bun. Here I go again.
 	Nibbler	Oh no you don't.
 	Bender	Scarab, four arm, bird, bird, bird!
 	Bender	Boo! Hahahaha. Naw, it's just me, Bender.
-	Professor Farnsworth	I must tell you Hedonismbot, I hate to sell my doomsday devices to a private collector. But with my business stolen I have to make ends meet. You will be careful?
+	Prof. Farnsworth	I must tell you Hedonismbot, I hate to sell my doomsday devices to a private collector. But with my business stolen I have to make ends meet. You will be careful?
 	Hedonismbot	I shan't touch them until I've had Jambi lock the absinthe and ether away. Ohhhh, what does this one do?
-	Professor Farnsworth	Uh, that one kills everything everywhere.
+	Prof. Farnsworth	Uh, that one kills everything everywhere.
 	Hedonismbot	How delightful. And this one?
-	Professor Farnsworth	Sir! The sphereoboom is not for sale.
-	Professor Farnsworth	It's my sentimental favorite.
+	Prof. Farnsworth	Sir! The sphereoboom is not for sale.
+	Prof. Farnsworth	It's my sentimental favorite.
 	Hedonismbot	No need to explain. I too have known unconventional love. Perhaps you and I, and Jambi, could get together and compare notes sometime, eh?
 	MC	... resulting in peace between east and west coat rappers ...
 	MC	Good god!
@@ -70,8 +70,8 @@
 	Bender	Wheeeeeeee.
 	Zoidberg	It's the damdest thing ...
 	Zoidberg	... there I was in the dumpster enjoying a moldy fudgesicle when suddenly your hand flies over and slaps me in the tokhes.
-	Professor Farnsworth	Yes, well, these things happen. Fortunately the sphereoboom is still safe.
-	Professor Farnsworth	Scammed? Me!? Sweetheart?!? Ohh!
+	Prof. Farnsworth	Yes, well, these things happen. Fortunately the sphereoboom is still safe.
+	Prof. Farnsworth	Scammed? Me!? Sweetheart?!? Ohh!
 	Hermes	You do a nice hand job, Zoidberg. Tell me, If I could find an undamaged body, could you recapitate me?
 	Zoidberg	Hermes, I'm a surgeon. When I see two body parts I sew them together and see what happens.
 	Hermes	Hmmm.
@@ -85,20 +85,20 @@
 	Hermes	You incompetent crab!
 	Zoidberg	I thought you were happy, your tail is wagging.
 	Hermes	Grrrrrr....
-	Professor Farnsworth	I believe this paradoicality equation to be unsolvable, ergo time travel is impossible. But I can't quite prove it, Bubblegum. Perhaps you and your razzle dazzle Globetrotter calculus could ...
+	Prof. Farnsworth	I believe this paradoicality equation to be unsolvable, ergo time travel is impossible. But I can't quite prove it, Bubblegum. Perhaps you and your razzle dazzle Globetrotter calculus could ...
 	Bubblegum	[interrupting] Looks pretty damn solvable to me, Farnsy. Sweet Clyde, use variation of parameter and expand the Wronskain.
-	Professor Farnsworth	Shizz, baby. So paradox free time travel is possible after all.
+	Prof. Farnsworth	Shizz, baby. So paradox free time travel is possible after all.
 	Bubblegum	Right on. But dig this multiplicand here.
-	Professor Farnsworth	The doom field? That must be what corrects the paradoxes.
+	Prof. Farnsworth	The doom field? That must be what corrects the paradoxes.
 	Curly Joe	When that momma rises exponentially, it could rupture the very fabric of causality.
 	Nibbler	That's what I've been trying to tell you.
-	Professor Farnsworth	Hermes, you got your body back. Hurrah!
+	Prof. Farnsworth	Hermes, you got your body back. Hurrah!
 	Hermes	Yes, but not the original. Bender went back in time and picked up a copy.
 	Bubblegum	A copy! Funky cold medina. According to this equation, a time travel duplicate results in a complex denominator in the causality ratio.
 	Sweet Clyde	Oh Snap! Bet you know what that means.
 	Hermes	I can guess. Actually, I can't guess.
 	Bubblegum	Prof, you got a doom meter in this lab.
-	Professor Farnsworth	[looking at doom meter showing nearly 1000 millidooms] Good Lord, Bubblegum. The duplicate body is emitting doom at ten times the back ground level.
+	Prof. Farnsworth	[looking at doom meter showing nearly 1000 millidooms] Good Lord, Bubblegum. The duplicate body is emitting doom at ten times the back ground level.
 	Bubblegum	I thought as much. A duplicate body is always doomed. It's just a matter of time.
 	Hermes	I don't care. I just need it long enough to bird dog in an win LaBarbara back.
 	Bubblegum	Best bird dog fast my brother.

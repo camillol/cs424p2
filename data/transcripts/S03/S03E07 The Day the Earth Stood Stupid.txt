@@ -1,6 +1,6 @@
 	Amy	Is Nibbler stoked for the big pet show?
 	Leela	He ought to be with all the strict training I've been putting him through. [She puts Nibbler down and takes a whole joint out of the bag.] Nibbler, roll over and you get a ham. [Nibbler doesn't move.] Roll over. Roll over for the ham. [Nibbler chirps and licks his leg and arm.] You are so adorable! Who wants a ham?
-	Professor Farnsworth	Zooka barooka! First prize is $500 and a year's supply of dog food!
+	Prof. Farnsworth	Zooka barooka! First prize is $500 and a year's supply of dog food!
 	Bender	"$500", you say?
 	Zoidberg	"Dog food", you say?
 	Fry	Man, that's dog's gonna be hard to beat. Look at him bring in the sheep! One sheep, two sheep ... [He yawns.] ... three sheep.
@@ -23,9 +23,9 @@
 	Judge #1	That's just the kind of eloquence you'd expect from the owner of Dumbest Pet in Show. [He puts a conical hat on Nibbler with "Dumb" written down the middle of it. Everyone laughs.] And the grand prize winner ... [He looks at his notes and adjusts his glasses.] [monotonous] ... the Hypno-Toad. [The Hypno-Toad sits on the podium hypnotising the judge. The Hypno-Toad turns to the crowd and they clap in unison.] All glory to the Hypno-Toad.
 	Leela	Maybe they're right. Maybe Nibbler is dumb.
 	Fry	Don't listen to them, Leela. People said I was dumb, but I proved them.
-	Professor Farnsworth	Good news, everyone! We were supposed to make a delivery to the planet Tweenis 12 but it's been completely destroyed.
+	Prof. Farnsworth	Good news, everyone! We were supposed to make a delivery to the planet Tweenis 12 but it's been completely destroyed.
 	Leela	Why is that good news?
-	Professor Farnsworth	They paid in advance.
+	Prof. Farnsworth	They paid in advance.
 	Bender	Excuse me.
 	Hermes	This is mighty strange. [He presses a remote control, the lights dim and a holographic display comes up on the table showing a series of planets.] First, the civilisation Space Rome collapsed, then Don Martin 3 went kaflooie and now Tweenis 12.
 	Fry	[pointing] Looks like this planet is next in line.
@@ -43,7 +43,7 @@
 	Bender	Am I a robot?
 	Fry	Bender, if this is some kind of scam, I don't get it. You already have my power of attorney.
 	Bender	Fry! [He gasps.] My skin!
-	Professor Farnsworth	Ow. Ow. Ow. [Enter Fry.] I'm a genius. Ow. Ow.
+	Prof. Farnsworth	Ow. Ow. Ow. [Enter Fry.] I'm a genius. Ow. Ow.
 	Fry	Dr. Zoidberg, why is everyone acting so weird?
 	Zoidberg	Zoidy want balloon! Want balloon now! [He jumps around.] Zoidy want go outside!
 	Fry	[angry] I just let you back in!
@@ -55,7 +55,7 @@
 	Linda	[on TV] It's a "T". It goes "tuh".
 	Morbo	[waving; on TV] Hello, little man. I will destroy you!
 	Fry	Man, even the news monster is acting strange. What are we gonna do?
-	Professor Farnsworth	Duh, I know! Let's play the lottery!
+	Prof. Farnsworth	Duh, I know! Let's play the lottery!
 	Amy	No. Let's buy Internet stock!
 	Zoidberg	On margin! Zoidy wanna buy on margin!
 	Hermes	Look at me! I'm invisible!
@@ -106,7 +106,7 @@
 	Leela	This! You for this!
 	Fry	Thanks!
 	Leela	No! [She runs over to it and puts her hand in the flame.] Ow! Fire hot.
-	Professor Farnsworth	The professy will help! [He puts his hand in and his lab coat catches fire. He screams.] Fire indeed hot!
+	Prof. Farnsworth	The professy will help! [He puts his hand in and his lab coat catches fire. He screams.] Fire indeed hot!
 	Arthur	Oh! Chester A. Arthur fall down.
 	Leela	Brain. Brain make people dumb.
 	Fry	No, Leela. Brain make people smart.

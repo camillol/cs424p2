@@ -10,11 +10,11 @@
 	Hermes	It's a triumph of free-spirited German engineering.
 	Amy	Hey, the speedometer only goes up to 80. This thing can't go faster than 80,000 miles an hour?
 	Fry	No, it can't, but it's got a driver's-side floor and an 8-track player with genuine mono sound.
-	Professor Farnsworth	Where's the device that lets you speed or slow the passage of time?
+	Prof. Farnsworth	Where's the device that lets you speed or slow the passage of time?
 	Fry	Under the seat.
 	Leela	Why won't it start?
 	Fry	It just needs some gas.
-	Professor Farnsworth	Wrong again, idiot. There is no gas. Petroleum reserves ran dry in 2038.
+	Prof. Farnsworth	Wrong again, idiot. There is no gas. Petroleum reserves ran dry in 2038.
 	Leela	Gas was an environmental disaster, anyway. Now we use alternative fuels.
 	Fry	Like what?
 	Leela	Whale oil. [She points to a barrel of Mobil Dick Whale Oil.] Bender, lift it up to the can opener.
@@ -26,7 +26,7 @@
 	Leela	Come on!
 	Hermes	You can do it!
 	Amy	Bender!
-	Professor Farnsworth	Go on, you dummy.
+	Prof. Farnsworth	Go on, you dummy.
 	Bender	[singing] Jimmy cracked corn and I don't care,[He screams in pain.]Jimmy cracked corn and I don't care,
 	Fry	Oh, no!
 	Bender	[singing] Jimmy cracked corn and I don't care,Cause the master's gone away.
@@ -39,7 +39,7 @@
 	Doctor	I'm sorry, you'll have to get a new one.
 	Fry	Oh, no! This is terrible.
 	Zoidberg	Poor Bender.
-	Professor Farnsworth	Well, let's drag him to the kerb.
+	Prof. Farnsworth	Well, let's drag him to the kerb.
 	Fry	Wait a minute, Bender is my best friend. We can't just dump him in the gutter like Grandma's ashes.
 	Bender	[crying] Oh, my life is over. I'll never know happiness again.
 	Robot	Ho, ho! Hello there!

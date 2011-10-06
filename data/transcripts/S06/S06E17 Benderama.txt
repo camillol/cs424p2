@@ -1,10 +1,10 @@
 	Hermes	So there it is, people. Due to budget cutbacks, we will no longer be offering free squid guts in the kitcken.
-	Professor Farnsworth	Oh, boo-hoo! Everyone, look at my latest invention.
+	Prof. Farnsworth	Oh, boo-hoo! Everyone, look at my latest invention.
 	Zoidberg	[monotonously] Okay.
 	Amy	I like how it's not killing us so far.
-	Professor Farnsworth	It takes any object and makes two smaller copies!
+	Prof. Farnsworth	It takes any object and makes two smaller copies!
 	Bender	[criticisingly] Why?
-	Professor Farnsworth	You see... As I age, I've been shrinking and feeling colder. So now I need twice as many sweaters in a smaller size. First, I scan the old sweater. [He puts a sweater on the replicator screen and presses a button. It scans the sweater like a Xerox machine.] Then, we add some matter. Any old, useless matter will do. [He dumps a book labelled Zoidberg's Wedding Album into it.] Now, the matter prism reorganises the raw material into two smaller copies.
+	Prof. Farnsworth	You see... As I age, I've been shrinking and feeling colder. So now I need twice as many sweaters in a smaller size. First, I scan the old sweater. [He puts a sweater on the replicator screen and presses a button. It scans the sweater like a Xerox machine.] Then, we add some matter. Any old, useless matter will do. [He dumps a book labelled Zoidberg's Wedding Album into it.] Now, the matter prism reorganises the raw material into two smaller copies.
 	Fry	So that's where babies' sweaters come from!
 	The Scary Door narrator	Enclosed as a PDF attachment, a picture of yourself in a boat on a river. It's a river that flows in two directions. Make that three. It's a magic river, that's how. And it's flowing down the eerie canal to... The Scary Door. That's eerie with two Es. [Close-up: A scientist's laboratory. The scientist finishes wielding a Robot.] Consider, if you have the energy, Dr. Daniel Zenus, an inventor with a terminal case of the lazies.
 	Dr. Daniel Zenus	This Robot will do everything for me. Robot, activate yourself and do my research. [The Robot flips its own on switch and powers up. It begins tinkering with test tubes as the scientist leans back in a chair with a pillow.] Ah!
@@ -17,9 +17,9 @@
 	Bender	Ah!
 	Fry	Man, I wish we had a Robot to do stuff.
 	Bender	I know, right?
-	Professor Farnsworth	Bender, thank God I found you in time. I need someone in the lab immediately to fold my new sweaters.
+	Prof. Farnsworth	Bender, thank God I found you in time. I need someone in the lab immediately to fold my new sweaters.
 	Bender	I'm sorry. Do you see a Robot in this room named Folder?
-	Professor Farnsworth	Fortunately, I came prepared with a backup phrasing. Uh, Bender, would you mind bending my new sweaters? There's only two of them.
+	Prof. Farnsworth	Fortunately, I came prepared with a backup phrasing. Uh, Bender, would you mind bending my new sweaters? There's only two of them.
 	Bender	Hey! Oh! You want me to do two things? Man, I'd call my lawyer if diallin' the phone wasn't such a hassle.
 	Bender duplicate	Go to hell, old man.
 	Bender	I like your attitude. Let's party. But, first, fold these two sweaters.
@@ -30,7 +30,7 @@
 	Bender	They're 60%-scaled replicas of me, Bender.
 	Leela	Does that mean they only do 60% of the work you do or that they actually do more work because they're only 60% as lazy?
 	Bender	Shut up. [The three Benders laugh.] That's a good one.
-	Professor Farnsworth	Enough good ones, everyone. We have a delivery to an Alien space giant.
+	Prof. Farnsworth	Enough good ones, everyone. We have a delivery to an Alien space giant.
 	Hermes	You'll have to be respectful. This customer is fifty-feet tall and sensitive about his appearance.
 	Amy	Colossal tooth whitener, mega deodorant, humongous acne cream... Aw, and one regular-sized condom.
 	Bender	All that and a small wiener? This guy's got it goin' on.
@@ -67,21 +67,21 @@
 	Bender on the other side	Who're you?
 	Insect-sized Bender	Bender sent me.
 	Insect-sized Bender	Hey, I know that guy!
-	Professor Farnsworth	Scruffy, what is that tiny Bender doing in my soup?!
+	Prof. Farnsworth	Scruffy, what is that tiny Bender doing in my soup?!
 	Scruffy	It appears to be giving you the finger, sir. Enjoy.
 	Bender duplicate	Help me! Help me! I'm too lazy to escape!
 	Bender duplicate	Ow.
 	Bender	What?
 	Hermes	This place is crawling with yous!
 	Bender	So there's more Benders around. As far as I'm concerned, that's good news!
-	Professor Farnsworth	Bad news, everyone! Look at this infinite series representing the mass of successive generations of Benders.
+	Prof. Farnsworth	Bad news, everyone! Look at this infinite series representing the mass of successive generations of Benders.
 	Fry	Don't wait for me.
-	Professor Farnsworth	It's nonconvergent!
+	Prof. Farnsworth	It's nonconvergent!
 	Fry	Oh, dip!
-	Professor Farnsworth	Unless we quickly exterminate them, they'll replicate ad infinitum and consume all the matter on Earth. [Everyone gasps as the projector illustrates the situation.] According to my calculations, there are eleven generations at the moment. [The Professor holds a mini-Bender with a pair of tweezers.] That's 2046 total Benders we need to destroy.
+	Prof. Farnsworth	Unless we quickly exterminate them, they'll replicate ad infinitum and consume all the matter on Earth. [Everyone gasps as the projector illustrates the situation.] According to my calculations, there are eleven generations at the moment. [The Professor holds a mini-Bender with a pair of tweezers.] That's 2046 total Benders we need to destroy.
 	Bender	Wait. Does that include me?
 	Bender	Too bad he didn't have his own Bible.
-	Professor Farnsworth	Just 2045 more to go!
+	Prof. Farnsworth	Just 2045 more to go!
 	Hermes	2045, 2046. That's it. We got 'em all except for the big one.
 	Amy	Wait. [Amy grabs a small Bender from a white box.] This isn't a real Bender. It's a talking doll from when Bender had that sitcom about the city Robot who moves back to the farm.
 	Bender doll	Shut your pumpkin, bumpkin.
@@ -91,11 +91,11 @@
 	Bender	What's with the grey goo?
 	Microscopic Bender	Bite my tiny metal ass.
 	Bender	Hey! Those jerklings ate my couch.
-	Professor Farnsworth	Oh, God. We've opened Pandora's fly. They'll reproduce without limit, consuming all the matter in the world.
+	Prof. Farnsworth	Oh, God. We've opened Pandora's fly. They'll reproduce without limit, consuming all the matter in the world.
 	Fry	Like the Kardashians.
 	Bender	Now they drank my booze?! They've gone too far!
 	Leela	Wait a second. All Benders are powered by alcohol!
-	Professor Farnsworth	Of course! Long before the Benders devour the Earth, they'll deplete the planet's booze and die off. This is a problem that will solve itself.
+	Prof. Farnsworth	Of course! Long before the Benders devour the Earth, they'll deplete the planet's booze and die off. This is a problem that will solve itself.
 	Bender	A problem that solves itself? That sounds like a job for me, Bender.
 	Morbo	Our top story: All alcohol on Earth has mysteriously disappeared. Consequences are minimal, except among the most hardened alcoholics. Linda?
 	Linda	[nervously] I can no longer face my children!
@@ -103,14 +103,14 @@
 	Scruffy	A greater tragedy my eyes have never beheld. Well, into the terlet.
 	Bender	So sober, so weak...
 	Leela	Things really worked out nicely this time.
-	Professor Farnsworth	This doesn't taste like old-man water.
-	Professor Farnsworth	[from the bathroom] Everyone to The Situation Room!
-	Professor Farnsworth	I was lying here, snoozing, dreaming, oddly enough, about bathing in champagne with six of the world's most distinguished scientists, when suddenly I realised my bathwater had been transformed into alcohol.
+	Prof. Farnsworth	This doesn't taste like old-man water.
+	Prof. Farnsworth	[from the bathroom] Everyone to The Situation Room!
+	Prof. Farnsworth	I was lying here, snoozing, dreaming, oddly enough, about bathing in champagne with six of the world's most distinguished scientists, when suddenly I realised my bathwater had been transformed into alcohol.
 	Bender	Alcohol?
 	Fry	Chug! Chug!
 	Bender	It's like fine cognac with a hint of aged scrotum.
 	Leela	How can this be? I thought the Benders drank all the alcohol in the world!
-	Professor Farnsworth	They did. But then they made more! You see, once the Benders reached atomic scale, they began directly manipulating water and CO2 molecules to make alcohol. [A microscopic Bender burps, burning the Professor's hand. The Professor screams effeminately.] In a matter of hours, there will be no more fresh water on Earth.
+	Prof. Farnsworth	They did. But then they made more! You see, once the Benders reached atomic scale, they began directly manipulating water and CO2 molecules to make alcohol. [A microscopic Bender burps, burning the Professor's hand. The Professor screams effeminately.] In a matter of hours, there will be no more fresh water on Earth.
 	Bender	Oh, no! What will I mix with my Scotch?
 	Linda	Hey, you! Good evening. Who're you calling drunk? You're not drunk! I'm drunk.
 	Morbo	That's right, Linda. Water is now— Now booze and everyone's tetty much protally fitshaced.
@@ -124,7 +124,7 @@
 	Fry	Minds?
 	Leela	Wha?
 	Fry	No, listen. I freakin' love you. But I don't throw that word around!
-	Professor Farnsworth	Oh, I know you don't. That's why I love you. Are the pizza muffins ready?
+	Prof. Farnsworth	Oh, I know you don't. That's why I love you. Are the pizza muffins ready?
 	Fry	He's here for revenging. That's why.
 	Unattractive giant monster	No! Wait! I'm here to apologise.
 	Leela	For your looks? [Leela laughs.] Nice one.
@@ -134,7 +134,7 @@
 	Zoidberg	You're projecting an air of something.
 	Amy	You're so stinky, you need right guard and left guard.
 	Unattractive giant monster	I'll take your hygiene advice to heart.
-	Professor Farnsworth	You're ugly!
+	Prof. Farnsworth	You're ugly!
 	Unattractive giant monster	Hey! Ow!
 	Zapp	Yo, freakshow! Your face has been declared a weapon of mass disgusting!
 	Kif	Timeless.
@@ -178,7 +178,7 @@
 	Bender	Well, that was dumb.
 	Fry	Looks like it's full of dig dogs.
 	Amy	Man, we're way drunk. What happened, Professor?
-	Professor Farnsworth	Something absolutely incredible! The sweaters got folded.
+	Prof. Farnsworth	Something absolutely incredible! The sweaters got folded.
 	Zoidberg	But how?
 	Fry	I didn't do it. Bender, did you learn a lesson about not bein' lazy while the rest of us were bombed out of our gourds?
 	Bender	Maybe I did, Fry. Maybe I did. Or maybe I rescued one last mini-Bender to fold stupid, ugly sweaters while I laughed at him. [Bender giggles.] I guess we'll never know.

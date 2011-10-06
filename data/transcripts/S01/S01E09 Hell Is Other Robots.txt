@@ -52,7 +52,7 @@
 	Fry	Bender? No way! [The lights dim.] I definitely would've noticed something.
 	Leela	Bender, why are you spending so much time in the bathroom? Are you jacking on in there?
 	Bender	[from inside] No! Don't come in!
-	Professor Farnsworth	Good news, everyone! Today you'll be delivering a crate of subpoenas to Sicily 8, the Mob Planet!
+	Prof. Farnsworth	Good news, everyone! Today you'll be delivering a crate of subpoenas to Sicily 8, the Mob Planet!
 	Bender	Alright, let's get to work! I'll be out in a second.
 	Fry	I know Big Vinnie said he was giving me the kiss of death but I still think he was gay.
 	Leela	Did he use his tongue?
@@ -85,7 +85,7 @@
 	Bender	No, I'm whacked out on life. My friends, I found religion.
 	Fry	Religion? Is this another scam to get free yarmulkes?
 	Leela	Give him a break, Fry. If this helps Bender clean up his act then I think we should be supportive.
-	Professor Farnsworth	[simultaneous] Yes.
+	Prof. Farnsworth	[simultaneous] Yes.
 	Amy	[simultaneous] Oh, yeah.
 	Hermes	[simultaneous] Oh, yes!
 	Zoidberg	[simultaneous] Oh, yeah.
@@ -112,7 +112,7 @@
 	Bender	Sanctifying it! [Leela sighs. Bender has stuck on a robot version of the Ichthus.] There! That ought to convert a few tailgaters.
 	Fry	Bender's stupid religion is driving me nuts.
 	Leela	Amen.
-	Professor Farnsworth	If only he had joined a mainstream religion like Oprah-ism or Voodoo.
+	Prof. Farnsworth	If only he had joined a mainstream religion like Oprah-ism or Voodoo.
 	Fry	We've got to get the old Bender back.
 	Leela	And I think I know a way to do it. We have to reacquaint him with a little thing called "sleaze".
 	Bender	I can't believe somebody hired an interstellar spaceship to deliver a package to Atlantic City. What are we delivering anyway?

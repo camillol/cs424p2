@@ -154,7 +154,7 @@
 	Leela	What?
 	Robot Devil	[singing] You'd give me your hand in marriage.
 	Hermes	[singing] Is this really happening or just being staged?
-	Professor Farnsworth	[singing] It can't be real--
+	Prof. Farnsworth	[singing] It can't be real--
 	Amy	[singing] Not if Leela is engaged.
 	Leela	[singing] That isn't what I meant,That isn't what I signed.
 	Robot Devil	[singing] You should have checked the wording in the fine... [He makes the contract larger.] Print.
@@ -165,7 +165,7 @@
 	Fry	[singing] Destiny has cheated me,By forcing me to decide upon,The woman that I idolise,Or the hands of an automaton,Without these hands I can't complete,The opera that was captivating her,But if I keep them,And she marries him,Then he probably won't want me dating her.
 	Richard Nixon	Arooo!
 	Zapp	Bray-vo! Enn-core!
-	Professor Farnsworth	[singing] I can't believe the devil is so unforgiving.
+	Prof. Farnsworth	[singing] I can't believe the devil is so unforgiving.
 	Zoidberg	[singing] I can't believe everybody's just ad-libbing!
 	Preacherbot	[singing] By the power vested in me,By the state of New New York--
 	Fry	No! [He pushes the Robot Devil away from Leela.] Stop! Take my hands!(singing) You evil, metal dork!

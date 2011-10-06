@@ -6,9 +6,9 @@
 	Fry	And there's a robot scratching post. [Robots bat around a beer bottle on the scratching post.] You should try it out, Bender.
 	Bender	Please, I have some dignity!
 	Wernstrom	Ladies and gentlemen, my Killbot features Lotus Notes and a machine gun. It is the finest available.
-	Professor Farnsworth	Like fun it is, you glass-headed wallaby!
+	Prof. Farnsworth	Like fun it is, you glass-headed wallaby!
 	Wernstrom	No one calls me that! I'm having at you!
-	Professor Farnsworth	Wernstrom!
+	Prof. Farnsworth	Wernstrom!
 	Farnsworth's Killbot	Such senseless aggression.
 	Wernstrom's Killbot	Come on. Let's go for a paddle-boat ride.
 	Bender	The secret was scratching really, really hard!
@@ -34,14 +34,14 @@
 	Bender	Uh, I never got the change. [He sniggers.] Suckers.
 	Mom	Presenting Mom's Friendly Robots.
 	Bender	That new robot is great, huh? Sure made me look like a pile of crap!
-	Professor Farnsworth	Indeed. That's why I bought one to help around the office.
+	Prof. Farnsworth	Indeed. That's why I bought one to help around the office.
 	Bender	[hoarse] Eep!
 	Leela	Let's try him out. Robot 1-X, can you clean Nibbler's stanky litterbox?
 	Robot 1-X	I can and will.
 	Bender	Hey, I could have done that if you'd asked me.
 	Leela	I asked you five minutes ago.
 	Bender	You call that a kiss? I'll show you! [He stands up and picks up Nibbler.] C'mere, Nibbler!
-	Professor Farnsworth	Oh, look, Bender. If you want something to do stop making out and give us a hand.
+	Prof. Farnsworth	Oh, look, Bender. If you want something to do stop making out and give us a hand.
 	Hermes	Here. Go up on the roof and install this fake satellite dish so we can impress the neighbours.
 	Bender	Yes, sir. I'm on it!
 	Hermes	Oh, and have Robot 1-X help you.
@@ -59,14 +59,14 @@
 	Bender	I hate him.
 	Leela	But he's just a tool to make your life easier. Like a socket wrench or a burglar's kit.
 	Bender	I can't ask for his help because--
-	Professor Farnsworth	Yes?
+	Prof. Farnsworth	Yes?
 	Bender	[whispering] I'm scared of him.
 	Leela	Oh, sorry.
-	Professor Farnsworth	Well then there's only one solution: You need an upgrade to make you compatible with Robot 1-X's new technology.
+	Prof. Farnsworth	Well then there's only one solution: You need an upgrade to make you compatible with Robot 1-X's new technology.
 	Bender	An upgrade? But I thought we all agreed I was perfect! Fry, didn't we agree I was perfect?
 	Fry	Oh, yeah, no, you're pretty perfect.
 	Bender	Pretty perfect? So, you do think I need an upgrade?
-	Professor Farnsworth	Yes! For God's sakes, yes!
+	Prof. Farnsworth	Yes! For God's sakes, yes!
 	Bender	[crying] Fine. I'll be back in a few days.
 	Roberto	Man, I hate those new 1-X robots. I'd like to stab 'em! Give 'em some of these!
 	Bender	Yeah! Right on, nutcake!
@@ -132,17 +132,17 @@
 	Bender	Whoa, whoa! No one wants to count rocks more than me. But our mission is not complete. Not so long as Robot 1-X torments me with his obvious superiority. Ready the catapult, Sinclair. [Sinclair loads a rock into the catapult. The submarine faces the Planet Express building.] Aim for their power lines. They're the devil's veins and electricity is his blood.
 	Lisa	Bender, If we don't survive the attack, I want you to know ... I love you.
 	Bender	OK, fine. Fire!
-	Professor Farnsworth	[shouting] Oh! I'm blind!
+	Prof. Farnsworth	[shouting] Oh! I'm blind!
 	Leela	Professor, we have no power.
-	Professor Farnsworth	What do you mean "no power"? We're living in the future.
+	Prof. Farnsworth	What do you mean "no power"? We're living in the future.
 	Leela	I'd better light some candles.
 	Bender	Friends, I've come to free you from your complicated lives. Free you from the "complicated" part I mean not the "lives" part.
 	Leela	Oh, Lord, he's made of wood! What now, Bender?
 	Bender	I got a downgrade! I'm a steam-powered wooden robot, just as nature intended. Therefore, I must kill Robot 1-X.
-	Professor Farnsworth	That's just stupid.
+	Prof. Farnsworth	That's just stupid.
 	Robot 1-X	Does Mr. Bender wish me to destroy myself?
 	Bender	I don't need your charity. [He turns to the hole.] [shouting] Target Robot 1-X and fire!
-	Professor Farnsworth	You wanged my ship, you walnut-panelled idiot!
+	Prof. Farnsworth	You wanged my ship, you walnut-panelled idiot!
 	Bender	[shouting] Try again, Sinclair. I said "target Robot 1-X"!
 	Sinclair	[shouting; from submarine] Who's Robot 1-X? Launching.
 	Zoidberg	So, I guess everything worked out fine.

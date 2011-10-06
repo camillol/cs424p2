@@ -1,5 +1,5 @@
 	Amy	Shman! The Great Rad Spot is mega-sweet for party-boarding.
-	Professor Farnsworth	Indeed.
+	Prof. Farnsworth	Indeed.
 	Amy	Any calls while I was out?
 	Leela	Yeah. You got a tele-sonic transmission from Kif a couple hours ago.
 	Amy	My Kiffie called? [She walks over to the screen. Kif is still on the line, drumming his fingers on the desk in front of him.] Kif?
@@ -13,10 +13,10 @@
 	Zapp	[on screen] Lieutenant, some things came off me and clogged the drain, so if you could-- Oh, ho! What's this?
 	Zapp	Well, well, well! Do my eyes believe me or is that my bosom-y swan, Leela?
 	Leela	[on screen] Say again. You're breaking up!
-	Professor Farnsworth	Good news, everyone! You'll be delivering pain medicine to the hive mind of Nigel 7.
+	Prof. Farnsworth	Good news, everyone! You'll be delivering pain medicine to the hive mind of Nigel 7.
 	Scruffy	Scruffy's rollin' out a large pill!
 	Amy	You're going to Nigel 7? Kif's on patrol near there. You could drop me off on the way.
-	Professor Farnsworth	We could but we won't! It's a spaceship, damnit, not a prom limousine! [He growls.] If anyone needs me I'll be in the Angry Dome.
+	Prof. Farnsworth	We could but we won't! It's a spaceship, damnit, not a prom limousine! [He growls.] If anyone needs me I'll be in the Angry Dome.
 	Leela	This is a very long trip. So we'll all have to go into hibernative-naptosis to save oxygen.
 	Bender	[muttering] I don't even breathe oxygen!
 	Amy	[whispering] Here I come, Kif!
@@ -81,11 +81,11 @@
 	Zapp	Ah, my home away from home. By the way, Kif, your flush seemed to be set on stun, not kill.
 	Amy	Look, Kif, I probably am the mother. Although maybe I'm not. Of course, I hope I am. But just in case I'm not, maybe we should have a test.
 	Bender	A test! I demand a test!
-	Professor Farnsworth	Even I laughed at me when I built this alien cross-species genetic analyser. But I guess I showed myself! Subjects, please enter the chamber. [Fry, Leela, Amy and Zapp walk into it.] Now to take a DNA sample. [He draws some liquid from Kif, making him deflate, then puts the liquid in a part of the machine.] When I pull this switch, the maternifuge will spin at 10,000 RPM, separating out everyone who isn't the mother-- Father-- Whatever!
+	Prof. Farnsworth	Even I laughed at me when I built this alien cross-species genetic analyser. But I guess I showed myself! Subjects, please enter the chamber. [Fry, Leela, Amy and Zapp walk into it.] Now to take a DNA sample. [He draws some liquid from Kif, making him deflate, then puts the liquid in a part of the machine.] When I pull this switch, the maternifuge will spin at 10,000 RPM, separating out everyone who isn't the mother-- Father-- Whatever!
 	Bender	Faster! Faster!
-	Professor Farnsworth	Good. Fry's ejection indicates that he is not the man-mom. [Zapp comes through the tube, gets stuck halfway and finally flies out and lands on Fry.] Nor is Captain Brannigan.
+	Prof. Farnsworth	Good. Fry's ejection indicates that he is not the man-mom. [Zapp comes through the tube, gets stuck halfway and finally flies out and lands on Fry.] Nor is Captain Brannigan.
 	Kif	Oh, thank you, merciful God!
-	Professor Farnsworth	Zoidberg? What the hell were you doing in there?
+	Prof. Farnsworth	Zoidberg? What the hell were you doing in there?
 	Zoidberg	That's where I live. I have no home.
 	Kif	Amy? But that means--
 	Kif	Leela must have impregnated me when she grabbed my ungloved hand. That explains the poster in hygiene class: "No Glove, No Love".

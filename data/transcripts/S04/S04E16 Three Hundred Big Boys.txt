@@ -5,7 +5,7 @@
 	Amy	I'm slightly richer!
 	Bender	What to do, what to do? One $300 hookerbot or 300 $1 hookerbots?
 	Leela	I'm going to swim with a whale. They're the gentle giants of the deep.
-	Professor Farnsworth	I'm well aware of that.
+	Prof. Farnsworth	I'm well aware of that.
 	Scruffy	Scruffy's gonna get himself one of them $300 haircuts. This one's lost its pizzazz!
 	Zoidberg	A fortune, it is! At last Zoidberg will live like a rich man!
 	Richard Nixon	[on bill] Hey, cut it out! Go away! Get away!
@@ -26,9 +26,9 @@
 	Amy	I almost feel kinda shallow for blowing my rebate on this cool talking tattoo!
 	Tattoo #1	Hey, Gordon Gecko! I cost as much as this whole crummy date!
 	Amy	Shut up! [She slaps her arm.] Ow!
-	Professor Farnsworth	Uh, ma'am, it has become too much of a chore for me to clean out my wrinkles each day. Is it true that stem cells may fight the aging process?
+	Prof. Farnsworth	Uh, ma'am, it has become too much of a chore for me to clean out my wrinkles each day. Is it true that stem cells may fight the aging process?
 	Geneworks Woman	Well, yes. In the same way an infant may fight Muhammad Ali. But--
-	Professor Farnsworth	One pound of stem cells, please.
+	Prof. Farnsworth	One pound of stem cells, please.
 	Geneworks Woman	Of course, any age-reversing effects will be purely temporary.
 	Bender	Say, buddy, why's this Grand Cigar so pricey?
 	Clerk	Well, as you can see, its wrapper is a piece of the original US Constitution. It was hand-rolled by Queen Elizabeth during her wild years and was buried with George Burns until graverobbing space mushrooms-- Uh, well you know the rest.
@@ -44,7 +44,7 @@
 	Dwight	[shouting] I don't wanna!
 	Hermes	Well then I'm gonna put 'em on and make you watch me have fun. [He sits on the steps, puts the boots on, stands up and smiles.] See? Fun! Fun-- [The bamboo comes out of the bottom of the boots and lifts Hermes into the air. He screams.] Dwight! Help me!
 	Dwight	I'll save you, Pops!
-	Professor Farnsworth	Hey! Turn that damn music-- [A woman looks up at him] Up!
+	Prof. Farnsworth	Hey! Turn that damn music-- [A woman looks up at him] Up!
 	Hermes	Isn't this fun?
 	Dwight	No! I wish I had two mommies!
 	Randy Munchnik	Try these, uh, sir.
@@ -77,9 +77,9 @@
 	Elzar	Freshen your coffee, sir?
 	Fry	Yeah, yeah, yeah! Keep it coming! Put the pot down! Get away!
 	Woman	You're so young in spirit. It's hard to believe you're as old as 25.
-	Professor Farnsworth	The key is to grab life by the hojos! Live every day like it might be your last.
+	Prof. Farnsworth	The key is to grab life by the hojos! Live every day like it might be your last.
 	Elzar	What'll it be, kids?
-	Professor Farnsworth	One bowl of mild farina.
+	Prof. Farnsworth	One bowl of mild farina.
 	Leela	Pay dirt! [She closes the door and pulls the plug out of the socket.] Hi-yah!
 	Elzar	Here you go, big spender. Foie gras and caviar.
 	Zoidberg	Goose liver? Fish eggs? [He eats it and spits it out.] Pah! Where's the goose? Where's the fish?
@@ -103,7 +103,7 @@
 	Whale Biologist	The suit was ugly. Whale biologist!
 	Caddy	Perhaps if you tightened your grip, sir?
 	Zoidberg	Ah! Thank you, golf slave. [He tightens his grip and cuts through the golf club.] Bah! Rich people wouldn't waste their time on this nonsense. Plus, these eggs are gritty and tasteless.
-	Professor Farnsworth	Ow! Not so rough!
+	Prof. Farnsworth	Ow! Not so rough!
 	Whale Biologist	Ladies and gentlemen, presenting Mushu, the educated whale who thinks he's better than you.
 	Amy	C'mon, Mushu! Barf! Barf like a freshman!
 	Whale Biologist	And now, ignorant whale lovers, we'll see who's boss as I make Mushu jump through this hoop. Jump, Mushu! [Mushu jumps but he is so sick that he has to stop halfway through the ring.] Who wants a fish?
@@ -131,15 +131,15 @@
 	Whale Biologist	You heard Roseanne. Scrape off the priceless ambergris and I'll let you go.
 	Kif	Or-Or better yet, I'll simply shed my skin.
 	Morbo	Stop it! Stop it! It's fine! I will destroy you!
-	Professor Farnsworth	Wha? [His stem cells start to come away from his skin and his gasps. His hands go wrinkly, his hairline recedes, his face goes floppy and his ears go hairy.] Uh, gotta go. Uh, fight club!
+	Prof. Farnsworth	Wha? [His stem cells start to come away from his skin and his gasps. His hands go wrinkly, his hairline recedes, his face goes floppy and his ears go hairy.] Uh, gotta go. Uh, fight club!
 	Woman	What's happening, Hubie?
-	Professor Farnsworth	I'm afraid the face you fell in love with was actually just a blob of living gunk I bought with my tax refund.
+	Prof. Farnsworth	I'm afraid the face you fell in love with was actually just a blob of living gunk I bought with my tax refund.
 	Woman	Well as long as we're being honest, I also spent my tax refund on a crazy treatment.
-	Professor Farnsworth	That certainly is honest.
+	Prof. Farnsworth	That certainly is honest.
 	Woman	It's better for us to both just be ourselves. You, wrinkled as a prune.
-	Professor Farnsworth	You, fat as the queen of sea cows.
+	Prof. Farnsworth	You, fat as the queen of sea cows.
 	Woman	I love you!
-	Professor Farnsworth	Oh, my!
+	Prof. Farnsworth	Oh, my!
 	Kif	So, you see, the putrid, waxy substance I was coated with was--
 	Amy	Not precious ambergris!
 	Kif	Yes! And I managed to sneak some out in the usual place. Ta-da! [He hands it to Amy.] Using that, I'll make you a perfume of lilac and jasmine and frankenberry.
@@ -156,10 +156,10 @@
 	Zapp	Leela, my precious rock tub. I'll save you!
 	Kif	Everyone! To the fire door!
 	Leela	It's on fire!
-	Professor Farnsworth	We're trapped, my sweet hippopotamus!
+	Prof. Farnsworth	We're trapped, my sweet hippopotamus!
 	Fry	Coffee, coffee, coffee, coffee, coffee, coffee, coffee, coffee, coffee, coffee!
 	Dwight	Where are we, Pops?
-	Professor Farnsworth	Wha?
+	Prof. Farnsworth	Wha?
 	Woman	What happened to the food?
 	Leela	I think we were saved by a mysterious orange blur.
 	Zoidberg	Welcome, one and all. I finally figured out how money could make me happy. By using it to buy my hungry friends a feast.
@@ -175,7 +175,7 @@
 	Hermes	A risk-taker? That's my boy!
 	Richard Nixon	The entire surplus is gone! Oh, what a McGovern I've been! Why did I have to issue that crooked tax rebate?
 	Leela	At least we got a few mildly interesting stories out of it.
-	Professor Farnsworth	Oh, my, yes.
+	Prof. Farnsworth	Oh, my, yes.
 	Bender	Speaking of which, my story kinda petered out without me learning a lesson.
 	Smitty	There he is!
 	Bender	Alright! Closure!

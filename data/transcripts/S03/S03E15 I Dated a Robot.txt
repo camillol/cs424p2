@@ -13,10 +13,10 @@
 	Amy	Big deal!
 	Bender	We all feel like that all the time. You don't hear us gassin' on about it.
 	Fry	How can you people be so blasé? Here you are in the year 3000 or so, yet you just sit around like it's the boring time I came from.
-	Professor Farnsworth	Boring? Wasn't that the period when they cracked the human genome and boy bands roamed the Earth?
+	Prof. Farnsworth	Boring? Wasn't that the period when they cracked the human genome and boy bands roamed the Earth?
 	Fry	Yeah. But now it's the distant future. Why aren't we out doing everything I ever dreamed of?
 	Leela	Hey, you know what might be a hoot?
-	Professor Farnsworth	No. Why would I know that?
+	Prof. Farnsworth	No. Why would I know that?
 	Leela	Let's take the rest of the morning off and take Fry to do everything he ever wanted to do.
 	Fry	[sexfully] Everything?
 	Leela	Except that.
@@ -26,9 +26,9 @@
 	Fry	I wanna see the edge of the universe!
 	Amy	Ooh! That sounds cool.
 	Zoidberg	It's funny. You live in the universe, but you never do these things till someone comes to visit.
-	Professor Farnsworth	[from ship] There it is! The edge of the universe!
+	Prof. Farnsworth	[from ship] There it is! The edge of the universe!
 	Fry	Far out! So there's an infinite number of parallel universes?
-	Professor Farnsworth	No, just the two.
+	Prof. Farnsworth	No, just the two.
 	Fry	Oh, well, I'm sure that's enough.
 	Bender	I'm sick of parallel Bender lording his cowboy hat over me! Let's move on to Fry's next fantasy.
 	Fry	[shouting] Yee-haw! Bow before your master, puny mortals! [He hoots.] Giddy-up!
@@ -38,7 +38,7 @@
 	Leela	Keep your palms flat.
 	Fry	The tongue tickles.
 	Fry	These new hands are great. I'm gonna break 'em in tonight.
-	Professor Farnsworth	Yes, it's been quite an hour and a half.
+	Prof. Farnsworth	Yes, it's been quite an hour and a half.
 	Fry	I've only got two fantasies left: Be invisible in a chocolate factory and be romantically linked with a celebrity.
 	Bender	I could pound your head till you think that's what happened.
 	Fry	OK.
@@ -48,7 +48,7 @@
 	Fry	[reading] Download a celebrity from the Internet? What part of that do I understand?
 	Leela	It's simple. You can download a celebrity's personality and appearance into a blank robot.
 	Fry	Hey, I have an idea. Let's do that!
-	Professor Farnsworth	Onto the Internet you go!
+	Prof. Farnsworth	Onto the Internet you go!
 	Bender	Oh, and while you're there, pick me up a few credit card numbers.
 	Trekkie #1	No way! Kirk could kick Picard's ass!
 	Trekkie #2	Yeah? At least Picard had the guts to admit he was bald!
@@ -66,14 +66,14 @@
 	Salesman	Nah, nothing like that. Though we do have Lucy Liu. [Fry gasps.] Only woman ever to be named People magazine's woman of the year twice. In 2003, and then again in 2063.
 	Fry	I'd like the 2003 model.
 	Fry	I've found her! What do I do now?
-	Professor Farnsworth	Download her. Let's just put a blank robot in the drive.
+	Prof. Farnsworth	Download her. Let's just put a blank robot in the drive.
 	Fry	It worked!
 	Liubot	You're one sexy man, [mechanical voice] Philip J. Fry.
 	Fry	[muffled] It worked perfectly!
 	Leela	Well, you downloaded Lucy Liu. Are you just going to stare vacantly at her and not say anything?
 	Liubot	I find your slack-jawed stare very attractive, [mechanical voice] Philip J. Fry.
 	Fry	Did you hear that? She likes me!
-	Professor Farnsworth	Well, duh! She's programmed to like you!
+	Prof. Farnsworth	Well, duh! She's programmed to like you!
 	Fry	But this is Lucy Liu! Perhaps the only good actress of the 21st century! She's more than just a piece of software.
 	Liubot	Would you like to take a moment to register me?
 	Fry	Uh, not right now.
@@ -92,14 +92,14 @@
 	Fry	You!
 	Liubot	You!
 	Fry	You!
-	Professor Farnsworth	Oh, dear! She's stuck in an infinite loop and he's an idiot. Well, that's love for you.
+	Prof. Farnsworth	Oh, dear! She's stuck in an infinite loop and he's an idiot. Well, that's love for you.
 	Bender	Humans dating robots is sick. You people wonder why I'm still single? It's 'cause all the fine robot sisters are dating humans!
 	Leela	Bender, this is Fry's decision ... and he made it wrong. So it's time for us to interfere in his life.
 	Leela	She doesn't really love you. She can't. She's just a machine that--
 	Bender	[shaking his fist] Stay away from our women! You got metal fever, boy! Metal fever!
 	Fry	Well, so what if I love a robot? It's not hurting anybody.
 	Hermes	My God! He never took middle school hygiene. He never saw the propaganda film.
-	Professor Farnsworth	It's just lucky I keep a copy in the VCR at all times.
+	Prof. Farnsworth	It's just lucky I keep a copy in the VCR at all times.
 	Narrator	[in movie] Ordinary human dating. It's enjoyable and it serves an important purpose. [He turns the table over and a crying baby appears. He turns it back again.] But when a human dates an artificial mate, there is no purpose. Only enjoyment. And that leads to ... tragedy.
 	Billy	[in movie] Neat-o! A Marilyn Monroe-bot!
 	Monroe-bot	[in movie] Ooh! You're a real dreamboat, [mechanical voice] Billy Everyteen.
@@ -116,7 +116,7 @@
 	Announcer	[voice-over; in movie] Brought to you by the Space Pope.
 	Leela	Did that make any impression on you, Fry? Fry?
 	Liubot	Ooh!
-	Professor Farnsworth	I knew I should have shown him Electro Gonorrhoea: The Noisy Killer.
+	Prof. Farnsworth	I knew I should have shown him Electro Gonorrhoea: The Noisy Killer.
 	Bender	What is the world coming to? That Fry's a sicko poivert, I tell you. Dating a robot! It's an atrosmacy!
 	Leela	But Fry's our friend, Bender.
 	Bender	Aw, jeez, would you stifle there, meatbag?

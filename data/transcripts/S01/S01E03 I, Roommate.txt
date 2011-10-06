@@ -10,9 +10,9 @@
 02:03	Leela	Professor, We need to talk to you about Fry.
 02:05	Bender	That's right, we want some money— Wait. What's this about Fry?
 02:08	Leela	He's a nice guy but we think it's about time he got his own place.
-02:12	Professor Farnsworth	Oh, fuff! He's not causing any trouble. Now, if you don't mind, I'm rather busy. I seem to have mislaid my alien mummy. [He picks a small box and opens it. It is empty.] This sarcophagus should contain the remains of Emperor Nimballa, who ruled Zuban 5 over 29 million years ago.
+02:12	Prof. Farnsworth	Oh, fuff! He's not causing any trouble. Now, if you don't mind, I'm rather busy. I seem to have mislaid my alien mummy. [He picks a small box and opens it. It is empty.] This sarcophagus should contain the remains of Emperor Nimballa, who ruled Zuban 5 over 29 million years ago.
 02:28	Fry	Hey, Professor, great jerky!
-02:33	Professor Farnsworth	My God, this is an outrage! I was going to eat that mummy! Fry has got to go!
+02:33	Prof. Farnsworth	My God, this is an outrage! I was going to eat that mummy! Fry has got to go!
 02:42	Announcer	[voice-over; on TV] Bachelor Chow, now with flavour!
 02:45	Commentator	[voice-over; on TV] And Bigfoot is down!
 02:47	Fry	Sheesh! 40,000 channels and only 150 have anything good on.
@@ -95,7 +95,7 @@
 08:55	Fry	Well, I give up. What's the catch?
 08:57	Suspiciously fantastic apartment salesman	Oh, no catch. Although we are technically in New Jersey.
 09:01	Fry	Not one place even remotely liveable.
-09:04	Professor Farnsworth	Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up? To shreds, you say. Very well then. [He hangs up.] Sad, sad, terrible, gruesome news about my colleague, Dr. Mbutu.
+09:04	Prof. Farnsworth	Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up? To shreds, you say. Very well then. [He hangs up.] Sad, sad, terrible, gruesome news about my colleague, Dr. Mbutu.
 09:21	Leela	Was his apartment rent-controlled?
 09:29	Leela	Wow. This is beautiful.
 09:32	Bender	What's with all the crap?
@@ -111,7 +111,7 @@
 11:12	Leela	Happy housewarming, Fry! [Fry stares blankly at Leela's gift.] It's a miniature fruit salad tree.
 11:17	Fry	Ooh! [He takes off a miniature banana, peels it, eats it and tosses the skin on the floor. Amy slips over it and screams.] Hey, Amy!
 11:25	Amy	Hey!
-11:26	Professor Farnsworth	This is for you, Fry [He hands Fry a small, gift-wrapped mummy.] Zevulon the Great. He's teriyaki style.
+11:26	Prof. Farnsworth	This is for you, Fry [He hands Fry a small, gift-wrapped mummy.] Zevulon the Great. He's teriyaki style.
 11:33	Bender	Wow! Heavy-drinking crowd! [He belches fire.] I'd better go out for more beer.
 11:38	Fry	Hey, hang on, All My Circuits is about to start!
 11:42	Bender	I know, but I need alcohol to power up my batteries. If Calculon's wedding doesn't go just right I'll be emotionally and electrically drained.
@@ -125,7 +125,7 @@
 12:21	Calculon	[on TV] I'm afraid my half-brother is correct. You see, I have a terrible secret and that secret is--
 12:27	Amy	Oh, this isn't right.
 12:28	Hermes	Oh, come on!
-12:29	Professor Farnsworth	Fix it!
+12:29	Prof. Farnsworth	Fix it!
 12:30	Bender	Hey, what happened to the TV?
 12:32	Fry	It just went out.
 12:33	Bender	This is an outrage! I'm gonna go yell at the manager!
@@ -146,7 +146,7 @@
 13:41	Tenant #1	Get out!
 13:42	Bender	You people are nuts. My antenna never interfered with my old TV.
 13:46	Leela	You had cable. This is satellite.
-13:49	Professor Farnsworth	Obviously your thoughts are being transmitted on the same frequency.
+13:49	Prof. Farnsworth	Obviously your thoughts are being transmitted on the same frequency.
 13:52	Huge-assed woman	They're on my cell phone too.
 13:54	Bender	Madam, I believe you're mistaken!
 13:57	Bender	[thinking; on phone] Wow, that lady's got a huge ass!
@@ -171,7 +171,7 @@
 15:04	Calculon	[on TV] Mind if I give the eulogy?
 15:08	Monique	[on TV] Calculon! You're alive!
 15:13	Randy Munchnik	Calculon's back!
-15:16	Professor Farnsworth	Right, so long.
+15:16	Prof. Farnsworth	Right, so long.
 15:18	Zoidberg	Goodbye.
 15:19	Amy	[crying] Do you think Calculon's evil twin will ever walk again?
 15:23	Hermes	I don't know, Amy. I just don't know.

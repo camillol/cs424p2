@@ -13,7 +13,7 @@
 	Hermes	Ooh. While you're there, could you pick me up a licence to kill?
 	Leela	Sure. Bare hands or weapon?
 	Hermes	Uh, what does piano wire count as?
-	Professor Farnsworth	Good news, anyone. The Swedish robot from Pi-kea is here with the super collider I ordered.
+	Prof. Farnsworth	Good news, anyone. The Swedish robot from Pi-kea is here with the super collider I ordered.
 	πkea Robot	Enjoy your affordable Swedish crap.
 	Fry	Let's see what tools we'll need. [Hammer.] Uh-huh. [Screwdriver.] Uh-huh. [Bending unit.] Uh-huh. Alright, we're all set.
 	Bender	Nothing like the rustic wholesomeness of working with one's own hand.
@@ -22,7 +22,7 @@
 	Leela	Man, I'm sore all over. I feel like I just went ten rounds with Mighty Thor.
 	Fry	I feel like I was mauled by Jesus.
 	Zoidberg	I've got just the thing: Genuine miracle cream I bought from a travelling salesman. [Fry and Leela squeeze some onto their hands and rub it on themselves.] "Come one, come all," he said. "Step right up!" "This sounds too good to be true," I thought. He said I looked like a smart, young man. "So is it a deal?" I enquired. Two hours later he was gone, with 60 of my dollars. But I have the miracle cream--
-	Professor Farnsworth	Bad news, nobody. The super collider super-exploded. I need you to take it back and exchange it for a wobbly CD rack and some of those rancid meatballs.
+	Prof. Farnsworth	Bad news, nobody. The super collider super-exploded. I need you to take it back and exchange it for a wobbly CD rack and some of those rancid meatballs.
 	Man #1	Excuse me. hi! Do you have a minute? I live in Jersey City and my car broke down and I need to get back because my Aunt's real sick and she needs this medicine but I need money for the bus. So I'm mugging you. Hand over your wallets.
 	Leela	I don't believe that story for a second.
 	Man #1	It doesn't matter, I'm mugging you.
@@ -165,9 +165,9 @@
 	Big-Eared Mutant	Oh, my God! That guy's daughter is Clobberella. But don't tell anyone.
 	Big-Mouthed Mutant	[shouting] Gotcha!
 	Zookeeper	[on screen] Greetings, superheroes. Remember me?
-	Professor Farnsworth	I don't remember much, buddy. And you're no looker!
+	Prof. Farnsworth	I don't remember much, buddy. And you're no looker!
 	Leela	Uh, Professor, isn't it time for your nap?
-	Professor Farnsworth	Yes, damnit!
+	Prof. Farnsworth	Yes, damnit!
 	Leela	Zookeeper! How did you know our real identities?
 	Zookeeper	[on screen] Let's just say a little bird told me.
 	Parrot	[on screen] Leela told her parents. Leela's parents blabbed.

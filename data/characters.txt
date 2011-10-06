@@ -1,7 +1,7 @@
 Fry	3822
 Bender	3425
 Leela	3020
-Professor Farnsworth	1760
+Prof. Farnsworth	1763
 Zoidberg	899
 Amy	886
 Hermes	786
@@ -463,7 +463,6 @@ John Hancock	3
 Monkey	3
 Tattoo #1	3
 Farnswoth	3
-Prof. Farnsworth	3
 Schlomo	3
 Inuitbot	3
 Melllvar's Mother	3

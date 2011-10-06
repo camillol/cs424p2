@@ -86,9 +86,9 @@
 	Hermes	Keep trying.
 	Morbo	Our top story. The universe's most wanted eco-feminists are now behind bars, including gang leader, Turanga Leela. AKA, the Notorious B-I-Itch.
 	Zoidberg	We finished un-pinking the ship, Hubert. Now what?
-	Professor Farnsworth	Now we get back to work. And if that means destroying an ecosystem or two, so be it.
+	Prof. Farnsworth	Now we get back to work. And if that means destroying an ecosystem or two, so be it.
 	Zoidberg	I just meant without our good friends Fry, Leela, Amy and the robut.
-	Professor Farnsworth	Oh, boo-hoo.
+	Prof. Farnsworth	Oh, boo-hoo.
 	Scruffy	Life goes on. But I believe we'll forever carry the pain on the inside.
 	Amy	Oh, no, a rooster! That indicates it's the following morning.
 	Labarbara	How's that creepy crawler doing?
@@ -121,10 +121,10 @@
 	Leela	[She enters the bridge.] Professor! Hermes! Zoidberg! [She looks at Scruffy] Uh...
 	Scruffy	Scruffy. The janitor.
 	Leela	You helped us escape? Even after we locked you in a go-go cage like common go-go dancers?
-	Professor Farnsworth	I couldn't live with myself, Leela. I call myself a scientist, wear the white coat and probe a monkey every now and again, yet I put monetary gain ahead of preserving nature. Can you ever forgive me?
+	Prof. Farnsworth	I couldn't live with myself, Leela. I call myself a scientist, wear the white coat and probe a monkey every now and again, yet I put monetary gain ahead of preserving nature. Can you ever forgive me?
 	Scruffy	I reckon.
 	Leela	I could kiss you, Professor.
-	Professor Farnsworth	Okay, but watch out for my new grill. [He smiles and shows his gold and diamond teeth.]
+	Prof. Farnsworth	Okay, but watch out for my new grill. [He smiles and shows his gold and diamond teeth.]
 	Zapp	Before the grand finally [Mispronunciation of finale] , as it were, it seems only fitting that I, Commodore 64 Zapp Brannigan, say a few brief pages in honor of...
 	Nine	Whatever your plan is, Fry, I suggest you get on with it. Get... Shoot, I got hot sauce on my Number 9 shirt.
 	Fry	Okay, locate the Dark One by finding someone whose thoughts I can't read.
@@ -178,7 +178,7 @@
 	Preacherbot	Then move your fat head. I can't see.
 	Nine	The Encyclopod is reborn. A new green age has begun!
 	Mad Fellow	So the legend foretold.
-	Professor Farnsworth	Look! Inside its pouch. Extinct Tasmanian tigers.
+	Prof. Farnsworth	Look! Inside its pouch. Extinct Tasmanian tigers.
 	Amy	And dodo birds.
 	Leela	And white rhinos.
 	Hermes	And striped biologist-taunters.
@@ -205,7 +205,7 @@
 	Fry	Like this is not the end. But mostly just, I love you, Leela.
 	wormhole!	Maybe I waited too long to say this, but I love you, too- wormhole!
 	Hermes	Sweet topology of cosmology, it's huge!
-	Professor Farnsworth	If we fly into it, it could take us trillions of light years away. There's no knowing if we'll ever return.
+	Prof. Farnsworth	If we fly into it, it could take us trillions of light years away. There's no knowing if we'll ever return.
 	Fry	What do we do? Should we go for it?
 	Bender	Into the breach, meatbags. Or not. Whatever. [He starts drinking the beer.]
 	ALL	Go, go, go, go, go, go, go, go, go, go.

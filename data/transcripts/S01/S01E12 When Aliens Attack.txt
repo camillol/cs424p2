@@ -29,21 +29,21 @@
 	Leela	Everyone's too polite to say anything but you're covered with bed sores.
 	Fry	Not covered!
 	Leela	Just get in the car.
-	Professor Farnsworth	Ah, here we are: Monument Beach!
+	Prof. Farnsworth	Ah, here we are: Monument Beach!
 	Fry	Wait, Mount Rushmore and the Leaning Tower of Pisa? I didn't know they were both in New York!
 	Leela	They are now. In the 2600's, New Yorkers elected a super-villain governor, and he stole most of the world's monuments.
 	Bender	Truly a great man. Look at him up there.
 	Hermes	Aha! [He puts the metal detector down and digs in the sand.] Found you!
 	Bender	OK, now you go hide. [Hermes puts the trowel down and hands Bender the metal detector and runs off. Bender throws the metal detector away and chuckles.] Nice knowin' you.
-	Professor Farnsworth	Come on, Zoidberg, I passed it right to you.
+	Prof. Farnsworth	Come on, Zoidberg, I passed it right to you.
 	Zoidberg	I've had it with this game! I'm going for a scuttle!
 	Bender	OK, everyone, come and get it!
 	Fry	Ah, just like my dad used to make ... until McDonald's fired him.
 	Bender	Bite my red-hot glowing ass. [Smoke rises from behind him.] Wait a minute. Red-hot glowing ass? [He turns around and sees his red-hot glowing ass. He turns back to Fry.] [calmly] I'll be right back! [He gets up and runs into the sea, waving his arms around.] Ow! Ow! Ow! Ow! Ow! Ow! Ow! Ow! Ow! [His ass sizzles in the cool water.] Aw, yeah!
 	Amy	No, Nibbler! [Nibbler runs off with the burger and her bikini top. She gasps and covers herself with the burger buns.] [whispering] Psst, Professor, I need another bikini.
-	Professor Farnsworth	Eh ... wha? [He sees her.] Oh, oh, OK, I think there's one can left. [He reaches into a bag next to him and takes out a spray can and hands it to her. She sprays it over her making a brand new pink bikini.] Oh, my.
+	Prof. Farnsworth	Eh ... wha? [He sees her.] Oh, oh, OK, I think there's one can left. [He reaches into a bag next to him and takes out a spray can and hands it to her. She sprays it over her making a brand new pink bikini.] Oh, my.
 	Amy	There. How do I look?
-	Professor Farnsworth	Like a cheap French harlot.
+	Prof. Farnsworth	Like a cheap French harlot.
 	Amy	French?
 	Bully	Say, doll-face, how'd you like to make time with a real man?
 	Leela	No. I'm not attracted to bullies. No matter how big and ... [He flexes his muscles.] ... handsome they are.
@@ -64,7 +64,7 @@
 	Fry	[screaming] Nooo!
 	Hermes	Faster!
 	Fry	We're all gonna die, aren't we?
-	Professor Farnsworth	Oh, I should think so. Although last time aliens invaded all they did was force the most intelligent of us to pair off and mate continuously. [chuffed] Oh, yes!
+	Prof. Farnsworth	Oh, I should think so. Although last time aliens invaded all they did was force the most intelligent of us to pair off and mate continuously. [chuffed] Oh, yes!
 	Linda	[on TV] Once again, today's winning lotto number was 4. In other news, alien saucers continue to rain destruction upon Earth. We now go live to an emergency address by Earth President McNeal.
 	McNeal	[on TV] Ladies and gentlemen, our course is clear. The time has come to knuckle under. To get down on all fours and really lick boot. Give our alien masters whatever they want a--
 	Lrrr	[on TV] People of Earth, I am Lrrr of the planet Omicron Persei 8. [He taps the mic and turns to his aides.] Is this thing on? [He blows into it and turns back to the camera.] Now then: We want the one you call "McNeal". Give us McNeal or we will lay waste to your cities with our anti-monument laser. We demand McNeal!
@@ -111,7 +111,7 @@
 	Kif	The Hubble Telescope.
 	Zapp	[shouting] Stop exploding, you cowards!
 	Leela	This is hopeless. [She runs to the pilot's seat and sits down.] If we're gonna get blown to bits, we might as well do it in the comfort of our own home.
-	Professor Farnsworth	You'll be the captain, you'll be the delivery boy, and you'll be the alcoholic, foul-mouthed-- [The door behind him opens and the real crew walk in.] Oh, God, you're alive. I mean, thank God you're alive! [He turns back to the others.] Sorry, check back in three days, a week at the most.
+	Prof. Farnsworth	You'll be the captain, you'll be the delivery boy, and you'll be the alcoholic, foul-mouthed-- [The door behind him opens and the real crew walk in.] Oh, God, you're alive. I mean, thank God you're alive! [He turns back to the others.] Sorry, check back in three days, a week at the most.
 	Lrrr	[on TV] We want McNeal! Stop stalling!
 	Linda	[on TV] And now a rebuttal from President McNeal.
 	McNeal	[on TV] The people of Earth remain united in my refusal to hand over myself. Total annihilation is a small price to pay compared with--
@@ -135,19 +135,19 @@
 	Fry	That's where I know her from. She's Jenny McNeal. She was a character on a TV show back in the 20th century, Single Female Lawyer.
 	Bender	Well if they're hoping to see a TV show that hasn't existed for a thousand years, pft, they are royally boned.
 	Lrrr	[on TV] We will raise your planet's temperature by one million degrees a day, for five days, unless we see McNeal at 9pm tomorrow -- 8 central!
-	Professor Farnsworth	[disappointed] I'm beginning to think there'll be no forced mating at all.
+	Prof. Farnsworth	[disappointed] I'm beginning to think there'll be no forced mating at all.
 	Leela	They're going to destroy the entire Earth if they don't see some stupid TV show about some bimbo lawyer?
 	Fry	It's crazy! How could they even know about a show from a thousand years ago?
-	Professor Farnsworth	Well, Omicron Persei 8 is about a thousand light years away. So the electro-magnetic waves would just recently have gotten there. You see--
+	Prof. Farnsworth	Well, Omicron Persei 8 is about a thousand light years away. So the electro-magnetic waves would just recently have gotten there. You see--
 	Fry	Magic. Got it.
 	Amy	Check this out: Back in 1999 the season finale of Single Female Lawyer was interrupted by technical problems. Apparently some zidiot spilled Coke on the transmitter.
 	Fry	Beer-- I would think.
 	Bender	They must just wanna see that episode. Let's find a tape and give it to 'em.
 	Amy	There aren't any copies left.
-	Professor Farnsworth	No, there wouldn't be. Most videotapes from that era were damaged in 2443 during the Second Coming of Jesus.
+	Prof. Farnsworth	No, there wouldn't be. Most videotapes from that era were damaged in 2443 during the Second Coming of Jesus.
 	Fry	Y'know, I saw the first 30 seconds of that episode. If I could make up an ending, maybe we could act it out ourselves.
 	Zoidberg	I could make the costumes.
-	Professor Farnsworth	I have an old five-megawatt broadcasting tower in the attic.
+	Prof. Farnsworth	I have an old five-megawatt broadcasting tower in the attic.
 	Bender	[dramatically] And I, I could be an acting coach!
 	Fry	Let's put on a show.
 	Fry	OK, Leela, you'll be starring as Jenny--
@@ -160,12 +160,12 @@
 	Lrrr	Prepare the water cooler, that we may gather around it later and discuss things.
 	Bender	[singing; on TV] Single Female Lawyer,Fighting for her client,[He swaps the sign to one that says "Written and Directed by Fry".]Wearing sexy miniskirts,
 	Bender	[singing] And being self-reliant.(talking) Hey, I'm pretty good!
-	Professor Farnsworth	Uh ... [reading] ... Jenny McNeal, you are charged with jury-tampering in last week's case ... [At the side of the set Fry watches on a TV screen that Bender is hooked up to. Bender scratches himself.] ... on account of your hot, naked affair with the foreman. How do you plead?
+	Prof. Farnsworth	Uh ... [reading] ... Jenny McNeal, you are charged with jury-tampering in last week's case ... [At the side of the set Fry watches on a TV screen that Bender is hooked up to. Bender scratches himself.] ... on account of your hot, naked affair with the foreman. How do you plead?
 	Leela	[reading] Your Honour, I move for a mistrial, on the grounds that I'm also having a hot, naked affair with the foreman of this jury.
 	Hermes	[sexfully] I'll see you during the recess!
 	Lrrr	If McNeal wishes to be taken seriously why does she not simply tear the judge's head off?
 	Nd-Nd	It is true what they say; "Women are from Omicron Persei 7, men are from Omicron Persei 9".
-	Professor Farnsworth	[reading] Your witness, Prosecutor Ramirez.
+	Prof. Farnsworth	[reading] Your witness, Prosecutor Ramirez.
 	Zoidberg	Gracias. [He stands up with his script behind him and walks over to the witness box where Leela is sat.] Single Female Lawyer, where were you on the night of August 23rd?
 	Leela	Sleeping with you.
 	Zoidberg	Aha!
@@ -174,7 +174,7 @@
 	Leela	What are we supposed to do now?
 	Fry	I don't know, I don't know. Just say anything. As long as it's compelling, mesmerising, a tour de force.
 	Leela	Uh...
-	Professor Farnsworth	[reading] What say you, Single Female Lawyer?
+	Prof. Farnsworth	[reading] What say you, Single Female Lawyer?
 	Leela	I say ... I'm giving up the law. [She stands up.] And I'm giving up being single. Your Honour, will you marry me?
 	Fry	No, no! Go to commercial!
 	Bender	We'll be back after this word from Crazy Bender's Discount Stereo.
@@ -186,7 +186,7 @@
 	Bender	[à la Arnold Jackson] Whatchoo talkin' 'bout, Fry?
 	Fry	Trust me on this. While other people were out living their lives, I wasted mine watching TV, because deep down I knew it might one day help me save the world. Plus, I would have lost my Workman's Comp if I had gone outside. Now just read these cue cards.
 	Fry	And action!
-	Professor Farnsworth	[reading] Miss McNeal, I'm afraid I must decline your offer of marriage. For, you see, I'm dying. Cough, then fall over dead.
+	Prof. Farnsworth	[reading] Miss McNeal, I'm afraid I must decline your offer of marriage. For, you see, I'm dying. Cough, then fall over dead.
 	Zoidberg	[reading; unmoved] My God, he's dead.
 	Leela	[reading] I will now make my closing statement. With my fiancé deceased ... [Farnsworth smiles weakly.] ... I hereby return to my single female lawyer career. No matter what any man says.
 	Hermes	We find the defendant vulnerable yet spunky!

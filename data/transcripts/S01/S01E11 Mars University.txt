@@ -1,18 +1,18 @@
-	Professor Farnsworth	Good news, everyone. [He presses a button on the trolley and it lowers itself to the floor.] We've got a very special delivery today.
+	Prof. Farnsworth	Good news, everyone. [He presses a button on the trolley and it lowers itself to the floor.] We've got a very special delivery today.
 	Fry	Who's it going to?
-	Professor Farnsworth	Me.
+	Prof. Farnsworth	Me.
 	Bender	Another job well done.
-	Professor Farnsworth	No, I need it shipped to my office at Mars University. [He strokes the crate.] It's a little experiment that may well win me the Nobel Prize.
+	Prof. Farnsworth	No, I need it shipped to my office at Mars University. [He strokes the crate.] It's a little experiment that may well win me the Nobel Prize.
 	Leela	In what field?
-	Professor Farnsworth	I don't care, they all pay the same.
+	Prof. Farnsworth	I don't care, they all pay the same.
 	Fry	Is it dangerous?
-	Professor Farnsworth	Oh, my, no. [Fry kicks the box and the thing inside starts growling and shaking the box. Fry runs and hides behind Leela. Farnsworth pulls a tranquiliser gun out of nowhere and loads a tranquiliser dart into it. He pokes the gun through a hole in the crate and shoots whatever is inside. It whimpers and the shaking and growling stops.] Off we go!
+	Prof. Farnsworth	Oh, my, no. [Fry kicks the box and the thing inside starts growling and shaking the box. Fry runs and hides behind Leela. Farnsworth pulls a tranquiliser gun out of nowhere and loads a tranquiliser dart into it. He pokes the gun through a hole in the crate and shoots whatever is inside. It whimpers and the shaking and growling stops.] Off we go!
 	Fry	Very impressive. Back in the 20th century we had no idea there was a university on Mars.
-	Professor Farnsworth	Well, in those days Mars was just a dreary, uninhabitable wasteland, uh, much like Utah. But unlike Utah, it was eventually made livable, when the university was founded in 2636.
+	Prof. Farnsworth	Well, in those days Mars was just a dreary, uninhabitable wasteland, uh, much like Utah. But unlike Utah, it was eventually made livable, when the university was founded in 2636.
 	Leela	They planted traditional college foliage; ivy, trees, hemp. Soon the whole planet was terraformed.
 	Fry	Does that mean it's safe to breathe the air?
-	Professor Farnsworth	Of course.
-	Professor Farnsworth	Over here is Wong Library. It has the largest collection of literature in the Western Universe.
+	Prof. Farnsworth	Of course.
+	Prof. Farnsworth	Over here is Wong Library. It has the largest collection of literature in the Western Universe.
 	Bender	[pointing] Hey, look! There's a chapter of my old robot fraternity, Epsilon Rho Rho.
 	Leela	You went to college?
 	Bender	Of course. I'm a bender, I went to Bending College. I majored in Bending.
@@ -41,17 +41,17 @@
 	Leela	Don't take this the wrong way, Fry, but you don't seem like the educated type.
 	Fry	Oh, yeah? [He takes a piece of paper out of his pocket with "Notice of Failure to Graduate" written on it. The CICC logo is a Ferris wheel.] Read it and weep. I'm a certified college dropout.
 	Leela	Please! Everyone knows 20th century colleges were basically expensive daycare centres.
-	Professor Farnsworth	That's true. By current academic standards, you're merely a high school dropout.
+	Prof. Farnsworth	That's true. By current academic standards, you're merely a high school dropout.
 	Fry	What? That's not fair. I deserve the same respect any other college dropout gets. By God, I'm gonna enroll here at Mars University and drop out all over again!
 	Leela	You won't last two weeks.
 	Fry	Aww, thanks for believing in me.
 	Amy	Yo, classmate. What you takin'?
 	Fry	Oh, I don't know. [Farnsworth walks past with his crate on a hover trolley.] Hey, Professor, what are you teaching this semester?
-	Professor Farnsworth	Same thing I teach every semester: The Mathematics of Quantum Neutrino Fields. I made up the title so that no student would dare take it.
+	Prof. Farnsworth	Same thing I teach every semester: The Mathematics of Quantum Neutrino Fields. I made up the title so that no student would dare take it.
 	Fry	[writing] Mathematics of wanton burrito meals. [He points his pencil at Farnsworth.] I'll be there!
-	Professor Farnsworth	Please, Fry, I don't know how to teach; I'm a professor!
+	Prof. Farnsworth	Please, Fry, I don't know how to teach; I'm a professor!
 	Fry	See you in class!
-	Professor Farnsworth	Oh!
+	Prof. Farnsworth	Oh!
 	Fatbot	This is gonna be great!
 	Bender	[from outside] Bingo!
 	Fatbot	[from outside] Oh, mama!
@@ -66,16 +66,16 @@
 	Monkey	I call top bunk!
 	Fry	My roommate's a monkey?
 	Monkey	[sarcastic] Brilliant deduction, you're a credit to your species.
-	Professor Farnsworth	Ah, Fry, I see you've met Guenter!
+	Prof. Farnsworth	Ah, Fry, I see you've met Guenter!
 	Fry	You know each other?
-	Professor Farnsworth	Guenter is my experiment. He was the top secret contents of this stinking crate.
+	Prof. Farnsworth	Guenter is my experiment. He was the top secret contents of this stinking crate.
 	Guenter	I'd rather live in a crate than share a room with this dork.
 	Leela	So what makes Guenter talk?
 	Fry	Is he genetically engineered?
-	Professor Farnsworth	Oh, please! That's preposterous science-fiction mumbo-jumbo. Guenter's intelligence actually lies in his electronium hat which harnesses the power of sunspots to produce cognitive radiation.
+	Prof. Farnsworth	Oh, please! That's preposterous science-fiction mumbo-jumbo. Guenter's intelligence actually lies in his electronium hat which harnesses the power of sunspots to produce cognitive radiation.
 	Guenter	You're wasting your breath, Professor. He'll never understand a word of it.
 	Fry	I understood the word "hat"!
-	Professor Farnsworth	Please, stop bickering. I arranged that you be roommates for a reason: So I'd only have to remember one phone number. Now shake hands and make up.
+	Prof. Farnsworth	Please, stop bickering. I arranged that you be roommates for a reason: So I'd only have to remember one phone number. Now shake hands and make up.
 	Fry	You want a banana?
 	Guenter	I don't eat bananas. I prefer banana-flavoured energy bars made from tofu.
 	Fry	I don't like you.
@@ -109,25 +109,25 @@
 	Chrissy	Not even if you were the last man on Mars.
 	Guenter	[shouting] Hey! You like bananas?
 	Guenter	[shouting; from outside] I got her number. How do you like them bananas?
-	Professor Farnsworth	And therefore, by process of elimination, the electron must taste like grapeade.
+	Prof. Farnsworth	And therefore, by process of elimination, the electron must taste like grapeade.
 	Fry	Sorry, I overslept.
-	Professor Farnsworth	Until 5pm?
+	Prof. Farnsworth	Until 5pm?
 	Fry	It's that obnoxious monkey. He kept me up all night with his constant thinking. Just thinking and thinking. He's trying to make me look like an idiot.
-	Professor Farnsworth	Don't be jealous. Without his special hat, Guenter might be no more intelligent than you.
+	Prof. Farnsworth	Don't be jealous. Without his special hat, Guenter might be no more intelligent than you.
 	Fry	I hate that rodent!
-	Professor Farnsworth	Fry, that monkey is my most important experiment. If you two don't stop fighting I'll have you both neutered.
+	Prof. Farnsworth	Fry, that monkey is my most important experiment. If you two don't stop fighting I'll have you both neutered.
 	Fry	That'll show him.
 	Amy	Dean Vernon, I'd like you to meet my parents, Leo and Inez.
 	Vernon	Ah, Mr. and Mrs. Wong, I'm so glad we could admit Amy in exchange for your generous contribution.
 	Mr. Wong	How much more for Phi Beta Kappa?
 	Vernon	How much you got?
 	Guenter	Sorry I'm late, I was off at a study session ... with Chrissy!
-	Professor Farnsworth	Oh, I'm glad you made it, Guenter because in honour of parents weekend I have a special surprise for you.
+	Prof. Farnsworth	Oh, I'm glad you made it, Guenter because in honour of parents weekend I have a special surprise for you.
 	Guenter	[horrified] Mom? Dad? What are you doing here? [The monkeys start jumping around and shaking the cage bars. The other guests stare and Guenter covers his eyes.] This is so humiliating.
 	Fry	Now these monkeys I like! [The monkeys chomp the bananas and jump around again.] What's that? You wanna come out?
 	Guenter	No! Stop!
 	Chet	I say.
-	Professor Farnsworth	What's that they're flinging at us?
+	Prof. Farnsworth	What's that they're flinging at us?
 	Guenter	Oh, dear Lord! All over the dean!
 	Fry	Hey, uh, Guenter? Why don't you get up on the chandelier with your parents and I'll take a picture?
 	Bender	Well, looks like the party's winding down. Let's take a road trip to Tijuana and get Fatbot some action.
@@ -147,23 +147,23 @@
 	Fry	Look, Guenter, if you're so miserable here, maybe you should just go back to the jungle.
 	Guenter	The jungle. But I couldn't do that to the Professor. I'm his prize experiment, and he's like a father to me.
 	Leela	But he's not your father. That guy in the punch bowl was your father.
-	Professor Farnsworth	Look at him. I'm so proud.
+	Prof. Farnsworth	Look at him. I'm so proud.
 	Fry	Thanks, Professor!
-	Professor Farnsworth	Not you.
+	Prof. Farnsworth	Not you.
 	Fry	[screaming] Ow!
 	Student	Hey!
-	Professor Farnsworth	Oh, I always feared he might run off like this. Why? Why? Why didn't I break his legs?
-	Professor Farnsworth	[crying] Oh, poor Guenter.
+	Prof. Farnsworth	Oh, I always feared he might run off like this. Why? Why? Why didn't I break his legs?
+	Prof. Farnsworth	[crying] Oh, poor Guenter.
 	Leela	So he just ran away in the middle of the exam?
-	Professor Farnsworth	I'm afraid so. All he handed in was a paper smeared with faeces. He tied with Fry.
+	Prof. Farnsworth	I'm afraid so. All he handed in was a paper smeared with faeces. He tied with Fry.
 	Fry	I guess he realised I was right when I told him to go back to the jungle.
-	Professor Farnsworth	You what? After I spent months slaving over a hot monkey brain?
+	Prof. Farnsworth	You what? After I spent months slaving over a hot monkey brain?
 	Fry	Hey, don't blame me. You tried to force Guenter to be a human but he's an animal. He belongs in the wild. Or in the circus on one of those tiny tricycles. Now that's entertainment!
-	Professor Farnsworth	But Guenter's obviously better off being intelligent. Tell him, Leela.
+	Prof. Farnsworth	But Guenter's obviously better off being intelligent. Tell him, Leela.
 	Leela	Nuh-uh, I'm staying out of this. Now here's my opinion: What we should do is...
-	Professor Farnsworth	What?
+	Prof. Farnsworth	What?
 	Leela	I said we'll go to the jungle and let Guenter decide once and for all.
-	Professor Farnsworth	What?
+	Prof. Farnsworth	What?
 	Vernon	You all know the rules. Whichever house wins the regatta becomes head of the Greek Council. And should that house currently be on any type of multiple secret probation, it will be lifted and I will be forced to serve as Grand Marshal of a parade honouring them.
 	Chet	I say, Robot House, your water craft is as ill-designed as you yourselves.
 	Meiderneyer	Good one, Chet!
@@ -172,40 +172,40 @@
 	Vernon	Fraternities, on your marks.
 	Bender	Hey!
 	Fry	Wow! The jungles on Mars look just like the jungles on Earth.
-	Professor Farnsworth	Jungles? On Earth?
+	Prof. Farnsworth	Jungles? On Earth?
 	Leela	I see some movement up there. I think it's him.
-	Professor Farnsworth	Stand back.
+	Prof. Farnsworth	Stand back.
 	Leela	Oops.
-	Professor Farnsworth	Don't worry. They'll be fine once the tranquiliser wears off.
+	Prof. Farnsworth	Don't worry. They'll be fine once the tranquiliser wears off.
 	Fry	There's our man!
 	Leela	Professor, you'll offer Guenter the hat and, Fry, you'll offer him the banana. [She holds out the hat and banana and they take them.] We'll let him choose whether he wants to be intelligent or just a mindless animal.
-	Professor Farnsworth	Come on, Guenter, take the hat.
+	Prof. Farnsworth	Come on, Guenter, take the hat.
 	Fry	No, the banana, the banana!
-	Professor Farnsworth	Consider the philosophical and metaphysical ramifications of the--
+	Prof. Farnsworth	Consider the philosophical and metaphysical ramifications of the--
 	Fry	Banana, banana, banana!
 	Leela	Wait, what's that sound?
 	Gearshift	[shouting] Hey, Bender, you sure this is a short-cut?
 	Bender	[shouting] Not as sure as I was an hour ago!
 	Vernon	And the winner is ... [The fratbots appear and walk across the finish line with their raft draped around them.] ... Robot House?
-	Professor Farnsworth	Oh, dear Lord!
+	Prof. Farnsworth	Oh, dear Lord!
 	Leela	No! No!
-	Professor Farnsworth	Thank God this log is sturdy. [He pats it and a bit breaks off and plunges over the edge. On the riverbank, Guenter finds the hat and banana and sniffs them both.] [shouting] Put on the hat, Guenter! You're the only one who can save us! [Guenter puts the banana on his head and tries to eat the hat.] [muttering] Stupid monkey.
+	Prof. Farnsworth	Thank God this log is sturdy. [He pats it and a bit breaks off and plunges over the edge. On the riverbank, Guenter finds the hat and banana and sniffs them both.] [shouting] Put on the hat, Guenter! You're the only one who can save us! [Guenter puts the banana on his head and tries to eat the hat.] [muttering] Stupid monkey.
 	Fry	[shouting] No.
 	Leela	[shouting] Not there.
-	Professor Farnsworth	[shouting] Keep trying.
+	Prof. Farnsworth	[shouting] Keep trying.
 	Guenter	Eureka! The hat goes on the head. It's all so obvious now!
 	Leela	[shouting] Help us, Guenter!
 	Guenter	Oh, my goodness. [shouting] Hang on. I need to do some calculations. [He picks up the banana and draws some diagrams in the soft mud.] Got it! [He ties some vines around another log and pushes it into the river. He jumps onto it, floats down the river and throws the vine over an overhead branch. The other end dangles near the others.] Grab on!
-	Professor Farnsworth	We're saved!
+	Prof. Farnsworth	We're saved!
 	Fry	'Preciate it, Guenter!
 	Leela	Oh, no! Hurry, Guenter, climb up the vine. You can still save yourself.
 	Guenter	Why bother? I've got nothing to live for. I was miserable as a genius, and as a monkey, I was so dumb I tried to wear a hat on my butt. [Fry chuckles.] [sadly] There's just no place for me in this world. [normal] Although, on the other hand--
-	Professor Farnsworth	Oh, that poor, sweet monkey. Well, let's go gather him up. There's no sense letting him go to waste.
+	Prof. Farnsworth	Oh, that poor, sweet monkey. Well, let's go gather him up. There's no sense letting him go to waste.
 	Fry	Guenter! You're alive!
 	Guenter	I guess the hat must have broke my fall.
-	Professor Farnsworth	It seems to be working at only half-capacity, but I can fix it.
+	Prof. Farnsworth	It seems to be working at only half-capacity, but I can fix it.
 	Guenter	No, wait! I like it like this. I actually feel sort of happy.
-	Professor Farnsworth	But what about your super-intelligence?
+	Prof. Farnsworth	But what about your super-intelligence?
 	Guenter	When I had that there was too much pressure to use it. All I want out of life is to be a monkey of moderate intelligence who wears a suit. That's why I've decided to transfer to business school!
-	Professor Farnsworth	[screaming] Nooo!
+	Prof. Farnsworth	[screaming] Nooo!
 	Bender	[shouting] Come on, everyone! Big party in Robot House!

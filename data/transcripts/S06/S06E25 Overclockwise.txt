@@ -63,27 +63,27 @@
 	URL	We're lookin' for a Cubert J. Farnsworth.
 	Cubert	You're porkin' at 'im!
 	Smitty	You're under arrest for felony violation of the MomCorp licence agreement.
-	Professor Farnsworth	What's all this oinking about?! Who called the fuzz?!
+	Prof. Farnsworth	What's all this oinking about?! Who called the fuzz?!
 	URL	Sir, who's this boy's legal guardian?
-	Professor Farnsworth	You're porkin' at 'im!
+	Prof. Farnsworth	You're porkin' at 'im!
 	URL	Then the charges apply to you too.
-	Professor Farnsworth	Wha?
+	Prof. Farnsworth	Wha?
 	Mom	Farnsworth?! What a lucky break!
 	Mom	After all these years, I've got 'im! And legally too!
 	Larry	Even an idiot like me knows he'll be ruined.
 	Mom	An idiot like you is correct!
-	Professor Farnsworth	You overclocked Bender?! What did I teach you about tinkering with machinery?
+	Prof. Farnsworth	You overclocked Bender?! What did I teach you about tinkering with machinery?
 	Cubert	How. You taught me how.
-	Professor Farnsworth	I also taught you not to get caught! Oh, I wish I'd never cloned you.
+	Prof. Farnsworth	I also taught you not to get caught! Oh, I wish I'd never cloned you.
 	Cubert	It's not my fault! I didn't even know Bender had a licence agreement!
-	Professor Farnsworth	Neither did I— Ooh.
-	Professor Farnsworth	Bender, as my newest employee, could you bend this drinking straw for me?
+	Prof. Farnsworth	Neither did I— Ooh.
+	Prof. Farnsworth	Bender, as my newest employee, could you bend this drinking straw for me?
 	Bender	Sure. Let me just.
 	Mom	[on the hologram] First, click the licence agreement, deary.
-	Professor Farnsworth	I really shouldn't agree to things I don't understand, but I'm slightly thirsty.
-	Professor Farnsworth	Oh, God! I clicked without reading!
+	Prof. Farnsworth	I really shouldn't agree to things I don't understand, but I'm slightly thirsty.
+	Prof. Farnsworth	Oh, God! I clicked without reading!
 	Cubert	An' I slightly modified a thing that I own!
-	Professor Farnsworth	We're monsters!
+	Prof. Farnsworth	We're monsters!
 	Walt	Congratulations, Mother. Can you die happy now?
 	Mom	Not yet!
 	Walt	Darn!
@@ -116,7 +116,7 @@
 	Fishy Joe	It's true! 'E did it!
 	Yellow and red lawyer	No further questions for this jury.
 	Ron Whitey	Before I call a recess for mimosas and horse breeding, can the defence produce the bending unit in question?
-	Professor Farnsworth	[whispering] We don't know where the hell 'e is.
+	Prof. Farnsworth	[whispering] We don't know where the hell 'e is.
 	Hyper-Chicken	Your Honour, that is something we cannot a-doodle-do.
 	Ron Whitey	Then I'm holding the defendants in contempt and fining them ten-thousand dollars a day until they produce the Robot.
 	Hermes	Oh! At that rate, Planet Express will be bankrupt in... Four fingers!
@@ -176,7 +176,7 @@
 	Fry	[sad] She always liked not being observed with a telescope.
 	Ron Whitey	Order. Order in the head.
 	Bender	For reasons beyond even my comprehension, I 'ave returned to testify on behalf of the defendants.
-	Professor Farnsworth	Yay!
+	Prof. Farnsworth	Yay!
 	Cubert	Yay, Bender!
 	Fry	[happy] I knew 'e cared about us!
 	Hermes	You said you knew he didn't care about us!
@@ -186,7 +186,7 @@
 	Bender	But— Your Honour—
 	Ron Whitey	Silence! One more in-burst like that an' I'll have this courtroom removed from you! Whoa! Whoa! Whoa!
 	Bender	[sad] I'm sorry, guys. I didn't realise I was late. I guess I'm not as smart as everybody thought.
-	Professor Farnsworth	I was born in prison and I'll die in prison.
+	Prof. Farnsworth	I was born in prison and I'll die in prison.
 	Bender	There is still one hope. You're co-defendants. An' the jury might not wanna convict a twelve-year-old.
 	Mom	Son of a nerd. He may be right! Make sure Farnsworth doesn't get off easy on account o' that snot-gobbling twerp.
 	Ron Whitey	'As the jury reached a verdict?
@@ -215,7 +215,7 @@
 	Leela	Knock knock.
 	Bender	Oh! Oh! Who's there?!
 	Fry	Leela?!
-	Professor Farnsworth	Yay!
+	Prof. Farnsworth	Yay!
 	Bender	Leela who?!
 	Fry	[off camera] It's good [on camera] to see you. [sad] Is it good to see me?
 	Leela	Of course.

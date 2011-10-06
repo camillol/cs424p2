@@ -19,7 +19,7 @@
 	Bender	You mean this junk? [He opens his chest cabinet and water floods out along with a beach ball, a float, a bikini top and a small child.]
 	Boy	Whee!
 	Bender	[crying] All I ever wanted was for people to remember my name. [hoarse] It's Bender.
-	Professor Farnsworth	Oh, fuff! Why bother remembering anything? You're just going to forget it five seconds later.
+	Prof. Farnsworth	Oh, fuff! Why bother remembering anything? You're just going to forget it five seconds later.
 	Bender	[crying] It's so unfair. A debonair robot with a zesty in-your-face outlook doomed to obscurity like the rest of you, especially Leela. If I died tomorrow, no one would even notice.
 	Scruffy	Boy, I've never seen him so down, or ever before.
 	Bender	How does a nobody like me get famous? [He sees a mailbox and gasps.] I know! [He puts his foot in it.] Hey, look! I'm stuck! But I haven't given up hope! Call a soft-news journalist!
@@ -41,7 +41,7 @@
 	Fry	Dearly beloved, we are here today to remember Bender, taken from us in the prime of life when he was crushed by a runaway semi driven by the Incredible Hulk.
 	Bender	Aw! You knew my favourite cause of death.
 	Fry	Now let us each remember the best things about Bender in our own way. Professor?
-	Professor Farnsworth	Your standard bending unit is made of an iron-osmium alloy. But Bender was different. Bender had a point-04% nickel impurity.
+	Prof. Farnsworth	Your standard bending unit is made of an iron-osmium alloy. But Bender was different. Bender had a point-04% nickel impurity.
 	Bender	[crying] It's what made me me.
 	Hermes	If you ever needed a small package brought into the country without a lot of X-raying and such, Bender always had a free body cavity.
 	Bender	Eh, the Professor's was better.
@@ -66,8 +66,8 @@
 	Fry	Yes there is, Bender. Bender was a lot of things to a lot of people. But, looking back, the number one thing I can say about him is this, and simply this: Bender was my friend.
 	Bender	What? That's it? Who are you? You're nobody! This is the worst funeral ever! [He pushes his legs through the bottom of the coffin and stands up.] I hope you're all happy. You've succeeded in convincing me life is worth living, by showing how bad my funeral will suck.
 	Amy	I know whose funeral we'll be attending next!
-	Professor Farnsworth	[bashful] Oh, stop!
-	Professor Farnsworth	News, everyone! Today you're going to Osiris 4 to deliver this enormous sandstone block.
+	Prof. Farnsworth	[bashful] Oh, stop!
+	Prof. Farnsworth	News, everyone! Today you're going to Osiris 4 to deliver this enormous sandstone block.
 	Fry	I thought something looked different in here.
 	Fry	Hi. We have a giant stone to deliver. Sign here.
 	Osiran	Ah, very nice. Much like the 10 million identical stones used in the future tomb of our great Pharaoh Hermenthotip.

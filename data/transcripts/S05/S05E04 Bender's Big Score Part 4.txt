@@ -12,12 +12,12 @@
 	Richard Nixon	And all I had to do was hand over our last remaining land and water as collateral. So assuming all goes ... [Headless Body of Agnew grunts] What's that, Agnew? A telegram? [reads telegram] Baroo! There ... seems to have been some ... We've been scammed again, people. Prepare to evacuate Earth. I mean, New Scamadonia.
 	Nudar;Fleb;Schlump	[Singing] Na-na-na-na, Na-na-na-na, Hey, hey, hey, We took your stuff!, etc.
 	Leela	All aboard for Neptune!
-	Professor Farnsworth	Oh, I don't want to go to Neptune. I'll be cold, and heavy.
+	Prof. Farnsworth	Oh, I don't want to go to Neptune. I'll be cold, and heavy.
 	Nudar	Thanks for the planet, suckers.
 	Bender	It's so cold, my processor is running at peak efficiency.
 	Leela	What are you, a whining machine? lf you want to worry about something, worry about the Yetis.
 	Zoidberg	Yetis? [Yetis growl from outside] Oh, Yetis.
-	Professor Farnsworth	Amy, you speak Yeti. What are they saying?
+	Prof. Farnsworth	Amy, you speak Yeti. What are they saying?
 	Amy	I'm not sure, but it sounds like something to do with... "assaulting the interlopers."
 	Leela	Don't mess with me, you ice-crapping snow-honkies. I just got dumped.
 	Hermes	Sweet Yeti of the Serengeti, she's gone crazy eddie in the head-y.
@@ -62,7 +62,7 @@
 	Zapp	At ease, people. I was redecorating my undisclosed location when I received word of an heroic invasion. Kif, crouch down and shield my thighs from the cold, for God's sake.
 	Zapp	We fight this battle, not for ourselves, but for our children and our children's children. Which is why I'm forming a children's brigade. Will the following youths please step forward? Cubert Farnsworth.
 	Cubert	Here, sir!
-	Professor Farnsworth	My boy. Oh, God, no!
+	Prof. Farnsworth	My boy. Oh, God, no!
 	Zapp	Dwight Slim.
 	Dwight	Here.
 	Hermes	You took his name? Oh, God, no! In several ways!
@@ -91,12 +91,12 @@
 	Leela	Unit 10, Target H, 16-K. Niner, niner, go left! I mean right.
 	Sal	Whoas!
 	Leela	55-U. 8-R, 2-V.
-	Professor Farnsworth	Bingo!
+	Prof. Farnsworth	Bingo!
 	Hattie	Cheating son of a...
 	Al Gore	Whoa! Whoa! Whoa!
 	Leela	It's hopeless! I can't coordinate this many ships!
 	Hermes	Perhaps I can help! Professor, can you wire my head directly into the battle grid?
-	Professor Farnsworth	I can wire anything directly into anything. I'm the professor!
+	Prof. Farnsworth	I can wire anything directly into anything. I'm the professor!
 	Hermes	Then prepare to see a bureaucrat's brain in action.
 	Al Gore	[Flying through a vent firing] Finally, I get to save the Earth with deadly lasers instead of deadly slide shows.
 	Clamps	He's champing for a clamping!
@@ -107,7 +107,7 @@
 	Nudar	Nice attack, doo-doo heads! Too bad we have one last trick up our sleeve!
 	Amy	I doubt that!
 	Nudar	Remember this, Farnsworth?
-	Professor Farnsworth	Farnsworth? That's me! My doomsday device! So it was the scammers! They sawed off my hand and stole the doomsday device.
+	Prof. Farnsworth	Farnsworth? That's me! My doomsday device! So it was the scammers! They sawed off my hand and stole the doomsday device.
 	Bender	lt wasn't them. lt was me, Bender. The master criminal!
 	Nudar	So what'll it be? - Unconditional surrender?
 	Leela	Never!
@@ -179,7 +179,7 @@
 	Crazy Guy	That concludes another Silly Willy Wideo Will!
 	Fry	He was a good man, Leela.
 	Leela	Yeah... you were.
-	Professor Farnsworth	Well, I guess that wraps everything up in a nice, paradox-free bow.
+	Prof. Farnsworth	Well, I guess that wraps everything up in a nice, paradox-free bow.
 	Bubblegum	Not quite, my wrinkly brother.
 	Nibbler	Right on! In order for any of this to make any sense at all, someone must make one final trip back in time to put the code on Fry's ass in the first place!
 	Bender	Sounds like a job for me, Bender.

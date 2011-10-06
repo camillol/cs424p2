@@ -1,7 +1,7 @@
-	Professor Farnsworth	Who likes good news? [All but Professor Farnsworth raise their hands.] Everyone. [The camera zooms in on Professor Farnsworth, revealing that the package that he is holding is labelled RUSH.] Then good news, everyone! Our next delivery isn't to some dangerous, outer-space planet. It's to Earth!
+	Prof. Farnsworth	Who likes good news? [All but Professor Farnsworth raise their hands.] Everyone. [The camera zooms in on Professor Farnsworth, revealing that the package that he is holding is labelled RUSH.] Then good news, everyone! Our next delivery isn't to some dangerous, outer-space planet. It's to Earth!
 	Fry	Earth is dangerous. I fell off my chair there once. [Fry leans back in his chair and falls off it.] Ow! Quit it, Earth.
 	Leela	We won't even have to leave New New York! The package is going to Long Long Island.
-	Professor Farnsworth	Yes, to the lavish Mafia-style villa of the Donbot.
+	Prof. Farnsworth	Yes, to the lavish Mafia-style villa of the Donbot.
 	Bender	The Donbot?! [Professor Farnsworth turns to Bender.] The vicious Robot gangster?! [Bender removes the package from Professor Farnsworth's hands.] I'd better use my special Robot vision to see what's inside. [Bender zooms in with his eyes towards the package, perforating it, and then removes them, revealing them to be holding a pair of clamps.] It looks like a pair of clamps!
 	Clamps	When are those new clamps gonna get here? [Clamps looks at the clamp and it clamps again.] These are all rusted-out with snitch juice!
 	Donbot	Patience, Clamps. [Clamps looks at the Donbot.] It is my eldest daughter's wedding day. [Joey Mousepad looks at the Donbot.] You don't want the Space Pope to see a clampin' now, do ya?
@@ -95,7 +95,7 @@
 	Fry	I wish I could go with you, pal.
 	Bender	Me too. I'll need a butler.
 	Robot Stack	Bender, we have to go.
-	Professor Farnsworth	[sad] There'll never be another like him. [Professor Farnsworth looks down and the others look at him.] [happy] Let's hire someone better!
+	Prof. Farnsworth	[sad] There'll never be another like him. [Professor Farnsworth looks down and the others look at him.] [happy] Let's hire someone better!
 	Donbot	Clamps. [Clamps continues staring at the advertisement and says nothing. Joey Mousepad turns to him.] Clamps!
 	Clamps	[confused] Huh?
 	Donbot	Listen to my boss words. I would like you to apply for Bender's old job and cosy up to this Fry, his best friend.
@@ -110,12 +110,12 @@
 	Clamps	Yeah, they all kinda broke. So... When do I start?
 	Hermes	Everyone, this is Francis.
 	Fry	Hey, Francis.
-	Professor Farnsworth	Hello, Francis.
+	Prof. Farnsworth	Hello, Francis.
 	Leela	Hello.
 	Amy	Cute name.
 	Hermes	Look what he can do.
 	Clamps	Yeah, I do it all. Clampin', crimpin', occasional snippin'.
-	Professor Farnsworth	Snipping? [Professor Farnsworth laughs and turns to Zoidberg.] Looks like you may be out of a job, Zoidberg.
+	Prof. Farnsworth	Snipping? [Professor Farnsworth laughs and turns to Zoidberg.] Looks like you may be out of a job, Zoidberg.
 	Zoidberg	That's all good fun. But, of course, a clamp is no substitute for the precision of a genuine—
 	Amy	Francis, would you do the honours?
 	Zoidberg	[to Clamps, screaming] Stay off my turf!
@@ -127,7 +127,7 @@
 	Clamps	Four stinkin' years of clampin' school for this?
 	Zoidberg	[off camera] Greetings, Francis. [Zoidberg walks up to Clamps. Clamps looks at him.] Sorry if I was a little hostile before, but snipping is the only reason I'm even tolerated around here. Not like you, with those magnificent squeezers!
 	Clamps	Squeezers? Squeezers?! [Clamps lifts up his right clamp.] They're clamps, you [beep sound]! [Clamps grabs Zoidberg by the neck and pushes him up against the lockers.] And if I wanna [beep sound]-in' snip with these clamps, I will snip with these [beep sound]-ing clamps! [Zoidberg begins suffocating.] Why do you think they call me— [Professor Farnsworth enters.] Francis?
-	Professor Farnsworth	Eh, Francis, I have good news. It's time for your first delivery... [Professor Farnsworth holds up one finger.] To the Moon!
+	Prof. Farnsworth	Eh, Francis, I have good news. It's time for your first delivery... [Professor Farnsworth holds up one finger.] To the Moon!
 	Clamps	Fan-[beep sound]-in'-tastic!
 	Fry	Here's the two-hundred feet of rope you ordered, Sheriff Burley.
 	Sheriff Burley	Hot diggety! You fellas wanna stick around for the hangin' tomorrow? It's gonna be a doozy. [Sheriff Burley points to a muttering eight-headed Alien who is wearing eight moustaches and eight cowboy hats and is holding a mug.] I sure do love hangin' people. [Sheriff Burley signs Leela's pad and pants.] Well, best start cuttin' the nooses.
@@ -155,7 +155,7 @@
 	Fry	Sure!
 	Clamps	So, uh... Billy... Where were you born?
 	Billy West	Right here in Moon country!
-	Professor Farnsworth	And how long have you been a farmer?
+	Prof. Farnsworth	And how long have you been a farmer?
 	Billy West	Reckon I was born a farmer. Folks say my momma was a hoe.
 	Leela	Oh, dear! I seem to have warped my fork! [to Billy West] Could you bend it back for me? Billy?
 	Billy West	Bend it? [Billy West tries to lift the fork, but does not succeed.] I can't even lift it. Which is weird... Seein' as how my daddy was a forklift.
@@ -164,9 +164,9 @@
 	Billy West	So... Y'all flew here in a spacey-ship?
 	Hermes	Stop talking like that! You live on the Moon!
 	Fry	[sad] If that is Bender, I guess he's just happier in his new life.
-	Professor Farnsworth	I refuse to believe anyone is happy! Mr. West, would you mind if I examined your brain?
+	Prof. Farnsworth	I refuse to believe anyone is happy! Mr. West, would you mind if I examined your brain?
 	Billy West	Examine? Heck. If you can find it, you can keep it.
-	Professor Farnsworth	Gadzooks! [Professor Farnsworth enlightens Billy West's head.] Bender's hard drive no longer contains any of his old memories. When the Feds bumpkinised him, they completely wiped out his old identity!
+	Prof. Farnsworth	Gadzooks! [Professor Farnsworth enlightens Billy West's head.] Bender's hard drive no longer contains any of his old memories. When the Feds bumpkinised him, they completely wiped out his old identity!
 	Billy West	Well, I don't know about that. But who am I to argue with a man from the sky! [Billy West stands up.] So long, space heroes!
 	Fry	[sad] You sure you don't wanna kill all Humans?
 	Billy West	Pfff! I love all Humans!
@@ -208,7 +208,7 @@
 	Bender	Guys! Guys! It's me, Bender!
 	Fry	[happy, screaming] He's alive!
 	Leela	[happy, screaming] So that Moon hillbilly who got murdered was just an innocent husband and father!
-	Professor Farnsworth	Bender, old bot, the Mafia thinks you're dead! You can come back to work with us!
+	Prof. Farnsworth	Bender, old bot, the Mafia thinks you're dead! You can come back to work with us!
 	Bender	I'm back, baby!
 	Brown-haired man	Pizza's here.
 	Bender	Woo! [Bender stands up, opens the pizza box, and grabs a cutter from a pocket in his apron.] I'll just cut that.

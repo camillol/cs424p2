@@ -58,7 +58,7 @@
 	Bender	[shouting] Do a flip!
 	Leela	[shouting] Don't do it, Hermes! You have so much to live for.
 	Bender	[whispering; to Leela] I get it, reverse psychology.
-	Professor Farnsworth	[shouting] Please, old friend, don't jump. Use another method that won't damage your liver. Other people need it, you know.
+	Prof. Farnsworth	[shouting] Please, old friend, don't jump. Use another method that won't damage your liver. Other people need it, you know.
 	LaBarbara	[shouting] Husband! Nooo!
 	Hermes	Outta my way, wife! I wasn't cut out to be a bureaucrat anyway. I'm only anal 78.36% of the time. I'm not worthy to stamp a form, so I'll stamp the pavement with my flabby body.
 	Morgan	[shouting] Bureaucrat Conrad, if you complete your death transaction without filing a suicide and/or falling accident permit, you will be posthumously demoted.
@@ -104,7 +104,7 @@
 	Morgan	The autopilot.
 	Leela	That drunk?
 	Morgan	Mr. Bender, you are now in charge of co-ordinating the Professor's bodily functions.
-	Professor Farnsworth	That's a full-time job.
+	Prof. Farnsworth	That's a full-time job.
 	Morgan	And Fry, as for you, I am promoting you to executive delivery boy. You will no longer go on deliveries and you will have your own office next to mine.
 	Fry	Alright!
 	Morgan	Mr. Bender, would you high-five him so we can continue this meeting? [Bender reluctantly does.] And on the rebound? [Bender kicks Fry in his left shin and Fry screams.] Meeting adjourned.
@@ -142,12 +142,12 @@
 	Bender	[mechanical voice] I am Bender. Please insert girder.
 	Fry	Poor Bender. Without his brain he's become all quiet and helpful. We've got to go to the Central Bureaucracy and get that disk back!
 	Amy	Yeah!
-	Professor Farnsworth	Oh, yes, we must, yes.
+	Prof. Farnsworth	Oh, yes, we must, yes.
 	Amy	Why?
 	Leela	Well, those arguments aside, we're still going.
-	Professor Farnsworth	You can't just waltz into the Central Bureaucracy. It's a tangled web of red tape and regulations. I've never been but a friend of mine went completely mad trying to find the washroom there.
+	Prof. Farnsworth	You can't just waltz into the Central Bureaucracy. It's a tangled web of red tape and regulations. I've never been but a friend of mine went completely mad trying to find the washroom there.
 	Leela	Then we'll need a guide. Someone who's been there before.
-	Professor Farnsworth	Oh, I've been there. Lots of times!
+	Prof. Farnsworth	Oh, I've been there. Lots of times!
 	Hermes	Look at that: The carts go out full but they come in empty. It's criminally inefficient.
 	Australian Man	[whispering] Quiet, mate. Pulling the empty carts is the closest thing we get to sleep.
 	Hermes	But don't you see? They could increase efficiency 4% if they used the empty carts to bring in heavy mining machinery.
@@ -156,7 +156,7 @@
 	Man	You know, you oughta be a bureaucrat or something.
 	Fry	Man, how long is this gonna take?
 	Old Man	I'm still waiting on my birth certificate.
-	Professor Farnsworth	Well, it doesn't look like I'll make it inside with the rest of you. Uh, but good luck. Just leave me where I drop.
+	Prof. Farnsworth	Well, it doesn't look like I'll make it inside with the rest of you. Uh, but good luck. Just leave me where I drop.
 	Old Man	Oh, great! Someone had a baby.
 	Leela	Come on. I have a better idea.
 	Leela	Excuse me? We're from the Planet Express delivery company. We're here to deliver a robot.
@@ -168,7 +168,7 @@
 	Leela	OK.
 	Fry	OK.
 	Amy	OK, thanks.
-	Professor Farnsworth	Wonderful.
+	Prof. Farnsworth	Wonderful.
 	Grade 41 Bureaucrat	[screaming] Nooo!
 	Grade 20 Bureaucrat	Central Filing? Of course I know where that is. I'm a grade 20.
 	Leela	Where is it?
@@ -184,7 +184,7 @@
 	Fry	Listen, Morgan, we're through. You're an evil, heartless woman and I never wanna see you again. However, would you help us get Bender back for old time's sake?
 	Morgan	I'm afraid he's lost in the master in pile, and it would take some sort of giant, mechanical, atomic-powered sorting machine to find him.
 	Hermes	You rang?
-	Professor Farnsworth	Damnit, Hermes, just jump already. Stop hogging that healthy liver.
+	Prof. Farnsworth	Damnit, Hermes, just jump already. Stop hogging that healthy liver.
 	Hermes	No, I want to live. Organising that forced-labour spa rekindled my lifelong love of bureaucracy.
 	LaBarbara	My Hermes got that hellhole running so efficiently that all the physical labour is now done by a single Australian man.
 	Leela	But how did you know we were here?
@@ -204,7 +204,7 @@
 	Hermes	[singing] It's supposed to be about the filing! People![He jumps onto Number 1.0's desk and starts juggles the tubes.]We didn't choose to be bureaucrats,No, that's what almighty Jah made us,We treat people like swine,And make 'em stand in line,Even if nobody paid us!
 	Hermes	[singing] They say the world looks down on the bureaucrats,They say we're anal, compulsive and weird,But when push comes to shove,You gotta do what you love,Even if it's not a good idea.[He slides down the pile and throws the red tubes around the other Planet Express staff like a knife thrower.]Zoidberg!
 	Zoidberg	[singing] They said I probably shouldn't be a surgeon.
-	Professor Farnsworth	[singing] They pooh-poohed my electric frankfurter.
+	Prof. Farnsworth	[singing] They pooh-poohed my electric frankfurter.
 	Leela	[singing] They said I probably shouldn't fly with just one eye.
 	Bender	[mechanical voice] I am Bender. Please insert girder.
 	Hermes	[singing] Everybody sing Jamaica!
@@ -226,7 +226,7 @@
 	Hermes	Yes, but you only stamped it four times!
 	Morgan	No! No! I was young and reckless.
 	Number 1.0	Bureaucrat Conrad, you are technically correct -- the best kind of correct. I hereby promote you to grade 37. [He changes Hermes' badge to 37. He points at Morgan.] And as for you. [shouting] Guards! [Guards surround Morgan.] [talking] Bring me the forms I need to fill out to have her taken away!
-	Professor Farnsworth	Well, it looks like I'll be needing my heroic bureaucrat back. At severely-reduced pay, of course.
+	Prof. Farnsworth	Well, it looks like I'll be needing my heroic bureaucrat back. At severely-reduced pay, of course.
 	LaBarbara	It's better than nothing.
 	Fry	What about me? Can I come back at severely-reduced pay?
 	Hermes	You got it, mon! In fact, severely-reduced pay all around! [The staff cheer and Hermes hops on a slow-mobile.] Come on, wife, let's blow this joint!

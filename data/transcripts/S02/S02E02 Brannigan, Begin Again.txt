@@ -1,21 +1,21 @@
 	Fry	Hmm. Horsey to pointy guy six. [His knight charges at the bishop and the bishop batters it to the ground with his crook. The horse pulls out a dagger, stabs the bishop and kicks him off the game board. Fry chuckles and reclines in his seat.] Check.
 	Bender	Hmm. Get him, boys!
 	Fry	[hoarse] Good move.
-	Professor Farnsworth	Good news, everyone. [Hermes walks in behind him carrying a package.] We have a mission to further the noble cause of intergalactic peace.
+	Prof. Farnsworth	Good news, everyone. [Hermes walks in behind him carrying a package.] We have a mission to further the noble cause of intergalactic peace.
 	Bender	Nope. Watching cartoons.
 	Fry	Sorry.
 	Leela	What's the mission?
-	Professor Farnsworth	It's a delivery for the Democratic Order Of Planets.
+	Prof. Farnsworth	It's a delivery for the Democratic Order Of Planets.
 	Fry	DOOP? What's that?
-	Professor Farnsworth	It's similar to the United Nations from your time, Fry.
+	Prof. Farnsworth	It's similar to the United Nations from your time, Fry.
 	Fry	Uh...
 	Hermes	Or like the Federation from your Star Trek programme.
 	Fry	[getting it] Oh!
-	Professor Farnsworth	Tonight is the ribbon-cutting for the DOOP's new headquarters.
+	Prof. Farnsworth	Tonight is the ribbon-cutting for the DOOP's new headquarters.
 	Leela	What are we delivering?
-	Professor Farnsworth	Something without which no ribbon-cutting ceremony could proceed. The ceremonial oversized scissors.
+	Prof. Farnsworth	Something without which no ribbon-cutting ceremony could proceed. The ceremonial oversized scissors.
 	Leela	We'll get them there as quickly as we can.
-	Professor Farnsworth	Alright, but don't run with them.
+	Prof. Farnsworth	Alright, but don't run with them.
 	Fry	Wow! There's a million aliens. I've never seen anything so mind-blowing. Ooh, a reception table with muffins!
 	Glab	Ladies and gentlemen, welcome to the ribbon-cutting ceremony of the DOOP's magnificent new headquarters. A fitting home for an organisation that has fostered peace throughout the universe. Even between the Insectoids and the Space Lizards.
 	Fry	So, what's it like on planet Amazonia?
@@ -92,14 +92,14 @@
 	Zapp	Just let me work for a little food. Perhaps I could paint a fence, or service you sexually, or mop the floors.
 	Leela	You don't know how to do any of those things.
 	Zapp	Kif might.
-	Professor Farnsworth	Leela, who are you talking to?
+	Prof. Farnsworth	Leela, who are you talking to?
 	Zapp	Just a broken-down hobo who's hit rock-bottom. And his commanding officer.
-	Professor Farnsworth	Why, you're that disgraced starship captain. [He turns to Leela.] Having him on staff will distract people from our horrendous safety record. [He turns back to Zapp and Kif.] Come in.
-	Professor Farnsworth	I'd like everyone to meet our new employees. [He leans over to Hermes.] [whispering] Which ones are new?
+	Prof. Farnsworth	Why, you're that disgraced starship captain. [He turns to Leela.] Having him on staff will distract people from our horrendous safety record. [He turns back to Zapp and Kif.] Come in.
+	Prof. Farnsworth	I'd like everyone to meet our new employees. [He leans over to Hermes.] [whispering] Which ones are new?
 	Hermes	The green dude and the fat man.
-	Professor Farnsworth	Hmm, I could swear I've never seen that robot before either.
+	Prof. Farnsworth	Hmm, I could swear I've never seen that robot before either.
 	Bender	I'm Bender. You know? The lovable rascal.
-	Professor Farnsworth	Oh, yes, yes. My good friend, of course. [He turns to Hermes and shrugs.] Anyway, whoever you all are, I have good news. You'll be making a delivery to Stumbos 4, a planet with such high gravity you'll most likely be crushed under the weight of your own hair. Enjoy!
+	Prof. Farnsworth	Oh, yes, yes. My good friend, of course. [He turns to Hermes and shrugs.] Anyway, whoever you all are, I have good news. You'll be making a delivery to Stumbos 4, a planet with such high gravity you'll most likely be crushed under the weight of your own hair. Enjoy!
 	Zapp	So, this Leela. I know she's a very sensuous woman but what manner of captain is she?
 	Fry	She's really strict.
 	Bender	And mean.
@@ -215,10 +215,10 @@
 	Zapp	And so, when Captain Leela panicked, perhaps distracted by female troubles, my quick thinking allowed me to do whatever I did to save the day.
 	Glab	Captain Leela, is this rambling story of magic and heroism true?
 	Leela	Well, actually--
-	Professor Farnsworth	[whispering] That a girl! If they don't take him back we can keep him as captain.
+	Prof. Farnsworth	[whispering] That a girl! If they don't take him back we can keep him as captain.
 	Leela	Your Honour, it's all true: My female incompetence, Zapp's cat-like reflexes, the stuff that made no sense, all of it.
 	Glab	In that case, Zapp Brannigan, I hereby restore your rank and parking privileges.
-	Professor Farnsworth	Oh, foo!
+	Prof. Farnsworth	Oh, foo!
 	Zapp	Come, Kif, we've got work to do.
 	Kif	I-I'll call and tell you about it.
 	Fry	Leela, I just want you to know that even though you're mean, you're the best captain ever.
@@ -227,6 +227,6 @@
 	Fry	Please?
 	Bender	Come on, Captain.
 	Leela	Oh, alright.
-	Professor Farnsworth	No time off.
+	Prof. Farnsworth	No time off.
 	Fry	Aw, man.
 	Leela	Let's mutiny!

@@ -1,12 +1,12 @@
-	Professor Farnsworth	Good news, everyone! I've invented a device that allows you to operate equipment from great distances. I call it "the fing-longer". [He is wearing a glove with a long index finger.] Observe. [He pulls out a rest and aims the fing-longer at a button on a piece of equipment.] And, here we go. [He misses the button a few times but eventually succeeds. The equipment, a sort of TV screen, turns on.] There!
+	Prof. Farnsworth	Good news, everyone! I've invented a device that allows you to operate equipment from great distances. I call it "the fing-longer". [He is wearing a glove with a long index finger.] Observe. [He pulls out a rest and aims the fing-longer at a button on a piece of equipment.] And, here we go. [He misses the button a few times but eventually succeeds. The equipment, a sort of TV screen, turns on.] There!
 	Fry	Ooh!
 	Amy	Wow!
 	Zoidberg	Ah!
-	Professor Farnsworth	Pretty long, eh?
+	Prof. Farnsworth	Pretty long, eh?
 	Fry	Yeah, it's really long. But what did you just turn on with it?
-	Professor Farnsworth	Oh, that's just the What-If machine I invented. You pose it a What-If question and it generates a video simulation of what would happen.
+	Prof. Farnsworth	Oh, that's just the What-If machine I invented. You pose it a What-If question and it generates a video simulation of what would happen.
 	Fry	Does it really work?
-	Professor Farnsworth	Of course it works! [He bashes Fry on the nose with the fing-longer.] It's just not very long.
+	Prof. Farnsworth	Of course it works! [He bashes Fry on the nose with the fing-longer.] It's just not very long.
 	Bender	Ooh! Ooh! [He rubs his hands together.] I wanna aks it a question! [He speaks into the the microphone of the What-If machine.] As a robot living among humans, I've never really felt accepted at parties or nude beaches. So I've always secretly wondered: What if I was 500-feet tall?
 	Zoidberg	Let's watch, shall we?
 	Bender	My work here is done!
@@ -19,9 +19,9 @@
 	Zapp	Uh--
 	Amy	Well, there goes the neighbourhood. [Bender smashes some more buildings.] There goes another neighbourhood.
 	Hermes	We're jerked! Nothing can stop a monster that big.
-	Professor Farnsworth	Nothing except and even equally big monster. This is chance to try out my experimental enlarging ray. But we'll need a guinea pig.
+	Prof. Farnsworth	Nothing except and even equally big monster. This is chance to try out my experimental enlarging ray. But we'll need a guinea pig.
 	Zoidberg	What's this? Two meals in one week?
-	Professor Farnsworth	Gotcha!
+	Prof. Farnsworth	Gotcha!
 	Hermes	Oh, yes!
 	Zoidberg	Friends! Help! A guinea pig tricked me! [Farnsworth throws a switch and the enlarging ray comes down and enlarges Zoidberg.] What?
 	Zoidberg	So, now Zoidberg is big, huh? That's more like it! Who's intimidating who now, big city? [He walks towards a building.] Hello, Mr. Chase Manhattan Bank. Deny my credit card application, will you? [He growls and knocks the building in half. He turns around.] Ah, the famed Apollo Theater. "Boo" me off stage on open-mic night, huh? I'll show you!
@@ -39,21 +39,21 @@
 	Bender	I'll tell you ... with my final breath. [The crowd murmurs.] I came here with a simple dream: A dream of killing all humans. And this is how it must end? Who's the real 7-billion-ton robot monster here? Not I. [He chokes.] Not I.
 	Fry	Goodnight, sweet prince.
 	Narrator	[voice-over] Interesting stuff. Stay tuned for more Tales of Interest!
-	Professor Farnsworth	Well, Leela, care to give the What-If machine a whirl?
+	Prof. Farnsworth	Well, Leela, care to give the What-If machine a whirl?
 	Leela	Maybe later. I-I mean, I don't know what to ask about.
 	Hermes	Come on, woman! Just pick something.
 	Fry	Yeah, be more impulsive. Like this.
 	Bender	Go, man! Go!
 	Leela	I can be really impulsive. It just takes me a while. [Fry hums and chops a banana onto his head.] Alright, Professor! Let's do it. Make that machine show me what would happen if I was a little more impulsive. Just a little. [Farnsworth pushes a button with the fing-longer.] Not too much.
 	Leela	Hey, you guys, look what I bought on a wild impulse: New boots. They're like my old ones but with a crazy green stripe. Woo! Never know what I'm gonna do next!
-	Professor Farnsworth	Leela, could you come in here for a moment. I have something important to tell you.
-	Professor Farnsworth	I can't live forever and I need an heir. Someone to spend my vast riches and take care of my man-eating anteaters when I'm gone. [He drops the meat into a pit in the middle of the room. In the pit three giant anteaters eat it.] The others simply aren't level-headed enough. They're too impulsive. Not like you. Not like old, predictable, dull-as-dishwater Leela.
+	Prof. Farnsworth	Leela, could you come in here for a moment. I have something important to tell you.
+	Prof. Farnsworth	I can't live forever and I need an heir. Someone to spend my vast riches and take care of my man-eating anteaters when I'm gone. [He drops the meat into a pit in the middle of the room. In the pit three giant anteaters eat it.] The others simply aren't level-headed enough. They're too impulsive. Not like you. Not like old, predictable, dull-as-dishwater Leela.
 	Leela	Hello? New boots!
-	Professor Farnsworth	That's why I've made you my sole heir. The day I die, you'll be a very wealthy woman. Oh, my, yes. Incredibly wealthy. The day I die. Because you're so unimpulsive.
+	Prof. Farnsworth	That's why I've made you my sole heir. The day I die, you'll be a very wealthy woman. Oh, my, yes. Incredibly wealthy. The day I die. Because you're so unimpulsive.
 	Leela	Yah!
-	Professor Farnsworth	[shouting] Ooh! [The anteaters start to eat him.] Oh, you've killed me! You've killed me!
+	Prof. Farnsworth	[shouting] Ooh! [The anteaters start to eat him.] Oh, you've killed me! You've killed me!
 	Leela	Oh, God! What have I done?
-	Professor Farnsworth	I just told you, you've killed me!
+	Prof. Farnsworth	I just told you, you've killed me!
 	Leela	OK, just try to be nonchalant.
 	Zoidberg	Alright, so you're nonchalant. Quit rubbing our noses in it.
 	Hermes	Sweet giant anteater of Saint Anita! The Professor's been eaten by giant anteaters!
@@ -108,16 +108,16 @@
 	Fry	I like it!
 	Leela	Good. Now let me just get the lights.
 	Fry	I really like it!
-	Professor Farnsworth	Who else has a question for the What-If machine? Scruffy? Fry?
+	Prof. Farnsworth	Who else has a question for the What-If machine? Scruffy? Fry?
 	Fry	Um, I have a question. What if Bender was really giant?
 	Leela	You idiot! We already saw that.
 	Fry	I know. I liked it. I wanna see it again.
-	Professor Farnsworth	We're not seeing it again! Ask something less stupid.
+	Prof. Farnsworth	We're not seeing it again! Ask something less stupid.
 	Fry	Oh, alright. How 'bout this? What if I never fell into that freezer-doodle and came to the future-jiggy?
-	Professor Farnsworth	That question is less stupid, though you asked it in a profoundly stupid way. [He turns to the What-If machine.] What would happen if Fry never came to the future?
+	Prof. Farnsworth	That question is less stupid, though you asked it in a profoundly stupid way. [He turns to the What-If machine.] What would happen if Fry never came to the future?
 	Fry	Hello? Pizza delivery for ... Icy Wiener? Aw, crud! [He sits down in the chair, puts his feet on the desk and opens a can of beer.] Here's to another lousy Millennium! [He blows the noise maker and tips back on the chair. He loses his balance, falls and hits his head on a freezer.] Ow! [The dial on the machine sets itself. He rubs his head and holds up the noise maker.] I should have left you floating in the toilet!
 	Leela	What is it?
-	Professor Farnsworth	It appears that the very fabric of space-time has ripped.
+	Prof. Farnsworth	It appears that the very fabric of space-time has ripped.
 	Bender	Hey, look! An ugly scared guy! Boo!
 	Fry	Who are you monsters? Is one of you Icy Wiener?
 	Zoidberg	If that's his pizza, then I'm icy whatever!
@@ -187,8 +187,8 @@
 	Stephen Hawking	I guess.
 	Deep Blue	Pawn to rook 8.
 	Al Gore	I'm a 10th-level Vice President!
-	Professor Farnsworth	That story was preposterous. Stephen Hawking in a pizzeria! This thing isn't worth the gold it's made of. [He pushes the What-If machine into a bin.] Anyway, the fing-longer seems to be arousing success.
+	Prof. Farnsworth	That story was preposterous. Stephen Hawking in a pizzeria! This thing isn't worth the gold it's made of. [He pushes the What-If machine into a bin.] Anyway, the fing-longer seems to be arousing success.
 	Fry	Good work.
 	Leela	Congratulations!
 	Amy	Right on, Professor!
-	Professor Farnsworth	So that's what things would be like if I'd invented the fing-longer. [He sighs.] A man can dream though. A man can dream.
+	Prof. Farnsworth	So that's what things would be like if I'd invented the fing-longer. [He sighs.] A man can dream though. A man can dream.

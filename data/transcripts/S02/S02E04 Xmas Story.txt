@@ -7,7 +7,7 @@
 	Bender	Eh.
 	O'Brien	And freckles! [Bender cries.] Well, I'm out of material. You can catch me next week at the Andromeda Chuckle Hut. Enjoy your breakfast.
 	Bender	Ah, lets face it: Comedy's a dead art form. Now, tragedy... [He laughs.] That's funny!
-	Professor Farnsworth	Come on, everyone. Perhaps some skiing will help us forget the mouldy old antics of Conan O'Brien.
+	Prof. Farnsworth	Come on, everyone. Perhaps some skiing will help us forget the mouldy old antics of Conan O'Brien.
 	Amy	Yeah!
 	Leela	Great idea!
 	Zoidberg	We can only hope!
@@ -37,21 +37,21 @@
 	Amy	You poor man. What happened to you?
 	Man #2	Well, there I was on the triple diamond slope, when suddenly--
 	Amy	Oh, excuse me. [She runs over to a man in a whole body cast.] Hello, there!
-	Professor Farnsworth	Wha?
+	Prof. Farnsworth	Wha?
 	Bender	Ah! Nothing like a warm fire and a Super Soaker of fine cognac.
 	Fry	Yeah, it really puts you in the Christmas spirit.
-	Professor Farnsworth	What-mas?
+	Prof. Farnsworth	What-mas?
 	Fry	Christmas. You know? X-M-A-S.
 	Leela	Oh, you mean Xmas. You must be using an archaic pronunciation. Like when you say "ask" instead of "aks".
 	Fry	Xmas, huh? [He sighs.] Y'know, this'll be my first Xmas away from home.
 	Leela	Hey, hey. Let me aks you something: Would it cheer you up if we went and cut down an Xmas tree?
 	Fry	Yeah! An old-fashioned Xmas tree!
 	Fry	Hey! These aren't Xmas trees!
-	Professor Farnsworth	Eh, wha?
+	Prof. Farnsworth	Eh, wha?
 	Fry	They're supposed to be some kinda, you know, pine tree.
-	Professor Farnsworth	Pine trees have been extinct for 800 years, Fry. Gone the way of the poodle and your primitive notions of modesty. [He takes his coat off, exposing his naked body to all.] Ah! Brisk!
+	Prof. Farnsworth	Pine trees have been extinct for 800 years, Fry. Gone the way of the poodle and your primitive notions of modesty. [He takes his coat off, exposing his naked body to all.] Ah! Brisk!
 	Fry	This isn't the way Christmas is supposed to be.
-	Professor Farnsworth	There, there.
+	Prof. Farnsworth	There, there.
 	Fry	Everything's changed.
 	Leela	That's not true.
 	Bender	[singing] : Xmas tree, oh, Xmas tree! Bah-boo-bee-boo-bah-bee-boh.
@@ -64,15 +64,15 @@
 	Zoidberg	Huh? What's this? [His card it shaped like a lobster.] A card from my cousin Zoidfarb. [The message reads "Santa "Claws" Cousin Zoidfarb". Zoidberg chuckles.] Instead of "Claus" he writes "Claws"! Now that's humorous. Today's comedians could learn from this card.
 	Fry	What's the point of Xmas when everyone you know died a thousand years ago? I'm the loneliest person on Earth. [Enter Leela, drying her tears.] Hey, Leela, how 'bout a little sympathy here, huh? [She runs out crying more.] Yoiks! What was that about?
 	Amy	Fluh! She's an orphan.
-	Professor Farnsworth	Yes, and the only one of her species in all the known universe. What a lonely life.
+	Prof. Farnsworth	Yes, and the only one of her species in all the known universe. What a lonely life.
 	Fry	My God! Poor Leela.
 	Bender	[upbeat] Hey, buddy, heard you needed cheering up! Well, old Bender'll make you laugh. [He dances around.] Look at me, look! [He scats and Fry bursts into tears.] Oh, man, I gotta work on my act!
 	Fry	I feel like a rat. Here I am whining like a pig while all along Leela was lonely as a frog. I could kick myself.
 	Amy	I'll do it for you.
 	Fry	Ow! Thanks.
-	Professor Farnsworth	You should be ashamed of yourself, Fry. You'd have to be blind not to notice that Leela's a cyclops.
+	Prof. Farnsworth	You should be ashamed of yourself, Fry. You'd have to be blind not to notice that Leela's a cyclops.
 	Hermes	Fry's over there, man.
-	Professor Farnsworth	Oh?
+	Prof. Farnsworth	Oh?
 	Bender	Xmas Eve; another pointless day where I accomplish nothing.
 	Linda	[on TV] The holiday season is a time of celebration for most. But it is also a time to remember the tragic suffering of the less fortunate.
 	Morbo	[on TV] Earthlings do not yet know the meaning of suffering.
@@ -90,13 +90,13 @@
 	Fry	We'll see. I like to haggle.
 	Amy	You can't stay out on Xmas Eve. You'll be killed!
 	Fry	Say what?
-	Professor Farnsworth	Good Lord! He doesn't know about Santa Claus.
+	Prof. Farnsworth	Good Lord! He doesn't know about Santa Claus.
 	Fry	I know about Santa Claus.
-	Professor Farnsworth	Back in 2801, the Friendly Robot Company built a robotic Santa to determine who'd be naughty and who'd been nice and distribute presents accordingly. But something went wrong.
+	Prof. Farnsworth	Back in 2801, the Friendly Robot Company built a robotic Santa to determine who'd be naughty and who'd been nice and distribute presents accordingly. But something went wrong.
 	Fry	Wow! 2801! Anyway...
-	Professor Farnsworth	Wait, you fool! Due to a programming error, Santa's standards were set too high and he invariably judges everyone to be naughty.
+	Prof. Farnsworth	Wait, you fool! Due to a programming error, Santa's standards were set too high and he invariably judges everyone to be naughty.
 	Amy	If he catches you after dark, he'll chop off your head and stuff your neck full of toys from his sack of horrors.
-	Professor Farnsworth	Nice meeting you.
+	Prof. Farnsworth	Nice meeting you.
 	Preacherbot	Welcome, brother! May the blessings of the season be upon you.
 	Bender	Yeah, yeah, amen. Listen, I'm one of those lazy homeless bums I've been hearing about. Could you point me to the free booze. [The Preacherbot points.] Oh, yeah! Oh, yeah!
 	Fry	There's this girl who I really like but she thinks I'm a jerk. Can you help me?
@@ -120,7 +120,7 @@
 	Fry	Well, I spent every penny I had but I bet Leela's gonna love you. [The parrot squawks.] Hey, you're quite the talker, aren't you? [It squawks again.] Shut the hell up! [It bites his nose.] Ow! [He drops the cage and the parrot flies out.] Stupid bird! I know where you live.
 	Amy	Hey, it's Leela.
 	Leela	Sorry I stormed out before. I didn't mean to ruin everyone's Xmas.
-	Professor Farnsworth	Huh? You were gone?
+	Prof. Farnsworth	Huh? You were gone?
 	Leela	It's just that I get tired of Fry always only thinking of himself.
 	Hermes	I hear that! I aks him to set the table, instead he goes out to buy you a present. Selfish dog.
 	Leela	Wait! You mean he's still out? His life's in danger!
@@ -176,9 +176,9 @@
 	Fry	[shouting; from outside] Help!
 	Leela	[shouting; from outside] Help!
 	Bender	[shouting; from outside] Help!
-	Professor Farnsworth	Oh, dear. They'll be killed on our doorstep. And there's no trash pickup until January 3rd.
+	Prof. Farnsworth	Oh, dear. They'll be killed on our doorstep. And there's no trash pickup until January 3rd.
 	Hermes	Sweet manatee of Galilee! He's on the roof!
-	Professor Farnsworth	Quick! The armour-plated chimney cover! [Fry and Leela run over to the cover and start to push it. It moves very slowly.] Push! Push!
+	Prof. Farnsworth	Quick! The armour-plated chimney cover! [Fry and Leela run over to the cover and start to push it. It moves very slowly.] Push! Push!
 	Bender	Use teamwork!
 	Tinny Tim	Oh, dear! Oh, dear!
 	Santa	You've all been very naughty, very naughty indeed. Except you, Dr. Zoidberg, this is for you.
@@ -190,7 +190,7 @@
 	Amy	Rudolph's nose!
 	Fry	[shouting] He's gonna blow!
 	Zoidberg	Aha!
-	Professor Farnsworth	Yes, good thing I got us out of that one!
+	Prof. Farnsworth	Yes, good thing I got us out of that one!
 	Bender	Xmas dinner, everyone.
 	Fry	Uh, Bender? Where did you get that bird?
 	Bender	I found it lying in the street, like all the food I cook. Dig in, everyone.
@@ -199,13 +199,13 @@
 	Fry	Look, the food isn't what's important.
 	Tinny Tim	I'm so hungry.
 	Fry	The important thing is we're all together for Xmas. And even though I'm surrounded by robots and monsters and old people, I've never felt more at home.
-	Professor Farnsworth	Hear, hear! Now let's all of us shut up and sing!
+	Prof. Farnsworth	Hear, hear! Now let's all of us shut up and sing!
 	Amy	[singing] He knows when you are sleeping.
-	Professor Farnsworth	[singing] He knows when you're on the can.
+	Prof. Farnsworth	[singing] He knows when you're on the can.
 	Leela	[singing] He'll hunt you down and blast your ass from here to Pakistan.
 	Zoidberg	[singing] Oh.
 	Hermes	[singing] You'd better not breathe, You'd better not move.
 	Bender	[singing] You're better off dead, I'm telling you, dude.
 	Fry	[singing] Santa Claus is gunning you down!
-	Professor Farnsworth	Merry Xmas, everyone!
+	Prof. Farnsworth	Merry Xmas, everyone!
 	Santa	[over credits] I'll be back. Back when you least expect it: Next Xmas! Ho, ho, ho!

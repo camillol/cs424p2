@@ -23,7 +23,7 @@
 	Fry	Well it's not right to make my dead pet an exhibit. That's like digging up Lassie and putting her on display in the Louvre.
 	Amy	Lassie is on display in the Louvre.
 	Fry	I know. I was deliberately describing a similar situation.
-	Professor Farnsworth	Why don't you try protesting? Like those native Martians; always whining that people don't treat their ancestor's bones with respect.
+	Prof. Farnsworth	Why don't you try protesting? Like those native Martians; always whining that people don't treat their ancestor's bones with respect.
 	Bender	Nah, protesting never works.
 	Fry	You're right. [He gets up.] I'll give it a shot!
 	Crowd	[chanting] What do you want?
@@ -54,19 +54,19 @@
 	Zoidberg	Stop!
 	Fry	Good news, everyone!
 	Bender	Hooray, he's back! And he's looking for a garbage can to put the rock in! Here you go, buddy!
-	Professor Farnsworth	No. Actually we've discovered that Fry's dog was fast-fossilised, preserving it's cellular structure!
+	Prof. Farnsworth	No. Actually we've discovered that Fry's dog was fast-fossilised, preserving it's cellular structure!
 	Fry	Which means we can clone it! Seymour will live again!
 	Zoidberg	A little land mammal!
 	Fry	Can you believe it, Bender? I'm going to have my best friend back!
 	Cubert	Why the idiot convention?
-	Professor Farnsworth	Ah, Cubert, my precious babe. I'm going to attempt to clone Fry's dog using the very same apparatus I used to clone you. [He looks into the cloning tank.] Ooh, look! There's a smidge of toe still in here. [He picks it up and hands it to Cubert. He walks over to a computer and presses a button and Seymour appears.] You see, beneath the fossil's crunchy, mineral shell, there's still a creamy core of dog nougat.
+	Prof. Farnsworth	Ah, Cubert, my precious babe. I'm going to attempt to clone Fry's dog using the very same apparatus I used to clone you. [He looks into the cloning tank.] Ooh, look! There's a smidge of toe still in here. [He picks it up and hands it to Cubert. He walks over to a computer and presses a button and Seymour appears.] You see, beneath the fossil's crunchy, mineral shell, there's still a creamy core of dog nougat.
 	Fry	So will Seymour remember how to sing Walking On Sunshine?
-	Professor Farnsworth	Amazingly, yes. In cases of rapid fossilisation, I can press this brain scan button, retrieving Seymour's memories at the precise instant of doggy death.
+	Prof. Farnsworth	Amazingly, yes. In cases of rapid fossilisation, I can press this brain scan button, retrieving Seymour's memories at the precise instant of doggy death.
 	Fry	I'm gonna get my puppy back! In your face, Grim Reaper!
 	Bender	Crappy ineffective Reaper!
-	Professor Farnsworth	I just need to reset the Clone-O-Mat from Human Mode to Dog Mode.
+	Prof. Farnsworth	I just need to reset the Clone-O-Mat from Human Mode to Dog Mode.
 	Computer Voice	The dog says--
-	Professor Farnsworth	Uh-oh, this may take a while.
+	Prof. Farnsworth	Uh-oh, this may take a while.
 	Boy	You stink, loser!
 	Mr. Panucci	Hey, Fry. Pizza goin' out. C'mon!
 	Fry	But I'm celebrating New Year's Eve.
@@ -114,10 +114,10 @@
 	Holo-Farnsworth	Good news, everyone! The Clone-O-Mat is ready!
 	Fry	Finally!
 	Robo-Puppy	Robo-Puppy commencing two-hour yipping session. [It starts to yip and Bender kicks it against the wall.] Robo-Puppy mistreatment alert! Robo-Puppy mistreatment alert!
-	Professor Farnsworth	Behold once more, the mighty Clone-O-Mat! Requiring such vast amounts of electricity that we must harness the elemental power of nature itself. [Lightning strikes and the staff "Ooh".] I speak, of course, of molten lava deep within the Earth's core. To the sub-basement!
-	Professor Farnsworth	Powering up Clone-O-Mat. [He plugs in the cord and the Clone-O-Mat bubbles.] Placing fossil on the Plat-Clone-O-Form. [He puts Seymour down.] Initiating dog brain CAT scan.
+	Prof. Farnsworth	Behold once more, the mighty Clone-O-Mat! Requiring such vast amounts of electricity that we must harness the elemental power of nature itself. [Lightning strikes and the staff "Ooh".] I speak, of course, of molten lava deep within the Earth's core. To the sub-basement!
+	Prof. Farnsworth	Powering up Clone-O-Mat. [He plugs in the cord and the Clone-O-Mat bubbles.] Placing fossil on the Plat-Clone-O-Form. [He puts Seymour down.] Initiating dog brain CAT scan.
 	Fry	Come on, boy! Come back to life!
-	Professor Farnsworth	Know ye now what feels like to be dog god! Commencing DNA extraction.
+	Prof. Farnsworth	Know ye now what feels like to be dog god! Commencing DNA extraction.
 	Bender	Fry, c'mon, the talent show!
 	Fry	What? I'm in the middle of something.
 	Bender	But, if we don't perform, in what sense do we have an act?
@@ -128,11 +128,11 @@
 	Bender	Now I'm all you got!
 	Fry	I hate you! I hate you! You evil metal man! [He kicks him.] Ow!
 	Bender	So anyway your dog is melted. Now we're friends again.
-	Professor Farnsworth	Not necessarily. For the dog may yet survive.
+	Prof. Farnsworth	Not necessarily. For the dog may yet survive.
 	Fry	May yet? Really?
-	Professor Farnsworth	Indeed. You see, that fossil was made of dolomite; The tough black mineral that won't cop out when there's heat all about. By contrast, observe the lava's affect on this ice swan. [He takes an ice swan out of the freezer and takes it towards the lava. It immediately melts.] Of course, that would have melted even at room temperature. I just wanted to get rid of it. But had it been made of that righteous mineral dolomite, there's a slim chance it might have survived.
+	Prof. Farnsworth	Indeed. You see, that fossil was made of dolomite; The tough black mineral that won't cop out when there's heat all about. By contrast, observe the lava's affect on this ice swan. [He takes an ice swan out of the freezer and takes it towards the lava. It immediately melts.] Of course, that would have melted even at room temperature. I just wanted to get rid of it. But had it been made of that righteous mineral dolomite, there's a slim chance it might have survived.
 	Fry	So Seymour might still exist?
-	Professor Farnsworth	Perhaps, for a few minutes. It's dolomite, baby!
+	Prof. Farnsworth	Perhaps, for a few minutes. It's dolomite, baby!
 	Fry	Then I'm goin' in after him.
 	Amy	[shouting] No!
 	Leela	[shouting] Stop!
@@ -142,7 +142,7 @@
 	Bender	Please stop crying, Fry. Here. [He hands him a coloured handkerchief which is tied to several more in his sleeve.] I assumed you were just pretending to love the dog to toy with my emotions. Oh, what have I done?
 	Zoidberg	You didn't do anything. Don't beat yourself up.
 	Bender	Fry, I'm sorry. I should have understood how someone can love an inferior creature, because I love you. Not in the way of the Ancient Greeks, but the way a robot loves a human, a human loves a dog and, occasionally, a gorilla loves a kitty. [He looks into the lava.] I'm goin' in!
-	Professor Farnsworth	I'm a professor! Why isn't anyone listening to me? You can't go in because you'll melt. The fossil only has a chance because it's made of dolomite.
+	Prof. Farnsworth	I'm a professor! Why isn't anyone listening to me? You can't go in because you'll melt. The fossil only has a chance because it's made of dolomite.
 	Bender	I'm 40% dolomite! [He bangs his chest and dives in. His hat and cape float on the surface and everyone gasps. Bender swims through the lava and his casing starts to come apart.] Oh, it's hot! It's very hot!
 	Cryogenisist	Ugh! I am one hungover cryogenisist. Just throw that mutt in the freezer till his owners get here.
 	Plumber	You can't solve all your problems by freezing them, boss.
@@ -154,16 +154,16 @@
 	Mrs. Fry	What's he so worked up about?
 	Mr. Fry	He's just upset 'cause our boy's missing. [He clips a lead onto Seymour.] C'mon, you overgrown rat. Lead us to Philip.
 	Leela	Bender's been down there too long. I'm going in after him.
-	Professor Farnsworth	Professor! Lava! Hot!
+	Prof. Farnsworth	Professor! Lava! Hot!
 	Fry	This is all my fault. I let my best friend risk his life just to get my dead dog back. [He cries. The ground starts to shake and Bender erupts through it with Seymour.] Bender!
 	Bender	And that is why they call me Bender the Magnificent! [His eyes melt and fall out.] Hey, where'd everybody go?
 	Bender	OK! Let's clone us some dog!
 	Fry	Yeah!
-	Professor Farnsworth	Very well. Let this abomination unto the Lord begin! [He pulls the chain again and Seymour is zapped and his DNA is extracted. "Species: Canais Familiaris. Age: 15" is displayed on a screen.] Interesting. It seems Seymour died at the ripe old age of 15.
+	Prof. Farnsworth	Very well. Let this abomination unto the Lord begin! [He pulls the chain again and Seymour is zapped and his DNA is extracted. "Species: Canais Familiaris. Age: 15" is displayed on a screen.] Interesting. It seems Seymour died at the ripe old age of 15.
 	Fry	15? You mean he lived for 12 more years after I got frozen?
-	Professor Farnsworth	Indeed.
+	Prof. Farnsworth	Indeed.
 	Fry	Stop the cloning.
-	Professor Farnsworth	Oh, sure! Smash the smart guy's machine!
+	Prof. Farnsworth	Oh, sure! Smash the smart guy's machine!
 	Bender	Fry, what's wrong?
 	Fry	Think about it: Seymour lived a full life after I was gone. He probably even added new songs to his repertoire.
 	Bender	But that's a good thing. Walking On Sunshine sucks noodles!

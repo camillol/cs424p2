@@ -1,5 +1,5 @@
 	Announcer	[voice-over] Futurama is brought to you by ... [The oval retreats the right side of the screen and is replaced by a man with enormous teeth.] ... Thompson's Teeth: The only teeth strong enough to eat other teeth.
-	Professor Farnsworth	Good news, everyone! Today marks our dear friend Dr. Zoidberg's 10th year with Planet Express. Huzzahs are in order.
+	Prof. Farnsworth	Good news, everyone! Today marks our dear friend Dr. Zoidberg's 10th year with Planet Express. Huzzahs are in order.
 	Fry	[unenthusiastic] Huzzah!
 	Leela	[unenthusiastic] Huzzah!
 	Amy	[unenthusiastic] Huzzah!
@@ -59,7 +59,7 @@
 	Bailiff	Your Honour, that facility has been full ever since you ruled that being poor is a mental illness.
 	Whitey	[banging gavel] Order! Order! The only poor people I want to hear about are the people who tend to my pores at the spa. Just send them both to the robot loony bin and let's go.
 	Fry	[from box] Ow! My head! Ow! My feet! Ow! My head! Ow! My feet!
-	Professor Farnsworth	Keep your chin up!
+	Prof. Farnsworth	Keep your chin up!
 	Fry	[from box] Ow! My chin!
 	Fry	I don't belong here, Bender. This is an asylum for insane robots!
 	Bender	Well, you meet half the qualifications.
@@ -111,7 +111,7 @@
 	Bender	Ah, lighten up, honey. I'm just trying to get through a difficult time using humour.
 	Nurse Ratchet	Visiting hours are over. Time for our medication disks.
 	Fry	[shouting] Help me! For God's sake, help me!
-	Professor Farnsworth	Oh, don't worry, Fry. I too once spent a nightmare-ish time in a robot asylum. But now it's nearly over. So long.
+	Prof. Farnsworth	Oh, don't worry, Fry. I too once spent a nightmare-ish time in a robot asylum. But now it's nearly over. So long.
 	Fry	[sleep-talking] Thirty days hath September, April, June and ... wonder ... is that peanut butter ... what am I gonna do? [He hears a whirring outside and wakes up.] [talking] Oh, God! What? What? What is it now?
 	Dr. Perceptron	You are being released.
 	Fry	Finally! Sweet justice! Sweet, juicy justice!
@@ -133,7 +133,7 @@
 	Fry	I'm not a robot! [shouting] I'm not a robot!
 	Dr. Perceptron	In answer to your question, Hermes, yes, your friend is cured.
 	Hermes	Oh!
-	Professor Farnsworth	What a relief!
+	Prof. Farnsworth	What a relief!
 	Leela	Thank God!
 	Dr. Perceptron	You'll notice he no longer suffers delusions of humanity.
 	Fry	[mechanical voice] Affirmative. I feel nothing. I am a robot. Beep, beep, beep ...
@@ -168,7 +168,7 @@
 	Leela	You're not a tool-bot. You're not a food-motron. You're not a robot of any kind.
 	Fry	Yes, I am. I simply haven't discovered my primary function yet.
 	Leela	OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can.
-	Professor Farnsworth	You're going to do his laundry?
+	Prof. Farnsworth	You're going to do his laundry?
 	Leela	[sexfully] Fry, this is for you.
 	Fry	Beep.
 	Leela	Oh, for God's sake!
@@ -193,7 +193,7 @@
 	Zoidberg	Hooray! I'm helping!
 	Smitty	[on megaphone] Do you have any better hostages?
 	Roberto	To show them who's crazy, I'm gonna execute some of you. How 'bout you?
-	Professor Farnsworth	Ouch! That's going to bleed when my heart beats.
+	Prof. Farnsworth	Ouch! That's going to bleed when my heart beats.
 	Leela	Wait! Take me first!
 	Bender	Yes! Take her first.
 	Roberto	Shut up! Stop telling me how to do this!

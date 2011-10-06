@@ -25,9 +25,9 @@
 	Bender	Guys! Guys! Guess who just got commissioned as a tugboat!
 	Amy	Oh, yeah! Pachinko break!
 	Pachinko machine	[in a Japanese accent] Tokyo crazy balls! Yes!
-	Professor Farnsworth	Ooh, good, Leela. You're here. [Leela looks at Professor Farnsworth.] I'd like to describe my foot pain. [Professor Farnsworth sits down and puts his left foot on the table.] My left has a sharp jabbing throb near the bunion, while the other's got a searing pain like gout. [Leela looks repulsed and covers her ears.] Maybe it's too much albumin because of gravity...
+	Prof. Farnsworth	Ooh, good, Leela. You're here. [Leela looks at Professor Farnsworth.] I'd like to describe my foot pain. [Professor Farnsworth sits down and puts his left foot on the table.] My left has a sharp jabbing throb near the bunion, while the other's got a searing pain like gout. [Leela looks repulsed and covers her ears.] Maybe it's too much albumin because of gravity...
 	Leela	Even if I had a pen, I couldn't write under these conditions. [Leela grabs her writing pad and stands up.] I'm going to some other planet, where I can concentrate.
-	Professor Farnsworth	[continued] Searing, searing pain that feels as if it were in a vice.
+	Prof. Farnsworth	[continued] Searing, searing pain that feels as if it were in a vice.
 	Bender	[offended] Well, that was rude.
 	Leela	Warden Vogel, I have a new story for the children. [Warden Vogel looks up at Leela.] I'm sure they'll like it more than my last one.
 	Warden Vogel	They liked hunger cramps more than your last one. Anyhow, you'll have to wait. The kids are busy right now.
@@ -150,7 +150,7 @@
 	Leela	Sally, that's wonderful. You came up with that yourself? Out of thin air? How?
 	Sally	You were an orphan and now you're the best writer ever, so I knew I could write too. Thank you for being my hero.
 	Leela	I can't do this any more.
-	Professor Farnsworth	I don't blame you. Having to wear a costume made from a hollowed-out walrus...
+	Prof. Farnsworth	I don't blame you. Having to wear a costume made from a hollowed-out walrus...
 	Leela	Everyone, I have a confession. I, Turanga Leela, winner of a Young People's Choice Award, a Peabody Jr, and two Training Emmys, am not what I appear to be. There's something I need to show you.
 	Bender	Uh-oh.
 	Leela	Continuing my confession, this is the hardest thing I've ever done.

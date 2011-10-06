@@ -1,14 +1,14 @@
 	Narrator	Previously on Futurama.
 	Morbo	It has now been one month since space ripped open like flimsy human skin. Terrified earthlings are beginning to grow exhausted.
 	Hermes	Professor, sprinkle us with wisdom from your mighty brain. How scared should we be?
-	Professor Farnsworth	Somewhere between not at all and entirely.
+	Prof. Farnsworth	Somewhere between not at all and entirely.
 	Zoidberg	I call entirely. [He springs up, flipping the table upside down and knocking food and beverages all over the four on the couch. He whoops and scuttles his way out of the room.]
 	Morbo	Scientists believe the rip is a gateway to another universe, but do not know what mysteries lie beyond. However, in this reporter's opinion gruesome death awaits us all!
 	Linda	And now with sports, here's Sportsbot 5000.
 	Sportsbot 5000	All sports cancelled.
-	Professor Farnsworth	To better understand the anomaly, I will now focus its radiation on a giant medium-sized ant to see what happens.
+	Prof. Farnsworth	To better understand the anomaly, I will now focus its radiation on a giant medium-sized ant to see what happens.
 	Giant Medium-Sized Ant	What's going on here? I was told there would be sugar syrup.
-	Professor Farnsworth	Quiet, you. [He pulls a switch down. A giant magnifying glass focuses a beam of light from the anomaly onto Farnsworth's head. His forehead to the tip of his upper lip is blasted by fire. Farnsworth screams and Leela sighs and flips the switch to "off." She pulls out a fire extinguisher and puts out the Professor's head.]
+	Prof. Farnsworth	Quiet, you. [He pulls a switch down. A giant magnifying glass focuses a beam of light from the anomaly onto Farnsworth's head. His forehead to the tip of his upper lip is blasted by fire. Farnsworth screams and Leela sighs and flips the switch to "off." She pulls out a fire extinguisher and puts out the Professor's head.]
 	Fry	Oh, hey, everyone, this is Colleen.
 	ALL	Hello!
 	Amy	I like your shoes.
@@ -17,7 +17,7 @@
 	Bender	Hey, you can't (voice slowing)turn me off...
 	Leela	Hi. I'm Leela.
 	Colleen	Hi, Leela, hi, everyone. Sorry I've been taking up so much of Fry's time. He's just so interesting. Have you seen how much cotton candy he can eat?
-	Professor Farnsworth	Oh, my, yes. 5.1 pounds. That's why his blood is so good on pancakes. [He picks up a stack of pancakes with Fry's blood acting as a syrup.]
+	Prof. Farnsworth	Oh, my, yes. 5.1 pounds. That's why his blood is so good on pancakes. [He picks up a stack of pancakes with Fry's blood acting as a syrup.]
 	Fry	Well, got to skedoodle-oodle. We're taking a cuddle-cab to Hug-a-Bunny Village. [The two kiss, then exit the room.]
 	Zoidberg	This lovey-dovey stuff is making me vomit from my saltwater and freshwater stomachs.
 	Leela	It is pretty sickening.
@@ -32,7 +32,7 @@
 	Kif	Yes, Amy and I have a big announcement. I... That is, we... Oh, I'm just so excited.
 	Amy	Kif has asked me to be his Fonfon Ru. [She hugs Kif.]
 	Zoidberg	Mazel tov!
-	Professor Farnsworth	Wonderful!
+	Prof. Farnsworth	Wonderful!
 	Hermes	What the hell does that mean?
 	Kif	It means I've asked Amy to join my family. And you're all invited to my family swamp for our Fonfon Rubok ceremony.
 	Amy	If I had ever heard of it, it would have been what I had always dreamed of.
@@ -87,34 +87,34 @@
 	Zoidberg	Hooray, hooray.
 	Leela	That's great.
 	Bender	You're moving in with her? Why can't she move in with us? [He curls into a ball at Fry's feet.] I could just curl up at the foot of the bed. (WHIMPERING)
-	Professor Farnsworth	Listen up, everyone. I know you've all been extremely worried about the cosmic anomaly.
+	Prof. Farnsworth	Listen up, everyone. I know you've all been extremely worried about the cosmic anomaly.
 	Hermes	The what? Oh, right.
-	Professor Farnsworth	But there's good news! We're all going to learn more about it at a scientific conference.
+	Prof. Farnsworth	But there's good news! We're all going to learn more about it at a scientific conference.
 	Man walking on screen	...like a city made of marshmallow.
 	Stephen Hawking	Welcome. I am the pickled head of Stephen Hawking on a way-cool rocket.
 	Leela	Black hole Hawking? Wow, if I knew I was going to meet you I would have done something with my hair. [She plays with her hair.]
 	Stephen Hawking	You should have.
 	Stephen Hawking	In conclusion, I understand nothing about the anomaly, even after cashing the huge check I got for writing a book about it.
-	Professor Farnsworth	I know this anomaly is terrifying. But as scientists, is it not our sworn duty to seek out knowledge, even at the cost of our very lives?
+	Prof. Farnsworth	I know this anomaly is terrifying. But as scientists, is it not our sworn duty to seek out knowledge, even at the cost of our very lives?
 	Stephen Hawking	No.
-	Professor Farnsworth	I say we must mount an expedition to the anomaly forthwith.
+	Prof. Farnsworth	I say we must mount an expedition to the anomaly forthwith.
 	Wernstrom	I agree.
-	Professor Farnsworth	Wernstrom!
+	Prof. Farnsworth	Wernstrom!
 	Wernstrom	Professor Farnsworth is correct. Only a manned mission can... [Yelps as he is hit on the head with a pair of dentures.]
-	Professor Farnsworth	Don't listen to that crackpot!
+	Prof. Farnsworth	Don't listen to that crackpot!
 	Wernstrom	But I'm agreeing with you.
-	Professor Farnsworth	I'll make you eat those words, you moron! [He spits his dentures into his hand and prepares to throw them, but Hermes and Leela stop him from doing so.]
+	Prof. Farnsworth	I'll make you eat those words, you moron! [He spits his dentures into his hand and prepares to throw them, but Hermes and Leela stop him from doing so.]
 	Wernstrom	Ah! [Protects himself with his arms.] I volunteer to lead the expedition. I have a squad of graduate students eager to risk their lives for a letter of recommendation.
-	Professor Farnsworth	Your squad sucks bosons! My team is twice as qualified and three times as expendable.
+	Prof. Farnsworth	Your squad sucks bosons! My team is twice as qualified and three times as expendable.
 	The PE Crew	Yeah!
 	Wernstrom	Oh, tough talk for someone with only one Fields Medal.
 	Crowd	Ooh!
 	Stephen Hawking	Ooh!
-	Professor Farnsworth	Wernstrom, I ought to...
+	Prof. Farnsworth	Wernstrom, I ought to...
 	Stephen Hawking	I didn't know I could do that. Now quiet down and settle this like men of science.
-	Professor Farnsworth	Very well.
-	Professor Farnsworth	Let Deathball begin!
-	Professor Farnsworth	Go, Planet Express!
+	Prof. Farnsworth	Very well.
+	Prof. Farnsworth	Let Deathball begin!
+	Prof. Farnsworth	Go, Planet Express!
 	Wernstrom	Go even more, my team!
 	Fry	Leela, header! [He prepares to knock it over to Leela, but it easily tramples over him. Cut to Bender smoking a cigar. A ball hits him, but he doesn't move. It bounces off him then hits a wall and rolls into a hole. The hole lights up blue. Cut to the scoreboard: "1-1." Cut to Fry riding on top of a ball. He manoeuvres it around a hole and heads toward an opponent riding another ball.]
 	Colleen	Woo hoo! Bust those balls!
@@ -138,13 +138,13 @@
 	Ndulu	Welcome to the relationship, buddy!
 	Fry	Hmm? [He spits a piece of butterscotch into his hand.]
 	Chu	There's my butterscotch.
-	Professor Farnsworth	Congratulations, Deathballers! We've won the right to explore the anomaly!
+	Prof. Farnsworth	Congratulations, Deathballers! We've won the right to explore the anomaly!
 	Zoidberg	What? I thought I was playing for my freedom!
-	Professor Farnsworth	No. [He inserts a crank and turns it to power a hologram of the Anomaly.] Now, I've often said "good news" when sending you on a mission of extreme danger. So when I say this anomaly is dangerous, you can imagine how dangerous I really think it is.
+	Prof. Farnsworth	No. [He inserts a crank and turns it to power a hologram of the Anomaly.] Now, I've often said "good news" when sending you on a mission of extreme danger. So when I say this anomaly is dangerous, you can imagine how dangerous I really think it is.
 	Hermes	Not dangerous at all?
-	Professor Farnsworth	Actually, quite dangerous indeed.
+	Prof. Farnsworth	Actually, quite dangerous indeed.
 	Hermes	That is quite dangerous!
-	Professor Farnsworth	Indeed. Now stop shilly-shallying! Prep the ship and line up for your pre-flight coffee enemas!
+	Prof. Farnsworth	Indeed. Now stop shilly-shallying! Prep the ship and line up for your pre-flight coffee enemas!
 	Fry	I don't know what to do, Leela. Should I move in with Colleen and her four other boyfriends?
 	Leela	What are you going to do? Sleep in a big pile like hamsters?
 	Fry	No! It's not like that. Everyone gets his own room and a shelf in the refrigerator.
@@ -152,7 +152,7 @@
 	Amy	Only one thing matters, Fry. Do you really love Colleen, like I love my little squeezle? [She squeezes him and his head expands and eyes expand out of his head. He giggles.
 	Fry	Yeah. I do love her.
 	Kif	Then things will work out. [Amy lets go of him and he contracts to normal size, but one eye remains out. Amy pokes it and it pops back to normal size.]
-	Professor Farnsworth	Whoa!
+	Prof. Farnsworth	Whoa!
 	Enema Bot	Double espresso for Philip Fry?
 	Fry	Sorry, I'm not going on the mission. I'm moving in with Colleen!
 	Kif	Good for you, Fry.
@@ -165,9 +165,9 @@
 	Bender	(Gasps) The anomaly!
 	Amy	It's so anomalous.
 	Hermes	I'm feeling dread deep in my dreads!
-	Professor Farnsworth	Wernstrom!
+	Prof. Farnsworth	Wernstrom!
 	Wernstrom	Yes, and I'm afraid I have disturbing news about the anomaly. You see...
-	Professor Farnsworth	How did you get this number? Hermes, hang up on him in the rudest possible manner.
+	Prof. Farnsworth	How did you get this number? Hermes, hang up on him in the rudest possible manner.
 	Hermes	Yes, sir! [He drops his pants and grasps the phone between his buttocks.]
 	Wernstrom	No, not the crack slam! [Hermes slams the phone down and the screen goes to static.]
 	Colleen	Oh, my life rocks. [She pours the wine into six glasses.] I've got good wine, five sweethearts, and today, I was promoted to Chief of Police.
