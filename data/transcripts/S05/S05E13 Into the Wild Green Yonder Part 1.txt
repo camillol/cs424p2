@@ -104,10 +104,10 @@
 	Joey Mousepad	Hey, Donbot, ain't that your wife what with you had that wedding with?
 	Fanny	[While sauntering over to Donbot looking rather bloated.] Donbot, honey! What a pleasant shock! I was just having dinner alone, when suddenly you walk in on us.
 	Donbot	Alone, huh?
-	(To Fanny	Where am I? I was exploring a wormhole through space many light years from this restaurant, when suddenly I was surrounded by darkness. (To Fanny:) Hot, sexy darkness. [He purrs sensually.] Oh, why, hello, Donbot! Hello, miss, have we met? [He shakes Fanny's hand.] I'm Bender. The world's most sexual robot. I mean, the world's most boundary-respecting robot.
+	Bender	Where am I? I was exploring a wormhole through space many light years from this restaurant, when suddenly I was surrounded by darkness. (To Fanny:) Hot, sexy darkness. [He purrs sensually.] Oh, why, hello, Donbot! Hello, miss, have we met? [He shakes Fanny's hand.] I'm Bender. The world's most sexual robot. I mean, the world's most boundary-respecting robot.
 	Donbot	Nice to see you, Bender. Welcome back to our universe. Listen, sugar, I stuck up the Burlington Coat Factory and got you a little something. It's a $49 value.
-	(To Bender	Donbot, I love you! (To Bender:) Not really.
-	(To Fanny	Man, this is great! I always wanted to nail a dame in a fur coat, and now's my chance. [He catches himself.] I mean, if you'll introduce me to one, sir. (To Fanny:) One as sexy as you, baby! Bender out. [He struts away while humming/scatting. Zoom on Donbot's eyes, they squint, showing Donbot is onto Bender.]
+	Fanny	Donbot, I love you! (To Bender:) Not really.
+	Bender	Man, this is great! I always wanted to nail a dame in a fur coat, and now's my chance. [He catches himself.] I mean, if you'll introduce me to one, sir. (To Fanny:) One as sexy as you, baby! Bender out. [He struts away while humming/scatting. Zoom on Donbot's eyes, they squint, showing Donbot is onto Bender.]
 	Fanny	I never felt so alive, Bender. Listen, this turquoise-encrusted bra is worth 50 grand. Let's sell it and run off before the Donbot gets wise.
 	Bender	[He sighs.] No. It will take a lot more money than that to make a girl like you happy.
 	Fanny	No, it won't.

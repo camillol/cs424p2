@@ -1,5 +1,5 @@
 Fry	3822
-Bender	3423
+Bender	3425
 Leela	3019
 Professor Farnsworth	1760
 Zoidberg	899
@@ -134,6 +134,7 @@ Robot #1	16
 Unattractive giant monster	16
 Transition Announcer	16
 Slurms	16
+Fanny	15
 Merg	15
 Umbriel	15
 Glab	15
@@ -142,7 +143,6 @@ Mrs. Fry	15
 Spargle	15
 Thubanian leader	15
 Ipgee	15
-Fanny	14
 Paper-hatted salesman	14
 Doctor	14
 Vernon	14
@@ -728,7 +728,6 @@ Robot clerk	2
 "Fembot"	2
 Mandy	2
 Refreshment-bot	2
-(To Fanny	2
 Hydroponic Farmer	2
 Darth Trocious	2
 Orange Elder	2
@@ -847,7 +846,6 @@ Mavis	1
 Cosmetologist	1
 Natalie	1
 Leela's finger	1
-(To Bender	1
 Actress	1
 Bill Morrison Robot	1
 "Ensign"	1
