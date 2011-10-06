@@ -1,0 +1,1133 @@
+*** Names with multiple URLs ***
+Bolt
+	<missing>
+	http://theinfosphere.org/Bolt_Rolands
+Zapp
+	http://theinfosphere.org/Zapp_Brannigan
+	http://theinfosphere.org/Zapp
+Small Glurmo #1
+	<missing>
+	http://theinfosphere.org/Glurmo
+Leela
+	http://theinfosphere.org/Turanga_Leela
+	http://theinfosphere.org/Leela
+Bender
+	http://theinfosphere.org/Bender_Bending_Rodriguez
+	http://theinfosphere.org/Bender
+Sally
+	<missing>
+	http://theinfosphere.org/Sally
+Queen
+	http://theinfosphere.org/Queen_of_England
+	<missing>
+Doctor
+	http://theinfosphere.org/Actual_Doctor
+	<missing>
+Nibblonian
+	http://theinfosphere.org/Nibblonians
+	<missing>
+Hattie
+	http://theinfosphere.org/Hattie
+	http://theinfosphere.org/Hattie_McDoogal
+Morris
+	http://theinfosphere.org/Turanga_Morris_and_Munda
+	<missing>
+	http://theinfosphere.org/Morris
+Clamps
+	<missing>
+	http://theinfosphere.org/Clamps
+Hedonism Bot
+	<missing>
+	http://theinfosphere.org/Hedonism_Bot
+White Robot
+	<missing>
+	http://theinfosphere.org/Robot_God
+Kids
+	<missing>
+	http://theinfosphere.org/Orphans
+Warden Vogel
+	http://theinfosphere.org/Warden_Vogel
+	<missing>
+Dwight
+	http://theinfosphere.org/Dwight
+	http://theinfosphere.org/Dwight_Conrad
+Ken
+	<missing>
+	http://theinfosphere.org/Ken
+Nina
+	http://theinfosphere.org/Nina
+	<missing>
+Nixon
+	http://theinfosphere.org/Richard_Nixon%27s_head
+	http://theinfosphere.org/Nixon
+Horn loudspeaker
+	<missing>
+	http://theinfosphere.org/Sparky_(Reincarnation)
+Hermaphrobot
+	http://theinfosphere.org/Hermaphrobot
+	<missing>
+Fry
+	http://theinfosphere.org/Fry
+	http://theinfosphere.org/Philip_J._Fry
+Donbot
+	http://theinfosphere.org/Donbot
+	<missing>
+Beeler
+	http://theinfosphere.org/Ben_Beeler
+	<missing>
+Cubert
+	http://theinfosphere.org/Cubert_Farnsworth
+	http://theinfosphere.org/Cubert
+H.G. Blob
+	http://theinfosphere.org/H.G._Blob
+	http://theinfosphere.org/Horrible_Gelatinous_Blob
+Albert
+	http://theinfosphere.org/Albert
+	<missing>
+Santa
+	http://theinfosphere.org/Robot_Santa
+	<missing>
+Munda
+	http://theinfosphere.org/Munda
+	http://theinfosphere.org/Turanga_Morris_and_Munda
+	<missing>
+Whitey
+	http://theinfosphere.org/Judge_Whitey
+	<missing>
+Fishy Joe
+	<missing>
+	http://theinfosphere.org/%22Fishy%22_Joseph_Gilman
+Turanga Morris
+	<missing>
+	http://theinfosphere.org/Turanga_Morris
+Smitty
+	<missing>
+	http://theinfosphere.org/Smitty
+Turanga Munda
+	<missing>
+	http://theinfosphere.org/Turanga_Munda
+Sweet Clyde
+	http://theinfosphere.org/%22Sweet%22_Clyde_Dixon
+	http://theinfosphere.org/Sweet_Clyde
+	<missing>
+Narrator
+	<missing>
+	http://theinfosphere.org/Narrator
+Panucci
+	http://theinfosphere.org/Mr._Panucci
+	http://theinfosphere.org/Panucci
+Raoul
+	http://theinfosphere.org/Raoul
+	<missing>
+Scoop Chang
+	<missing>
+	http://theinfosphere.org/Scoop_Chang
+Tour Guide
+	<missing>
+	http://theinfosphere.org/Tour_Guide
+Dr. Perceptron
+	<missing>
+	http://theinfosphere.org/Dr._Perceptron
+Hermes
+	http://theinfosphere.org/Hermes
+	http://theinfosphere.org/Hermes_Conrad
+Kif
+	http://theinfosphere.org/Kif
+	http://theinfosphere.org/Kif_Kroker
+Zoidberg
+	http://theinfosphere.org/Zoidberg
+	http://theinfosphere.org/Dr._John_A._Zoidberg
+Kug
+	<missing>
+	http://theinfosphere.org/Kug
+Suicide booth
+	<missing>
+	http://theinfosphere.org/Lynn
+Salesman
+	<missing>
+	http://theinfosphere.org/Human_Horn_dealer
+Amy
+	http://theinfosphere.org/Amy_Wong
+	http://theinfosphere.org/Amy
+Transition Announcer
+	http://theinfosphere.org/Transition_Announcer
+	<missing>
+Dixie
+	<missing>
+	http://theinfosphere.org/Dixie
+Mayor Poopenmeyer
+	<missing>
+	http://theinfosphere.org/Mayor_C._Randall_Poopenmeyer
+Hutch
+	<missing>
+	http://theinfosphere.org/Hutch_Waterfall
+Man
+	<missing>
+	http://theinfosphere.org/Dr._Ben_Beeler
+Bubblegum
+	http://theinfosphere.org/Ethan_%22Bubblegum%22_Tate
+	http://theinfosphere.org/Bubblegum
+Farnsworth
+	http://theinfosphere.org/Professor_Hubert_J._Farnsworth
+	http://theinfosphere.org/Professor_Hubert_Farnsworth
+
+*** URLs with multiple names ***
+http://theinfosphere.org/Richard_Nixon%27s_head
+	Richard Nixon's head
+	Nixon
+http://theinfosphere.org/Al_Gore%27s_head
+	Gore
+	Al Gore's head
+	Al Gore
+http://theinfosphere.org/Turanga_Morris_and_Munda
+	Munda
+	Morris
+<missing>
+	
+	Welles
+	"Cosell"
+	Farnsworth A
+	Moustached Alien
+	Pocket Pal
+	Lyndon Johnson's head
+	Andrew Jackson's head
+	Robot Fry
+	Doctorbot
+	Mr. Moviefone
+	New Fry
+	Voice
+	Neptunian Man
+	Q-Bert
+	Trees
+	Titanius Anglesmith
+	Bolt
+	Bender Doll
+	Suzie
+	Cylon
+	Male Scientist
+	Zoidberg A
+	Lady #2
+	Lady #3
+	Younger Wernstrom
+	Three Eyed Zebra
+	Nixon's Head
+	Zoidberg 1
+	Queequeg
+	Native #1
+	Slaves
+	Antarian #1
+	Antarian #2
+	Bret
+	Ambassador
+	Female voice
+	Computer Voice
+	Small Glurmo #2
+	Small Glurmo #1
+	Chrissy
+	Nibblonian Chef
+	Doorman
+	Sandy
+	Campaign Manager
+	Woman #5
+	Woman #4
+	Woman #3
+	Woman #2
+	Woman #1
+	Fry's Photo
+	Andrew
+	Worm Announcer
+	Recruitment Officer
+	Worm Mayor
+	Robot Devil's ghost
+	Camera
+	Humplings
+	Frame #1
+	Ms. Pac-Man
+	Farmer
+	Liubot #3
+	Liubot #2
+	Nurse
+	Decapodian Woman #1
+	Liubot #7
+	Liubot #6
+	Grade 20 Bureaucrat
+	Liubot #4
+	Alien #2
+	The Being of Inconceivable Horror
+	Hermes-Droid
+	Ahab
+	Brown-haired man
+	Alarm Clock
+	Ford
+	Roller-Skater
+	Fry-Droid
+	Holo-Roseanne
+	Photographer #1
+	Photographer #2
+	Gopher #2
+	Sally
+	Guardbot #1
+	Guardbot #2
+	Guardbot #3
+	Guardbot #4
+	Lady Buggle
+	Nannybot 1.0
+	Tenant #1
+	Tenant #2
+	Tenant #3
+	Flavia
+	Leela'
+	Shore
+	Male inhabitant
+	P.A. Announcer
+	Emcee
+	wormhole!
+	MC
+	Suicide Booth
+	Bartender-bot
+	Groening
+	Queen
+	Dole
+	Universal Translator
+	Alien
+	Bystanders
+	Garry Gygax
+	Grumpy Snail
+	Leela A
+	Amish man
+	Nine
+	Schumlp
+	Mad Fellow
+	Vladimir-Ghost
+	Staff
+	Female inhabitant
+	Centaur Opponent
+	Doctor
+	Planet Express crew
+	Infosquito
+	Kirk
+	Hooded Figure #2
+	Decapodian Man #2
+	Decapodian Man #1
+	Prototype
+	Nibblonian
+	Mermaid
+	Farnsworth's Killbot
+	Dark One
+	Security Woman
+	Motorist #1
+	Motorist #3
+	Motorist #2
+	Cryogenicist
+	Vijai Patel
+	Statue
+	Thubanian
+	Robot General
+	Merman
+	Skipper
+	Lane
+	British Robot
+	Monroe-bot
+	Fratbot #2
+	Farnswoth
+	Bee
+	Gus
+	Grade 53 Bureaucrat
+	Nudar-2
+	Clinton
+	Hookerbot
+	Gammabot
+	Boobs Vanderbilt
+	Sweet Clyde
+	ALL
+	seen Mickey Rourke's head.
+	Crowd
+	Evil Lincoln
+	UNKNOWN
+	Wernstrom's Killbot
+	Gophers
+	Souter
+	Trucker
+	Gorillas
+	Mr. Astor
+	Hitler
+	NIxon
+	Juror #1
+	Rich Little
+	Juror #2
+	Monkey
+	Tattoo #1
+	Ice-V
+	Tattoo #3
+	Tattoo #2
+	Bender doll
+	Zoidberg Head
+	Leela and Female Voice
+	Chinese Boy
+	Norm
+	Amy 1
+	Hooded Robot
+	Moose
+	Rosie
+	Bender's ghost
+	Little Prince
+	Ginsburg
+	MOM COMPUTER
+	Warren Harding's head
+	Bender's First Born Son
+	Scientist
+	Soldier #1
+	Mavis
+	Cosmetologist
+	Mugger
+	Natalie
+	(To Bender
+	Inuitbot
+	Actress
+	Penguin #1
+	Bill Morrison Robot
+	"Ensign"
+	Guards
+	Centipede Man
+	Holo-Zoidberg
+	Morgan Proctor
+	Neutral President's Aide
+	Joey
+	All
+	Crystal
+	The Force
+	Farnsworth-Droid
+	Five-Eyed Woman
+	Guard
+	Hermes 25
+	Scout Leader
+	Meiderneyer
+	Hick
+	Nerd
+	Farnsworth 1
+	Morris
+	Professor Farnsworth and Zoidberg
+	Smith
+	Berha
+	"Woman"
+	Reflection Host
+	Clamps
+	Hedonism Bot
+	Super Hero
+	Old Cubert
+	Referee
+	White Robot
+	Bender-3
+	Bender-2
+	Hippie #1
+	Hippie #3
+	Hippie #2
+	Hippie #5
+	Hippie #4
+	Hippie #6
+	Bee #3
+	Barbados and Bubblegum
+	Mombot
+	Fembot #1
+	Stoned Guy
+	Fembot #2
+	Butch's Mom
+	Female Voice
+	Kids
+	Fry-2
+	Raoul
+	Michael
+	Robot Slave
+	Gwen
+	Mother
+	Warden Vogel
+	The Funkalistics
+	Fry 31
+	Katz
+	Intercom Assistant
+	Bender Figurine
+	Sam
+	Amy, Leela, Fry, Bender, and Hermes
+	Bender and Fry
+	Patrol Officer #1
+	Patrol Officer #2
+	McNeal
+	Gary
+	Scalia
+	Ray
+	Salesman #2
+	Salesman #1
+	Princess Num Num
+	Clock
+	Announcer
+	Grunka Lunka #2
+	Grunka Lunka #1
+	Underwater House Salesman
+	Young woman
+	Wendy
+	Criminal
+	Cyclopian Man #1
+	Oily
+	Cyclopian Man #2
+	Neptunian Salesman #2
+	Ken
+	Neptunian Salesman #1
+	Holo-Farnsworth
+	Clerk
+	Cryogenisist
+	Male voice #1
+	Calculon's Nephew
+	Donkey Kong
+	Garfunkel
+	Stilt People
+	Grade 11 Bureaucrat
+	Osiran
+	Priests
+	Bailiff
+	Nina
+	V.A.P. Man
+	Kissenger
+	Penguins
+	Sibling #1
+	George H.W. Bush
+	Sibling #2
+	Senator
+	Bender 1 and Bender A
+	Deformed man
+	Yancy's Wife
+	Mutant
+	Pathologist #1
+	Doctor #2
+	Evans
+	Pathologist #2
+	Aki
+	Vergerbot
+	Stenographer
+	ALL YIVOS
+	Horn loudspeaker
+	Myrtle Fu
+	Doubledeal
+	Bee #1
+	Hermaphrobot
+	Guard #1
+	Guard #2
+	Guard #3
+	Male voice
+	Slave #2
+	Slave #3
+	Slave #1
+	Ndnd
+	Old Man
+	Hiroki
+	Zoidberg, Leela, Amy, Hermes, and several heads
+	Inger
+	Killbot
+	Lamp
+	Garbly
+	Caveman
+	Pirate
+	Robosexual Robot
+	Leela 1
+	Cohen
+	Billionaire Bot
+	Man #3
+	Man #2
+	Man #1
+	Donbot
+	Man #6
+	Man #5
+	Man #4
+	Dogg
+	TV Commentator
+	Actor 1
+	Sims Woman
+	Lincoln
+	Beeler
+	Hermenthotip
+	Leonardo da Vinci
+	Roosevelt
+	Stockbroker #1
+	Stockbroker #2
+	Leela-Droid
+	The Scary Announcer
+	Armband
+	Waitress
+	Announcer #2
+	Announcer #1
+	Barrierbot #1
+	Barrierbot #2
+	Waltazar
+	Fry, Zoidberg, Amy, Tinny Tim, Bender, Farnsworth
+	Koji
+	Neptunians
+	Rat Woman
+	Orphans and Humplings
+	Striped Biologist-Taunter
+	Holo-Fry
+	Snake
+	Coilette
+	Insect-sized Bender
+	Bidder #2
+	Female Announcer
+	Fratbot #3
+	Bidder #1
+	Frame #2
+	Father
+	Vampire
+	Poppler
+	Machine
+	Decapodian Woman #2
+	Bender duplicate B
+	Kidman
+	Decapodian Woman #3
+	Boom Mic-bot
+	Amy's computer
+	Amy A
+	Very small Bender
+	Administrator
+	Slurm Machine
+	Fry 1729
+	Commentator
+	Albert
+	Leela and Lars
+	Fembot
+	Congregation
+	Barman
+	Brain Ball #1
+	Liubot #5
+	Shrimpkins
+	Brain Ball #2
+	Yokelbot
+	Bender duplicate #2
+	Teen #2
+	Bee #2
+	Lincolnbot
+	Director #2
+	Director #1
+	Bont
+	Sebastian Cabot
+	Amy-Droid
+	Lady #1
+	Janitorbot
+	Amy 420
+	Bender duplicate #1
+	Chet
+	Orowheat
+	Frankie
+	Doingg
+	Jor-El
+	Miss Vega 4
+	Clip Board
+	Slim
+	Humans
+	Mrs. Grant
+	MCA
+	Chef
+	Lrrr's Father
+	Larius
+	Delivery-Boy Man
+	Alphabot
+	Widnar
+	Santa
+	Bender duplicate
+	Old Zoidberg
+	Mine Spokesman
+	Aragonés
+	Holo-Robot Devil
+	Hot Dog Stand
+	eyePhone
+	Thomas Jefferson
+	Fred
+	Snoop Dogg
+	(Sobbing
+	Kwanzaa-bot
+	Monk #3
+	Holo-Leela
+	Fry, Amy, Zoidberg, Bender, Tinny Tim, and Nibbler
+	Planet Express Ship Alarm
+	Mysterious Voice
+	Punk
+	Everybody else
+	Francine
+	Rabbi-bot
+	Munda
+	Whitey
+	Leg Mutant
+	Subtitle
+	Crewman
+	Washington
+	Old lady
+	New Farnsworth
+	Dark Wizard
+	Crazed Fan
+	Manbot
+	Old Amy
+	Jeffery
+	Old Leela
+	Bender 1
+	Rutherford B. Hayes' head
+	Plumber
+	Flabby
+	Crew
+	Anderson
+	Bender duplicates
+	Hattie McDoogal
+	TV Announcer
+	Robot #1
+	Robot #3
+	Robot #2
+	Robot #5
+	Robot #4
+	Robot #6
+	Vandal #2
+	Bender-Droid
+	Security woman
+	Vandal #1
+	Dwarf
+	Song
+	Peasent Cook
+	Professor Farnsoworth
+	Bertha
+	Fishy Joe
+	Treedledum
+	Grade 41 Bureaucrat
+	Worm Guard #2
+	Nibblonians
+	Worm Guard #1
+	Cheech
+	Betabot
+	Decapodian Man
+	Jingle Singer
+	Plastic Surgeon
+	Wermstrom
+	Hammurabi Actor
+	Soldier
+	Mechanic
+	Remaining Ogre
+	Indian Boy
+	Leela 1729
+	Decapodian Emperor
+	Royalty girl
+	Jeff Jervis
+	Umpire
+	Ad-Rock
+	Arthur
+	Turanga Morris
+	French Guy
+	Nerd #1
+	Nerd #3
+	Nerd #2
+	Beserk
+	Nerd #4
+	Who Ask Machine
+	Mom Cut-Out
+	Robot Carny
+	Nurse Ratchet
+	Smitty
+	Fratbot #1
+	Judge Dogg
+	Big-Eared Mutant
+	Squire
+	Mr. Sunbeam
+	Arachneon
+	Orphan #2
+	Orphan #3
+	Liubots
+	Farnsworth Monkey
+	Frida
+	James Madison's head
+	Labarbara
+	Tom Sawyer
+	Director
+	Hooded Figure #1
+	Microscopic Bender
+	Octopus
+	O'Connor
+	Protestor #3
+	Protestor #2
+	Protestor #1
+	Morcs
+	Phone
+	Hermaphrodite
+	Male voice #2
+	Policeman #1
+	Card
+	Women
+	Decapodian Woman
+	Young Boy
+	Betamax Player
+	Mrs. Kroker
+	Fifth CDC officer
+	Killbot 2
+	N.R.A. Man
+	Ride Barter
+	Big-Mouthed Mutant
+	Killbot 3
+	Hunter #2
+	Florp
+	Hunter #1
+	Michael's Wife
+	The Dixie Chicks
+	Killbot 1
+	Surgeon
+	Bender duplicate A
+	Crazy Guy
+	General
+	Rusty
+	Black-haired man
+	Caterpillar Alien
+	Bee #4
+	Brain #1
+	Brain #3
+	Brain #2
+	Journalist #1
+	Younger Mom
+	Turanga Munda
+	Fry A
+	Photographer
+	Trekkie #2
+	Trekkie #1
+	Butler
+	Inuit #1
+	Die of Power
+	Rivers
+	Narrator
+	"God"
+	Inuit #2
+	Bender on the other side
+	Farsnworth
+	Nudar, Fleb and Schlump
+	Computer
+	H. G. Blob
+	Geneworks Woman
+	Scoop Chang
+	Fry's Voice
+	Official
+	Gynecaladriel
+	Mad Hatterbot
+	Elevator Steward
+	Zoidberg-Droid
+	Chorus
+	Audience
+	Neptunian Woman
+	Bender A
+	Enema Bot
+	Wrist Machine
+	Little girl #1
+	Carter
+	Patron
+	Leela Actress
+	McGee
+	Man walking on screen
+	Fry 1
+	Holo-Bender
+	Girl
+	Martian #3
+	Martian #2
+	Martian #1
+	Tour Guide
+	Dr. Perceptron
+	Sheldon
+	Left Bender duplicate
+	David Farsnworth's head
+	Bureaucrats
+	Mexican Man
+	Ricardo
+	Dutch Schultz
+	Mrs. Astor
+	Broker-bot #1
+	Broker-bot #3
+	Broker-bot #2
+	Crow T. Robot
+	Female Scientist
+	TV Anchorman
+	Encyclopod
+	Feminista
+	Teen #1
+	Mario
+	Ignus
+	Gas
+	Robots
+	Shop Owner
+	Aide #7
+	Aide #6
+	Aide #5
+	Aide #4
+	Aide #3
+	Aide #2
+	Butch's Girlfriend
+	M-5438
+	Farnsowrth
+	Greyfarn
+	Lackey
+	Waiter
+	FART Mob
+	Billy
+	Action Figure
+	Uecker
+	Brown-haired mMan
+	Feministas
+	Nikolai
+	Scanner
+	Santa, Chanukah Zombie and Kwanzabot
+	Barker
+	High Priest
+	Pig
+	Gearshift
+	Orphan #1
+	Jack the Ripper
+	Robot Chef
+	Operator
+	Dwayne
+	Aliens
+	Butch
+	Old Hermes
+	Tex Connecticut
+	Mandy
+	Convenience Store Bot
+	(From the die
+	Mutant #2
+	Farnsworth 420
+	Hermes 1
+	Andy
+	Ogres
+	Kug
+	Suz
+	Mike
+	Thubanian leader
+	Vendor
+	Parrot
+	Animated Revere
+	Men
+	Brett
+	Leegola
+	Garbage Disposal
+	Right Bender duplicate
+	Robot Ghosts
+	Bulb
+	Moriarty
+	George Takei
+	Leela's grandmother
+	Bill
+	Bender 1729
+	Military Man
+	Widnar'
+	Leonardo
+	Casting Director
+	Ship's Computer
+	Green Alien
+	Ogre
+	Ralph Kramden-bot
+	Robot Leela
+	Italian #2
+	Italian #1
+	Younger Farnsworth
+	Peaches
+	Suicide booth
+	Priest
+	Younger Boy
+	Attila the Hun
+	Captain
+	Salesman
+	Mayor
+	Heads
+	Ceiling Fan
+	Patch Cord Adams
+	Elf
+	Three Leos on the Machine
+	Female Centaur
+	Pac-Man
+	Hawking
+	.
+	Cronkite
+	Robot guard #2
+	Cool-o-Meter
+	Vyolet
+	Head cleaner
+	Kid #1
+	Caddy
+	Malachi's Wife
+	Billy's Mom
+	Blond man
+	Actor 2
+	Child
+	"Fembot"
+	ALL NOT YIVO
+	Monk #1
+	Farnsworth XVII
+	Singer
+	Monk #2
+	Bartender
+	Billy's Dad
+	Cowboy
+	Transition Announcer
+	The PE Crew
+	Tandy
+	Refreshment-bot
+	Cyclops
+	Franklin
+	OTHERS
+	Yivo
+	Zoidsmythe
+	SewerCom Operator
+	Amy, Bender, and Hermes
+	Dixie
+	Mutant #1
+	Shpeekenshpell
+	Leo Wong
+	Momon
+	Pachinko machine
+	(To Fanny
+	Male voice #3
+	Policeman #2
+	Mayor Poopenmeyer
+	Judge #1
+	Stripperbot
+	Hutch
+	Sergeant
+	Plumber-bot
+	Mr Wong
+	Banjo
+	Thorias
+	Reflection Host 2
+	Mermaids
+	Commissioner
+	Pramala
+	Monster
+	Centipede Woman
+	Tester
+	German #2
+	Coffee Machine
+	German #1
+	Unit 2013
+	Student
+	Namgyal
+	YIVO
+	Jockey
+	Man
+	Customer
+	Einstein Actor
+	Alex
+	Croupier
+	Repo-bot
+	Hairbot
+	Steward
+	Single Female Lawyer
+	Albright-bot
+	Thubanian Leader
+	Emotitron Jr.
+	Brown Robot
+	Robo-Police
+	Feffernoose
+	Nautilus
+	Ad
+	Frydo
+	Donovan
+	Macaulay Culkon
+	Bending Unit
+	Barbados
+	Cygnoid #2
+	Cygnoid #3
+	Network President
+http://theinfosphere.org/Glurmo
+	Small Glurmo #1
+	Glurmo
+http://theinfosphere.org/Warden_Vogel
+	Warden Vogel
+	Holo-Vogel
+	Vogel
+http://theinfosphere.org/%22Fishy%22_Joseph_Gilman
+	Fishy Joe
+	Gilman
+http://theinfosphere.org/Professor_Hubert_J._Farnsworth
+	Professor
+	Farnsworth
+http://theinfosphere.org/Whalers_on_the_Moon
+	Whalerbot
+	Whalerbots
+http://theinfosphere.org/Yancy_and_Mrs._Fry
+	Mrs. Fry
+	Mr. Fry
+http://theinfosphere.org/Orphans
+	Holo-Orphans
+	Kids
+http://theinfosphere.org/George_Takei%27s_head
+	George Takei's head
+	Takei
+http://theinfosphere.org/The_Big_Brain
+	Big Brain
+	Huge Brain
+http://theinfosphere.org/Ben_Beeler
+	Beeler
+	Ben Beeler
+http://theinfosphere.org/Turanga_Leela
+	Leela, Bender, Zoidberg, Hermes, Amy, and Fry
+	Leela
+http://theinfosphere.org/Mayor_C._Randall_Poopenmeyer
+	Poopenmeyer
+	Mayor Poopenmeyer
+http://theinfosphere.org/Reverend_Lionel_Preacherbot
+	Preacherbot
+	Reverend Preacherbot
+http://theinfosphere.org/Horrible_Gelatinous_Blob
+	Horrible Gelatinous Blob
+	H.G. Blob
+http://theinfosphere.org/Amy_Wong
+	Amy
+	Amy Wong
+http://theinfosphere.org/Walt,_Larry_and_Igner
+	Walt
+	Larry
+	Igner
+http://theinfosphere.org/Yancy_Fry,_Jr.
+	Yancy
+	Yancy Fry, Jr.
+http://theinfosphere.org/Hutch_Waterfall
+	Hutch
+	Hutch Waterfall
+http://theinfosphere.org/Lucy_Liu
+	Liu
+	Liubot
+http://theinfosphere.org/Malachi_family
+	Malachi
+	Malachi Jr.
+http://theinfosphere.org/Randy_Munchnik
+	Randy
+	Randy Munchnik
+http://theinfosphere.org/Robot_Elders
+	Yellow Elder
+	Blue Elder
+	Elders
+	Lime Elder
+	Green Elder
+	Orange Elder
+http://theinfosphere.org/Mr._Panucci
+	Panucci
+	Mr. Panucci
+http://theinfosphere.org/Scruffy
+	Scruffy, Leela, Hermes, and Bender
+	Scruffy
+http://theinfosphere.org/Stephen_Hawking%27s_head
+	Stephen Hawking
+	Stephen Hawking's head
+http://theinfosphere.org/Amazonians
+	Amazonian
+	Amazonians
+http://theinfosphere.org/The_Waterfalls
+	Waterfall Jr.
+	Frieda Waterfall
+http://theinfosphere.org/Galactic_Entity
+	Galactic Entity
+	Galaxy
+http://theinfosphere.org/Zapp_Brannigan
+	Zapp
+	Zapp Brannigan
+http://theinfosphere.org/Dwight_Conrad
+	Munda, Morris, Inez, Leo, Dwight, and LaBarbara
+	Dwight
+http://theinfosphere.org/Yellow_and_red_lawyer
+	Yellow and red manbot
+	Yellow and red lawyer
+http://theinfosphere.org/Leo_and_Inez_Wong
+	Mr. Wong
+	Mrs. Wong
