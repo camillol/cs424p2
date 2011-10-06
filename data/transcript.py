@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 from operator import itemgetter
 
-vivek_re = re.compile('(.*)###(.*)###(.*)###:? ?(.*)')	# WTF
+vivek_re = re.compile('(.*)###(.*)###(.*)###:? ?(.*)')
 vivek_dir = 'project2cs424/transcripts'
 
 season_name_re = re.compile('Season_(\d+)')
@@ -62,19 +62,25 @@ def uni_name(name, url):
 	if name in name_map: return name_map[name]
 	return name
 
-all_uni_names = set()
+characters = defaultdict(int)
+
+try: os.mkdir(transcript_dir)
+except os.error: pass
 
 for season_name in os.listdir(vivek_dir):
 	m = season_name_re.match(season_name)
 	season = int(m.group(1))
 	season_dir = os.path.join(vivek_dir, season_name)
+	out_season_dir = os.path.join(transcript_dir, "S%02d" % season)
+	try: os.mkdir(out_season_dir)
+	except os.error: pass
 	for ep_file_name in os.listdir(season_dir):
 		m = ep_name_re.match(ep_file_name)
 		epnum = int(m.group(1))
 		eptitle = m.group(2)
 		ep_file_path = os.path.join(season_dir, ep_file_name)
 		out_file_name = "S%02dE%02d %s.txt" % (season, epnum, eptitle)
-		out_file_path = os.path.join(transcript_dir, out_file_name)
+		out_file_path = os.path.join(out_season_dir, out_file_name)
 		with open(ep_file_path) as f:
 			with open(out_file_path, "w") as out:
 				for line in f:
@@ -90,7 +96,7 @@ for season_name in os.listdir(vivek_dir):
 					names = re.split(', and |, (?!Jr)| and (?!red )', name)
 					charnames = [uni_name(name, url) for name in names]
 					for charname in charnames:
-						all_uni_names.add(charname)
+						characters[charname] += 1
 					
 #					if len(charnames) > 1: print charnames
 					
@@ -99,7 +105,7 @@ for season_name in os.listdir(vivek_dir):
 					
 					out.write("%s	%s	%s\n" % (timestamp, ';'.join(charnames), dialogue))
 
-print "%d unique characters" % len(all_uni_names)
+print "%d unique characters" % len(characters)
 with open(character_file_name, "w") as out:
-	for name in all_uni_names:
-		out.write("%s\n" % name)
+	for name, count in sorted(characters.items(), key=itemgetter(1), reverse=True):
+		out.write("%s	%d\n" % (name, count))
