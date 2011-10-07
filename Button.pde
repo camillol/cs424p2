@@ -8,6 +8,7 @@ class Button extends View{
   String myLabel;
   boolean hasText = false;
   PFont fontA;
+  int myFontSize;
 
 
   Button(float x_, float y_, float w_, float h_, int element)
@@ -32,8 +33,9 @@ class Button extends View{
     level = 1;
     hasText = true;
     myLabel = theLabel;
-    fontA = loadFont("Helvetica-Light-"+fontSize+".vlw");
-    textFont(fontA, fontSize);
+    myFontSize = fontSize;
+    fontA = loadFont("Helvetica-Light-"+myFontSize+".vlw");
+    textFont(fontA, myFontSize);
     fill(0,239,1);
     rect(x,y,w,h);
     fill(123,9,2);
@@ -47,7 +49,8 @@ class Button extends View{
       else noTint();
       image(myImage,0,0);
     }
-    if (hasText) {
+    if (hasText){
+      textFont(fontA, myFontSize);
       if (myFlag){
          fill(0,220,68);
          rect(0,0,w,h);
@@ -58,7 +61,7 @@ class Button extends View{
          rect(0,0,w,h);
          fill(123,9,2);
       }   
-      text(myLabel,0,0+h-5);
+      text(myLabel,0,0+h-30);
     }
   }
 
