@@ -183,10 +183,16 @@ void dropMenuView(){
   fill(100);
   rect(50, 50, 658, 380);
 
+  int myY = 410;
+
   rootView.subviews.add(new Button(50,410,myDivNum,40,9,"   S1"));
   for (int i = 2; i<7; i++){
     rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,"   S"+i));
   }
   rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,"  All"));
+  
+  for(int j = myY; j >= 50; j--){
+     
+  }
 }
 
