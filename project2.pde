@@ -47,34 +47,26 @@ void setup()
   PImage wongImg = loadImage("wong.png");
   PImage farnsworthImg = loadImage("farnsworth.png");
   PImage fryImg = loadImage("fry.png");
-  PImage nibblerImg = loadImage("nibbler.png");
+  PImage hermesImg = loadImage("hermes.png");
   PImage zoidbergImg = loadImage("zoidberg.png");
+  PImage myImage;
   
-  leelaImg.resize(50, 50);
-  image(leelaImg,740,50);
+  Iterator i = characters.values().iterator();
+  for (int n=0; n < 8 && i.hasNext();) {
+    Character character = (Character)i.next();
+    myImage = character.img;
+    if (character.img == null) continue;
+    rootView.subviews.add(new Button(700+n*(40),50,50,50,n,myImage));
+    n++;
+  }
   rootView.subviews.add(new Button(740,50,50,50,1,leelaImg));
-  zappImg.resize(50, 50);
-  image(zappImg,800,50);
   rootView.subviews.add(new Button(800,50,50,50,2,zappImg));
-  benderImg.resize(50,50);
-  image(benderImg, 860, 50);
   rootView.subviews.add(new Button(860,50,50,50,3,benderImg));
-  wongImg.resize(50, 50);
-  image(wongImg, 920, 50);
   rootView.subviews.add(new Button(920,50,50,50,4,wongImg));
-  farnsworthImg.resize(50, 50);
-  image(farnsworthImg, 740, 130);
   rootView.subviews.add(new Button(740,130,50,50,5,farnsworthImg));
-  fryImg.resize(50, 50);
-  image(fryImg, 800, 130);
   rootView.subviews.add(new Button(800,130,50,50,6,fryImg));
-  nibblerImg.resize(50, 50);
-  image(nibblerImg, 860, 130);
-  rootView.subviews.add(new Button(860,130,50,50,7,nibblerImg));
-  zoidbergImg.resize(50, 50);
-  image(zoidbergImg, 920, 130);
+  rootView.subviews.add(new Button(860,130,50,50,7,hermesImg));
   rootView.subviews.add(new Button(920,130,50,50,8,zoidbergImg));
-
  
   // BUTTONS FOR MAIN CHARACTERS AND OTHER CHARACTER LIST
 
@@ -87,8 +79,8 @@ void setup()
   otherChars.captionLabel().set("Other Characters");
   otherChars.captionLabel().style().marginTop = 3;
   otherChars.valueLabel().style().marginTop = 3; // the +/- sign
-  for(int i=1;i<8;i++) {
-    otherChars.addItem("Character "+i,i);
+  for(int j=1;j<8;j++) {
+    otherChars.addItem("Character "+j,j);
   }
   otherChars.addItem("All Other Characters", 8);
   otherChars.actAsPulldownMenu(true);
@@ -110,8 +102,8 @@ void setup()
   episodes.captionLabel().set("episodes");
   episodes.captionLabel().style().marginTop = 3;
   episodes.valueLabel().style().marginTop = 3; // the +/- sign
-  for(int i=1;i<15;i++) {
-    episodes.addItem("Episode "+i,i);
+  for(int k=1;k<15;k++) {
+    episodes.addItem("Episode "+k,k);
   }
   episodes.addItem("All Episodes", 15);
  // episodes.setColorBackground(color(255,128));
@@ -148,6 +140,7 @@ void loadSeasons()
   seasons = new Season[names.length];
   for (int i = 0; i < names.length; i++) {
     String[] groups = match(names[i], "S(\\d+)");
+    if (groups == null) continue;
     seasons[i] = new Season(parseInt(groups[0]), "transcripts/"+names[i]);
   }
 }

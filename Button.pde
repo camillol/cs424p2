@@ -22,6 +22,8 @@ class Button extends View{
     level = 1;
     hasImage = true;
     myImage = theImage;
+    theImage.resize(50, 50);
+    image(myImage, x, y);
   }
   
   Button(float x_, float y_, float w_, float h_, int element, String theLabel)
