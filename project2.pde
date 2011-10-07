@@ -40,14 +40,6 @@ void setup()
     rootView.subviews.add(new SeasonEpsView(40, 100 + (seasonEpsViewHeight + seasonEpsViewVGap)*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
   }
 
-  PImage leelaImg = loadImage("leela.png");
-  PImage zappImg = loadImage("zapp.png");
-  PImage benderImg = loadImage("bender.png");
-  PImage wongImg = loadImage("wong.png");
-  PImage farnsworthImg = loadImage("farnsworth.png");
-  PImage fryImg = loadImage("fry.png");
-  PImage hermesImg = loadImage("hermes.png");
-  PImage zoidbergImg = loadImage("zoidberg.png");
   PImage myImage;
   
   Iterator i = characters.iterator();
@@ -136,7 +128,7 @@ void loadSeasons()
 
 void draw()
 {
-  tint(255,255);
+  //tint(255,255);
   noStroke();
   rootView.draw();
 }
@@ -176,11 +168,11 @@ void dropMenuView(){
 
   int myY = 410;
 
-  rootView.subviews.add(new Button(50,410,myDivNum,40,9,"   S1"));
+  rootView.subviews.add(new Button(50,410,myDivNum,40,9,32,"   S1"));
   for (int i = 2; i<7; i++){
-    rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,"   S"+i));
+    rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,32,"   S"+i));
   }
-  rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,"  All"));
+  rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,32,"  All"));
   
   for(int j = myY; j >= 50; j--){
      
