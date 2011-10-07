@@ -14,6 +14,8 @@ class DataClass
         //statistics of whole season key:character value:count
         HashMap wholeStatsMap=new HashMap();
         
+        //appearance list of characters returns list of episode appearance 
+        HashMap characterAppearanceMap=new HashMap();
         
         //ArrayList wholeStats=new ArrayList();
         int totalLines;
@@ -28,8 +30,30 @@ class DataClass
           processSeasonStats(folderName+"/seasonaggregate");
           
           processEpisodeStats(folderName+"/individualseasons");
+          
+          processCharacterAppearance(folderName);
         }
         
+        
+        
+        void processCharacterAppearance(String folderName)
+        {
+          String[] characterAppearanceLines=loadStrings(folderName+"/"+"characterAppearanceStats");
+          
+          for(int i=0;i<characterAppearanceLines.length;i++)
+          {
+            String[] characterAppearanceLineParts=characterAppearanceLines[i].split("###");
+            String keyPart=characterAppearanceLineParts[0];
+            
+            ArrayList appearance=new ArrayList();
+            for(int j=1;j<characterAppearanceLineParts.length;j++)
+            {
+              appearance.add(characterAppearanceLineParts[j]);
+            }
+            characterAppearanceMap.put(keyPart,appearance);
+          }
+          
+        }
 
         
         
@@ -169,5 +193,10 @@ class DataClass
         HashMap getEpisodeData(String episodeName)
         {
           return (HashMap)episodeMap.get(episodeName);
+        }
+        
+        ArrayList getCharacterAppearance(String character)
+        {
+          return (ArrayList)characterAppearanceMap.get(character);
         }
 }
