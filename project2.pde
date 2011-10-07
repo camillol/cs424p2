@@ -1,8 +1,7 @@
 import controlP5.*;
 View rootView;
 
-TreeMap characters;
-CharacterList charlist;
+CharacterList characters;
 Season[] seasons;
 
 ControlP5 controlP5;
@@ -51,7 +50,7 @@ void setup()
   PImage zoidbergImg = loadImage("zoidberg.png");
   PImage myImage;
   
-  Iterator i = characters.values().iterator();
+  Iterator i = characters.iterator();
   for (int n=0; n < 8 && i.hasNext();) {
     Character character = (Character)i.next();
     myImage = character.img;
@@ -116,8 +115,7 @@ void setup()
 
 void loadCharacters()
 {
-  charlist = new CharacterList("characters.txt");
-  characters = charlist.characters;
+  characters = new CharacterList("characters.txt");
 }
 
 String[] namesMatching(String[] names, String re)
@@ -143,11 +141,6 @@ void loadSeasons()
     if (groups == null) continue;
     seasons[i] = new Season(parseInt(groups[0]), "transcripts/"+names[i]);
   }
-}
-
-Character getCharacter(String name)
-{
-  return (Character)characters.get(name);
 }
 
 void draw()

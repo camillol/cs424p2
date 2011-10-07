@@ -37,7 +37,7 @@ class Episode extends TSVBase {
   {
     String[] names = pieces[1].split(";");
     for (int j = 0; j < names.length; j++) {
-      Character c = getCharacter(names[j]);
+      Character c = characters.get(names[j]);
       dialogs[i] = new DialogLine(pieces[0], c, pieces[2]);
       charLineCount.put(c, getLineCount(c)+1);
       totalLineCount++;
