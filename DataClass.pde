@@ -54,7 +54,7 @@ class DataClass
             
             if(seasonMap.containsKey(seasonName))
             {
-              ArrayList listEpisodes=seasonMap.get(seasonName);
+              ArrayList listEpisodes=(ArrayList)seasonMap.get(seasonName);
               listEpisodes.add(fileName);
               seasonMap.put(seasonName,listEpisodes);
             }
@@ -152,22 +152,22 @@ class DataClass
         }
        
         //returns list of episdoes in a season
-        getListOfEpisodes(String seasonName)
+        ArrayList getListOfEpisodes(String seasonName)
         {
           
-          return seasonMap.get(seasonName);
+          return (ArrayList)seasonMap.get(seasonName);
           
         }
         
         //returns hashmap of character:dialogcount for each season
-        getSeasonData(String seasonName)
+        HashMap getSeasonData(String seasonName)
         {
-          return seasonStatsMap.get(seasonName);
+          return (HashMap)seasonStatsMap.get(seasonName);
         }
         
         //returns hashmap of character:dialogcount for each episode
-        getEpisodeData(String episodeName)
+        HashMap getEpisodeData(String episodeName)
         {
-          return episodeMap.get(episodeName);
+          return (HashMap)episodeMap.get(episodeName);
         }
 }
