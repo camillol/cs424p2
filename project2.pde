@@ -19,6 +19,9 @@ color ship2Light = #39A27F;
 color shipRed = #9B342D;
 color shipRedDark = #4C1819;
 
+final int seasonEpsViewWidth = 600;
+final int seasonEpsViewHeight = 100;
+
 void setup()
 {
   loadCharacters();
@@ -27,12 +30,16 @@ void setup()
   size(1024, 768);
   smooth();
   
-  background(30, 30, 30);
+  background(shipMain);
   rect(50,480,650,768-50-480);
   
   rootView = new View(0, 0, 1024, 768);
   controlP5 = new ControlP5(this);
   
+  for (int i = 0; i < seasons.length; i++) {
+    rootView.subviews.add(new SeasonEpsView(40, 100 + seasonEpsViewHeight*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
+  }
+
   PImage leelaImg = loadImage("leela.png");
   PImage zappImg = loadImage("zapp.png");
   PImage benderImg = loadImage("bender.png");
