@@ -23,7 +23,7 @@ class Character implements Comparable {
 }
 
 class CharacterList extends TSVBase {
-  HashMap characters;
+  TreeMap characters;
   
   CharacterList(String filename) {
     super(filename, false);  // this loads the data
@@ -31,7 +31,7 @@ class CharacterList extends TSVBase {
   
   void allocateData(int rows)
   {
-    characters = new HashMap(rows);
+    characters = new TreeMap();
   }
   
   void resizeData(int rows) {}

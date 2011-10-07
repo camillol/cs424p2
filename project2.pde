@@ -1,7 +1,7 @@
 import controlP5.*;
 View rootView;
 
-HashMap characters;
+TreeMap characters;
 CharacterList charlist;
 Season[] seasons;
 
