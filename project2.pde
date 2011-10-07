@@ -134,7 +134,6 @@ Character getCharacter(String name)
 
 void draw()
 {
-  
   tint(255,255);
   fill(#779999);
   noStroke();
