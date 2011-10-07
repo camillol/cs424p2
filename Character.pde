@@ -1,17 +1,24 @@
-class Character {
+class Character implements Comparable {
   String name;
   int totalLines;
   int totalEps;
-  color keycolor;
+  color keyColor;
   PImage img;
   
-  Character(String name_, int totalLines_, int totalEps_, color keycolor_, PImage img_)
+  Character(String name_, int totalLines_, int totalEps_, color keyColor_, PImage img_)
   {
     name = name_;
     totalLines = totalLines_;
     totalEps = totalEps_;
-    keycolor = keycolor_;
+    keyColor = keyColor_;
     img = img_;
+  }
+  
+  int compareTo(Object o) {
+    Character other = (Character)o;
+    if (totalLines > other.totalLines) return -1;
+    else if (totalLines < other.totalLines) return 1;
+    else return name.compareTo(other.name);
   }
 }
 
@@ -33,7 +40,7 @@ class CharacterList extends TSVBase {
   {
     color keycolor;
     try {
-      keycolor =  color(unhex(pieces[3]), 255);
+      keycolor =  color(unhex("FF"+pieces[3]));
     } catch (NumberFormatException e) {
       keycolor = 0;
     }

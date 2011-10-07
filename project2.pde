@@ -27,12 +27,14 @@ void setup()
   size(1024, 768);
   smooth();
   
-  background(30, 30, 30);
+  background(shipMain);
   rect(50,480,650,768-50-480);
   
   rootView = new View(0, 0, 1024, 768);
   controlP5 = new ControlP5(this);
   
+  rootView.subviews.add(new SeasonEpsView(40, 300, 400, 100, seasons[0]));
+
   PImage leelaImg = loadImage("leela.png");
   PImage zappImg = loadImage("zapp.png");
   PImage benderImg = loadImage("bender.png");
