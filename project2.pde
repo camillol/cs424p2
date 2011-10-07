@@ -10,6 +10,15 @@ Button mainB1;
 ListBox otherChars;
 ListBox episodes;
 
+color shipMain = #73D689;
+color shipDark = #3D7C52;
+color shipLight = #A9F597;
+color ship2Main = #25684D;
+color ship2Dark = #153D39;
+color ship2Light = #39A27F;
+color shipRed = #9B342D;
+color shipRedDark = #4C1819;
+
 void setup()
 {
   loadCharacters();
