@@ -8,21 +8,23 @@ class Button extends View{
   String myLabel;
   boolean hasText = false;
   PFont fontA;
+  Object myElement;
 
 
-  Button(float x_, float y_, float w_, float h_, int element)
+  Button(float x_, float y_, float w_, float h_, Object element)
   {
     super(x_,y_,w_,h_);
     level = 1;
   }
   
-  Button(float x_, float y_, float w_, float h_, int element, PImage theImage)
+  Button(float x_, float y_, float w_, float h_, Object element, PImage theImage)
   {
     super(x_,y_,w_,h_);
     level = 1;
     hasImage = true;
     myImage = theImage;
     theImage.resize(50, 50);
+    myElement = element;
   }
   
   Button(float x_, float y_, float w_, float h_, int element, int fontSize, String theLabel)
@@ -38,6 +40,7 @@ class Button extends View{
     rect(x,y,w,h);
     fill(123,9,2);
     text(myLabel, x, y+h-5);
+    myElement = element;
   }
   
   void drawContent()
@@ -65,6 +68,7 @@ class Button extends View{
   boolean contentClicked(float lx, float ly)
   {
     myFlag = !myFlag;
+    buttonClicked(myElement);
     return true;
   }
 }

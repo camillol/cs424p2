@@ -2,6 +2,7 @@ import controlP5.*;
 View rootView;
 
 CharacterList characters;
+boolean allActive = true;
 Season[] seasons;
 
 ControlP5 controlP5;
@@ -48,10 +49,10 @@ void setup()
     myImage = character.img;
     if (character.img == null) continue;
     if(n <= 3){
-    rootView.subviews.add(new Button(740+n*(60),50,50,50,n,myImage));
+    rootView.subviews.add(new Button(740+n*(60),50,50,50,character,myImage));
     }
     else{
-    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,n,myImage));  
+    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,character,myImage));  
     }
     n++;
   }
@@ -157,6 +158,23 @@ void mouseDragged()
 void mouseClicked()
 {
   rootView.mouseClicked(mouseX, mouseY);
+}
+
+void buttonClicked(Object element)
+{
+  if (characters.iterator().next().getClass().isInstance(element)) {
+    Character character = (Character)element;
+    allActive = false;
+    character.active = !character.active;
+    updateActiveTotals();
+  }
+}
+
+void updateActiveTotals()
+{
+  for (int i = 0; i < seasons.length; i++) {
+    seasons[i].updateActiveTotals();
+  }
 }
 
 void dropMenuView(){

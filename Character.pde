@@ -4,6 +4,7 @@ class Character implements Comparable {
   int totalEps;
   color keyColor;
   PImage img;
+  boolean active;
   
   Character(String name_, int totalLines_, int totalEps_, color keyColor_, PImage img_)
   {
@@ -12,6 +13,7 @@ class Character implements Comparable {
     totalEps = totalEps_;
     keyColor = keyColor_;
     img = img_;
+    active = false;
   }
   
   int compareTo(Object o) {

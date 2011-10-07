@@ -12,4 +12,11 @@ class Season {
       episodes[i] = new Episode(dirname+"/"+names[i]);
     }
   }
+  
+  void updateActiveTotals()
+  {
+    for (int i = 0; i < episodes.length; i++) {
+      episodes[i].updateActiveTotal();
+    }
+  }
 }
