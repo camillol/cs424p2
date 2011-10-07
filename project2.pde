@@ -21,6 +21,7 @@ color shipRedDark = #4C1819;
 
 final int seasonEpsViewWidth = 600;
 final int seasonEpsViewHeight = 100;
+final int seasonEpsViewVGap = 8;
 
 void setup()
 {
@@ -30,14 +31,14 @@ void setup()
   size(1024, 768);
   smooth();
   
-  background(shipMain);
+  background(shipDark);
   rect(50,480,650,768-50-480);
   
   rootView = new View(0, 0, 1024, 768);
   controlP5 = new ControlP5(this);
   
   for (int i = 0; i < seasons.length; i++) {
-    rootView.subviews.add(new SeasonEpsView(40, 100 + seasonEpsViewHeight*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
+    rootView.subviews.add(new SeasonEpsView(40, 100 + (seasonEpsViewHeight + seasonEpsViewVGap)*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
   }
 
   PImage leelaImg = loadImage("leela.png");
@@ -127,10 +128,23 @@ void loadCharacters()
   characters = charlist.characters;
 }
 
+String[] namesMatching(String[] names, String re)
+{
+  int count = 0;
+  String[] matches = new String[names.length];
+  for (int i = 0; i < names.length; i++) {
+    if (match(names[i], re) != null) {
+      matches[count] = names[i];
+      count++;
+    }
+  }
+  return (String[]) subset(matches, 0, count);
+}
+
 void loadSeasons()
 {
   File dir = new File(dataPath("transcripts"));
-  String[] names = dir.list();
+  String[] names = namesMatching(dir.list(), "S(\\d+)");
   seasons = new Season[names.length];
   for (int i = 0; i < names.length; i++) {
     String[] groups = match(names[i], "S(\\d+)");
