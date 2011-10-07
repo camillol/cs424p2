@@ -5,23 +5,43 @@ from collections import defaultdict
 from operator import itemgetter
 import os
 
-# TODO: remove punctuation
-# remove case
-
 transcript_dir = 'transcripts'
+
+# NOTE: this is hideously inefficient. I know how to make it efficient,
+# but I don't wanna.
 
 class NgramCounter(object):
 	def __init__(self):
 		self.ngram_counts = defaultdict(int)
 	
 	def process(self, text):
-		words = [w.strip('.!?,;:').lower() for w in text.split()]
+#		words = [w.strip('.!?,;:').lower() for w in text.split()]
+		words = [w.strip('.!?,;:').lower() for w in re.split('[\s,\.!?;:"]+', text) if w != '']
 		for n in xrange(2, len(words) + 1):
 			for i in xrange(len(words) + 1 - n):
 				self.ngram_counts[tuple(words[i:i+n])] += 1
 	
 	def report(self):
-		ngram_list = [(len(w), n, w) for w, n in self.ngram_counts.items() if n > 1]
+		print len(self.ngram_counts)
+		print "pruning..."
+		for w, n in self.ngram_counts.items():
+			# prevent iterator from resurrecting deleted items
+			if w not in self.ngram_counts:
+				continue
+			# filter singletons
+			if n < 2:
+				del self.ngram_counts[w]
+				continue
+			# remove non-maximal ngrams
+			for sublen in xrange(2, len(w)):
+				for j in xrange(len(w) - sublen + 1):
+					subw = w[j:j+sublen]
+					if subw in self.ngram_counts and self.ngram_counts[subw] == n:
+						del self.ngram_counts[subw]
+		print len(self.ngram_counts)
+		
+		ngram_list = [(len(w), n, w) for w, n in self.ngram_counts.items()]
+		print "sorting..."
 		ngram_list.sort(key=itemgetter(1), reverse=True)
 		ngram_list.sort(key=itemgetter(0), reverse=True)
 		for l,n,w in ngram_list:
