@@ -28,7 +28,7 @@ void setup()
   smooth();
   
   background(30, 30, 30);
-  rect(50,480,690,200);
+  rect(50,480,650,768-50-480);
   
   rootView = new View(0, 0, 1024, 768);
   controlP5 = new ControlP5(this);
@@ -66,9 +66,6 @@ void setup()
   zoidbergImg.resize(50, 50);
   image(zoidbergImg, 920, 130);
   rootView.subviews.add(new Button(920,130,50,50,8,zoidbergImg));
-  
-  
-  
 
  
   // BUTTONS FOR MAIN CHARACTERS AND OTHER CHARACTER LIST
@@ -86,8 +83,6 @@ void setup()
     otherChars.addItem("Character "+i,i);
   }
   otherChars.addItem("All Other Characters", 8);
- // otherChars.setColorBackground(color(255,128));
- // otherChars.setColorActive(color(0,0,255,128));
   otherChars.actAsPulldownMenu(true);
   
   //BUTTONS FOR SEASON SELECTION AND EPISODE LIST
@@ -114,8 +109,8 @@ void setup()
  // episodes.setColorBackground(color(255,128));
  // episodes.setColorActive(color(0,0,255,128));
   episodes.actAsPulldownMenu(true);
-
-  drawSeasons();
+  dropMenuView();
+ // drawSeasons();
 
 }
 
@@ -144,10 +139,8 @@ Character getCharacter(String name)
 void draw()
 {
   tint(255,255);
-  fill(#779999);
   noStroke();
   rootView.draw();
-
 }
 
 void drawSeasons(){
@@ -176,4 +169,17 @@ void mouseClicked()
   rootView.mouseClicked(mouseX, mouseY);
 }
 
+void dropMenuView(){
+  text("Overall",50,48);
+  int myDivNum = ((650-84)/6);
+  
+  fill(100);
+  rect(50, 50, 658, 380);
+
+  rootView.subviews.add(new Button(50,410,myDivNum,40,9,"   S1"));
+  for (int i = 2; i<7; i++){
+    rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,"   S"+i));
+  }
+  rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,"  All"));
+}
 
