@@ -58,22 +58,20 @@ class Button extends View{
     if(hasText == true){
       if(myFlag == false){
          myFlag = true;
-         tint(0, 153, 204, 126);
-         fill(0,239,1);
-         stroke(1);
+         fill(0,220,68);
+         stroke(3);
          rect(x,y,w,h);
-         fill(123,9,2);
+         fill(0,60,68);
          text(myLabel,x,y+h-5);
 
       }
       else if (myFlag == true){
          myFlag = false;
-         tint(255,255);
+         stroke(3);
          fill(0,239,1);
-         stroke(1);
          rect(x,y,w,h);
          fill(123,9,2);
-         text(myLabel,x,y+h-5);
+         text(myLabel, x, y+h-5);
       }
     }
     return true;

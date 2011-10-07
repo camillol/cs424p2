@@ -10,6 +10,15 @@ Button mainB1;
 ListBox otherChars;
 ListBox episodes;
 
+color shipMain = #73D689;
+color shipDark = #3D7C52;
+color shipLight = #A9F597;
+color ship2Main = #25684D;
+color ship2Dark = #153D39;
+color ship2Light = #39A27F;
+color shipRed = #9B342D;
+color shipRedDark = #4C1819;
+
 void setup()
 {
   loadCharacters();
@@ -168,7 +177,7 @@ void dropMenuView(){
   rect(50, 50, 658, 380);
 
   rootView.subviews.add(new Button(50,410,myDivNum,40,9,"   S1"));
-  for (int i = 2; i<=7; i++){
+  for (int i = 2; i<7; i++){
     rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,"   S"+i));
   }
   rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,"  All"));

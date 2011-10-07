@@ -1,1196 +1,1196 @@
-Fry	3822	114
-Bender	3425	114
-Leela	3020	114
-Prof. Farnsworth	1763	112
-Zoidberg	899	108
-Amy	886	101
-Hermes	786	105
-Zapp	498	33
-Kif	252	24
-Mom	177	15
-Calculon	165	21
-Cubert	146	14
-Richard Nixon	145	23
-Lrrr	145	9
-Nibbler	105	11
-Mr. Wong	90	12
-Robot Devil	90	5
-Dwight	85	9
-Morbo	76	32
-Elzar	75	16
-Linda	74	30
-URL	71	17
-Wernstrom	71	9
-Man	69	41
-LaBarbara	67	14
-Nudar	64	4
-Walt	59	10
-Scruffy	57	23
-Donbot	57	4
-Sal	54	21
-Bender's ghost	51	1
-Announcer	50	29
-Smitty	50	19
-Mayor Poopenmeyer	50	9
-Roberto	49	6
-Clamps	49	5
-Nine	48	3
-Coilette	48	1
-Narrator	47	18
-Tate	46	4
-Alcazar	44	1
-Lars	43	4
-Santa	42	4
-Beck	42	1
-Woman	41	27
-Larry	39	9
-Turanga Munda	38	7
-Hutch Waterfall	38	4
-Michelle	38	3
-Ship	38	1
-Morgan	38	1
-Preacherbot	37	13
-Fry-2	37	2
-Flexo	36	3
-Al Gore	35	5
-Steve Castle	35	1
-Titanius Anglesmith	34	2
-Igner	33	12
-Mrs. Wong	33	9
-Hattie	32	13
-Nimoy	32	2
-Angleyne	32	1
-Turanga Morris	31	7
-Nd-Nd	31	5
-Glurmo	31	3
-Greyfarn	31	2
-Zoid	31	1
-Melllvar	30	1
-Man #1	29	17
-Tinny Tim	29	7
-Colleen	29	4
-Frydo	29	2
-Shatner	29	1
-Warden Vogel	28	6
-Yivo	28	2
-Salesman	27	7
-Albert	27	4
-The Big Brain	27	2
-Adlai	27	1
-Waterfall Sr.	27	1
-Ndnd	27	1
-Crowd	26	8
-Hyper-Chicken	26	8
-Yancy Fry, Jr.	26	3
-Ken	26	2
-Farnsworth 1	26	1
-Petunia	25	11
-Randy Munchnik	24	14
-Fishy Joe	24	6
-Raoul	24	5
-Dr. Perceptron	23	3
-Farnsworth A	23	1
-Farnsworth-Droid	23	1
-Stephen Hawking	22	3
-Frida	22	3
-Waterfall Jr.	22	1
-Hedonism Bot	21	8
-Mr. Panucci	21	6
-Dwayne	21	4
-Thog	21	4
-Gypsy	21	3
-Leegola	21	2
-Guenter	21	1
-Abner Doubledeal	21	1
-Man #2	20	16
-ALL	20	9
-George Takei	20	3
-Yancy Fry Sr	20	1
-Mrs. Astor	20	1
-Big rock Alien	20	1
-Edna	20	1
-Robot	19	12
-Sally	19	3
-Leonardo	19	1
-Singing Wind	19	1
-Bubblegum	18	6
-Grand Midwife	18	3
-Doubledeal	18	2
-Leela A	18	1
-Countess	18	1
-Vyolet	17	4
-Liu	17	2
-Nichols	17	2
-Malachi	17	1
-Nikolai	17	1
-Robot Leela	17	1
-All	16	13
-Robot #1	16	9
-Transition Announcer	16	6
-Dr. Cahill	16	5
-Fiona	16	2
-Mr. Fry	16	2
-Neptunians	16	2
-Liubot	16	1
-Unattractive giant monster	16	1
-Slurms	16	1
-Robot #2	15	9
-Fanny	15	3
-Mrs. Fry	15	3
-Ipgee	15	3
-Merg	15	1
-Umbriel	15	1
-Glab	15	1
-Spargle	15	1
-Thubanian leader	15	1
-Boy	14	10
-Ben Beeler	14	8
-Paper-hatted salesman	14	5
-Doctor	14	5
-Hedonismbot	14	4
-Vernon	14	2
-Joey	14	2
-Osiran	14	1
-Billy West	14	1
-Ranger Park	14	1
-Monique	13	6
-Schlump	13	4
-Whitey	13	4
-Farmer	13	2
-Song	13	2
-Zookeeper	13	1
-"God"	13	1
-Chief O'Mannahan	13	1
-Blek	13	1
-Horrible Gelatinous Blob	12	6
-Fembot	12	5
-Terry	12	5
-Bender-2	12	3
-Kug	12	2
-Enos	12	1
-Gary	12	1
-Lisa	12	1
-Leela 1	12	1
-Bender 1	12	1
-Animatronio	12	1
-Ron Whitey	12	1
-Mildred	12	1
-Fry 1	12	1
-Network President	12	1
-Fleb	11	4
-Fatbot	11	4
-Old Man Waterfall	11	2
-Colonel	11	2
-Hermaphrodite	11	2
-Momon	11	2
-Aaron Jr.	11	1
-Whale Biologist	11	1
-Angus McZongo	11	1
-Hiroki	11	1
-Slurm Queen	11	1
-Koenig	11	1
-Kwanzaa-bot	11	1
-Bender-Droid	11	1
-Benjamin Franklin	11	1
-Femputer	11	1
-Zoidberg-Droid	11	1
-Aide #2	11	1
-Barker	11	1
-High Priest	11	1
-Blue Elder	11	1
-Queen	10	3
-Joey Mousepad	10	2
-Robot 1-X	10	2
-Zoidberg A	10	1
-Zoidberg 1	10	1
-Lando Tucker	10	1
-Greeting Card	10	1
-Ambassador Mervin	10	1
-Grrrl	10	1
-Robot Mayor	10	1
-Susan	10	1
-Fnog	10	1
-Uecker	10	1
-Dr. Schlovinowitz	10	1
-Banjo	10	1
-Computer Voice	9	6
-Bailiff	9	5
-Waiter	9	5
-Nina	9	4
-Commentator	9	4
-Hoschel	9	4
-Victor	9	2
-Gus	9	2
-Waltazar	9	2
-Gynecaladriel	9	2
-Hermes-Droid	9	1
-Chaz	9	1
-Referee	9	1
-Anderson	9	1
-Director	9	1
-Female voice	8	7
-Nurse Ratchet	8	3
-Leo	8	2
-Fender	8	2
-Teacher	8	2
-Auctioneer	8	2
-Blond man	8	2
-Welles	8	1
-Robot Fry	8	1
-Worm Mayor	8	1
-Fry-Droid	8	1
-Teenaged Alien	8	1
-Zoidberg Head	8	1
-Antarian #1	8	1
-Cygnoid Woman	8	1
-Bont	8	1
-Thomas Jefferson	8	1
-Truman	8	1
-Hooded Figure #1	8	1
-Teen #1	8	1
-Butch	8	1
-Josh Gedgie	8	1
-Crushinator	7	4
-Nibblonian	7	4
-Man #3	7	4
-Girl	7	4
-Tour Guide	7	4
-British Robot	7	3
-Mother	7	3
-Clerk	7	3
-Guard #1	7	3
-Announcer #2	7	3
-Dandy Jim	7	3
-Dixie	7	3
-Chinese Boy	7	2
-Kids	7	2
-Female Announcer	7	2
-Teller	7	2
-Mysterious Voice	7	2
-Jeffery	7	2
-Technician	7	2
-Yancy Fry Jr	7	1
-Basil	7	1
-Reflection Host	7	1
-Sinclair	7	1
-Katz	7	1
-Ornik	7	1
-Kissenger	7	1
-Myrtle Fu	7	1
-Bella	7	1
-Barrierbot #1	7	1
-Penn Jillette	7	1
-Widnar	7	1
-Fry A	7	1
-Subtitle	7	1
-Old Leela	7	1
-Decapodian Emperor	7	1
-Ndulu	7	1
-RJ	7	1
-iZac	7	1
-Ignus	7	1
-Monk #1	7	1
-Male voice	6	6
-Robots	6	4
-Judge	6	3
-Destructor	6	3
-Washington	6	3
-Slim	6	3
-Trixie	6	3
-Yellow and red lawyer	6	2
-Soldier #1	6	2
-Inez	6	2
-Security Guard	6	2
-Malfunctioning Eddie	6	2
-Robot Stack	6	1
-Kwanzabot	6	1
-Lady Buggle	6	1
-Shore	6	1
-Norwegian seed guard	6	1
-Judge 724	6	1
-Holo-Zoidberg	6	1
-Cartridge Unit	6	1
-Robot Santa	6	1
-Pickles	6	1
-Invader X	6	1
-Delivery-Boy Man	6	1
-Koji	6	1
-Gygax	6	1
-V-GINY	6	1
-Jeff Jervis	6	1
-General	6	1
-Beastie Boys	6	1
-Foreman	6	1
-Bender A	6	1
-Staff	6	1
-Aide #1	6	1
-Casting Director	6	1
-Organ Dealer	6	1
-Unit 2013	6	1
-Robot #3	5	5
-Man #4	5	4
-Bartender	5	4
-Human Friend	5	3
-Sweet Clyde	5	3
-Decapodian Woman	5	2
-Younger Mom	5	2
-Labarbara	5	2
-Singer	5	2
-Bret	5	1
-Fry's Photo	5	1
-Brain #2	5	1
-Skipper	5	1
-Bee	5	1
-Number 1.0	5	1
-Heather	5	1
-Amy 1	5	1
-iHawk	5	1
-Centipede Man	5	1
-Hermenthotip	5	1
-Hick	5	1
-McNeal	5	1
-Pac-Man	5	1
-Doctor #2	5	1
-Snake	5	1
-Father	5	1
-Poppler	5	1
-Brain Ball #1	5	1
-Yokelbot	5	1
-Bender duplicate	5	1
-Darth Sploder	5	1
-Dogg	5	1
-Jackie	5	1
-Superior Gort Judge	5	1
-Chu	5	1
-Bertha	5	1
-Paul Revere	5	1
-Gorgak	5	1
-Sheldon	5	1
-Encyclopod	5	1
-Billy	5	1
-Little	5	1
-German #1	5	1
-Robot guard #2	5	1
-Stewart	5	1
-Reflection Host 2	5	1
-Coffee Machine	5	1
-Old man	4	3
-Old Man	4	3
-Announcer #1	4	3
-Bolt	4	2
-Nurse	4	2
-Mutant	4	2
-Female Voice	4	2
-Michael	4	2
-Leg Mutant	4	2
-Sam	4	2
-Barbados Slim	4	2
-Australian Man	4	2
-Galactic Entity	4	2
-Larius	4	2
-Mutants	4	2
-Killbot 2	4	2
-Killbot 1	4	2
-Leroy	4	2
-Changstein el Gamahl	4	2
-Hydroponic farmer	4	2
-Commissioner	4	2
-Van	4	1
-Amy-Droid	4	1
-Suzie	4	1
-Resin-offering robot	4	1
-Humplings	4	1
-Flavia	4	1
-Dr. Daniel Zenus	4	1
-Planet Express crew	4	1
-Gwen	4	1
-Bender duplicates	4	1
-O'Brien	4	1
-Rich Little	4	1
-Garfunkel	4	1
-Robot guard #1	4	1
-Billionaire Bot	4	1
-Philip J. Fry II	4	1
-Mutated Mark Mothersbaugh	4	1
-Yellow Elder	4	1
-Green Elder	4	1
-Barrierbot #2	4	1
-Ad-Rock	4	1
-Biff	4	1
-Morcs	4	1
-Helper	4	1
-Grunka Lunkas	4	1
-Hobsy	4	1
-Butch's Girlfriend	4	1
-Kwanzaabot	4	1
-Jrrr	4	1
-Hermes 1	4	1
-Mike	4	1
-Antonio	4	1
-Younger Farnsworth	4	1
-Patch Cord Adams	4	1
-Chet	4	1
-Leo Wong	4	1
-Wash bucket	4	1
-Whalerbots	4	1
-YIVO	4	1
-Donovan	4	1
-Barbados	4	1
-Aaron Sr.	4	1
-Woman #2	3	3
-Woman #1	3	3
-Alien	3	3
-Guard #2	3	3
-Robot #4	3	3
-Scoop Chang	3	3
-Operator	3	3
-Hookerbot	3	2
-Monkey	3	2
-Schlomo	3	2
-Joe	3	2
-De Gaulle	3	2
-Inger	3	2
-Slurm Machine	3	2
-Curly Joe	3	2
-Chef	3	2
-Humorbot 5.0	3	2
-Umpire	3	2
-Lou	3	2
-Rivers	3	2
-Inuit #2	3	2
-Computer	3	2
-Mad Hatterbot	3	2
-Vendor	3	2
-UNKNOWN	3	2
-Croupier	3	2
-Mr. Moviefone	3	1
-Trees	3	1
-Cylon	3	1
-Wanda	3	1
-Execu-Tor	3	1
-Campaign Manager	3	1
-Recruitment Officer	3	1
-Liubot #4	3	1
-Ahab	3	1
-Chainsaw-Eating Robot	3	1
-Tenant #1	3	1
-Groening	3	1
-Female inhabitant	3	1
-Kirk	3	1
-Hooded Figure #2	3	1
-Mermaid	3	1
-Pathologist #1	3	1
-John Adams	3	1
-John Hancock	3	1
-Tattoo #1	3	1
-Farnswoth	3	1
-Inuitbot	3	1
-Melllvar's Mother	3	1
-Schiffer	3	1
-Smith	3	1
-White Robot	3	1
-Intercom Assistant	3	1
-Salesman #2	3	1
-Salesman #1	3	1
-Grunka Lunka #2	3	1
-Suicide Booth	3	1
-Neptunian Salesman #1	3	1
-Cryogenisist	3	1
-Priests	3	1
-Garbly	3	1
-Pirate	3	1
-Zoidsmythe	3	1
-Booth Voice	3	1
-Fat Man	3	1
-Liubot #3	3	1
-Liubot #2	3	1
-Amy A	3	1
-Liubot #5	3	1
-Lady #1	3	1
-Janitorbot	3	1
-Buzz Aldrin	3	1
-Neutral President	3	1
-Snoop Dogg	3	1
-Popeil	3	1
-Deep Blue	3	1
-Old lady	3	1
-Betabot	3	1
-Jackson	3	1
-Vandal #2	3	1
-Vandal #1	3	1
-Shrimpkin Priest	3	1
-Grade 41 Bureaucrat	3	1
-Johnson	3	1
-Robo-Puppy	3	1
-Fratbot #1	3	1
-Farnsworth Monkey	3	1
-Chanukah Zombie	3	1
-Policeman #1	3	1
-Hunter #2	3	1
-V.A.P. Man	3	1
-Brain #1	3	1
-Leela Actress	3	1
-Malachi Jr.	3	1
-Gearshift	3	1
-Robot Chef	3	1
-Amana	3	1
-Farnsworth 420	3	1
-Suz	3	1
-Bully	3	1
-Bee #1	3	1
-Green Alien	3	1
-Suicide booth	3	1
-Pawnbroker	3	1
-George Washington	3	1
-Ruth	3	1
-Project Satan	3	1
-Warden	3	1
-Monk #2	3	1
-Cyclops	3	1
-Shpeekenshpell	3	1
-Judge #1	3	1
-Sergeant	3	1
-Thubanian Leader	3	1
-Cygnoid #2	3	1
-Doctorbot	2	2
-Brown-haired man	2	2
-Bill Clinton	2	2
-Guard	2	2
-Nerd	2	2
-Hippie #1	2	2
-Hippie #2	2	2
-Fembot #1	2	2
-Aliens	2	2
-Scalia	2	2
-Holo-Farnsworth	2	2
-Crack Addict	2	2
-Doorman	2	2
-Hermaphrobot	2	2
-Chain Smoker	2	2
-Man #5	2	2
-Waitress	2	2
-Robot #5	2	2
-Priest	2	2
-Women	2	2
-Killbot 3	2	2
-Florp	2	2
-Inuit #1	2	2
-Farsnworth	2	2
-Official	2	2
-Enema Bot	2	2
-Pazuzu	2	2
-Feministas	2	2
-Pig	2	2
-Men	2	2
-Ogre	2	2
-Female Centaur	2	2
-Scientist	2	2
-Refreshment-bot	2	2
-Hydroponic Farmer	2	2
-Hairbot	2	2
-Voice	2	1
-Craterface	2	1
-Candy	2	1
-Queequeg	2	1
-Sheriff Burley	2	1
-Sandy	2	1
-Woman #4	2	1
-Andrew	2	1
-Grade 20 Bureaucrat	2	1
-Ford	2	1
-Holo-Roseanne	2	1
-Gopher #1	2	1
-Guardbot #1	2	1
-Guardbot #2	2	1
-Guardbot #3	2	1
-Male inhabitant	2	1
-P.A. Announcer	2	1
-Emcee	2	1
-Holo-Robot Devil	2	1
-Infosquito	2	1
-Decapodian Man #1	2	1
-Prototype	2	1
-Statue	2	1
-Robot General	2	1
-Emperor Chop Chop	2	1
-Senator	2	1
-Father Changstein-el-Gamahl	2	1
-Gammabot	2	1
-Evil Lincoln	2	1
-Juror #1	2	1
-Mrs. Mellonger	2	1
-Vergerbot	2	1
-Hooded Robot	2	1
-Moose	2	1
-Ship's Computer	2	1
-Superior Gort Prosecutor	2	1
-Mugger	2	1
-Penguin #1	2	1
-Rosie	2	1
-Neutral President's Aide	2	1
-Meiderneyer	2	1
-Old Zoidberg	2	1
-Old Cubert	2	1
-Bender-3	2	1
-Stoned Guy	2	1
-Robot Slave	2	1
-Dr. Banjo	2	1
-Erwin Schrödinger	2	1
-Whalerbot	2	1
-Princess Num Num	2	1
-Grunka Lunka #1	2	1
-Wendy	2	1
-Male voice #1	2	1
-Esther	2	1
-Yancy's Wife	2	1
-Evans	2	1
-Pathologist #2	2	1
-Stenographer	2	1
-Horn loudspeaker	2	1
-Slave #1	2	1
-Borax Kid	2	1
-Actor 1	2	1
-21st-century girl	2	1
-Roosevelt	2	1
-Leela-Droid	2	1
-Rat Woman	2	1
-Insect-sized Bender	2	1
-Ms. Pac-Man	2	1
-Machine	2	1
-Amy's computer	2	1
-David Farnsworth	2	1
-TV Anchorman	2	1
-Administrator	2	1
-Bee #3	2	1
-Barman	2	1
-Brain Ball #2	2	1
-Sebastian Cabot	2	1
-Orowheat	2	1
-Doingg	2	1
-Jor-El	2	1
-Mrs. Grant	2	1
-Larry the Murder Burglar	2	1
-Alphabot	2	1
-Wine Bucket	2	1
-Perfume saleswoman	2	1
-Ray	2	1
-Male CDC scientist	2	1
-Mr. Kroker	2	1
-Francine	2	1
-Robot builder	2	1
-Darth Stroyer	2	1
-New Farnsworth	2	1
-Dark Wizard	2	1
-Crazed Fan	2	1
-Old Hermes	2	1
-Peasent Cook	2	1
-Phone	2	1
-Worm Guard #1	2	1
-Decapodian Man	2	1
-Native #1	2	1
-Soldier	2	1
-Mechanic	2	1
-Beserk	2	1
-Mom Cut-Out	2	1
-Mr. Sunbeam	2	1
-Tom Sawyer	2	1
-Protestor #3	2	1
-N.R.A. Man	2	1
-Hunter #1	2	1
-Surgeon	2	1
-MC	2	1
-Rusty	2	1
-Trekkie #1	2	1
-Die of Power	2	1
-James Madison	2	1
-Geneworks Woman	2	1
-Aragonés	2	1
-Elevator Steward	2	1
-Indian Boy	2	1
-Mad Fellow	2	1
-Left Bender duplicate	2	1
-Mexican Man	2	1
-Broker-bot #1	2	1
-Feminista	2	1
-Aide #4	2	1
-Lackey	2	1
-Alexander Hamilton	2	1
-FART Mob	2	1
-Tex Connecticut	2	1
-Foreigner	2	1
-Mutant #2	2	1
-Right Bender duplicate	2	1
-Sound Effects 5000	2	1
-Military Man	2	1
-Italian #1	2	1
-Five-Eyed Woman	2	1
-Space Pope	2	1
-Crystal	2	1
-Malachi's Wife	2	1
-Robot clerk	2	1
-"Fembot"	2	1
-Mandy	2	1
-Darth Trocious	2	1
-Orange Elder	2	1
-Center Square Guy	2	1
-Tester	2	1
-Female CDC scientist	2	1
-Jockey	2	1
-Alex	2	1
-Repo-bot	2	1
-Leelis Lane	2	1
-Feffernoose	2	1
-Head cleaner	2	1
-"Cosell"	1	1
-Farnsowrth	1	1
-Moustached Alien	1	1
-Pocket Pal	1	1
-Neptunian Man	1	1
-Alarm Clock	1	1
-Bender Doll	1	1
-Male Scientist	1	1
-Lady #2	1	1
-Lady #3	1	1
-Younger Wernstrom	1	1
-Three Eyed Zebra	1	1
-Slaves	1	1
-Cool-o-Meter	1	1
-Antarian #2	1	1
-Ambassador	1	1
-several heads	1	1
-Chrissy	1	1
-Nibblonian Chef	1	1
-David Farsnworth	1	1
-Ruth Bader Ginsburg	1	1
-Woman #5	1	1
-Woman #3	1	1
-Mexican Border Patrolman	1	1
-Worm Announcer	1	1
-Robot Devil's ghost	1	1
-Camera	1	1
-Frame #1	1	1
-Decapodian Woman #2	1	1
-Decapodian Woman #3	1	1
-Decapodian Woman #1	1	1
-Liubot #7	1	1
-Liubot #6	1	1
-Alien #2	1	1
-The Being of Inconceivable Horror	1	1
-eyePhone	1	1
-Roller-Skater	1	1
-Photographer #1	1	1
-Photographer #2	1	1
-Gopher #2	1	1
-Gophers	1	1
-Guardbot #4	1	1
-Souter	1	1
-Tenant #2	1	1
-Tenant #3	1	1
-Grumpy Snail	1	1
-Clark	1	1
-Doll	1	1
-Bartender-bot	1	1
-Leela's Wrist Thingy	1	1
-Dole	1	1
-Universal Translator	1	1
-Bystanders	1	1
-Garry Gygax	1	1
-Amish man	1	1
-Vladimir-Ghost	1	1
-Franklin D. Roosevelt	1	1
-Centaur Opponent	1	1
-Q-Bert	1	1
-Decapodian Man #2	1	1
-Suspiciously fantastic apartment salesman	1	1
-Farnsworth's Killbot	1	1
-Security Woman	1	1
-Motorist #1	1	1
-Motorist #3	1	1
-Motorist #2	1	1
-Cryogenicist	1	1
-Darth Ithead	1	1
-Merman	1	1
-Lane	1	1
-Monroe-bot	1	1
-Toilet	1	1
-Orphans	1	1
-Horrible Gelatinous Hick	1	1
-Grade 53 Bureaucrat	1	1
-Boobs Vanderbilt	1	1
-seen Mickey Rourke's head.	1	1
-Ralph Kramden-bot	1	1
-Bernilla	1	1
-Wernstrom's Killbot	1	1
-Horrible Gelatinous Stockbroker	1	1
-Trucker	1	1
-Gorillas	1	1
-Mr. Astor	1	1
-Orphan #1	1	1
-Hitler	1	1
-Juror #2	1	1
-Cygnoid #3	1	1
-Ice-V	1	1
-Tattoo #3	1	1
-Tattoo #2	1	1
-Judge 723	1	1
-Nudar-2	1	1
-Andy Warhol	1	1
-Norm	1	1
-Jim	1	1
-Little Prince	1	1
-Ginsburg	1	1
-Bender's First Born Son	1	1
-Shrimpkins	1	1
-Mavis	1	1
-Cosmetologist	1	1
-Natalie	1	1
-Leela's finger	1	1
-Actress	1	1
-Bill Morrison Robot	1	1
-"Ensign"	1	1
-Guards	1	1
-Octopus	1	1
-Morgan Proctor	1	1
-Abraham Lincoln	1	1
-Darth Urderer	1	1
-Rabbi-bot	1	1
-The Force	1	1
-Mayor	1	1
-Hermes 25	1	1
-Scout Leader	1	1
-Bender on the other side	1	1
-The Hip Joint janitor	1	1
-MOM COMPUTER	1	1
-Berha	1	1
-"Woman"	1	1
-Holo-Orphans	1	1
-Super Hero	1	1
-Hoverfish	1	1
-Brown Robot	1	1
-Bird	1	1
-Hippie #3	1	1
-Hippie #5	1	1
-Hippie #6	1	1
-Bee #2	1	1
-Mombot	1	1
-Fembot #2	1	1
-Butch's Mom	1	1
-George H. W. Bush	1	1
-Planet Express headquarters	1	1
-Lime Elder	1	1
-Fry 31	1	1
-Bender Figurine	1	1
-Phil	1	1
-Patrol Officer #1	1	1
-Vijai Patel	1	1
-Judge 802	1	1
-Clock	1	1
-Trekkie #2	1	1
-Underwater House Salesman	1	1
-Young woman	1	1
-Cyclopian Man #1	1	1
-Oily	1	1
-Cyclopian Man #2	1	1
-Neptunian Salesman #2	1	1
-Calculon's Nephew	1	1
-'Sweet' Clyde	1	1
-Donkey Kong	1	1
-Stilt People	1	1
-Manbot	1	1
-Grade 11 Bureaucrat	1	1
-Sibling #1	1	1
-George H.W. Bush	1	1
-Sibling #2	1	1
-Deformed man	1	1
-Frakes	1	1
-Aki	1	1
-ALL YIVOS	1	1
-Noticeably F.A.T.	1	1
-Guard #3	1	1
-Slave #2	1	1
-Slave #3	1	1
-Donbot's eldest daughter	1	1
-Killbot	1	1
-Lamp	1	1
-Brett Blob	1	1
-Caveman	1	1
-Robosexual Robot	1	1
-Billy's Mom	1	1
-Cohen	1	1
-Man #6	1	1
-Bender doll	1	1
-Worm Guard #2	1	1
-wormhole!	1	1
-Sims Woman	1	1
-Lincoln	1	1
-Crummy Robot	1	1
-Stockbroker #1	1	1
-Stockbroker #2	1	1
-The Scary Announcer	1	1
-Armband	1	1
-Crewman	1	1
-Striped Biologist-Taunter	1	1
-Holo-Fry	1	1
-TV Commentator	1	1
-Bidder #2	1	1
-Fratbot #3	1	1
-Bidder #1	1	1
-Robber-bot	1	1
-Ipji	1	1
-Vampire	1	1
-7¹¹ Clerk	1	1
-Lyndon Johnson	1	1
-Kidman	1	1
-Parrot	1	1
-Boom Mic-bot	1	1
-Very small Bender	1	1
-Fry 1729	1	1
-Congregation	1	1
-The Scary Door narrator	1	1
-Bender duplicate #2	1	1
-Holo-Bender	1	1
-Lincolnbot	1	1
-Director #2	1	1
-Director #1	1	1
-Constantine	1	1
-Man walking on screen	1	1
-Amy 420	1	1
-Bender duplicate #1	1	1
-Frankie	1	1
-Miss Vega 4	1	1
-Clip Board	1	1
-MCA	1	1
-Lrrr's Father	1	1
-Dark One	1	1
-Criminal	1	1
-William Taft	1	1
-Mine Spokesman	1	1
-Bike Thief	1	1
-Hot Dog Stand	1	1
-Fred	1	1
-Monk #3	1	1
-Holo-Leela	1	1
-Planet Express Ship Alarm	1	1
-Amazonians	1	1
-Punk	1	1
-Humans	1	1
-Taco Bellevue Doctor	1	1
-Seth MacFarlane	1	1
-Big Bertha	1	1
-Old Amy	1	1
-SpongeBot SquareBolts	1	1
-Rutherford B. Hayes' head	1	1
-Frieda Waterfall	1	1
-Flabby	1	1
-Crew	1	1
-Soupy	1	1
-Hattie McDoogal	1	1
-TV Announcer	1	1
-Small rock Alien	1	1
-Robot #6	1	1
-Security woman	1	1
-Dwarf	1	1
-Professor Farnsoworth	1	1
-Nannybot 1.0	1	1
-Hippie #4	1	1
-Treedledum	1	1
-Flying Spaghetti Monster	1	1
-Nibblonians	1	1
-Cheech	1	1
-Jingle Singer	1	1
-Plastic Surgeon	1	1
-Giant Medium-Sized Ant	1	1
-Hammurabi Actor	1	1
-Mr. Peppy	1	1
-Remaining Ogre	1	1
-Frame #2	1	1
-Leela 1729	1	1
-Royalty girl	1	1
-Arthur	1	1
-French Guy	1	1
-Nerd #1	1	1
-Nerd #3	1	1
-Nerd #2	1	1
-Nerd #4	1	1
-Doug	1	1
-Robot Carny	1	1
-Andrew Jackson	1	1
-Judge Dogg	1	1
-Big-Eared Mutant	1	1
-Robot Clown	1	1
-Squire	1	1
-Arachneon	1	1
-Orphan #2	1	1
-Orphan #3	1	1
-Fratbot #2	1	1
-DJ	1	1
-πkea Robot	1	1
-Amazonian	1	1
-Microscopic Bender	1	1
-O'Connor	1	1
-Protestor #2	1	1
-Protestor #1	1	1
-Male voice #3	1	1
-Daisy-Mae 128K	1	1
-Male voice #2	1	1
-Card	1	1
-Morris Katz	1	1
-Young Boy	1	1
-New Fry	1	1
-Mrs. Kroker	1	1
-Fifth CDC officer	1	1
-Ride Barter	1	1
-Big-Mouthed Mutant	1	1
-Infosphere	1	1
-Michael's Wife	1	1
-The Dixie Chicks	1	1
-Bender duplicate A	1	1
-Hedonism bot	1	1
-Crazy Guy	1	1
-Leonardo da Vinci	1	1
-Bender duplicate B	1	1
-Black-haired man	1	1
-Caterpillar Alien	1	1
-Bee #4	1	1
-Brain #3	1	1
-Trash Can	1	1
-Journalist #1	1	1
-Plumber	1	1
-Photographer	1	1
-Butler	1	1
-Autopilot	1	1
-Captain Mega Meat	1	1
-Elders	1	1
-Thorias	1	1
-Gretsky	1	1
-Everybody else	1	1
-Fry's Voice	1	1
-Who Ask Machine	1	1
-Chorus	1	1
-Audience	1	1
-Neptunian Woman	1	1
-Schumlp	1	1
-Little girl #1	1	1
-Carter	1	1
-Patron	1	1
-McGee	1	1
-Robotic gas forms	1	1
-Barack Obama	1	1
-Martian #3	1	1
-Martian #2	1	1
-Martian #1	1	1
-German #2	1	1
-Bureaucrats	1	1
-Ricardo	1	1
-Dutch Schultz	1	1
-Gerald Ford	1	1
-Billionairebot	1	1
-Broker-bot #3	1	1
-Broker-bot #2	1	1
-Crow T. Robot	1	1
-Female Scientist	1	1
-Antonin Scalia	1	1
-Robot Human	1	1
-Mario	1	1
-Gas	1	1
-Aide #7	1	1
-Aide #6	1	1
-Aide #5	1	1
-Aide #3	1	1
-M-5438	1	1
-Neptunian	1	1
-Lulabelle 7	1	1
-Underwater house salesman	1	1
-Action Figure	1	1
-Brown-haired mMan	1	1
-Walter Cronkite	1	1
-Huge-assed woman	1	1
-Shop Owner	1	1
-Scanner	1	1
-Welshie	1	1
-Liubots	1	1
-Jack the Ripper	1	1
-Patrol Officer #2	1	1
-Convenience Store Bot	1	1
-Dr. Widnar	1	1
-Teen #2	1	1
-Andy	1	1
-Ogres	1	1
-Penguins	1	1
-Todd	1	1
-Brett	1	1
-The Funkalistics	1	1
-Frida Waterfall	1	1
-Robot Ghosts	1	1
-Bulb	1	1
-Moriarty	1	1
-Warren Harding	1	1
-Leela's grandmother	1	1
-Bill	1	1
-Bender 1729	1	1
-Clearcutter	1	1
-Radio announcer	1	1
-Italian #2	1	1
-Peaches	1	1
-Younger Boy	1	1
-Attila the Hun	1	1
-Bottomless Boy	1	1
-Captain	1	1
-Sportsbot 5000	1	1
-John Tyler	1	1
-Heads	1	1
-Ceiling Fan	1	1
-Elf	1	1
-Three Leos on the Machine	1	1
-Garbage Disposal	1	1
-Cronkite	1	1
-Kid #1	1	1
-Caddy	1	1
-Actor 2	1	1
-Child	1	1
-Wermstrom	1	1
-ALL NOT YIVO	1	1
-Farnsworth XVII	1	1
-Billy's Dad	1	1
-Cowboy	1	1
-The PE Crew	1	1
-Robot Farnsworth	1	1
-Tandy	1	1
-Franklin	1	1
-OTHERS	1	1
-Cheney	1	1
-Clarence Thomas' head	1	1
-Keg Robot	1	1
-SewerCom Operator	1	1
-Thubanian	1	1
-Conspiracy Nutter	1	1
-Mutant #1	1	1
-Pain Monster	1	1
-George W. Bush	1	1
-Pachinko machine	1	1
-Policeman #2	1	1
-Stripperbot	1	1
-Plumber-bot	1	1
-Mr Wong	1	1
-Ronald Reagan	1	1
-Betamax Player	1	1
-Mermaids	1	1
-Pramala	1	1
-Monster	1	1
-Centipede Woman	1	1
-Princess Flavia	1	1
-Student	1	1
-Namgyal	1	1
-Customer	1	1
-Einstein Actor	1	1
-Steward	1	1
-Single Female Lawyer	1	1
-Albright-bot	1	1
-Emotitron Jr.	1	1
-Robo-Police	1	1
-Nautilus	1	1
-Ad	1	1
-Macaulay Culkon	1	1
-Bending Unit	1	1
-Animated Revere	1	1
-Wrist Machine	1	1
+Fry	3822	114	EB491D	fry.png
+Bender	3425	114	6C8486	bender.png
+Leela	3020	114	462252	leela.png
+Prof. Farnsworth	1763	112	E1B675	farnsworth.png
+Zoidberg	899	108	EA504C	zoidberg.png
+Amy	886	101	EF8598	wong.png
+Hermes	786	105	435F27	hermes.png
+Zapp	498	33	7F172D	zapp.png
+Kif	252	24		
+Mom	177	15		
+Calculon	165	21		
+Cubert	146	14		
+Richard Nixon	145	23		
+Lrrr	145	9		
+Nibbler	105	11		
+Mr. Wong	90	12		
+Robot Devil	90	5		
+Dwight	85	9		
+Morbo	76	32		
+Elzar	75	16		
+Linda	74	30		
+URL	71	17		
+Wernstrom	71	9		
+Man	69	41		
+LaBarbara	67	14		
+Nudar	64	4		
+Walt	59	10		
+Scruffy	57	23		
+Donbot	57	4		
+Sal	54	21		
+Bender's ghost	51	1		
+Announcer	50	29		
+Smitty	50	19		
+Mayor Poopenmeyer	50	9		
+Roberto	49	6		
+Clamps	49	5		
+Nine	48	3		
+Coilette	48	1		
+Narrator	47	18		
+Tate	46	4		
+Alcazar	44	1		
+Lars	43	4		
+Santa	42	4		
+Beck	42	1		
+Woman	41	27		
+Larry	39	9		
+Turanga Munda	38	7		
+Hutch Waterfall	38	4		
+Michelle	38	3		
+Ship	38	1		
+Morgan	38	1		
+Preacherbot	37	13		
+Fry-2	37	2		
+Flexo	36	3		
+Al Gore	35	5		
+Steve Castle	35	1		
+Titanius Anglesmith	34	2		
+Igner	33	12		
+Mrs. Wong	33	9		
+Hattie	32	13		
+Nimoy	32	2		
+Angleyne	32	1		
+Turanga Morris	31	7		
+Nd-Nd	31	5		
+Glurmo	31	3		
+Greyfarn	31	2		
+Zoid	31	1		
+Melllvar	30	1		
+Man #1	29	17		
+Tinny Tim	29	7		
+Colleen	29	4		
+Frydo	29	2		
+Shatner	29	1		
+Warden Vogel	28	6		
+Yivo	28	2		
+Salesman	27	7		
+Albert	27	4		
+The Big Brain	27	2		
+Adlai	27	1		
+Waterfall Sr.	27	1		
+Ndnd	27	1		
+Crowd	26	8		
+Hyper-Chicken	26	8		
+Yancy Fry, Jr.	26	3		
+Ken	26	2		
+Farnsworth 1	26	1		
+Petunia	25	11		
+Randy Munchnik	24	14		
+Fishy Joe	24	6		
+Raoul	24	5		
+Dr. Perceptron	23	3		
+Farnsworth A	23	1		
+Farnsworth-Droid	23	1		
+Stephen Hawking	22	3		
+Frida	22	3		
+Waterfall Jr.	22	1		
+Hedonism Bot	21	8		
+Mr. Panucci	21	6		
+Dwayne	21	4		
+Thog	21	4		
+Gypsy	21	3		
+Leegola	21	2		
+Guenter	21	1		
+Abner Doubledeal	21	1		
+Man #2	20	16		
+ALL	20	9		
+George Takei	20	3		
+Yancy Fry Sr	20	1		
+Mrs. Astor	20	1		
+Big rock Alien	20	1		
+Edna	20	1		
+Robot	19	12		
+Sally	19	3		
+Leonardo	19	1		
+Singing Wind	19	1		
+Bubblegum	18	6		
+Grand Midwife	18	3		
+Doubledeal	18	2		
+Leela A	18	1		
+Countess	18	1		
+Vyolet	17	4		
+Liu	17	2		
+Nichols	17	2		
+Malachi	17	1		
+Nikolai	17	1		
+Robot Leela	17	1		
+All	16	13		
+Robot #1	16	9		
+Transition Announcer	16	6		
+Dr. Cahill	16	5		
+Fiona	16	2		
+Mr. Fry	16	2		
+Neptunians	16	2		
+Liubot	16	1		
+Unattractive giant monster	16	1		
+Slurms	16	1		
+Robot #2	15	9		
+Fanny	15	3		
+Mrs. Fry	15	3		
+Ipgee	15	3		
+Merg	15	1		
+Umbriel	15	1		
+Glab	15	1		
+Spargle	15	1		
+Thubanian leader	15	1		
+Boy	14	10		
+Ben Beeler	14	8		
+Paper-hatted salesman	14	5		
+Doctor	14	5		
+Hedonismbot	14	4		
+Vernon	14	2		
+Joey	14	2		
+Osiran	14	1		
+Billy West	14	1		
+Ranger Park	14	1		
+Monique	13	6		
+Schlump	13	4		
+Whitey	13	4		
+Farmer	13	2		
+Song	13	2		
+Zookeeper	13	1		
+"God"	13	1		
+Chief O'Mannahan	13	1		
+Blek	13	1		
+Horrible Gelatinous Blob	12	6		
+Fembot	12	5		
+Terry	12	5		
+Bender-2	12	3		
+Kug	12	2		
+Enos	12	1		
+Gary	12	1		
+Lisa	12	1		
+Leela 1	12	1		
+Bender 1	12	1		
+Animatronio	12	1		
+Ron Whitey	12	1		
+Mildred	12	1		
+Fry 1	12	1		
+Network President	12	1		
+Fleb	11	4		
+Fatbot	11	4		
+Old Man Waterfall	11	2		
+Colonel	11	2		
+Hermaphrodite	11	2		
+Momon	11	2		
+Aaron Jr.	11	1		
+Whale Biologist	11	1		
+Angus McZongo	11	1		
+Hiroki	11	1		
+Slurm Queen	11	1		
+Koenig	11	1		
+Kwanzaa-bot	11	1		
+Bender-Droid	11	1		
+Benjamin Franklin	11	1		
+Femputer	11	1		
+Zoidberg-Droid	11	1		
+Aide #2	11	1		
+Barker	11	1		
+High Priest	11	1		
+Blue Elder	11	1		
+Queen	10	3		
+Joey Mousepad	10	2		
+Robot 1-X	10	2		
+Zoidberg A	10	1		
+Zoidberg 1	10	1		
+Lando Tucker	10	1		
+Greeting Card	10	1		
+Ambassador Mervin	10	1		
+Grrrl	10	1		
+Robot Mayor	10	1		
+Susan	10	1		
+Fnog	10	1		
+Uecker	10	1		
+Dr. Schlovinowitz	10	1		
+Banjo	10	1		
+Computer Voice	9	6		
+Bailiff	9	5		
+Waiter	9	5		
+Nina	9	4		
+Commentator	9	4		
+Hoschel	9	4		
+Victor	9	2		
+Gus	9	2		
+Waltazar	9	2		
+Gynecaladriel	9	2		
+Hermes-Droid	9	1		
+Chaz	9	1		
+Referee	9	1		
+Anderson	9	1		
+Director	9	1		
+Female voice	8	7		
+Nurse Ratchet	8	3		
+Leo	8	2		
+Fender	8	2		
+Teacher	8	2		
+Auctioneer	8	2		
+Blond man	8	2		
+Welles	8	1		
+Robot Fry	8	1		
+Worm Mayor	8	1		
+Fry-Droid	8	1		
+Teenaged Alien	8	1		
+Zoidberg Head	8	1		
+Antarian #1	8	1		
+Cygnoid Woman	8	1		
+Bont	8	1		
+Thomas Jefferson	8	1		
+Truman	8	1		
+Hooded Figure #1	8	1		
+Teen #1	8	1		
+Butch	8	1		
+Josh Gedgie	8	1		
+Crushinator	7	4		
+Nibblonian	7	4		
+Man #3	7	4		
+Girl	7	4		
+Tour Guide	7	4		
+British Robot	7	3		
+Mother	7	3		
+Clerk	7	3		
+Guard #1	7	3		
+Announcer #2	7	3		
+Dandy Jim	7	3		
+Dixie	7	3		
+Chinese Boy	7	2		
+Kids	7	2		
+Female Announcer	7	2		
+Teller	7	2		
+Mysterious Voice	7	2		
+Jeffery	7	2		
+Technician	7	2		
+Yancy Fry Jr	7	1		
+Basil	7	1		
+Reflection Host	7	1		
+Sinclair	7	1		
+Katz	7	1		
+Ornik	7	1		
+Kissenger	7	1		
+Myrtle Fu	7	1		
+Bella	7	1		
+Barrierbot #1	7	1		
+Penn Jillette	7	1		
+Widnar	7	1		
+Fry A	7	1		
+Subtitle	7	1		
+Old Leela	7	1		
+Decapodian Emperor	7	1		
+Ndulu	7	1		
+RJ	7	1		
+iZac	7	1		
+Ignus	7	1		
+Monk #1	7	1		
+Male voice	6	6		
+Robots	6	4		
+Judge	6	3		
+Destructor	6	3		
+Washington	6	3		
+Slim	6	3		
+Trixie	6	3		
+Yellow and red lawyer	6	2		
+Soldier #1	6	2		
+Inez	6	2		
+Security Guard	6	2		
+Malfunctioning Eddie	6	2		
+Robot Stack	6	1		
+Kwanzabot	6	1		
+Lady Buggle	6	1		
+Shore	6	1		
+Norwegian seed guard	6	1		
+Judge 724	6	1		
+Holo-Zoidberg	6	1		
+Cartridge Unit	6	1		
+Robot Santa	6	1		
+Pickles	6	1		
+Invader X	6	1		
+Delivery-Boy Man	6	1		
+Koji	6	1		
+Gygax	6	1		
+V-GINY	6	1		
+Jeff Jervis	6	1		
+General	6	1		
+Beastie Boys	6	1		
+Foreman	6	1		
+Bender A	6	1		
+Staff	6	1		
+Aide #1	6	1		
+Casting Director	6	1		
+Organ Dealer	6	1		
+Unit 2013	6	1		
+Robot #3	5	5		
+Man #4	5	4		
+Bartender	5	4		
+Human Friend	5	3		
+Sweet Clyde	5	3		
+Decapodian Woman	5	2		
+Younger Mom	5	2		
+Labarbara	5	2		
+Singer	5	2		
+Bret	5	1		
+Fry's Photo	5	1		
+Brain #2	5	1		
+Skipper	5	1		
+Bee	5	1		
+Number 1.0	5	1		
+Heather	5	1		
+Amy 1	5	1		
+iHawk	5	1		
+Centipede Man	5	1		
+Hermenthotip	5	1		
+Hick	5	1		
+McNeal	5	1		
+Pac-Man	5	1		
+Doctor #2	5	1		
+Snake	5	1		
+Father	5	1		
+Poppler	5	1		
+Brain Ball #1	5	1		
+Yokelbot	5	1		
+Bender duplicate	5	1		
+Darth Sploder	5	1		
+Dogg	5	1		
+Jackie	5	1		
+Superior Gort Judge	5	1		
+Chu	5	1		
+Bertha	5	1		
+Paul Revere	5	1		
+Gorgak	5	1		
+Sheldon	5	1		
+Encyclopod	5	1		
+Billy	5	1		
+Little	5	1		
+German #1	5	1		
+Robot guard #2	5	1		
+Stewart	5	1		
+Reflection Host 2	5	1		
+Coffee Machine	5	1		
+Old man	4	3		
+Old Man	4	3		
+Announcer #1	4	3		
+Bolt	4	2		
+Nurse	4	2		
+Mutant	4	2		
+Female Voice	4	2		
+Michael	4	2		
+Leg Mutant	4	2		
+Sam	4	2		
+Barbados Slim	4	2		
+Australian Man	4	2		
+Galactic Entity	4	2		
+Larius	4	2		
+Mutants	4	2		
+Killbot 2	4	2		
+Killbot 1	4	2		
+Leroy	4	2		
+Changstein el Gamahl	4	2		
+Hydroponic farmer	4	2		
+Commissioner	4	2		
+Van	4	1		
+Amy-Droid	4	1		
+Suzie	4	1		
+Resin-offering robot	4	1		
+Humplings	4	1		
+Flavia	4	1		
+Dr. Daniel Zenus	4	1		
+Planet Express crew	4	1		
+Gwen	4	1		
+Bender duplicates	4	1		
+O'Brien	4	1		
+Rich Little	4	1		
+Garfunkel	4	1		
+Robot guard #1	4	1		
+Billionaire Bot	4	1		
+Philip J. Fry II	4	1		
+Mutated Mark Mothersbaugh	4	1		
+Yellow Elder	4	1		
+Green Elder	4	1		
+Barrierbot #2	4	1		
+Ad-Rock	4	1		
+Biff	4	1		
+Morcs	4	1		
+Helper	4	1		
+Grunka Lunkas	4	1		
+Hobsy	4	1		
+Butch's Girlfriend	4	1		
+Kwanzaabot	4	1		
+Jrrr	4	1		
+Hermes 1	4	1		
+Mike	4	1		
+Antonio	4	1		
+Younger Farnsworth	4	1		
+Patch Cord Adams	4	1		
+Chet	4	1		
+Leo Wong	4	1		
+Wash bucket	4	1		
+Whalerbots	4	1		
+YIVO	4	1		
+Donovan	4	1		
+Barbados	4	1		
+Aaron Sr.	4	1		
+Woman #2	3	3		
+Woman #1	3	3		
+Alien	3	3		
+Guard #2	3	3		
+Robot #4	3	3		
+Scoop Chang	3	3		
+Operator	3	3		
+Hookerbot	3	2		
+Monkey	3	2		
+Schlomo	3	2		
+Joe	3	2		
+De Gaulle	3	2		
+Inger	3	2		
+Slurm Machine	3	2		
+Curly Joe	3	2		
+Chef	3	2		
+Humorbot 5.0	3	2		
+Umpire	3	2		
+Lou	3	2		
+Rivers	3	2		
+Inuit #2	3	2		
+Computer	3	2		
+Mad Hatterbot	3	2		
+Vendor	3	2		
+UNKNOWN	3	2		
+Croupier	3	2		
+Mr. Moviefone	3	1		
+Trees	3	1		
+Cylon	3	1		
+Wanda	3	1		
+Execu-Tor	3	1		
+Campaign Manager	3	1		
+Recruitment Officer	3	1		
+Liubot #4	3	1		
+Ahab	3	1		
+Chainsaw-Eating Robot	3	1		
+Tenant #1	3	1		
+Groening	3	1		
+Female inhabitant	3	1		
+Kirk	3	1		
+Hooded Figure #2	3	1		
+Mermaid	3	1		
+Pathologist #1	3	1		
+John Adams	3	1		
+John Hancock	3	1		
+Tattoo #1	3	1		
+Farnswoth	3	1		
+Inuitbot	3	1		
+Melllvar's Mother	3	1		
+Schiffer	3	1		
+Smith	3	1		
+White Robot	3	1		
+Intercom Assistant	3	1		
+Salesman #2	3	1		
+Salesman #1	3	1		
+Grunka Lunka #2	3	1		
+Suicide Booth	3	1		
+Neptunian Salesman #1	3	1		
+Cryogenisist	3	1		
+Priests	3	1		
+Garbly	3	1		
+Pirate	3	1		
+Zoidsmythe	3	1		
+Booth Voice	3	1		
+Fat Man	3	1		
+Liubot #3	3	1		
+Liubot #2	3	1		
+Amy A	3	1		
+Liubot #5	3	1		
+Lady #1	3	1		
+Janitorbot	3	1		
+Buzz Aldrin	3	1		
+Neutral President	3	1		
+Snoop Dogg	3	1		
+Popeil	3	1		
+Deep Blue	3	1		
+Old lady	3	1		
+Betabot	3	1		
+Jackson	3	1		
+Vandal #2	3	1		
+Vandal #1	3	1		
+Shrimpkin Priest	3	1		
+Grade 41 Bureaucrat	3	1		
+Johnson	3	1		
+Robo-Puppy	3	1		
+Fratbot #1	3	1		
+Farnsworth Monkey	3	1		
+Chanukah Zombie	3	1		
+Policeman #1	3	1		
+Hunter #2	3	1		
+V.A.P. Man	3	1		
+Brain #1	3	1		
+Leela Actress	3	1		
+Malachi Jr.	3	1		
+Gearshift	3	1		
+Robot Chef	3	1		
+Amana	3	1		
+Farnsworth 420	3	1		
+Suz	3	1		
+Bully	3	1		
+Bee #1	3	1		
+Green Alien	3	1		
+Suicide booth	3	1		
+Pawnbroker	3	1		
+George Washington	3	1		
+Ruth	3	1		
+Project Satan	3	1		
+Warden	3	1		
+Monk #2	3	1		
+Cyclops	3	1		
+Shpeekenshpell	3	1		
+Judge #1	3	1		
+Sergeant	3	1		
+Thubanian Leader	3	1		
+Cygnoid #2	3	1		
+Doctorbot	2	2		
+Brown-haired man	2	2		
+Bill Clinton	2	2		
+Guard	2	2		
+Nerd	2	2		
+Hippie #1	2	2		
+Hippie #2	2	2		
+Fembot #1	2	2		
+Aliens	2	2		
+Scalia	2	2		
+Holo-Farnsworth	2	2		
+Crack Addict	2	2		
+Doorman	2	2		
+Hermaphrobot	2	2		
+Chain Smoker	2	2		
+Man #5	2	2		
+Waitress	2	2		
+Robot #5	2	2		
+Priest	2	2		
+Women	2	2		
+Killbot 3	2	2		
+Florp	2	2		
+Inuit #1	2	2		
+Farsnworth	2	2		
+Official	2	2		
+Enema Bot	2	2		
+Pazuzu	2	2		
+Feministas	2	2		
+Pig	2	2		
+Men	2	2		
+Ogre	2	2		
+Female Centaur	2	2		
+Scientist	2	2		
+Refreshment-bot	2	2		
+Hydroponic Farmer	2	2		
+Hairbot	2	2		
+Voice	2	1		
+Craterface	2	1		
+Candy	2	1		
+Queequeg	2	1		
+Sheriff Burley	2	1		
+Sandy	2	1		
+Woman #4	2	1		
+Andrew	2	1		
+Grade 20 Bureaucrat	2	1		
+Ford	2	1		
+Holo-Roseanne	2	1		
+Gopher #1	2	1		
+Guardbot #1	2	1		
+Guardbot #2	2	1		
+Guardbot #3	2	1		
+Male inhabitant	2	1		
+P.A. Announcer	2	1		
+Emcee	2	1		
+Holo-Robot Devil	2	1		
+Infosquito	2	1		
+Decapodian Man #1	2	1		
+Prototype	2	1		
+Statue	2	1		
+Robot General	2	1		
+Emperor Chop Chop	2	1		
+Senator	2	1		
+Father Changstein-el-Gamahl	2	1		
+Gammabot	2	1		
+Evil Lincoln	2	1		
+Juror #1	2	1		
+Mrs. Mellonger	2	1		
+Vergerbot	2	1		
+Hooded Robot	2	1		
+Moose	2	1		
+Ship's Computer	2	1		
+Superior Gort Prosecutor	2	1		
+Mugger	2	1		
+Penguin #1	2	1		
+Rosie	2	1		
+Neutral President's Aide	2	1		
+Meiderneyer	2	1		
+Old Zoidberg	2	1		
+Old Cubert	2	1		
+Bender-3	2	1		
+Stoned Guy	2	1		
+Robot Slave	2	1		
+Dr. Banjo	2	1		
+Erwin Schrödinger	2	1		
+Whalerbot	2	1		
+Princess Num Num	2	1		
+Grunka Lunka #1	2	1		
+Wendy	2	1		
+Male voice #1	2	1		
+Esther	2	1		
+Yancy's Wife	2	1		
+Evans	2	1		
+Pathologist #2	2	1		
+Stenographer	2	1		
+Horn loudspeaker	2	1		
+Slave #1	2	1		
+Borax Kid	2	1		
+Actor 1	2	1		
+21st-century girl	2	1		
+Roosevelt	2	1		
+Leela-Droid	2	1		
+Rat Woman	2	1		
+Insect-sized Bender	2	1		
+Ms. Pac-Man	2	1		
+Machine	2	1		
+Amy's computer	2	1		
+David Farnsworth	2	1		
+TV Anchorman	2	1		
+Administrator	2	1		
+Bee #3	2	1		
+Barman	2	1		
+Brain Ball #2	2	1		
+Sebastian Cabot	2	1		
+Orowheat	2	1		
+Doingg	2	1		
+Jor-El	2	1		
+Mrs. Grant	2	1		
+Larry the Murder Burglar	2	1		
+Alphabot	2	1		
+Wine Bucket	2	1		
+Perfume saleswoman	2	1		
+Ray	2	1		
+Male CDC scientist	2	1		
+Mr. Kroker	2	1		
+Francine	2	1		
+Robot builder	2	1		
+Darth Stroyer	2	1		
+New Farnsworth	2	1		
+Dark Wizard	2	1		
+Crazed Fan	2	1		
+Old Hermes	2	1		
+Peasent Cook	2	1		
+Phone	2	1		
+Worm Guard #1	2	1		
+Decapodian Man	2	1		
+Native #1	2	1		
+Soldier	2	1		
+Mechanic	2	1		
+Beserk	2	1		
+Mom Cut-Out	2	1		
+Mr. Sunbeam	2	1		
+Tom Sawyer	2	1		
+Protestor #3	2	1		
+N.R.A. Man	2	1		
+Hunter #1	2	1		
+Surgeon	2	1		
+MC	2	1		
+Rusty	2	1		
+Trekkie #1	2	1		
+Die of Power	2	1		
+James Madison	2	1		
+Geneworks Woman	2	1		
+Aragonés	2	1		
+Elevator Steward	2	1		
+Indian Boy	2	1		
+Mad Fellow	2	1		
+Left Bender duplicate	2	1		
+Mexican Man	2	1		
+Broker-bot #1	2	1		
+Feminista	2	1		
+Aide #4	2	1		
+Lackey	2	1		
+Alexander Hamilton	2	1		
+FART Mob	2	1		
+Tex Connecticut	2	1		
+Foreigner	2	1		
+Mutant #2	2	1		
+Right Bender duplicate	2	1		
+Sound Effects 5000	2	1		
+Military Man	2	1		
+Italian #1	2	1		
+Five-Eyed Woman	2	1		
+Space Pope	2	1		
+Crystal	2	1		
+Malachi's Wife	2	1		
+Robot clerk	2	1		
+"Fembot"	2	1		
+Mandy	2	1		
+Darth Trocious	2	1		
+Orange Elder	2	1		
+Center Square Guy	2	1		
+Tester	2	1		
+Female CDC scientist	2	1		
+Jockey	2	1		
+Alex	2	1		
+Repo-bot	2	1		
+Leelis Lane	2	1		
+Feffernoose	2	1		
+Head cleaner	2	1		
+"Cosell"	1	1		
+Farnsowrth	1	1		
+Moustached Alien	1	1		
+Pocket Pal	1	1		
+Neptunian Man	1	1		
+Alarm Clock	1	1		
+Bender Doll	1	1		
+Male Scientist	1	1		
+Lady #2	1	1		
+Lady #3	1	1		
+Younger Wernstrom	1	1		
+Three Eyed Zebra	1	1		
+Slaves	1	1		
+Cool-o-Meter	1	1		
+Antarian #2	1	1		
+Ambassador	1	1		
+several heads	1	1		
+Chrissy	1	1		
+Nibblonian Chef	1	1		
+David Farsnworth	1	1		
+Ruth Bader Ginsburg	1	1		
+Woman #5	1	1		
+Woman #3	1	1		
+Mexican Border Patrolman	1	1		
+Worm Announcer	1	1		
+Robot Devil's ghost	1	1		
+Camera	1	1		
+Frame #1	1	1		
+Decapodian Woman #2	1	1		
+Decapodian Woman #3	1	1		
+Decapodian Woman #1	1	1		
+Liubot #7	1	1		
+Liubot #6	1	1		
+Alien #2	1	1		
+The Being of Inconceivable Horror	1	1		
+eyePhone	1	1		
+Roller-Skater	1	1		
+Photographer #1	1	1		
+Photographer #2	1	1		
+Gopher #2	1	1		
+Gophers	1	1		
+Guardbot #4	1	1		
+Souter	1	1		
+Tenant #2	1	1		
+Tenant #3	1	1		
+Grumpy Snail	1	1		
+Clark	1	1		
+Doll	1	1		
+Bartender-bot	1	1		
+Leela's Wrist Thingy	1	1		
+Dole	1	1		
+Universal Translator	1	1		
+Bystanders	1	1		
+Garry Gygax	1	1		
+Amish man	1	1		
+Vladimir-Ghost	1	1		
+Franklin D. Roosevelt	1	1		
+Centaur Opponent	1	1		
+Q-Bert	1	1		
+Decapodian Man #2	1	1		
+Suspiciously fantastic apartment salesman	1	1		
+Farnsworth's Killbot	1	1		
+Security Woman	1	1		
+Motorist #1	1	1		
+Motorist #3	1	1		
+Motorist #2	1	1		
+Cryogenicist	1	1		
+Darth Ithead	1	1		
+Merman	1	1		
+Lane	1	1		
+Monroe-bot	1	1		
+Toilet	1	1		
+Orphans	1	1		
+Horrible Gelatinous Hick	1	1		
+Grade 53 Bureaucrat	1	1		
+Boobs Vanderbilt	1	1		
+seen Mickey Rourke's head.	1	1		
+Ralph Kramden-bot	1	1		
+Bernilla	1	1		
+Wernstrom's Killbot	1	1		
+Horrible Gelatinous Stockbroker	1	1		
+Trucker	1	1		
+Gorillas	1	1		
+Mr. Astor	1	1		
+Orphan #1	1	1		
+Hitler	1	1		
+Juror #2	1	1		
+Cygnoid #3	1	1		
+Ice-V	1	1		
+Tattoo #3	1	1		
+Tattoo #2	1	1		
+Judge 723	1	1		
+Nudar-2	1	1		
+Andy Warhol	1	1		
+Norm	1	1		
+Jim	1	1		
+Little Prince	1	1		
+Ginsburg	1	1		
+Bender's First Born Son	1	1		
+Shrimpkins	1	1		
+Mavis	1	1		
+Cosmetologist	1	1		
+Natalie	1	1		
+Leela's finger	1	1		
+Actress	1	1		
+Bill Morrison Robot	1	1		
+"Ensign"	1	1		
+Guards	1	1		
+Octopus	1	1		
+Morgan Proctor	1	1		
+Abraham Lincoln	1	1		
+Darth Urderer	1	1		
+Rabbi-bot	1	1		
+The Force	1	1		
+Mayor	1	1		
+Hermes 25	1	1		
+Scout Leader	1	1		
+Bender on the other side	1	1		
+The Hip Joint janitor	1	1		
+MOM COMPUTER	1	1		
+Berha	1	1		
+"Woman"	1	1		
+Holo-Orphans	1	1		
+Super Hero	1	1		
+Hoverfish	1	1		
+Brown Robot	1	1		
+Bird	1	1		
+Hippie #3	1	1		
+Hippie #5	1	1		
+Hippie #6	1	1		
+Bee #2	1	1		
+Mombot	1	1		
+Fembot #2	1	1		
+Butch's Mom	1	1		
+George H. W. Bush	1	1		
+Planet Express headquarters	1	1		
+Lime Elder	1	1		
+Fry 31	1	1		
+Bender Figurine	1	1		
+Phil	1	1		
+Patrol Officer #1	1	1		
+Vijai Patel	1	1		
+Judge 802	1	1		
+Clock	1	1		
+Trekkie #2	1	1		
+Underwater House Salesman	1	1		
+Young woman	1	1		
+Cyclopian Man #1	1	1		
+Oily	1	1		
+Cyclopian Man #2	1	1		
+Neptunian Salesman #2	1	1		
+Calculon's Nephew	1	1		
+'Sweet' Clyde	1	1		
+Donkey Kong	1	1		
+Stilt People	1	1		
+Manbot	1	1		
+Grade 11 Bureaucrat	1	1		
+Sibling #1	1	1		
+George H.W. Bush	1	1		
+Sibling #2	1	1		
+Deformed man	1	1		
+Frakes	1	1		
+Aki	1	1		
+ALL YIVOS	1	1		
+Noticeably F.A.T.	1	1		
+Guard #3	1	1		
+Slave #2	1	1		
+Slave #3	1	1		
+Donbot's eldest daughter	1	1		
+Killbot	1	1		
+Lamp	1	1		
+Brett Blob	1	1		
+Caveman	1	1		
+Robosexual Robot	1	1		
+Billy's Mom	1	1		
+Cohen	1	1		
+Man #6	1	1		
+Bender doll	1	1		
+Worm Guard #2	1	1		
+wormhole!	1	1		
+Sims Woman	1	1		
+Lincoln	1	1		
+Crummy Robot	1	1		
+Stockbroker #1	1	1		
+Stockbroker #2	1	1		
+The Scary Announcer	1	1		
+Armband	1	1		
+Crewman	1	1		
+Striped Biologist-Taunter	1	1		
+Holo-Fry	1	1		
+TV Commentator	1	1		
+Bidder #2	1	1		
+Fratbot #3	1	1		
+Bidder #1	1	1		
+Robber-bot	1	1		
+Ipji	1	1		
+Vampire	1	1		
+7¹¹ Clerk	1	1		
+Lyndon Johnson	1	1		
+Kidman	1	1		
+Parrot	1	1		
+Boom Mic-bot	1	1		
+Very small Bender	1	1		
+Fry 1729	1	1		
+Congregation	1	1		
+The Scary Door narrator	1	1		
+Bender duplicate #2	1	1		
+Holo-Bender	1	1		
+Lincolnbot	1	1		
+Director #2	1	1		
+Director #1	1	1		
+Constantine	1	1		
+Man walking on screen	1	1		
+Amy 420	1	1		
+Bender duplicate #1	1	1		
+Frankie	1	1		
+Miss Vega 4	1	1		
+Clip Board	1	1		
+MCA	1	1		
+Lrrr's Father	1	1		
+Dark One	1	1		
+Criminal	1	1		
+William Taft	1	1		
+Mine Spokesman	1	1		
+Bike Thief	1	1		
+Hot Dog Stand	1	1		
+Fred	1	1		
+Monk #3	1	1		
+Holo-Leela	1	1		
+Planet Express Ship Alarm	1	1		
+Amazonians	1	1		
+Punk	1	1		
+Humans	1	1		
+Taco Bellevue Doctor	1	1		
+Seth MacFarlane	1	1		
+Big Bertha	1	1		
+Old Amy	1	1		
+SpongeBot SquareBolts	1	1		
+Rutherford B. Hayes' head	1	1		
+Frieda Waterfall	1	1		
+Flabby	1	1		
+Crew	1	1		
+Soupy	1	1		
+Hattie McDoogal	1	1		
+TV Announcer	1	1		
+Small rock Alien	1	1		
+Robot #6	1	1		
+Security woman	1	1		
+Dwarf	1	1		
+Professor Farnsoworth	1	1		
+Nannybot 1.0	1	1		
+Hippie #4	1	1		
+Treedledum	1	1		
+Flying Spaghetti Monster	1	1		
+Nibblonians	1	1		
+Cheech	1	1		
+Jingle Singer	1	1		
+Plastic Surgeon	1	1		
+Giant Medium-Sized Ant	1	1		
+Hammurabi Actor	1	1		
+Mr. Peppy	1	1		
+Remaining Ogre	1	1		
+Frame #2	1	1		
+Leela 1729	1	1		
+Royalty girl	1	1		
+Arthur	1	1		
+French Guy	1	1		
+Nerd #1	1	1		
+Nerd #3	1	1		
+Nerd #2	1	1		
+Nerd #4	1	1		
+Doug	1	1		
+Robot Carny	1	1		
+Andrew Jackson	1	1		
+Judge Dogg	1	1		
+Big-Eared Mutant	1	1		
+Robot Clown	1	1		
+Squire	1	1		
+Arachneon	1	1		
+Orphan #2	1	1		
+Orphan #3	1	1		
+Fratbot #2	1	1		
+DJ	1	1		
+πkea Robot	1	1		
+Amazonian	1	1		
+Microscopic Bender	1	1		
+O'Connor	1	1		
+Protestor #2	1	1		
+Protestor #1	1	1		
+Male voice #3	1	1		
+Daisy-Mae 128K	1	1		
+Male voice #2	1	1		
+Card	1	1		
+Morris Katz	1	1		
+Young Boy	1	1		
+New Fry	1	1		
+Mrs. Kroker	1	1		
+Fifth CDC officer	1	1		
+Ride Barter	1	1		
+Big-Mouthed Mutant	1	1		
+Infosphere	1	1		
+Michael's Wife	1	1		
+The Dixie Chicks	1	1		
+Bender duplicate A	1	1		
+Hedonism bot	1	1		
+Crazy Guy	1	1		
+Leonardo da Vinci	1	1		
+Bender duplicate B	1	1		
+Black-haired man	1	1		
+Caterpillar Alien	1	1		
+Bee #4	1	1		
+Brain #3	1	1		
+Trash Can	1	1		
+Journalist #1	1	1		
+Plumber	1	1		
+Photographer	1	1		
+Butler	1	1		
+Autopilot	1	1		
+Captain Mega Meat	1	1		
+Elders	1	1		
+Thorias	1	1		
+Gretsky	1	1		
+Everybody else	1	1		
+Fry's Voice	1	1		
+Who Ask Machine	1	1		
+Chorus	1	1		
+Audience	1	1		
+Neptunian Woman	1	1		
+Schumlp	1	1		
+Little girl #1	1	1		
+Carter	1	1		
+Patron	1	1		
+McGee	1	1		
+Robotic gas forms	1	1		
+Barack Obama	1	1		
+Martian #3	1	1		
+Martian #2	1	1		
+Martian #1	1	1		
+German #2	1	1		
+Bureaucrats	1	1		
+Ricardo	1	1		
+Dutch Schultz	1	1		
+Gerald Ford	1	1		
+Billionairebot	1	1		
+Broker-bot #3	1	1		
+Broker-bot #2	1	1		
+Crow T. Robot	1	1		
+Female Scientist	1	1		
+Antonin Scalia	1	1		
+Robot Human	1	1		
+Mario	1	1		
+Gas	1	1		
+Aide #7	1	1		
+Aide #6	1	1		
+Aide #5	1	1		
+Aide #3	1	1		
+M-5438	1	1		
+Neptunian	1	1		
+Lulabelle 7	1	1		
+Underwater house salesman	1	1		
+Action Figure	1	1		
+Brown-haired mMan	1	1		
+Walter Cronkite	1	1		
+Huge-assed woman	1	1		
+Shop Owner	1	1		
+Scanner	1	1		
+Welshie	1	1		
+Liubots	1	1		
+Jack the Ripper	1	1		
+Patrol Officer #2	1	1		
+Convenience Store Bot	1	1		
+Dr. Widnar	1	1		
+Teen #2	1	1		
+Andy	1	1		
+Ogres	1	1		
+Penguins	1	1		
+Todd	1	1		
+Brett	1	1		
+The Funkalistics	1	1		
+Frida Waterfall	1	1		
+Robot Ghosts	1	1		
+Bulb	1	1		
+Moriarty	1	1		
+Warren Harding	1	1		
+Leela's grandmother	1	1		
+Bill	1	1		
+Bender 1729	1	1		
+Clearcutter	1	1		
+Radio announcer	1	1		
+Italian #2	1	1		
+Peaches	1	1		
+Younger Boy	1	1		
+Attila the Hun	1	1		
+Bottomless Boy	1	1		
+Captain	1	1		
+Sportsbot 5000	1	1		
+John Tyler	1	1		
+Heads	1	1		
+Ceiling Fan	1	1		
+Elf	1	1		
+Three Leos on the Machine	1	1		
+Garbage Disposal	1	1		
+Cronkite	1	1		
+Kid #1	1	1		
+Caddy	1	1		
+Actor 2	1	1		
+Child	1	1		
+Wermstrom	1	1		
+ALL NOT YIVO	1	1		
+Farnsworth XVII	1	1		
+Billy's Dad	1	1		
+Cowboy	1	1		
+The PE Crew	1	1		
+Robot Farnsworth	1	1		
+Tandy	1	1		
+Franklin	1	1		
+OTHERS	1	1		
+Cheney	1	1		
+Clarence Thomas' head	1	1		
+Keg Robot	1	1		
+SewerCom Operator	1	1		
+Thubanian	1	1		
+Conspiracy Nutter	1	1		
+Mutant #1	1	1		
+Pain Monster	1	1		
+George W. Bush	1	1		
+Pachinko machine	1	1		
+Policeman #2	1	1		
+Stripperbot	1	1		
+Plumber-bot	1	1		
+Mr Wong	1	1		
+Ronald Reagan	1	1		
+Betamax Player	1	1		
+Mermaids	1	1		
+Pramala	1	1		
+Monster	1	1		
+Centipede Woman	1	1		
+Princess Flavia	1	1		
+Student	1	1		
+Namgyal	1	1		
+Customer	1	1		
+Einstein Actor	1	1		
+Steward	1	1		
+Single Female Lawyer	1	1		
+Albright-bot	1	1		
+Emotitron Jr.	1	1		
+Robo-Police	1	1		
+Nautilus	1	1		
+Ad	1	1		
+Macaulay Culkon	1	1		
+Bending Unit	1	1		
+Animated Revere	1	1		
+Wrist Machine	1	1		
