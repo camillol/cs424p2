@@ -55,17 +55,15 @@ void setup()
     Character character = (Character)i.next();
     myImage = character.img;
     if (character.img == null) continue;
-    rootView.subviews.add(new Button(700+n*(40),50,50,50,n,myImage));
+    if(n <= 3){
+    rootView.subviews.add(new Button(740+n*(60),50,50,50,n,myImage));
+    }
+    else{
+    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,n,myImage));  
+    }
     n++;
   }
-  rootView.subviews.add(new Button(740,50,50,50,1,leelaImg));
-  rootView.subviews.add(new Button(800,50,50,50,2,zappImg));
-  rootView.subviews.add(new Button(860,50,50,50,3,benderImg));
-  rootView.subviews.add(new Button(920,50,50,50,4,wongImg));
-  rootView.subviews.add(new Button(740,130,50,50,5,farnsworthImg));
-  rootView.subviews.add(new Button(800,130,50,50,6,fryImg));
-  rootView.subviews.add(new Button(860,130,50,50,7,hermesImg));
-  rootView.subviews.add(new Button(920,130,50,50,8,zoidbergImg));
+  
  
   // BUTTONS FOR MAIN CHARACTERS AND OTHER CHARACTER LIST
 
@@ -85,14 +83,7 @@ void setup()
   otherChars.actAsPulldownMenu(true);
   
   //BUTTONS FOR SEASON SELECTION AND EPISODE LIST
-  controlP5.addButton("  1",0,780,350,30,30);
-  controlP5.addButton("  2",0,820,350,30,30);
-  controlP5.addButton("  3",0,860,350,30,30);
-  controlP5.addButton("  4",0,900,350,30,30);
-  controlP5.addButton("  5",0,780,390,30,30);
-  controlP5.addButton("  6",0,820,390,30,30);
-  controlP5.addButton("  7",0,860,390,30,30);
-  controlP5.addButton(" All",0,900,390,30,30);
+
   
   episodes = controlP5.addListBox("episodeList",790,460,130,130);
   episodes.setItemHeight(15);
