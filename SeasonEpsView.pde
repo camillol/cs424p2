@@ -8,7 +8,7 @@ class SeasonEpsView extends View {
   {
     super(x_, y_, w_, h_);
     season = season_;
-    barWidth = floor((w + barGap) / season.episodes.length) - barGap;  // / maxEps
+    barWidth = floor((w + barGap) / maxEps) - barGap;  // / maxEps or / season.episodes.length ?
   }
   
   void drawEpBar(int epnum)
