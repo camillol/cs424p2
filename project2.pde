@@ -30,7 +30,7 @@ void setup()
   size(1024, 768);
   smooth();
   
-  background(shipDark);
+  background(shipMain);
   rect(50,480,650,768-50-480);
   
   rootView = new View(0, 0, 1024, 768);
@@ -139,7 +139,7 @@ void loadSeasons()
   for (int i = 0; i < names.length; i++) {
     String[] groups = match(names[i], "S(\\d+)");
     if (groups == null) continue;
-    seasons[i] = new Season(parseInt(groups[0]), "transcripts/"+names[i]);
+    seasons[i] = new Season(parseInt(groups[1]), "transcripts/"+names[i]);
   }
 }
 
