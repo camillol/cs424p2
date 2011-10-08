@@ -2,6 +2,7 @@ class SeasonEpsView extends View {
   final int maxEps = 26;
   final int barGap = 8;
   final int labelWidth = 20;
+  final int labelFontSize = 18;
   int barWidth;
   Season season;
   
@@ -10,6 +11,7 @@ class SeasonEpsView extends View {
     super(x_, y_, w_, h_);
     season = season_;
     barWidth = floor((w + barGap - (labelWidth + barGap)) / maxEps) - barGap;  // / maxEps or / season.episodes.length ?
+    subviews.add(new Button(0,0,labelWidth,h, season, labelFontSize, true, "Season "+season.number));
   }
   
   void drawEpBar(int epnum)
@@ -47,6 +49,7 @@ class SeasonEpsView extends View {
   
   void drawLabel()
   {
+
     fill(shipLight);
     rect(0,0,labelWidth,h);
     fill(shipRedDark);
@@ -64,7 +67,7 @@ class SeasonEpsView extends View {
     fill(shipDark);
     rect(0,0,w,h);
     
-    drawLabel();
+//    drawLabel();
     
     for (int n = 1; n <= season.episodes.length; n++) {
       drawEpBar(n);

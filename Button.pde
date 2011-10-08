@@ -10,6 +10,7 @@ class Button extends View{
   PFont fontA;
   Object myElement;
   int myFontSize;
+  boolean myVertical = false;
 
 
   Button(float x_, float y_, float w_, float h_, Object element)
@@ -28,21 +29,16 @@ class Button extends View{
     myElement = element;
   }
   
-  Button(float x_, float y_, float w_, float h_, int element, int fontSize, String theLabel)
+  Button(float x_, float y_, float w_, float h_, Object element, int fontSize, boolean vertical, String theLabel)
   {
-
     super(x_,y_,w_,h_);
     level = 1;
     hasText = true;
     myLabel = theLabel;
     myFontSize = fontSize;
     fontA = loadFont("Helvetica-Light-"+myFontSize+".vlw");
-    textFont(fontA, myFontSize);
-    fill(0,239,1);
-    rect(x,y,w,h);
-    fill(123,9,2);
-    text(myLabel, x, y+h-5);
     myElement = element;
+    myVertical = vertical;
   }
   
   void drawContent()
@@ -60,11 +56,20 @@ class Button extends View{
          fill(0,60,68);
       }
       else{
-         fill(0,239,1);
+         fill(shipLight);
          rect(0,0,w,h);
-         fill(123,9,2);
-      }   
-      text(myLabel,0,0+h-30);
+         fill(shipRedDark);
+      }
+      if (myVertical) {
+        textAlign(LEFT, TOP);
+        pushMatrix();
+        translate(0,h);
+        rotate(3*HALF_PI);
+        text(myLabel, 0, 0);
+        popMatrix();
+      } else {
+        text(myLabel,0,0+h-30);
+      }
     }
   }
 
