@@ -31,6 +31,13 @@ class SeasonEpsView extends View {
     float total = episode.activeTotal.value;
     float slicey = 0, sliceh;
     
+    float a = 255.0;
+    if (episode.activeTotal.target == 0.0) {
+      a = map(episode.activeTotal.value, episode.activeTotal.oldtarget, episode.activeTotal.target, 255.0, 0.0);
+      fill(224);
+      rect(0,0,barWidth,h);
+    }
+    
     while (i.hasNext()) {
       Map.Entry entry = (Map.Entry)i.next();
       Character character = (Character)entry.getKey();
@@ -38,7 +45,7 @@ class SeasonEpsView extends View {
       
       if (character.activeAnimator.value > 0) {
         sliceh = (float)count/total*h*character.activeAnimator.value;
-        fill(character.keyColor);
+        fill(character.keyColor, a);
         rect(0,slicey,barWidth,sliceh);
         slicey += sliceh;
       }

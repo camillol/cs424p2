@@ -6,6 +6,7 @@ static class Animator {
   
   float value;
   float target;
+  float oldtarget;
   boolean targeting;
   float velocity;
   
@@ -34,6 +35,7 @@ static class Animator {
   
   void target(float target_)
   {
+    if (target_ != target) oldtarget = target;
     target = target_;
     targeting = (target != value);
   }
