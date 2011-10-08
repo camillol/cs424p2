@@ -16,6 +16,8 @@ final int seasonEpsViewWidth = 600;
 final int seasonEpsViewHeight = 100;
 final int seasonEpsViewVGap = 8;
 
+ArrayList testAngles=new ArrayList();
+
 void setup()
 {
   loadCharacters();
@@ -25,6 +27,10 @@ void setup()
   size(1024, 768);
   smooth();
   
+  testAngles.add(80.0);
+  testAngles.add(120.0);
+  testAngles.add(160.0);
+
   background(shipMain);
   
   rootView = new View(0, 0, width, height);
@@ -51,6 +57,7 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
+  rootView.subviews.add(new PieChart(300,300,120,120,testAngles));
   dropMenuView();
 
 }
