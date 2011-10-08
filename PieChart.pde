@@ -26,7 +26,6 @@ class PieChart extends View
   			
   			//need to fill characters color
         		fill(thisAngle*3.0);
-                        System.out.println(thisAngle);
                         arc(centerX,centerY,diameter,diameter,prevAngle,prevAngle+radians(thisAngle));
 			prevAngle+=radians(thisAngle);
 			

@@ -5,13 +5,15 @@ class SeasonEpsView extends View {
   final int labelFontSize = 18;
   int barWidth;
   Season season;
+  Button button;
   
   SeasonEpsView(float x_, float y_, float w_, float h_, Season season_)
   {
     super(x_, y_, w_, h_);
     season = season_;
     barWidth = floor((w + barGap - (labelWidth + barGap)) / maxEps) - barGap;  // / maxEps or / season.episodes.length ?
-    subviews.add(new Button(0,0,labelWidth,h, season, labelFontSize, true, "Season "+season.number));
+    button = new Button(0,0,labelWidth,h, season, labelFontSize, true, "Season "+season.number);
+    subviews.add(button);
   }
   
   void drawEpBar(int epnum)

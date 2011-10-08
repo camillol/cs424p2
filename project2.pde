@@ -22,6 +22,11 @@ color shipRedDark = #4C1819;
 final int seasonEpsViewWidth = 600;
 final int seasonEpsViewHeight = 100;
 final int seasonEpsViewVGap = 8;
+final int seasonEpsTop = 38;
+
+SeasonEpsView seasonViews[];
+Animator seasonY[];
+Button overallButton;
 
 ArrayList testAngles=new ArrayList();
 
@@ -51,8 +56,17 @@ void setup()
   
   rootView = new View(0, 0, width, height);
   
+  overallButton = new Button(30, 10, 100, 20, "overall", 18, false, "Overall");
+  overallButton.myFlag = true;
+  rootView.subviews.add(overallButton);
+  
+  seasonViews = new SeasonEpsView[seasons.length];
+  seasonY = new Animator[seasons.length];
   for (int i = 0; i < seasons.length; i++) {
-    rootView.subviews.add(new SeasonEpsView(30, 30 + (seasonEpsViewHeight + seasonEpsViewVGap)*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
+    float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
+    seasonViews[i] = new SeasonEpsView(30, y, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]);
+    rootView.subviews.add(seasonViews[i]);
+    seasonY[i] = new Animator(y);
   }
 
   PImage myImage;
@@ -73,7 +87,7 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
-  rootView.subviews.add(new PieChart(300,300,120,120,testAngles));
+  rootView.subviews.add(new PieChart(750,520,200,200,testAngles));
   dropMenuView();
 
 }
@@ -112,6 +126,11 @@ void draw()
 {
   background(shipMain);    /* seems to be needed to actually clear the frame */
   Animator.updateAll();
+  
+  for (int i = 0; i < seasons.length; i++) {
+    seasonViews[i].y = seasonY[i].value;
+  }
+  
   //tint(255,255);
   noStroke();
   rootView.draw();
@@ -166,6 +185,27 @@ void buttonClicked(Object element)
     character.setActive(!character.active);
     characters.setAllActive(countActive == 0);
     updateActiveTotals();
+  } else if (seasons[0].getClass().isInstance(element)) {
+    Season season = (Season)element;
+    int idx = season.number - 1;
+    overallButton.myFlag = false;
+    for (int i = 0; i < idx; i++) {
+      seasonY[i].target((i-idx)*(seasonEpsViewHeight + seasonEpsViewVGap));
+      seasonViews[i].button.myFlag = false;
+    }
+    seasonY[idx].target(seasonEpsTop);
+    for (int i = idx+1; i < seasons.length; i++) {
+      seasonY[i].target(height + (i-idx-1)*(seasonEpsViewHeight + seasonEpsViewVGap));
+      seasonViews[i].button.myFlag = false;
+    }
+  } else if ("".getClass().isInstance(element)) {
+    if (element.equals("overall")) {
+      for (int i = 0; i < seasons.length; i++) {
+        float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
+        seasonY[i].target(y);
+        seasonViews[i].button.myFlag = false;
+      }
+    }
   }
 }
 
