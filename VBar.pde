@@ -22,10 +22,12 @@ class VBar extends View {
   
   boolean contentPressed(float lx, float ly)
   {
-
-      level = ly/h;
+    if(ly <= h-15){
+    level = ly/h;
     start = ly;
     end = start + 15;
+    }
+
     println(start);
     println(end);
         
@@ -35,10 +37,10 @@ class VBar extends View {
   boolean contentDragged(float lx, float ly)
   {
     
-
+    if(ly <= h -15){
     level = ly/h;
     start = ly;
-    end = start + 15;
+    end = start + 15;}
     println(start);
     println(end);
   
