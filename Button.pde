@@ -61,7 +61,7 @@ class Button extends View{
         text(myLabel, 0, 0);
         popMatrix();
       } else {
-        text(myLabel,0,0+h-30);
+        text(myLabel,0,0);
       }
     }
   }

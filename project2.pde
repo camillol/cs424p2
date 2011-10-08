@@ -49,7 +49,7 @@ void setup()
     n++;
   }
   
- 
+  rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
   dropMenuView();
 
@@ -130,18 +130,17 @@ void dropMenuView(){
   text("Overall", 30, 10);
   int myDivNum = ((650-84)/6);
   
-//  fill(100);
-//  rect(50, 50, 658, 380);
-
+/*  fill(100);
+   rect(50, 50, 658, 380);
   int myY = 410;
-/*
+
   for (int i = 1; i<7; i++){
     rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,32,true, "S"+i));
   }
   rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,32, false, "  All"));
-*/
+
   for(int j = myY; j >= 50; j--){
      
-  }
+  } */
 }
 
