@@ -50,16 +50,9 @@ class Button extends View{
     }
     if (hasText){
       textFont(fontA, myFontSize);
-      if (myFlag){
-         fill(0,220,68);
-         rect(0,0,w,h);
-         fill(0,60,68);
-      }
-      else{
-         fill(shipLight);
-         rect(0,0,w,h);
-         fill(shipRedDark);
-      }
+      fill(myFlag ? ship2Light : shipLight);
+      rect(0,0,w,h);
+      fill(myFlag ? shipRed : shipRedDark);
       if (myVertical) {
         textAlign(LEFT, TOP);
         pushMatrix();

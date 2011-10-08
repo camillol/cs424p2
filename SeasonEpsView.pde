@@ -28,7 +28,7 @@ class SeasonEpsView extends View {
     
     Episode episode = season.episodes[epidx];
     Iterator i = episode.charLineCount.entrySet().iterator();
-    int total = episode.activeTotal;
+    float total = episode.activeTotal.value;
     float slicey = 0, sliceh;
     
     while (i.hasNext()) {
@@ -36,8 +36,8 @@ class SeasonEpsView extends View {
       Character character = (Character)entry.getKey();
       int count = (Integer)entry.getValue();
       
-      if (allActive || character.active) {
-        sliceh = (float)count/total*h;
+      if (character.activeAnimator.value > 0) {
+        sliceh = (float)count/total*h*character.activeAnimator.value;
         fill(character.keyColor);
         rect(0,slicey,barWidth,sliceh);
         slicey += sliceh;

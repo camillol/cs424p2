@@ -1,3 +1,6 @@
+boolean allActive = true;
+int countActive = 0;
+
 class Character implements Comparable {
   String name;
   int totalLines;
@@ -5,6 +8,7 @@ class Character implements Comparable {
   color keyColor;
   PImage img;
   boolean active;
+  Animator activeAnimator;
   
   Character(String name_, int totalLines_, int totalEps_, color keyColor_, PImage img_)
   {
@@ -13,7 +17,8 @@ class Character implements Comparable {
     totalEps = totalEps_;
     keyColor = keyColor_;
     img = img_;
-    active = false;
+    activeAnimator = new Animator();
+    setActive(false);
   }
   
   int compareTo(Object o) {
@@ -21,6 +26,15 @@ class Character implements Comparable {
     if (totalLines > other.totalLines) return -1;
     else if (totalLines < other.totalLines) return 1;
     else return name.compareTo(other.name);
+  }
+  
+  void setActive(boolean act)
+  {
+    if (active != act) {
+      countActive += act ? 1 : -1;
+    }
+    active = act;
+    activeAnimator.target(active || allActive ? 1.0 : 0.0);
   }
 }
 
@@ -67,6 +81,21 @@ class CharacterList extends TSVBase {
   Character get(String name)
   {
     return (Character)charMap.get(name);
+  }
+  
+  int count()
+  {
+    return charList.size();
+  }
+  
+  void setAllActive(boolean act)
+  {
+    allActive = act;
+    Iterator it = iterator();
+    while (it.hasNext()) {
+      Character character = (Character)it.next();
+      character.setActive(character.active);  /* force animator targeting */
+    }
   }
 }
 

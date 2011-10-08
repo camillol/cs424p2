@@ -18,7 +18,7 @@ class Episode extends TSVBase {
   String title;
   TreeMap charLineCount;
   int totalLineCount;
-  int activeTotal;
+  Animator activeTotal;
   
   Episode(String filename) {
     super(filename, false);  // this loads the data
@@ -26,6 +26,7 @@ class Episode extends TSVBase {
     season = parseInt(groups[0]);
     number = parseInt(groups[1]);
     title = groups[2];
+    activeTotal = new Animator();
     updateActiveTotal();
   }
   
@@ -61,16 +62,17 @@ class Episode extends TSVBase {
   
   void updateActiveTotal() {
     if (allActive) {
-      activeTotal = totalLineCount;
+      activeTotal.target(totalLineCount);
     } else {
-      activeTotal = 0;
+      int newActiveTotal = 0;
       Iterator i = charLineCount.entrySet().iterator();
       while (i.hasNext()) {
         Map.Entry entry = (Map.Entry)i.next();
         Character character = (Character)entry.getKey();
         int count = (Integer)entry.getValue();
-        if (character.active) activeTotal += count;
+        if (character.active) newActiveTotal += count;
       }
+      activeTotal.target(newActiveTotal);
     }
   }
 }

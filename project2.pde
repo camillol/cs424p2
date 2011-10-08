@@ -1,7 +1,6 @@
 View rootView;
 
 CharacterList characters;
-boolean allActive = true;
 Season[] seasons;
 
 color shipMain = #73D689;
@@ -21,6 +20,7 @@ void setup()
 {
   loadCharacters();
   loadSeasons();
+  characters.setAllActive(true);
   
   size(1024, 768);
   smooth();
@@ -87,6 +87,7 @@ void loadSeasons()
 
 void draw()
 {
+  Animator.updateAll();
   //tint(255,255);
   noStroke();
   rootView.draw();
@@ -112,8 +113,8 @@ void buttonClicked(Object element)
 {
   if (characters.iterator().next().getClass().isInstance(element)) {
     Character character = (Character)element;
-    allActive = false;
-    character.active = !character.active;
+    character.setActive(!character.active);
+    characters.setAllActive(countActive == 0);
     updateActiveTotals();
   }
 }
