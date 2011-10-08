@@ -11,8 +11,8 @@ class PieChart extends View
 	{
 		super(x_,y_,w_,h_);
 		this.angles=angles;
-		centerX= x_/2;
-		centerY=y_/2;
+		centerX= w_/2;
+		centerY= h_/2;
 		diameter=min(w_,h_);
 	}
 	
@@ -23,8 +23,10 @@ class PieChart extends View
 		{
                         
   			float thisAngle=Float.parseFloat(angles.get(i).toString());
+  			
+  			//need to fill characters color
         		fill(thisAngle*3.0);
-                         System.out.println(thisAngle);
+                        System.out.println(thisAngle);
                         arc(centerX,centerY,diameter,diameter,prevAngle,prevAngle+radians(thisAngle));
 			prevAngle+=radians(thisAngle);
 			
