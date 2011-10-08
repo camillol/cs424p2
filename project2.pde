@@ -87,6 +87,7 @@ void loadSeasons()
 
 void draw()
 {
+  background(shipMain);    /* seems to be needed to actually clear the frame */
   Animator.updateAll();
   //tint(255,255);
   noStroke();
