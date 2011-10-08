@@ -26,12 +26,11 @@ void setup()
   smooth();
   
   background(shipMain);
-  rect(50,480,650,768-50-480);
   
-  rootView = new View(0, 0, 1024, 768);
+  rootView = new View(0, 0, width, height);
   
   for (int i = 0; i < seasons.length; i++) {
-    rootView.subviews.add(new SeasonEpsView(40, 100 + (seasonEpsViewHeight + seasonEpsViewVGap)*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
+    rootView.subviews.add(new SeasonEpsView(30, 30 + (seasonEpsViewHeight + seasonEpsViewVGap)*i, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]));
   }
 
   PImage myImage;
@@ -127,11 +126,11 @@ void updateActiveTotals()
 }
 
 void dropMenuView(){
-  text("Overall",50,48);
+  text("Overall", 30, 10);
   int myDivNum = ((650-84)/6);
   
-  fill(100);
-  rect(50, 50, 658, 380);
+//  fill(100);
+//  rect(50, 50, 658, 380);
 
   int myY = 410;
 /*
