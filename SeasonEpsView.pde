@@ -38,6 +38,8 @@ class SeasonEpsView extends View {
       rect(0,0,barWidth,h);
     }
     
+    pushClip();
+    clipRect(0,0,barWidth,h);
     while (i.hasNext()) {
       Map.Entry entry = (Map.Entry)i.next();
       Character character = (Character)entry.getKey();
@@ -50,6 +52,7 @@ class SeasonEpsView extends View {
         slicey += sliceh;
       }
     }
+    popClip();
     
     popMatrix();
   }
