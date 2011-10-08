@@ -11,7 +11,8 @@ class Button extends View{
   Object myElement;
   int myFontSize;
   boolean myVertical = false;
-
+  boolean isDirectional = false;
+  boolean hasDirection;
 
   Button(float x_, float y_, float w_, float h_, Object element)
   {
@@ -19,14 +20,20 @@ class Button extends View{
     level = 1;
   }
   
-  Button(float x_, float y_, float w_, float h_, Object element, PImage theImage)
+  Button(float x_, float y_, float w_, float h_, Object element, PImage theImage,boolean isDirectional)
   {
     super(x_,y_,w_,h_);
     level = 1;
     hasImage = true;
     myImage = theImage;
-    theImage.resize(50, 50);
+    if(!isDirectional){
+      theImage.resize(50, 50);
+    }
+    else if(isDirectional){
+      theImage.resize(14,14);
+    }
     myElement = element;
+    hasDirection = isDirectional;
   }
   
   Button(float x_, float y_, float w_, float h_, Object element, int fontSize, boolean vertical, String theLabel)
@@ -41,11 +48,22 @@ class Button extends View{
     myVertical = vertical;
   }
   
+
+  
   void drawContent()
   {
-    if (hasImage) {
+    if (hasImage && !hasDirection) {
       if (myFlag) tint(0, 153, 204, 126);
       else noTint();
+      image(myImage,0,0);
+    }
+    else if (hasImage && hasDirection) {
+      noTint(); 
+      fill(0);
+      stroke(1);
+      // bounding box for the directional buttons
+      // makes it pop out a bit easier
+      rect(0-1,0-1,w+1,h+1);
       image(myImage,0,0);
     }
     if (hasText){
@@ -68,8 +86,13 @@ class Button extends View{
 
   boolean contentClicked(float lx, float ly)
   {
+    if(hasDirection){
+      tint(0, 130,109,200);
+      image(myImage,x,y);
+    }
     myFlag = !myFlag;
     buttonClicked(myElement);
     return true;
   }
+  
 }

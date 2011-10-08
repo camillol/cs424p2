@@ -1,8 +1,9 @@
 class VBar extends View {
   float level;
   float start = 0;
-  float end = 14;
+  float end = start + 14;
   float myHeight;
+  float myPos; 
   
   VBar(float x_, float y_, float w_, float h_)
   {
@@ -22,10 +23,10 @@ class VBar extends View {
   
   boolean contentPressed(float lx, float ly)
   {
-    if((ly <= h -7) && (ly >= 7)){
-    level = ly/h;
-    start = ly - 7;
-    end = ly + 7;
+    if((ly <= h -21) && (ly >= 7)){
+      level = ly/h;
+      start = ly - 7;
+      end = ly + 7;
     }
 
     println(start);
@@ -37,13 +38,12 @@ class VBar extends View {
   boolean contentDragged(float lx, float ly)
   {
     
-    if((ly <= h -7) && (ly >= 7)){
-    level = ly/h;
-    start = ly - 7;
-    end = ly + 7;}
-    println(start);
-    println(end);
-  
+    if((ly <= h -21) && (ly >= 7)){
+      level = ly/h;
+      start = ly - 7;
+      end = ly + 7;
+    }
+      
     return true;
   }
 }

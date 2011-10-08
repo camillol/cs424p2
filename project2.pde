@@ -77,10 +77,10 @@ void setup()
     myImage = character.img;
     if (character.img == null) continue;
     if(n <= 3){
-    rootView.subviews.add(new Button(740+n*(60),50,50,50,character,myImage));
+    rootView.subviews.add(new Button(740+n*(60),50,50,50,character,myImage,false));
     }
     else{
-    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,character,myImage));  
+    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,character,myImage,false));  
     }
     n++;
   }
