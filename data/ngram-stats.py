@@ -15,6 +15,11 @@ def welch(mean1, var1, size1, mean2, var2, size2):
 	nu = (var1/size1 + var2/size2)**2 / ( var1**2/( size1**2 * (size1-1) ) + var2**2/( size2**2 * (size2-1) ) )
 	return nu, t
 
+def size1special(mean1, mean2, var2, size2):
+	t = (mean1 - mean2) / sqrt(var2/size2)
+	nu = size2 - 1
+	return nu, t
+
 class NgramDetails(object):
 	def __init__(self):
 		self.loadNgrams()
@@ -76,11 +81,14 @@ class NgramDetails(object):
 				char_p = count_char / char_total
 				other_total = self.ngram_totals[n] - char_total
 				other_p = (count_all - count_char) / other_total
-				if char_p == 1.0:
-					p_value = 1.0		# LOLWUT
+				if count_all == count_char:
+					p_value = 0.0		# only this character ever says it! (also would cause /0)
 				else:
-					nu, t = welch(char_p, char_p*(1.0-char_p), char_total, other_p, other_p*(1.0-other_p), other_total)
-					p_value = stdtr(nu, t)
+					if char_total == 1.0:	# special case to avoid divide by zero
+						nu, t = size1special(char_p, other_p, other_p*(1.0-other_p), other_total)
+					else:
+						nu, t = welch(char_p, char_p*(1.0-char_p), char_total, other_p, other_p*(1.0-other_p), other_total)
+					p_value = 1.0 - stdtr(nu, t)
 				print char, words, "count:", count_char, "total:",char_total, "char_freq:", char_p, "others_count:", count_all-count_char, "others_total:", other_total, "others_freq:", other_p, "df:", nu, "t:", t, "pval:", p_value
 
 if __name__ == "__main__":
