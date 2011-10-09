@@ -80,6 +80,7 @@ class ListBox extends View{
    fill(0);
    
    for(int i = myListCounter; i< myListCounter+11; i++){
+     
      text(charactersArray[i], 0, 2 + lCounter); 
      lCounter+=18;
    }
