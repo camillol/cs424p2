@@ -1,15 +1,20 @@
 class VBar extends View {
-  float level;
-  float start = 0;
-  float end = start + 14;
-  float myHeight;
-  float myPos; 
+  ListBox myList;
   
-  VBar(float x_, float y_, float w_, float h_)
+  VBar(float x_, float y_, float w_, float h_, ListBox theList)
   {
     super(x_, y_, w_, h_);
-    myHeight = h_;
-    level = 0.5;
+    myList = theList;
+  }
+  
+  float start()
+  {
+    return map(myList.myListCounter, 0, myList.maxListCounter, 0, h-14);
+  }
+  
+  void setStart(float start)
+  {
+    myList.myListCounter = (int)map(start, 0, h-14, 0, myList.maxListCounter);
   }
   
   void drawContent()
@@ -18,32 +23,25 @@ class VBar extends View {
     stroke(0);
     rect(0, 0, w, h);
     fill(128);
-    rect(0, start, w, end-start);
+    rect(0, start(), w, 14);
   }
   
   boolean contentPressed(float lx, float ly)
   {
-    if((ly <= h -21) && (ly >= 7)){
-      level = ly/h;
-      start = ly - 7;
-      end = ly + 7;
+    if((ly <= h -7) && (ly >= 7)){
+      setStart(ly - 7);
     }
-
-    println(start);
-    println(end);
-        
+    println(myList.myListCounter);
     return true;
   }
   
   boolean contentDragged(float lx, float ly)
   {
     
-    if((ly <= h -21) && (ly >= 7)){
-      level = ly/h;
-      start = ly - 7;
-      end = ly + 7;
+    if((ly <= h -7) && (ly >= 7)){
+      setStart(ly - 7);
     }
-      
-    return true;
+    println(myList.myListCounter);
+  return true;
   }
 }
