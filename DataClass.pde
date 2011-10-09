@@ -109,9 +109,13 @@ class DataClass
             
             for(int j=0;j<episodeFileLines.length;j++)
             {
+            if(episodeFileLines.contains("###"))
+            {
               String[] episodeFileLineParts=episodeFileLines[j].split("###");
               totalLines+=Float.parseFloat(episodeFileLineParts[1]);
-              tempEpisodeMap.put(episodeFileLineParts[0],episodeFileLineParts[1]);
+              tempEpisodeMap.put(episodeFileLineParts[0],episodeFileLineParts[1]);	
+            }
+             
             }
             episodeMap.put(keyPart,tempEpisodeMap);
             episodeTotalMap.put(keyPart,totalLines);

@@ -42,7 +42,7 @@ void setupG2D()
 
 void setup()
 {
-  data=new DataClass("files");
+  //data=new DataClass("files");
   loadCharacters();
   loadSeasons();
   characters.setAllActive(true);
