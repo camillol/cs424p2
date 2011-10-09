@@ -83,6 +83,11 @@ class CharacterList extends TSVBase {
     return (Character)charMap.get(name);
   }
   
+  Character get(int index)
+  {
+    return (Character)charList.get(index);
+  }
+  
   int count()
   {
     return charList.size();
