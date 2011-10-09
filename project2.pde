@@ -83,15 +83,15 @@ void setup()
     myImage = character.img;
     if (character.img == null) continue;
     if(n <= 3){
-    rootView.subviews.add(new Button(740+n*(60),50,50,50,character,myImage,false));
+    rootView.subviews.add(new Button(710+n*(60),50,50,50,character,myImage,false));
     }
     else{
-    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,character,myImage,false));  
+    rootView.subviews.add(new Button(710+(n-4)*(60),120,50,50,character,myImage,false));  
     }
     n++;
   }
   
-  rootView.subviews.add(new ListBox(750,300,200,200, characters));
+  rootView.subviews.add(new ListBox(650,200,350,200, characters));
 
   //rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
   
@@ -229,6 +229,7 @@ void updateActiveTotals()
   }
 }
 
+
 void dropMenuView(){
   text("Overall", 30, 10);
   int myDivNum = ((650-84)/6);
@@ -246,4 +247,5 @@ void dropMenuView(){
      
   } */
 }
+
 
