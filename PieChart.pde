@@ -19,21 +19,48 @@ class PieChart extends View
                 this.characters=characters;
 	}
 	
+        void replaceAnglesList(ArrayList newAngles)
+        {
+          this.angles=newAngles;
+        }
 	void drawContent()
 	{
 		float prevAngle=0;
+                color prevColor=#FFFFFF;
 		for(int i=0;i<angles.size();i++)
 		{
   
                         String[] anglesParts=((String)angles.get(i)).split(":");
                         
-                        String characterName=anglesParts[0].trim();
+                        String characterName=anglesParts[0];
   			float thisAngle=Float.parseFloat(anglesParts[1]);
   			Character thisCharacter=characters.get(characterName);
   
-  
-  			//need to fill characters color
-        		fill(thisCharacter.keyColor);
+                        //character not matching with characters list
+                        if(thisCharacter!=null)
+                        {
+                           System.out.println(characterName);
+                          
+                          System.out.println(thisCharacter.name);
+                          fill(thisCharacter.keyColor);
+                        }
+                        else
+                        {
+                            //need to fill characters color
+                            if(prevColor!=#FFFFFF)
+                            {
+                              prevColor=#FFFFFF;
+                              fill(#FFFFFF);
+                            }
+                            else
+                            {
+                              prevColor=#000000;
+                              fill(#000000);
+                                
+                            }
+                        }
+             
+  			
                         arc(centerX,centerY,diameter,diameter,prevAngle,prevAngle+radians(thisAngle));
 			prevAngle+=radians(thisAngle);
 			

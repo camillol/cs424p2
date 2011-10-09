@@ -89,7 +89,7 @@ class DataClass
               seasonMap.put(seasonName,listEpisodes);
               
             }
-            seasonMap.put(seasonName,keyPart);
+            //seasonMap.put(seasonName,keyPart);
             String[] episodeFileLines=loadStrings(inputFileName);
             
             HashMap tempEpisodeMap=new HashMap();
@@ -198,5 +198,38 @@ class DataClass
         ArrayList getCharacterAppearance(String character)
         {
           return (ArrayList)characterAppearanceMap.get(character);
+        }
+        
+        HashMap getWholeData()
+        {
+          return wholeStatsMap;
+        }
+        
+        ArrayList getWholeDataAngles()
+        {
+          ArrayList characterAngles=new ArrayList();
+          Set<String> keys=wholeStatsMap.keySet();
+          
+          Iterator<String> characterKey=keys.iterator();
+          
+          float total=0;
+          
+          while(characterKey.hasNext())
+          {
+            int count=Integer.parseInt(wholeStatsMap.get(characterKey.next()).toString());
+            total+=count;
+          }
+          
+          characterKey=keys.iterator();
+          
+          while(characterKey.hasNext())
+          {
+            String currentCharacter=characterKey.next();
+            float angle;
+            float count=Float.parseFloat(wholeStatsMap.get(currentCharacter).toString());
+            angle=(count/total)*360;
+            characterAngles.add(currentCharacter+":"+angle);
+          }
+          return characterAngles;
         }
 }

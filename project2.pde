@@ -5,6 +5,8 @@ Graphics2D g2;
 Shape[] clipStack;
 int clipIdx;
 
+DataClass data;
+
 View rootView;
 
 CharacterList characters;
@@ -39,6 +41,7 @@ void setupG2D()
 
 void setup()
 {
+  data=new DataClass("files");
   loadCharacters();
   loadSeasons();
   characters.setAllActive(true);
@@ -48,9 +51,11 @@ void setup()
   
   smooth();
   
-  testAngles.add("Fry:"+80.0);
-  testAngles.add("Leela:"+120.0);
-  testAngles.add("Bender:"+160.0);
+  testAngles=data.getWholeDataAngles();
+//  
+//  testAngles.add("Fry:"+80.0);
+//  testAngles.add("Leela:"+120.0);
+//  testAngles.add("Bender:"+160.0);
 
   background(shipMain);
   

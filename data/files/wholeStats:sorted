@@ -1,17 +1,17 @@
 fry###3815
-bender###3414
-leela###3013
-professor farnsworth###1758
+bender###3416
+leela###3014
+prof. farnsworth###1761
 zoidberg###894
 amy###880
 hermes###781
-zapp###497
+zapp###498
 kif###252
 mom###177
 calculon###165
 cubert###146
+lrrr###145
 richard nixon###145
-lrrr###144
 nibbler###104
 mr. wong###90
 robot devil###90
@@ -139,10 +139,10 @@ glab###15
 robot #2###15
 umbriel###15
 mrs. fry###15
+fanny###15
 spargle###15
 merg###15
 osiran###14
-fanny###14
 ben beeler###14
 ranger park###14
 paper-hatted salesman###14
@@ -189,6 +189,7 @@ hermaphrodite###11
 angus mczongo###11
 bender-droid###11
 colonel###11
+momon###11
 hiroki###11
 aaron jr.###11
 kwanzaa-bot###11
@@ -208,7 +209,6 @@ fnog###10
 zoidberg a###10
 robot 1-x###10
 lando tucker###10
-momon###10
 joey mousepad###10
 dr. schlovinowitz###10
 grrrl###10
@@ -267,6 +267,7 @@ old leela###7
 british robot###7
 decapodian emperor###7
 leo###7
+widnar###7
 mysterious voice###7
 tour guide###7
 dandy jim###7
@@ -311,7 +312,6 @@ security guard###6
 pickles###6
 trixie###6
 male voice###6
-widnar###6
 koji###6
 unit 2013###6
 general###6
@@ -527,7 +527,6 @@ mermaid###3
 white robot###3
 ahab###3
 alien###3
-prof. farnsworth###3
 unknown###3
 guard #2###3
 vendor###3
@@ -638,6 +637,7 @@ woman #4###2
 foreigner###2
 pathologist #2###2
 senator###2
+bill clinton###2
 mad fellow###2
 mrs. grant###2
 francine###2
@@ -684,8 +684,8 @@ male inhabitant###2
 penguin #1###2
 scientist###2
 sound effects 5000###2
-holo-robot devil###2
 center square guy###2
+holo-robot devil###2
 aliens###2
 n.r.a. man###2
 farsnworth###2
@@ -725,7 +725,6 @@ mexican man###2
 mandy###2
 rusty###2
 mrs. mellonger###2
-(to fanny###2
 horn loudspeaker###2
 guard###2
 yancy's wife###2
@@ -740,7 +739,6 @@ pazuzu###2
 aragonés###2
 scruffy;leela;hermes;bender###1
 roller-skater###1
-(from the die###1
 brett blob###1
 sportsbot 5000###1
 cohen###1
@@ -748,6 +746,7 @@ caddy###1
 frakes###1
 german #2###1
 πkea robot###1
+fry;zoidberg;amy;tinny tim;bender;prof. farnsworth###1
 mutant #1###1
 mexican border patrolman###1
 action figure###1
@@ -757,7 +756,6 @@ wernstrom's killbot###1
 ambassador###1
 treedledum###1
 calculon's nephew###1
-widnar'###1
 nibblonian chef###1
 hammurabi actor###1
 frankie###1
@@ -798,7 +796,6 @@ q-bert###1
 aide #7###1
 aide #6###1
 frida waterfall###1
-(sobbing###1
 elders###1
 lamp###1
 robot #6###1
@@ -819,7 +816,6 @@ manbot###1
 martian #1###1
 martian #2###1
 brown robot###1
-leela'###1
 plumber###1
 berha###1
 alarm clock###1
@@ -869,12 +865,10 @@ namgyal###1
 robot human###1
 dole###1
 octopus###1
-fry;zoidberg;amy;tinny tim;bender;professor farnsworth###1
 mr wong###1
 doll###1
 audience###1
 planet express headquarters###1
-clinton###1
 stilt people###1
 italian #2###1
 teen #2###1
@@ -883,13 +877,11 @@ george h.w. bush###1
 "cosell"###1
 crummy robot###1
 jack the ripper###1
-professor farnsworth;zoidberg###1
 shrimpkins###1
 clock###1
 attila the hun###1
 the force###1
 morgan proctor###1
-(to bender###1
 judge dogg###1
 hippie #3###1
 pain monster###1
@@ -926,6 +918,7 @@ male voice #3###1
 centaur opponent###1
 the dixie chicks###1
 orphan #3###1
+prof. farnsworth;zoidberg###1
 orphan #1###1
 orphan #2###1
 lime elder###1
@@ -956,7 +949,6 @@ wrist machine###1
 grade 53 bureaucrat###1
 darth ithead###1
 alien #2###1
-bill clinton###1
 amy;bender;hermes###1
 lrrr's father###1
 holo-leela###1
@@ -1190,7 +1182,6 @@ hoverfish###1
 worm announcer###1
 bender 1;bender a###1
 gretsky###1
-.###1
 clip board###1
 actor 2###1
 slave #3###1
