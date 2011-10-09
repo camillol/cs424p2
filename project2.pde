@@ -51,7 +51,7 @@ void setup()
   
   smooth();
   
-  testAngles=data.getWholeDataAngles();
+  testAngles=data.getWholeAnglesList();
 //  
 //  testAngles.add("Fry:"+80.0);
 //  testAngles.add("Leela:"+120.0);

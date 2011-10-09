@@ -39,9 +39,7 @@ class PieChart extends View
                         //character not matching with characters list
                         if(thisCharacter!=null)
                         {
-                           System.out.println(characterName);
-                          
-                          System.out.println(thisCharacter.name);
+                          prevColor=thisCharacter.keyColor;
                           fill(thisCharacter.keyColor);
                         }
                         else

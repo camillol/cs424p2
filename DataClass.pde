@@ -8,6 +8,7 @@ class DataClass
         HashMap episodeTotalMap=new HashMap();
 
 
+        HashMap episodeAnglesMap=new HashMap();
 
 
         //statistics of each season based on key:(seasonname) value:(hashmap)
@@ -16,10 +17,13 @@ class DataClass
         //stores total count for each season
         HashMap seasonStatsTotalMap=new HashMap();
         
+        HashMap seasonAnglesMap=new HashMap();
         //statistics of whole season key:character value:count
         HashMap wholeStatsMap=new HashMap();
         
         float wholeStatsTotal;
+        
+        ArrayList wholeAngles=new ArrayList();
         
         //appearance list of characters returns list of episode appearance 
         HashMap characterAppearanceMap=new HashMap();
@@ -112,6 +116,9 @@ class DataClass
             episodeMap.put(keyPart,tempEpisodeMap);
             episodeTotalMap.put(keyPart,totalLines);
             
+            ArrayList tempList=getEpisodeDataAngles(keyPart);
+            episodeAnglesMap.put(keyPart,tempList);
+            
           }
         }        
         
@@ -148,6 +155,8 @@ class DataClass
             }
             seasonStatsTotalMap.put(keyPart,totalLines);
             seasonStatsMap.put(keyPart,tempSeasonMap);
+            ArrayList tempAngles=getSeasonDataAngles(keyPart);
+            seasonAnglesMap.put(keyPart,tempAngles);
           }
         }
         
@@ -187,6 +196,8 @@ class DataClass
             //System.out.println(inputRow);
           }
           wholeStatsTotal=totalLines;
+          
+          wholeAngles=getWholeDataAngles();
         }
        
         //returns list of episdoes in a season
@@ -228,6 +239,12 @@ class DataClass
           
         }
         
+        //returns angleslist by season
+        ArrayList getSeasonAnglesList(String seasonName)
+        {
+          return (ArrayList) seasonAnglesMap.get(seasonName);
+        }
+        
         
         //returns hashmap of character:dialogcount for each episode
         HashMap getEpisodeData(String episodeName)
@@ -259,16 +276,30 @@ class DataClass
           return episodeAngles;
         }
         
+        //returns angleslist by episode
+        ArrayList getepisodeAnglesList(String episodeName)
+        {
+          return (ArrayList)episodeAnglesMap.get(episodeName);
+        }
+        
         ArrayList getCharacterAppearance(String character)
         {
           return (ArrayList)characterAppearanceMap.get(character);
         }
         
+        //returns map of whole data
         HashMap getWholeData()
         {
           return wholeStatsMap;
         }
         
+        //returns whole data list of angles
+        ArrayList getWholeAnglesList()
+        {
+           return wholeAngles;
+        }
+        
+        //precomputes angles for whole dataset
         ArrayList getWholeDataAngles()
         {
           ArrayList characterAngles=new ArrayList();
