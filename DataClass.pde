@@ -53,16 +53,19 @@ class DataClass
           
           for(int i=0;i<characterAppearanceLines.length;i++)
           {
-            String[] characterAppearanceLineParts=characterAppearanceLines[i].split("###");
-            String keyPart=characterAppearanceLineParts[0];
-            
-            ArrayList appearance=new ArrayList();
-            for(int j=1;j<characterAppearanceLineParts.length;j++)
+            if(characterAppearanceLines[i].contains("###"))
             {
-              appearance.add(characterAppearanceLineParts[j]);
-            }
-            characterAppearanceMap.put(keyPart,appearance);
-          }
+              String[] characterAppearanceLineParts=characterAppearanceLines[i].split("###");
+              String keyPart=characterAppearanceLineParts[0];
+            
+              ArrayList appearance=new ArrayList();
+              for(int j=1;j<characterAppearanceLineParts.length;j++)
+              {
+                appearance.add(characterAppearanceLineParts[j]);
+              }
+              characterAppearanceMap.put(keyPart,appearance);
+           }
+         }
           
         }
 
@@ -84,8 +87,8 @@ class DataClass
                     
             
             String[] inputFileNameParts=episodeFile.getAbsolutePath().split("/");
-            String fileName=inputFileNameParts[inputFileNameParts.length-1];
-            String seasonName=inputFileNameParts[inputFileNameParts.length-2];
+            String fileName=inputFileNameParts[10];
+            String seasonName=inputFileNameParts[9];
             String keyPart=fileName.split(" ")[0];
             float totalLines=0;
             if(seasonMap.containsKey(seasonName))
@@ -109,13 +112,9 @@ class DataClass
             
             for(int j=0;j<episodeFileLines.length;j++)
             {
-            if(episodeFileLines[j].contains("###"))
-            {
               String[] episodeFileLineParts=episodeFileLines[j].split("###");
               totalLines+=Float.parseFloat(episodeFileLineParts[1]);
-              tempEpisodeMap.put(episodeFileLineParts[0],episodeFileLineParts[1]);	
-            }
-             
+              tempEpisodeMap.put(episodeFileLineParts[0],episodeFileLineParts[1]);
             }
             episodeMap.put(keyPart,tempEpisodeMap);
             episodeTotalMap.put(keyPart,totalLines);

@@ -42,7 +42,7 @@ void setupG2D()
 
 void setup()
 {
-  //data=new DataClass("files");
+  data=new DataClass("files");
   loadCharacters();
   loadSeasons();
   characters.setAllActive(true);
@@ -52,7 +52,7 @@ void setup()
   
   smooth();
   
-  //testAngles=data.getWholeAnglesList();
+  testAngles=data.getWholeAnglesList();
 //  
 //  testAngles.add("Fry:"+80.0);
 //  testAngles.add("Leela:"+120.0);
@@ -93,7 +93,7 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
-  //rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
+  rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
   
   
   
