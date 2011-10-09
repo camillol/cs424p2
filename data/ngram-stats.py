@@ -48,6 +48,11 @@ class NgramDetails(object):
 		characters = characters.split(';')
 		for n in xrange(1, len(words) + 1):
 			for i in xrange(len(words) + 1 - n):
+				for c in characters:
+					if c not in self.character_ngrams:
+						self.character_ngrams[c] = defaultdict(lambda:{'count':0, 'occurrences':[]})
+						self.character_ngram_totals[c] = defaultdict(int)
+					self.character_ngram_totals[c][n] += 1
 				w = tuple(words[i:i+n])
 				try:
 					ng = self.ngrams[n][w]
@@ -55,13 +60,9 @@ class NgramDetails(object):
 					continue	# it is not one of the chosen
 				ng['occurrences'].append((season, episode, lineno))
 				for c in characters:
-					if c not in self.character_ngrams:
-						self.character_ngrams[c] = defaultdict(lambda:{'count':0, 'occurrences':[]})
-						self.character_ngram_totals[c] = defaultdict(int)
 					cn = self.character_ngrams[c][w]
 					cn['count'] += 1
 					cn['occurrences'].append((season, episode, lineno))
-					self.character_ngram_totals[c][n] += 1
 
 	def character_stats(self):
 		for char, cngr in self.character_ngrams.items():
@@ -80,7 +81,7 @@ class NgramDetails(object):
 				else:
 					nu, t = welch(char_p, char_p*(1.0-char_p), char_total, other_p, other_p*(1.0-other_p), other_total)
 					p_value = stdtr(nu, t)
-				print char, words, "count:", count_char, "total:",char_total, other_p, nu, t, p_value
+				print char, words, "count:", count_char, "total:",char_total, "char_freq:", char_p, "others_freq:", other_p, "df:", nu, "t:", t, "pval:", p_value
 
 if __name__ == "__main__":
 	ngrams = NgramDetails()
