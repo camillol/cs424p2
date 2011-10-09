@@ -36,13 +36,17 @@ class ListBox extends View{
   color myColor = color(255,255,255);
   int range = 8;
   int start = 0;
-  int myIndex;
+  int myCharacter;
+  int characterIndex;
   int numberOfLines = 8;
   int myListCounter = 0;
   int maxListCounter;
   int numberOfCharacters;
   String[] charactersArray = new String[1196];
-    int lCounter;
+  int lCounter;
+  String characterName;
+  Character theCharacterClicked;
+  CharacterList myCharList;
   
   ListBox(float x_, float y_, float w_, float h_, CharacterList characters)
   {
@@ -57,13 +61,11 @@ class ListBox extends View{
     subviews.add(new ArrowButton(w-14, h-14, 14, 14, "downarrow", downarrow, true, this));
     subviews.add(new VBar(w-15, 14, 15, h-14*2, this));
     Iterator i = characters.iterator();
+    myCharList = characters;
     while(i.hasNext()) {
       Character character = (Character)i.next();
       charactersArray[counter] = character.name;
       counter++;
-      // for testing
-      println(counter);
-      println(character.name);
     }
     numberOfCharacters = charactersArray.length;
     maxListCounter = numberOfCharacters - 8;
@@ -76,18 +78,22 @@ class ListBox extends View{
    rect(0,0,w,h);
    lCounter = 0;
    fill(0);
-   for(int i = myListCounter; i< myListCounter+13; i++){
-     text(charactersArray[i], 0, 0 + lCounter); 
-     println(charactersArray[i]);  
-     lCounter+=15;
+   
+   for(int i = myListCounter; i< myListCounter+11; i++){
+     text(charactersArray[i], 0, 2 + lCounter); 
+     lCounter+=18;
    }
    
    }
   
   boolean contentClicked(float lx, float ly)
   {
-    myIndex = int(((ly/h) * 8)); 
-    println("yeah");
+    myCharacter = int(ly/18);
+    characterIndex = myCharacter + myListCounter;
+    println(charactersArray[characterIndex]);
+    characterName = charactersArray[characterIndex].toString();
+    theCharacterClicked = myCharList.get(characterName);
+    buttonClicked(theCharacterClicked);
     return true;
   }
 }
