@@ -81,7 +81,7 @@ class NgramDetails(object):
 				else:
 					nu, t = welch(char_p, char_p*(1.0-char_p), char_total, other_p, other_p*(1.0-other_p), other_total)
 					p_value = stdtr(nu, t)
-				print char, words, "count:", count_char, "total:",char_total, "char_freq:", char_p, "others_freq:", other_p, "df:", nu, "t:", t, "pval:", p_value
+				print char, words, "count:", count_char, "total:",char_total, "char_freq:", char_p, "others_count:", count_all-count_char, "others_total:", other_total, "others_freq:", other_p, "df:", nu, "t:", t, "pval:", p_value
 
 if __name__ == "__main__":
 	ngrams = NgramDetails()
