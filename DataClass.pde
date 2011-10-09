@@ -5,20 +5,27 @@ class DataClass
         //stores each characters dialog count by season and episode
 	HashMap episodeMap=new HashMap();
 
+        HashMap episodeTotalMap=new HashMap();
 
-	HashMap transcriptMap=new HashMap();
+
+
 
         //statistics of each season based on key:(seasonname) value:(hashmap)
         HashMap seasonStatsMap=new HashMap();
         
+        //stores total count for each season
+        HashMap seasonStatsTotalMap=new HashMap();
+        
         //statistics of whole season key:character value:count
         HashMap wholeStatsMap=new HashMap();
+        
+        float wholeStatsTotal;
         
         //appearance list of characters returns list of episode appearance 
         HashMap characterAppearanceMap=new HashMap();
         
         //ArrayList wholeStats=new ArrayList();
-        int totalLines;
+
         
         java.io.File file;
 
@@ -26,7 +33,7 @@ class DataClass
         {
           processWholeStats(folderName);
           
-          System.out.println(wholeStatsMap.keySet().size()+" "+totalLines);
+          System.out.println(wholeStatsMap.keySet().size()+" "+wholeStatsTotal);
           processSeasonStats(folderName+"/seasonaggregate");
           
           processEpisodeStats(folderName+"/individualseasons");
@@ -64,6 +71,7 @@ class DataClass
           
           listFiles(file,files);
           
+          
           for(int i=0;i<files.size();i++)
           {
             File episodeFile=(File)files.get(i);
@@ -75,7 +83,7 @@ class DataClass
             String fileName=inputFileNameParts[10];
             String seasonName=inputFileNameParts[9];
             String keyPart=fileName.split(" ")[0];
-            
+            float totalLines=0;
             if(seasonMap.containsKey(seasonName))
             {
               ArrayList listEpisodes=(ArrayList)seasonMap.get(seasonName);
@@ -91,16 +99,19 @@ class DataClass
             }
             //seasonMap.put(seasonName,keyPart);
             String[] episodeFileLines=loadStrings(inputFileName);
+         
             
             HashMap tempEpisodeMap=new HashMap();
             
             for(int j=0;j<episodeFileLines.length;j++)
             {
               String[] episodeFileLineParts=episodeFileLines[j].split("###");
-              
+              totalLines+=Float.parseFloat(episodeFileLineParts[1]);
               tempEpisodeMap.put(episodeFileLineParts[0],episodeFileLineParts[1]);
             }
             episodeMap.put(keyPart,tempEpisodeMap);
+            episodeTotalMap.put(keyPart,totalLines);
+            
           }
         }        
         
@@ -116,6 +127,7 @@ class DataClass
           for(int j=0;j<files.size();j++)
           {
             File episodeFile=(File)files.get(j);
+            float totalLines=0;
             String inputFileName=folderName+"/"+episodeFile.getName();
             System.out.println(inputFileName);
             String[] inputFileNameSplit=inputFileName.split("/");
@@ -132,8 +144,9 @@ class DataClass
               String[] seasonLineParts=seasonFileLines[k].split("###");
               tempSeasonMap.put(seasonLineParts[0],seasonLineParts[1]);
               System.out.println("in season "+seasonFileLines[k]);
+              totalLines+=Float.parseFloat(seasonLineParts[1]);
             }
-            
+            seasonStatsTotalMap.put(keyPart,totalLines);
             seasonStatsMap.put(keyPart,tempSeasonMap);
           }
         }
@@ -159,7 +172,7 @@ class DataClass
         void processWholeStats(String folderName)
         {
           String [] inputRows=loadStrings(folderName+"/wholeStats:sorted");
-          totalLines=0;
+          float totalLines=0;
           for(int i=0;i<inputRows.length;i++)
           {
             String inputRow=inputRows[i];
@@ -173,6 +186,7 @@ class DataClass
             totalLines+=count;
             //System.out.println(inputRow);
           }
+          wholeStatsTotal=totalLines;
         }
        
         //returns list of episdoes in a season
@@ -189,10 +203,60 @@ class DataClass
           return (HashMap)seasonStatsMap.get(seasonName);
         }
         
+        
+        ArrayList getSeasonDataAngles(String seasonName)
+        {
+          ArrayList seasonAngles=new ArrayList();
+          
+          HashMap thisSeasonMap=(HashMap)seasonStatsMap.get(seasonName);
+          
+          float total=Float.parseFloat(seasonStatsTotalMap.get(seasonName).toString());
+          
+          Set<String> keys=thisSeasonMap.keySet();
+          
+          Iterator<String> thisSeasonIterator=keys.iterator();
+          
+          while(thisSeasonIterator.hasNext())
+          {
+            String seasonCharacter=thisSeasonIterator.next();
+            float count=Float.parseFloat(thisSeasonMap.get(seasonCharacter).toString());
+            seasonAngles.add(seasonCharacter+":"+(count/total)*360);
+            
+          }
+          
+          return seasonAngles;
+          
+        }
+        
+        
         //returns hashmap of character:dialogcount for each episode
         HashMap getEpisodeData(String episodeName)
         {
           return (HashMap)episodeMap.get(episodeName);
+        }
+        
+        //retunds character:angle for each episode
+        ArrayList getEpisodeDataAngles(String episode)
+        {
+          ArrayList episodeAngles=new ArrayList();
+          HashMap thisEpisodeMap=(HashMap)episodeMap.get(episode);
+          
+          float total=Float.parseFloat(episodeTotalMap.get(episode).toString());
+          
+          Set<String> keys=thisEpisodeMap.keySet();
+          
+          Iterator<String> thisEpisodeIterator=keys.iterator();
+          
+          while(thisEpisodeIterator.hasNext())
+          {
+            String thisEpisodeChar=thisEpisodeIterator.next();
+            float characterCount=Float.parseFloat(thisEpisodeMap.get(thisEpisodeChar).toString());
+            
+            episodeAngles.add(thisEpisodeChar+":"+(characterCount/total)*360);
+            
+          }
+          
+          return episodeAngles;
         }
         
         ArrayList getCharacterAppearance(String character)
@@ -212,13 +276,13 @@ class DataClass
           
           Iterator<String> characterKey=keys.iterator();
           
-          float total=0;
-          
-          while(characterKey.hasNext())
-          {
-            int count=Integer.parseInt(wholeStatsMap.get(characterKey.next()).toString());
-            total+=count;
-          }
+//          float total=0;
+//          
+//          while(characterKey.hasNext())
+//          {
+//            int count=Integer.parseInt(wholeStatsMap.get(characterKey.next()).toString());
+//            total+=count;
+//          }
           
           characterKey=keys.iterator();
           
@@ -227,9 +291,11 @@ class DataClass
             String currentCharacter=characterKey.next();
             float angle;
             float count=Float.parseFloat(wholeStatsMap.get(currentCharacter).toString());
-            angle=(count/total)*360;
+            angle=(count/wholeStatsTotal)*360;
             characterAngles.add(currentCharacter+":"+angle);
           }
           return characterAngles;
         }
+   
+       
 }
