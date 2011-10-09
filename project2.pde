@@ -48,9 +48,9 @@ void setup()
   
   smooth();
   
-  testAngles.add(80.0);
-  testAngles.add(120.0);
-  testAngles.add(160.0);
+  testAngles.add("Fry:"+80.0);
+  testAngles.add("Leela:"+120.0);
+  testAngles.add("Bender:"+160.0);
 
   background(shipMain);
   
@@ -87,7 +87,7 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
-  rootView.subviews.add(new PieChart(750,520,200,200,testAngles));
+  rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
   dropMenuView();
 
 }
