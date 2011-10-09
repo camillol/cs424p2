@@ -84,8 +84,8 @@ class DataClass
                     
             
             String[] inputFileNameParts=episodeFile.getAbsolutePath().split("/");
-            String fileName=inputFileNameParts[10];
-            String seasonName=inputFileNameParts[9];
+            String fileName=inputFileNameParts[inputFileNameParts.length-1];
+            String seasonName=inputFileNameParts[inputFileNameParts.length-2];
             String keyPart=fileName.split(" ")[0];
             float totalLines=0;
             if(seasonMap.containsKey(seasonName))
@@ -274,6 +274,29 @@ class DataClass
           }
           
           return episodeAngles;
+        }
+        
+        ArrayList getEpisodeCharacters(String episodeName)
+        {
+          HashMap thisEpisodeMap=(HashMap)episodeMap.get(episodeName);
+          
+          Set<String> characters=thisEpisodeMap.keySet();
+          
+          Iterator<String> charactersIterator=characters.iterator();
+
+          ArrayList charactersList=new ArrayList();
+          
+          while(charactersIterator.hasNext())
+          {
+            String charactersItem=charactersIterator.next();
+            
+            charactersList.add(charactersItem);
+          }
+          
+
+          
+          
+          return charactersList;
         }
         
         //returns angleslist by episode

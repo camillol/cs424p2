@@ -32,6 +32,7 @@ Button overallButton;
 
 ArrayList testAngles=new ArrayList();
 
+
 void setupG2D()
 {
   g2 = ((PGraphicsJava2D)g).g2;
@@ -92,7 +93,14 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
-  rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
+  //rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
+  
+  ArrayList episodeCharacters=data.getEpisodeCharacters("S01E01");
+  if(episodeCharacters==null)
+  {
+     System.out.println("Its null");
+  }
+  rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
   dropMenuView();
 
 }
