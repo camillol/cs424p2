@@ -124,6 +124,7 @@ void loadSeasons()
 {
   File dir = new File(dataPath("transcripts"));
   String[] names = namesMatching(dir.list(), "S(\\d+)");
+  Arrays.sort(names);
   seasons = new Season[names.length];
   for (int i = 0; i < names.length; i++) {
     String[] groups = match(names[i], "S(\\d+)");
