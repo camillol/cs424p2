@@ -109,7 +109,7 @@ class DataClass
             
             for(int j=0;j<episodeFileLines.length;j++)
             {
-            if(episodeFileLines.contains("###"))
+            if(episodeFileLines[j].contains("###"))
             {
               String[] episodeFileLineParts=episodeFileLines[j].split("###");
               totalLines+=Float.parseFloat(episodeFileLineParts[1]);
