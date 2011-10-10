@@ -1,0 +1,44 @@
+the	51	0.000234
+we	17	0.002584
+dark	8	0.003052
+from	7	0.026856
+must	7	0.008893
+the dark	7	0.004422
+you must	7	0.004538
+will	6	0.044794
+chee	6	0.000000
+violet dwarf	6	0.007348
+violet	6	0.007423
+dwarf	6	0.007450
+the violet dwarf	5	0.013035
+the violet	5	0.013074
+their	5	0.023915
+life	5	0.030907
+age	5	0.013757
+the dark ones	5	0.012983
+green	5	0.013910
+ones	5	0.014377
+star	4	0.028815
+evolved	4	0.023266
+green age	4	0.000000
+stopping	4	0.023001
+ago	4	0.030558
+species	4	0.025386
+wong's	3	0.042038
+destroying	3	0.043393
+began	3	0.043393
+organization	3	0.041871
+wong	3	0.048795
+infiltrate	3	0.042205
+prevent	3	0.042205
+we call	3	0.042926
+eons	3	0.042038
+dna	3	0.045851
+confidence	3	0.042205
+gain	3	0.042542
+him from	3	0.041704
+a new green age	3	0.000000
+you must gain wong's confidence infiltrate his organization and prevent him from destroying the violet dwarf	3	0.000000
+dark one	3	0.043638
+from stopping	3	0.000000
+destroying the	3	0.042574

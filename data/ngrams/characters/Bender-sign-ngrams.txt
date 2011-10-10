@@ -1,0 +1,681 @@
+i	1155	0.000000
+a	900	0.017742
+i'm	416	0.000000
+me	409	0.000000
+my	398	0.039016
+what	276	0.003263
+on	273	0.003406
+oh	251	0.000055
+with	227	0.005044
+not	205	0.034206
+hey	186	0.000000
+do	181	0.043384
+one	170	0.045250
+bender	170	0.007269
+yeah	159	0.000000
+get	154	0.000195
+i'll	140	0.000000
+fry	133	0.026537
+go	121	0.007838
+got	117	0.003380
+robot	107	0.000000
+right	95	0.005674
+come	93	0.000787
+who	81	0.014830
+i don't	79	0.010066
+gonna	78	0.000268
+say	76	0.008361
+uh	75	0.015787
+make	74	0.023926
+what's	73	0.001307
+love	68	0.036427
+too	64	0.045533
+great	63	0.000296
+those	63	0.006374
+ah	63	0.000000
+i was	59	0.013581
+off	58	0.034604
+whoa	56	0.000000
+god	55	0.007539
+alright	54	0.002329
+baby	54	0.000000
+ow	53	0.002822
+ass	53	0.000000
+ooh	53	0.000008
+let	53	0.027201
+come on	50	0.000129
+guys	49	0.000004
+huh	49	0.000000
+mean	48	0.036626
+aw	47	0.000011
+big	46	0.012735
+kill	45	0.000554
+humans	44	0.000000
+you know	43	0.033593
+i can't	43	0.043785
+things	42	0.026076
+i'm not	42	0.002731
+better	41	0.018214
+said	38	0.014788
+shut	36	0.002460
+guy	36	0.008178
+call	35	0.044996
+i got	35	0.000420
+if i	34	0.027262
+buddy	34	0.000000
+all the	34	0.003121
+stupid	32	0.004127
+'cause	32	0.000363
+wow	32	0.003784
+i'm gonna	31	0.002246
+robots	30	0.017777
+let me	30	0.007388
+place	30	0.017777
+zero	29	0.000002
+another	29	0.015009
+party	28	0.000257
+friends	28	0.018479
+got a	27	0.020754
+use	27	0.034967
+me bender	27	0.000000
+crap	27	0.000017
+shut up	26	0.014818
+die	26	0.034671
+a robot	26	0.001925
+my god	26	0.012568
+oh yeah	25	0.001134
+eh	25	0.001990
+stuff	24	0.011846
+oh my	24	0.028744
+myself	23	0.011331
+fine	23	0.030911
+fun	22	0.008099
+a big	22	0.001809
+hot	21	0.037552
+found	21	0.023050
+whoa whoa	21	0.000094
+elzar	21	0.000014
+metal	21	0.000456
+what i	21	0.046560
+oh my god	21	0.000258
+everybody	21	0.004049
+says	21	0.003630
+c'mon	21	0.000148
+kids	20	0.016988
+damn	19	0.049459
+wasn't	19	0.021342
+got it	19	0.002562
+'em	18	0.044822
+of me	18	0.001522
+beer	18	0.000440
+check	17	0.047530
+bending	17	0.000733
+calculon	17	0.015768
+comes	17	0.009305
+rich	17	0.017437
+nah	17	0.001935
+greatest	17	0.001935
+a good	17	0.020994
+oil	17	0.002207
+now i	17	0.006580
+the hell	16	0.016114
+quit	16	0.011812
+that's what	16	0.011697
+is great	16	0.000188
+yep	16	0.000310
+forget	16	0.019981
+the robot	15	0.030568
+bite	15	0.000840
+i said	15	0.014878
+you say	15	0.044355
+the greatest	15	0.002021
+i'm bender	15	0.000078
+blah	15	0.001320
+jerk	15	0.009551
+that is	15	0.048471
+well i'm	15	0.000973
+ain't	15	0.006667
+lady	15	0.025352
+bucks	15	0.001138
+am i	15	0.036950
+run	15	0.048943
+bend	14	0.003388
+neat	14	0.000327
+my ass	14	0.000274
+eyes	14	0.039151
+perfect	14	0.043040
+uh-oh	14	0.032214
+flexo	14	0.008475
+except	14	0.047227
+built	14	0.007483
+hey what	13	0.000782
+broken	13	0.005635
+comin'	13	0.000928
+zero zero	13	0.000227
+win	13	0.024408
+ugly	13	0.030224
+hey look	13	0.002043
+i never	13	0.044817
+get it	13	0.026964
+blah blah	13	0.002043
+bite my	13	0.000661
+one one	12	0.000561
+ow ow	12	0.034495
+whoa whoa whoa	12	0.000798
+scared	12	0.012140
+i found	12	0.027758
+she'll	12	0.002185
+y'know	12	0.017611
+'bout	12	0.007142
+pal	12	0.001862
+know it	12	0.013680
+yes i	12	0.015483
+the--	12	0.012140
+my friends	12	0.007098
+make a	12	0.038324
+sick	11	0.044568
+i got a	11	0.002278
+get out	11	0.031849
+zero one	11	0.000802
+ha	11	0.022568
+hang	11	0.040038
+out the	11	0.035625
+in there	11	0.044244
+shiny	11	0.011923
+count	11	0.010410
+i'm in	11	0.035625
+tried	11	0.040038
+batter	11	0.000667
+blah blah blah	11	0.003688
+loves	10	0.029008
+if it's	10	0.017320
+aww	10	0.015222
+do the	10	0.028827
+yeah well	10	0.013192
+side	10	0.041276
+me with	10	0.007380
+time i	10	0.036563
+wanted to	10	0.045865
+got the	10	0.036563
+oops	10	0.008614
+bender is	10	0.022474
+sexy	10	0.009977
+gonna do	10	0.005418
+metal ass	10	0.002809
+it and	10	0.022474
+yeah yeah	10	0.036563
+sounds like	10	0.019758
+one thing	10	0.045865
+my shiny	10	0.002809
+interesting	10	0.046171
+boned	10	0.002817
+boo	10	0.001383
+oh man	10	0.007380
+feel like	10	0.036563
+i gotta	10	0.036563
+one zero	10	0.001381
+cook	10	0.022609
+i'll go	9	0.010845
+that'll	9	0.047529
+'cause i	9	0.012603
+booze	9	0.003438
+but not	9	0.022227
+petroleum	9	0.004098
+round	9	0.029101
+ow ow ow	9	0.012536
+blah blah blah blah	9	0.007870
+what the--	9	0.022227
+i'm back	9	0.004853
+felt	9	0.029101
+my body	9	0.032868
+it i'm	9	0.009299
+inspector	9	0.006789
+master	9	0.022342
+woo	9	0.029101
+it's me	9	0.012603
+how 'bout	9	0.025404
+losers	8	0.016074
+chef	8	0.008448
+call me	8	0.048240
+bite my shiny	8	0.007083
+corn	8	0.011746
+petroleum oil	8	0.002844
+from now	8	0.018620
+ha ha	8	0.018620
+get away	8	0.016013
+liquor	8	0.011746
+fancy	8	0.042780
+when she	8	0.003445
+off to	8	0.037420
+she'll be	8	0.004154
+5	8	0.032942
+guy's	8	0.016074
+zero one one	8	0.004147
+suck	8	0.008448
+blah blah blah blah blah	8	0.009845
+kill me	8	0.016013
+lousy	8	0.025001
+mama	8	0.025001
+shiny metal	8	0.013719
+zero zero one	8	0.003441
+robanukah	8	0.004159
+my head	8	0.048240
+pile	8	0.021660
+mountain	8	0.004997
+kill all	8	0.004154
+arms	7	0.032191
+the point	7	0.023789
+mind if i	7	0.042276
+aw yeah	7	0.023789
+my shiny metal	7	0.012385
+cornwood	7	0.007279
+notice	7	0.017395
+i'm off	7	0.020357
+coma	7	0.027780
+i'll need	7	0.010438
+all the humans	7	0.000000
+malachi	7	0.007279
+one zero zero	7	0.004963
+shiny metal ass	7	0.010413
+gimme	7	0.020423
+bender the	7	0.036990
+smoke	7	0.027780
+one one zero	7	0.006016
+cigar	7	0.012450
+and i don't	7	0.008714
+of course not	7	0.031913
+i don't need	7	0.031913
+idiots	7	0.023871
+here you go	7	0.014663
+gettin'	7	0.017395
+hambone	7	0.000000
+oh crap	7	0.004966
+but i don't	7	0.042276
+girder	7	0.006028
+wait wait	7	0.017344
+all humans	7	0.012420
+care of	7	0.032065
+course not	7	0.036990
+to bend	7	0.007270
+you're my	7	0.027678
+guys guys	7	0.004966
+chumps	7	0.010460
+barely	7	0.048838
+your face	7	0.048621
+pft	7	0.017395
+the humans	7	0.010438
+technology	7	0.048838
+blame	7	0.048838
+ooh ooh	7	0.010438
+i've always	7	0.020357
+no wait	7	0.042496
+now on	7	0.023789
+1-x	7	0.042679
+blah blah blah blah blah blah	7	0.012276
+i got it	7	0.020278
+from now on	7	0.012385
+hey what's	7	0.020357
+the bender	7	0.007270
+i'd better	7	0.048621
+load	6	0.025946
+just 'cause	6	0.015412
+pile of	6	0.018416
+honest	6	0.048217
+name's	6	0.048217
+cracked corn	6	0.000000
+insert	6	0.012844
+zero zero one one	6	0.010592
+fine i'll	6	0.010618
+cruel	6	0.048217
+hide	6	0.048217
+my broken	6	0.008739
+television	6	0.030524
+blah blah blah blah blah blah blah	6	0.015260
+check out	6	0.041467
+take care of	6	0.041299
+doo	6	0.041608
+bubblegum	6	0.041608
+go bender	6	0.010618
+sick of	6	0.035615
+wiggles	6	0.000000
+screw	6	0.030524
+please insert	6	0.000000
+that was the	6	0.035480
+wine	6	0.041608
+fifty	6	0.035727
+bite my shiny metal	6	0.021752
+ow ow ow ow	6	0.015344
+i'm off to	6	0.030330
+gonna go	6	0.021888
+bun	6	0.008743
+i go	6	0.048045
+of being	6	0.041467
+fun on	6	0.000000
+when she comes	6	0.000000
+hookers	6	0.018453
+tijuana	6	0.008743
+back baby	6	0.000000
+usual	6	0.041608
+yeah baby	6	0.008739
+my shiny metal ass	6	0.015344
+jerks	6	0.018453
+that's how	6	0.041467
+chicken	6	0.035727
+i'll get	6	0.035615
+cracked	6	0.012844
+cheer	6	0.048217
+her with	6	0.000000
+humans are	6	0.021888
+me now	6	0.030436
+sounds like a	6	0.021827
+i die	6	0.018416
+wash	6	0.035727
+great i	6	0.021888
+my broken friend	6	0.000000
+of cornwood	6	0.008739
+good one	6	0.010618
+and by	6	0.015412
+you know it	6	0.025796
+love is	5	0.015537
+meatbag	5	0.022918
+me look	5	0.038973
+get up	5	0.038973
+hey that	5	0.000000
+not my	5	0.038973
+ray gun	5	0.015537
+me into	5	0.038973
+to party	5	0.045961
+hit it	5	0.018921
+this for	5	0.032845
+i'm back baby	5	0.000000
+stinking	5	0.027552
+you you're	5	0.045961
+i'll say	5	0.027506
+and i don't care	5	0.015517
+batter batter	5	0.000000
+talkin'	5	0.032910
+doin'	5	0.039062
+league of	5	0.032845
+bender please	5	0.027506
+do is	5	0.045961
+ow ow ow ow ow	5	0.000000
+the tv	5	0.027506
+count me	5	0.000000
+the donbot	5	0.045961
+someone's	5	0.027552
+i'll shoot her with my ray gun	5	0.000000
+a good one	5	0.000000
+stop eating	5	0.032845
+aw man	5	0.045961
+ooh i'm	5	0.018921
+a load	5	0.027506
+the name of	5	0.038866
+bite my shiny metal ass	5	0.027346
+ha ha ha	5	0.038866
+titanius	5	0.027552
+his eyes	5	0.000000
+hey buddy	5	0.022888
+bender is great	5	0.015528
+ok but	5	0.038973
+porn	5	0.022918
+guys i	5	0.022888
+humans and	5	0.022888
+shoot her	5	0.018921
+meatbags	5	0.000000
+on baby	5	0.022888
+theatre	5	0.018938
+kill all humans	5	0.018900
+was built	5	0.018921
+what now	5	0.027506
+i'll shoot	5	0.027506
+ooh yeah	5	0.038973
+blah blah blah blah blah blah blah blah	5	0.018812
+it's me bender	5	0.000000
+roberto	5	0.022918
+cracked corn and	5	0.000000
+you humans	5	0.015537
+inspector 5	5	0.032845
+cram	5	0.032910
+of things	5	0.045961
+i am bender please insert girder	5	0.000000
+i am titanius anglesmith fancy man of cornwood	5	0.000000
+titanius anglesmith	5	0.015537
+40%	5	0.018938
+i'll be blastin' all the humans	5	0.000000
+your problem	5	0.032845
+ah i	5	0.038973
+anglesmith	5	0.018938
+angleyne	5	0.018938
+he did	5	0.038973
+kill myself	5	0.022888
+but at	5	0.045961
+blastin'	5	0.000000
+man of	5	0.015537
+woo-hoo	5	0.018938
+salt	5	0.032910
+ding	5	0.022918
+it ain't	4	0.041482
+always wanted to	4	0.041417
+i'm telling you	4	0.049762
+goody	4	0.041535
+i'm 40%	4	0.000000
+booty	4	0.034267
+fun on the bun	4	0.000000
+i'm great	4	0.000000
+bender go	4	0.028025
+annoying	4	0.049942
+wallet	4	0.049942
+how great	4	0.041482
+a cigar	4	0.041482
+a load of	4	0.028008
+yeah alright	4	0.028025
+ding ding	4	0.000000
+coma coma	4	0.000000
+name's bender	4	0.000000
+baby i	4	0.034236
+whoa whoa whoa whoa	4	0.027989
+baby come on	4	0.000000
+daddy's	4	0.034267
+and a half	4	0.049762
+shovel	4	0.028038
+make some	4	0.041482
+your business	4	0.049860
+wooden	4	0.034267
+one one zero zero	4	0.027989
+what's the point	4	0.041417
+but to	4	0.049860
+on television	4	0.000000
+i'll take care of	4	0.034154
+zero one one zero	4	0.027989
+go bender go bender	4	0.000000
+do the bender	4	0.000000
+ow ow ow ow ow ow	4	0.000000
+lovable	4	0.041535
+she'll be comin' round the mountain	4	0.000000
+comfy	4	0.000000
+you doin'	4	0.041482
+i can't move	4	0.000000
+horses	4	0.041535
+selfish	4	0.041535
+my stuff	4	0.034236
+whattya	4	0.034267
+damn you	4	0.034236
+outdated	4	0.041535
+calculon's	4	0.049942
+ah this	4	0.034236
+i win	4	0.034236
+else's	4	0.034267
+use of	4	0.000000
+martini	4	0.034267
+them but	4	0.034236
+i ain't	4	0.034236
+i just wanted to	4	0.049643
+oh oh oh	4	0.049762
+i stole	4	0.034236
+crazy and	4	0.000000
+die and	4	0.034236
+tv's	4	0.034267
+round the	4	0.028025
+an' you	4	0.000000
+ha ha ha ha	4	0.034154
+aw jeez	4	0.028025
+cracked corn and i don't care	4	0.000000
+treasure	4	0.049942
+come on baby	4	0.034199
+hambone hambone	4	0.000000
+do one	4	0.041482
+brunch	4	0.049942
+wait i know	4	0.049762
+well we're	4	0.028025
+that'll teach	4	0.000000
+me than	4	0.028025
+let's find	4	0.049860
+be fun	4	0.049860
+jewels	4	0.034267
+you buddy	4	0.034236
+i was built	4	0.000000
+i'm tired	4	0.034236
+what the hell are you doing	4	0.041219
+of crap	4	0.028025
+can't move	4	0.034236
+beck	4	0.041535
+your lives	4	0.049860
+mexican	4	0.000000
+one thing to	4	0.028008
+hey look the	4	0.034199
+dragon	4	0.049942
+my arms	4	0.028025
+on i'll	4	0.049860
+and a half weeks	4	0.027989
+turtles	4	0.034267
+secretly	4	0.041535
+maybe if	4	0.049860
+man i'm	4	0.041482
+eyes and	4	0.028025
+makin'	4	0.041535
+blah blah blah blah blah blah blah blah blah	4	0.000000
+call me bender	4	0.000000
+was fun	4	0.028025
+fembots	4	0.034267
+die i	4	0.034236
+ass ass	4	0.028025
+wait wait wait	4	0.034199
+greasy	4	0.041535
+purse	4	0.049942
+well we're boned	4	0.000000
+c'mon baby	4	0.000000
+girders	4	0.000000
+processor	4	0.041535
+my antenna	4	0.000000
+tasty	4	0.049942
+me down	4	0.034236
+so what's your problem	3	0.000000
+scuse	3	0.000000
+zero zero zero	3	0.000000
+scuse me	3	0.000000
+you slept with	3	0.000000
+heart of a	3	0.000000
+metaphorically	3	0.000000
+oh elzar	3	0.000000
+blah blah blah blah blah blah blah blah blah blah	3	0.000000
+how am i	3	0.000000
+c'mon baby come on	3	0.000000
+i'll be blastin' all the humans in the world	3	0.000000
+coming out of	3	0.000000
+me please	3	0.000000
+and hookers	3	0.000000
+greeting card	3	0.000000
+deal with the	3	0.000000
+loves a	3	0.000000
+slept	3	0.000000
+felonies	3	0.000000
+gimme a	3	0.000000
+ha ha ha ha ha	3	0.000000
+my shiny metal--	3	0.000000
+baby come on yeah	3	0.000000
+those times	3	0.000000
+try again	3	0.000000
+great bender	3	0.000000
+teach those	3	0.000000
+devil and	3	0.000000
+froggy went a-courtin' and	3	0.000000
+ass ass ass	3	0.000000
+ceilin'	3	0.000000
+coma coma coma	3	0.000000
+as smart as	3	0.000000
+i'll shoot her with my ray gun when she comes	3	0.000000
+my name's bender	3	0.000000
+bender boo	3	0.000000
+like to give	3	0.000000
+fry old	3	0.000000
+make bender	3	0.000000
+if i die	3	0.000000
+of me bender	3	0.000000
+save my friends	3	0.000000
+five bucks	3	0.000000
+ever i	3	0.000000
+just 'cause i can't	3	0.000000
+now no one will	3	0.000000
+'bot wash	3	0.000000
+count me in	3	0.000000
+accomplices	3	0.000000
+floozies	3	0.000000
+a-courtin'	3	0.000000
+she'll be riding six white horses	3	0.000000
+zero one zero zero	3	0.000000
+it ow	3	0.000000
+it's elzar	3	0.000000
+i'm done	3	0.000000
+metal--	3	0.000000
+hey batter batter	3	0.000000
+buddy it's	3	0.000000
+me do	3	0.000000
+well i'm off	3	0.000000
+like a job for	3	0.000000
+one one zero one	3	0.000000
+leaguie-weegies	3	0.000000
+with another	3	0.000000
+oregon	3	0.000000
+oh my god i	3	0.000000
+death to humans	3	0.000000
+his eyes and	3	0.000000
+whiz	3	0.000000
+that's a good one	3	0.000000
+new ideas	3	0.000000
+glowing	3	0.000000
+i have to do	3	0.000000
+comin' through	3	0.000000
+la king	3	0.000000
+new guy	3	0.000000
+old robot	3	0.000000
+sorry buddy	3	0.000000
+ding ding ding	3	0.000000
+blackjack	3	0.000000
+for me bender	3	0.000000
+yes i'll shoot her with my ray gun	3	0.000000
+aw crap	3	0.000000
+just download	3	0.000000
+hell you	3	0.000000
+i ain't no	3	0.000000
+guys did	3	0.000000
+'em i	3	0.000000
+ow ow ow ow ow ow ow	3	0.000000
+hey what the	3	0.000000
+a cake	3	0.000000
+it's gonna be fun on	3	0.000000
+twerps	3	0.000000
+times i	3	0.000000
+'bot	3	0.000000
+i got it i	3	0.000000
+if they're	3	0.000000
+a one and two	3	0.000000
+steals	3	0.000000
+don't come	3	0.000000
+now i see	3	0.000000
+i'll never be	3	0.000000
+binary	3	0.000000
+no batter	3	0.000000
+i was perfect	3	0.000000
+an' you an'	3	0.000000
+jimmy cracked corn and i don't care	3	0.000000
+oh cruel fate	3	0.000000

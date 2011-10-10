@@ -1,0 +1,12 @@
+the	28	0.000341
+bowel	6	0.007008
+if	5	0.039919
+we're	5	0.024931
+the bowel	4	0.000000
+fry's	3	0.045980
+the pelvic splanchnic ganglion	3	0.000000
+the worms	3	0.041647
+pelvic	3	0.041462
+splanchnic	3	0.000000
+ganglion	3	0.041462
+worms	3	0.042456

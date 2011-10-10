@@ -1,0 +1,11 @@
+only	5	0.048287
+well well	4	0.024418
+farnsworth	4	0.030326
+ogden	3	0.042195
+science	3	0.047951
+hundred years	3	0.042023
+smell	3	0.048319
+hundred	3	0.047221
+present	3	0.048319
+you the	3	0.049095
+observe	3	0.042195

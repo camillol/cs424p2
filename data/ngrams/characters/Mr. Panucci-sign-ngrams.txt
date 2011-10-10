@@ -1,0 +1,7 @@
+you	16	0.020897
+hey	6	0.016268
+goin'	4	0.023257
+pizza goin' out	3	0.041389
+like you	3	0.046418
+pizza	3	0.044535
+hawking	3	0.041905

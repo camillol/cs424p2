@@ -1,0 +1,4 @@
+is	6	0.042627
+number	3	0.044295
+question number	3	0.041247
+question	3	0.043293

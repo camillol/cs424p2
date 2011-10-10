@@ -1,0 +1,4 @@
+your	9	0.004476
+majesty	3	0.041461
+royal	3	0.041679
+your majesty	3	0.041389

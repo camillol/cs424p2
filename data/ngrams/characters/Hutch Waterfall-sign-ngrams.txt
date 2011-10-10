@@ -1,0 +1,35 @@
+the	26	0.014902
+of	14	0.021917
+the dark	8	0.002373
+dark	8	0.002661
+one	7	0.026740
+read	7	0.004462
+man	7	0.008212
+mind	6	0.008763
+of the	5	0.032505
+or	5	0.029841
+the dark ones	5	0.012704
+ones	5	0.013502
+thoughts	5	0.012947
+ever	4	0.037772
+foil	3	0.041749
+the universe	3	0.048003
+truth	3	0.043183
+fate	3	0.044260
+depends	3	0.041749
+a mind	3	0.041547
+hang on	3	0.043583
+depends on you	3	0.041531
+the fate of	3	0.042401
+you're a mind reader	3	0.000000
+of the universe	3	0.043188
+the fate of the universe	3	0.041584
+hang	3	0.045157
+reader	3	0.000000
+the fate of the	3	0.041899
+minds	3	0.043280
+on you	3	0.045904
+depends on	3	0.041642
+you're a	3	0.048864
+the fate of the universe depends on you	3	0.000000
+truth is	3	0.041642

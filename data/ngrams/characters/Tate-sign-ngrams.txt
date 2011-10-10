@@ -1,0 +1,8 @@
+of	16	0.024449
+are	7	0.047760
+globetrotter	6	0.007235
+kind	5	0.016927
+kind of	5	0.016213
+these	4	0.049965
+funky	3	0.041973
+prof	3	0.041736

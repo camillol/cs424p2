@@ -1,0 +1,3 @@
+wash bucket	3	0.038830
+bucket	3	0.039251
+wash	3	0.039251

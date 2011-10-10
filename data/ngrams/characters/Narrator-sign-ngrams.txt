@@ -1,0 +1,32 @@
+the	82	0.000005
+of	36	0.001698
+and	29	0.029049
+he	10	0.021301
+or	10	0.007124
+his	9	0.012313
+where	8	0.009771
+man	7	0.027628
+into	6	0.032796
+door	5	0.015194
+something	5	0.049852
+planet	5	0.047020
+human	5	0.033673
+earth	5	0.038502
+bigfoot	5	0.014148
+today	4	0.038131
+known	4	0.029671
+scary	4	0.024440
+scary door	4	0.023142
+the scary door	4	0.023007
+next	4	0.049259
+the scary	4	0.023142
+warming	3	0.043776
+meanwhile	3	0.043776
+global warming	3	0.043917
+billy's	3	0.000000
+global	3	0.044626
+of interest	3	0.000000
+and so	3	0.049585
+known as	3	0.046056
+billy's planet	3	0.000000
+interest	3	0.044341

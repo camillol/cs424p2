@@ -1,0 +1,7 @@
+your	10	0.016624
+penguin	7	0.004008
+penguins	7	0.004033
+folks	4	0.024487
+nature's	3	0.000000
+'em	3	0.049452
+eggs	3	0.043409

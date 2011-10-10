@@ -1,0 +1,6 @@
+and	9	0.008924
+barbados	4	0.022378
+conrad	4	0.022393
+barbados slim	3	0.041265
+slim	3	0.041552
+gold	3	0.041696

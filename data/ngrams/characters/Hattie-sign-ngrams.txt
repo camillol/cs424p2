@@ -1,0 +1,3 @@
+my	8	0.035255
+kajigger	4	0.000000
+my kajigger	3	0.000000

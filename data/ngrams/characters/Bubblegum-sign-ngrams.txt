@@ -1,0 +1,4 @@
+clyde	3	0.041339
+brother	3	0.042317
+duplicate	3	0.041339
+sweet	3	0.044756

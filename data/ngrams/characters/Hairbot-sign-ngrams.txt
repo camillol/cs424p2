@@ -1,0 +1,6 @@
+i'm	3	0.047117
+a pretty	3	0.038066
+i'm a	3	0.038484
+girl	3	0.038606
+i'm a pretty girl	3	0.000000
+pretty	3	0.038606

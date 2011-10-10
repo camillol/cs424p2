@@ -1,0 +1,9 @@
+doo	10	0.000635
+toys	7	0.003704
+we	6	0.016096
+doo doo doodoo	5	0.000000
+doo doo	5	0.011988
+doodoo	5	0.000000
+hooray	5	0.012447
+very	3	0.046531
+toys toys	3	0.000000

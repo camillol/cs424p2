@@ -1,0 +1,525 @@
+you	974	0.000001
+to	692	0.002914
+it	402	0.046666
+this	293	0.011109
+we	273	0.000014
+fry	272	0.000000
+it's	248	0.000008
+what	248	0.000348
+but	223	0.009054
+on	222	0.033088
+have	215	0.000521
+so	199	0.004969
+just	192	0.000362
+not	183	0.008870
+don't	174	0.000908
+are	168	0.005487
+do	159	0.021528
+bender	155	0.000934
+can	133	0.006512
+know	133	0.000171
+if	126	0.016678
+out	123	0.031563
+at	116	0.021487
+we're	107	0.000000
+how	102	0.000427
+he	102	0.027160
+about	99	0.009961
+look	97	0.000139
+from	95	0.005346
+us	92	0.000445
+can't	91	0.000183
+him	81	0.001595
+did	78	0.000062
+why	76	0.014564
+could	73	0.006882
+were	72	0.000177
+think	71	0.004042
+professor	68	0.000000
+ok	66	0.000001
+have to	66	0.000001
+i don't	65	0.028164
+are you	63	0.000640
+this is	62	0.014268
+really	59	0.007822
+mean	55	0.000196
+he's	54	0.011700
+been	52	0.049073
+little	51	0.032087
+stop	49	0.009722
+those	49	0.047507
+any	48	0.000909
+didn't	47	0.000439
+going	45	0.046342
+sure	43	0.014700
+do you	42	0.016763
+help	41	0.007101
+alright	41	0.029681
+still	39	0.031571
+we'll	39	0.018122
+they're	39	0.002484
+nibbler	39	0.000000
+should	39	0.022309
+ship	39	0.000018
+come on	38	0.003351
+i think	36	0.001942
+out of	36	0.006141
+guess	35	0.001274
+space	34	0.002216
+i know	34	0.018753
+feel	32	0.017600
+did you	31	0.000728
+doing	31	0.003775
+thanks	30	0.020643
+nice	30	0.023218
+a little	30	0.049421
+i guess	29	0.003253
+wrong	29	0.000653
+you've	29	0.018088
+don't know	29	0.007271
+you have	28	0.025851
+to do	28	0.025851
+guys	27	0.030495
+you don't	27	0.006322
+okay	27	0.016434
+isn't	27	0.036258
+talk	27	0.002045
+doesn't	27	0.014411
+at the	27	0.032503
+we've	26	0.018360
+mom	26	0.003413
+actually	26	0.003145
+away	26	0.032138
+thank	26	0.025225
+being	25	0.047925
+i don't know	25	0.007406
+eye	25	0.000094
+what are	25	0.023682
+i mean	25	0.019520
+you do	25	0.000445
+we have	24	0.032016
+zapp	24	0.000173
+the ship	24	0.000029
+parents	24	0.000193
+you were	24	0.028277
+fry i	23	0.000048
+we can	22	0.031350
+oh no	22	0.011765
+happened	21	0.004721
+my parents	21	0.000023
+just a	21	0.028899
+fry's	21	0.001139
+i didn't	21	0.014175
+know what	21	0.008186
+delivery	21	0.047283
+save	20	0.033833
+you can't	20	0.011605
+least	19	0.017067
+listen	19	0.046327
+beautiful	19	0.015781
+the professor	18	0.001505
+dad	18	0.001919
+don't you	18	0.008677
+at least	18	0.014424
+whale	17	0.001475
+chance	17	0.009934
+couldn't	17	0.006262
+you mean	17	0.013600
+what are you	17	0.044380
+whole	17	0.038905
+got to	16	0.017934
+think i	16	0.009681
+don't have	16	0.036526
+but i'm	15	0.007248
+hi-yah	15	0.000085
+surface	15	0.000355
+we just	15	0.005352
+you get	15	0.007999
+animals	15	0.000686
+bender's	15	0.036483
+what do you	15	0.013574
+to say	14	0.024306
+could you	14	0.005197
+cute	14	0.010947
+to save	14	0.005782
+you just	14	0.039747
+lord	14	0.037864
+an'	14	0.034947
+hurt	14	0.044280
+fight	13	0.036072
+the surface	13	0.000442
+quick	13	0.013216
+what happened	13	0.012881
+we can't	13	0.006217
+anymore	13	0.030439
+i think i	13	0.004856
+can you	13	0.015653
+fry you	12	0.027684
+need a	12	0.027684
+we've got	12	0.033112
+supposed	12	0.025903
+and i'm	12	0.023007
+you did	12	0.007433
+know how	12	0.030299
+this time	12	0.025257
+supposed to	12	0.025257
+what about	12	0.036131
+oh lord	12	0.001003
+about the	12	0.046529
+seem	12	0.014433
+hurry	11	0.023638
+aww	11	0.004981
+it i	11	0.037035
+here to	11	0.040497
+should be	11	0.023111
+how did	11	0.005542
+that's so	11	0.001973
+lars	11	0.004981
+down the	11	0.008880
+i have to	11	0.029991
+you didn't	11	0.009945
+yah	10	0.001070
+you've got	10	0.025457
+talk to	10	0.009413
+fry but	10	0.002235
+i'm sure	10	0.031098
+deliver	10	0.028752
+a great	10	0.018592
+flexo	10	0.046410
+we have to	10	0.013073
+dark matter	10	0.045397
+know you	10	0.025457
+so we	10	0.034276
+person	10	0.031759
+care about	9	0.007633
+mutants	9	0.020471
+look i	9	0.005111
+chance to	9	0.014228
+able to	9	0.031033
+why don't	9	0.046278
+my eye	9	0.001580
+how can	9	0.027939
+on me	9	0.016007
+able	9	0.038788
+happened to	9	0.022503
+fry is	9	0.005855
+were you	9	0.014228
+we're not	9	0.034399
+can we	9	0.011165
+career	8	0.021918
+what is it	8	0.041305
+just have	8	0.016968
+if it's	8	0.037916
+all this	8	0.042129
+you know what	8	0.045770
+i couldn't	8	0.046702
+20th	8	0.047517
+we're here	8	0.008871
+how did you	8	0.010034
+how could	8	0.034045
+it fry	8	0.005827
+i've ever	8	0.046702
+it's so	8	0.037916
+adlai	8	0.003212
+at that	8	0.046702
+to meet	8	0.046702
+toilet	8	0.042849
+new new	8	0.021611
+the worst	8	0.034045
+didn't you	8	0.006721
+they were	8	0.030497
+try to	8	0.037916
+i thought you	8	0.037192
+wrong with	8	0.013192
+apartment	8	0.015165
+guess i	8	0.027255
+we're out of	7	0.006511
+deserve	7	0.037610
+what happened to	7	0.025591
+thank god	7	0.022906
+adorable	7	0.015630
+lick	7	0.015630
+do this	7	0.041565
+worked	7	0.047129
+can't we	7	0.011759
+on the surface	7	0.006511
+we've got to	7	0.025591
+leo	7	0.020378
+he doesn't	7	0.022906
+you tell	7	0.010200
+how can you	7	0.019916
+why did	7	0.033023
+who i	7	0.015488
+forget it	7	0.037099
+i guess i	7	0.032522
+blernsball	7	0.011846
+a baby	7	0.011759
+obsession	7	0.008870
+i'm still	7	0.025949
+orphanarium	7	0.017873
+fry i'm	7	0.020163
+prove	7	0.026261
+meant	7	0.047129
+guenter	7	0.026261
+no way	7	0.041565
+on fry	7	0.010200
+do you know	7	0.022607
+calm	7	0.017873
+boots	7	0.013628
+what's wrong	7	0.022906
+here and	7	0.046445
+to play	7	0.033023
+look at that	7	0.025591
+penguins	6	0.024004
+possibly	6	0.045698
+the orphanarium	6	0.015573
+can't you	6	0.040000
+the animals	6	0.009869
+why did you	6	0.015473
+you've been	6	0.045171
+let's do	6	0.027241
+to talk to	6	0.030717
+somehow	6	0.040443
+boot	6	0.024004
+fry you're	6	0.027241
+uh i	6	0.040000
+major	6	0.024004
+parade	6	0.027486
+nice to	6	0.023808
+out of your	6	0.011484
+realised	6	0.013485
+they're not	6	0.031064
+tank	6	0.035676
+but he's	6	0.023808
+fry fry	6	0.013424
+one eye	6	0.015573
+new new york	6	0.044566
+he's just	6	0.023808
+not really	6	0.027241
+in new	6	0.027241
+sure i	6	0.035308
+all so	6	0.020738
+orphans	6	0.024004
+gave me	6	0.027241
+mom dad	6	0.023808
+tongue	6	0.024004
+so cute	6	0.020738
+oh fry	6	0.027241
+cyclops	6	0.031367
+didn't know	6	0.027241
+what are we	6	0.039492
+i didn't know	6	0.023583
+we'll go	6	0.009869
+the whale	6	0.020738
+fruit	6	0.027486
+isn't a	6	0.040000
+fountain	6	0.024004
+hey fry	6	0.045171
+talk to you	5	0.023834
+rescue	5	0.042710
+to let	5	0.036965
+how could you	5	0.041974
+can't we just	5	0.023834
+ought to	5	0.032122
+not at	5	0.036965
+doingg	5	0.014974
+now we're	5	0.032122
+fry it's	5	0.023960
+look it's	5	0.048370
+mean to	5	0.032122
+you've got to	5	0.027622
+fry this	5	0.017575
+come on fry	5	0.023834
+at the orphanarium	5	0.014934
+ought	5	0.032329
+wheel	5	0.037234
+nothing wrong	5	0.023960
+fry what	5	0.027800
+very nice	5	0.023960
+stay here	5	0.048370
+leo wong	5	0.023960
+uh professor	5	0.000000
+then we'll	5	0.032122
+i didn't know you	5	0.014909
+a space	5	0.036965
+ashamed of	5	0.023960
+pretend	5	0.042710
+madness	5	0.032329
+can't just	5	0.027800
+make sure	5	0.032122
+concentrate	5	0.014974
+he got	5	0.036965
+you alright	5	0.032122
+it's nice	5	0.020564
+you fry	5	0.048370
+we're here to	5	0.020481
+ha ha ha	5	0.031883
+witch	5	0.020637
+fnog	5	0.014974
+training	5	0.032329
+are you alright	5	0.027622
+just a little	5	0.031883
+los	4	0.031849
+call him	4	0.026956
+we don't need	4	0.031681
+that whale	4	0.000000
+to hold	4	0.037248
+i think we	4	0.043214
+tank top	4	0.026956
+nothing wrong with	4	0.037096
+give you a	4	0.037096
+it got	4	0.043443
+in my dreams	4	0.026916
+ha ha ha ha	4	0.031578
+zoidberg i'm	4	0.037248
+what about the	4	0.037096
+sean	4	0.000000
+i'm leela	4	0.031771
+at least you	4	0.026916
+aks	4	0.031849
+it's amazing	4	0.026956
+with him	4	0.043443
+impulsive	4	0.031849
+hold still	4	0.037248
+like robots	4	0.000000
+lick the	4	0.000000
+to fight	4	0.043443
+don't need a	4	0.037096
+flushed	4	0.043641
+let's do it	4	0.043214
+make any	4	0.026956
+back at the	4	0.031681
+actually i	4	0.043443
+in new new	4	0.031681
+chips	4	0.043641
+to talk to you	4	0.036921
+i can be	4	0.031681
+hell's	4	0.031849
+seem like	4	0.043443
+fry that's	4	0.026956
+them from	4	0.026956
+so sweet	4	0.037248
+look i don't	4	0.000000
+fry are	4	0.037248
+didn't have to	4	0.026916
+a crap	4	0.000000
+you professor	4	0.031771
+since when	4	0.043443
+fry are you	4	0.026916
+care about the	4	0.026916
+doesn't seem	4	0.031771
+down the toilet	4	0.037096
+cute little	4	0.037248
+my dreams	4	0.037248
+were so	4	0.043443
+fry don't	4	0.026956
+i'm worried	4	0.037248
+a microwave	4	0.026956
+were there	4	0.026956
+we'd better	4	0.037248
+your father	4	0.037248
+i actually	4	0.031771
+that's so sweet	4	0.026916
+try to be	3	0.000000
+then we'll go	3	0.000000
+spoonful	3	0.049698
+adopt	3	0.049698
+underwater	3	0.049698
+it with the	3	0.000000
+textbook	3	0.049698
+aks you	3	0.000000
+doesn't want to	3	0.049558
+those animals	3	0.000000
+fault for	3	0.000000
+this is unbelievable	3	0.049558
+as long as i	3	0.049472
+back to the ship	3	0.000000
+ha ha ha ha ha	3	0.000000
+you're being	3	0.049633
+magnitude	3	0.000000
+yah yah	3	0.000000
+bender what happened	3	0.049558
+to be back	3	0.049558
+make these	3	0.049633
+my chance to	3	0.049558
+bender may	3	0.049633
+means a	3	0.049633
+isn't what	3	0.049633
+career chips	3	0.049633
+this could be a good thing	3	0.000000
+identities	3	0.000000
+fight back	3	0.049633
+the first woman ever to	3	0.049373
+my parents were	3	0.000000
+torpedo	3	0.049698
+wow this	3	0.049633
+my delivery	3	0.049633
+is completely	3	0.049633
+roll over	3	0.049633
+smile and	3	0.000000
+colours	3	0.049698
+got through	3	0.049633
+first bender then flexo then fry	3	0.000000
+cool your	3	0.049633
+that monument	3	0.000000
+no there's	3	0.049633
+you can count on	3	0.049472
+lost you	3	0.049633
+frijoles	3	0.049698
+our one	3	0.000000
+we haven't	3	0.049633
+help it	3	0.049633
+i'll call him	3	0.000000
+into the ship	3	0.000000
+we're out of fuel	3	0.000000
+parents were	3	0.049633
+this time it's	3	0.000000
+is it about	3	0.000000
+ran away	3	0.049633
+so why	3	0.000000
+he ate	3	0.000000
+this my	3	0.000000
+our old	3	0.049633
+zoidberg we	3	0.049633
+been doing	3	0.000000
+mom and dad	3	0.000000
+bender what's	3	0.049633
+the first woman ever to play major league blernsball	3	0.000000
+my boot	3	0.049633
+everyone knows	3	0.049633
+oh adlai	3	0.000000
+is beautiful	3	0.049633
+being so	3	0.049633
+fry i know	3	0.049558
+my parents are	3	0.049558
+fiancé	3	0.000000
+it's amazing it's like a textbook on evolution	3	0.000000
+so adorable	3	0.049633
+and you were	3	0.049558
+susan	3	0.049698
+pandas	3	0.000000
+very sweet	3	0.000000
+have to wear	3	0.049558
+talk to you about	3	0.000000
+it we have to	3	0.000000
+but i'm still	3	0.000000
+you were there	3	0.049558
+out of fuel	3	0.049558
+make sure you	3	0.049558
+this tree	3	0.049633
+it's alive	3	0.000000
+stay back	3	0.049633
+to let them	3	0.049558
+for your information	3	0.049558
+it about	3	0.049633
+and look for	3	0.000000
+we don't need to	3	0.000000
+ever to play	3	0.049558
+chaz	3	0.049698
+my wrist	3	0.049633
+i can hear	3	0.049558
+i can't just	3	0.049558
+we'll need a	3	0.049558
+look i don't know	3	0.000000
+the asteroid	3	0.000000
+were there and	3	0.000000

@@ -1,0 +1,7 @@
+that	11	0.049513
+out	6	0.048349
+read	3	0.049105
+he's dead jim	3	0.000000
+jim	3	0.041849
+general	3	0.042438
+he's dead	3	0.042506

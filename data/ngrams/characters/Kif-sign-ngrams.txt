@@ -1,0 +1,43 @@
+i	94	0.004145
+sir	39	0.000000
+my	37	0.028889
+oh	37	0.000051
+amy	36	0.000000
+have	25	0.013838
+well	21	0.002138
+with	21	0.047279
+love	19	0.000213
+um	17	0.000039
+yes	12	0.014237
+captain	11	0.001448
+when	10	0.037095
+actually	8	0.006903
+i have	8	0.026805
+of my	7	0.013117
+wong	6	0.010900
+is the	6	0.036934
+family	6	0.010549
+have a	6	0.043660
+kif	5	0.045939
+mrs	5	0.016098
+mrs wong	5	0.012789
+i have a	5	0.021286
+rustlers	5	0.012943
+sir i	4	0.025264
+shall i	4	0.024677
+run	4	0.045300
+the rustlers	4	0.022987
+smizmar	4	0.023549
+amy i	4	0.025861
+well um	3	0.000000
+my smizmar	3	0.000000
+run program kif	3	0.000000
+my love	3	0.045893
+my family	3	0.045338
+um sir	3	0.000000
+that--	3	0.048225
+program	3	0.044815
+manly	3	0.042652
+nervous	3	0.049407
+buggalo	3	0.048225
+i'll get	3	0.048170

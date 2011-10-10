@@ -1,0 +1,120 @@
+of	148	0.001021
+it's	71	0.002457
+sweet	29	0.000000
+professor	28	0.000037
+we're	24	0.037169
+mon	24	0.000001
+zoidberg	21	0.000783
+only	20	0.048612
+been	20	0.015381
+way	19	0.013351
+man	19	0.043126
+people	19	0.007868
+planet	15	0.025403
+business	14	0.000499
+we'll	14	0.026999
+day	14	0.019090
+woman	13	0.001691
+amy	13	0.013123
+work	12	0.048133
+last	12	0.023409
+better	12	0.046308
+company	11	0.002207
+limbo	10	0.001268
+body	10	0.032761
+okay	10	0.033513
+planet express	9	0.007313
+express	9	0.009365
+gone	9	0.020229
+office	9	0.002969
+brain	8	0.027972
+wife	7	0.013345
+'em	7	0.041005
+ha	7	0.011021
+barbados	7	0.005816
+bureaucracy	7	0.004702
+inspector	7	0.006023
+bender's	7	0.032232
+labarbara	7	0.004376
+the professor	6	0.036565
+ha ha	6	0.011751
+order	6	0.039143
+manwich	6	0.007414
+kwanzaa	6	0.010623
+mighty	6	0.023552
+uh-oh	6	0.035905
+green	6	0.017665
+fat	6	0.046325
+four	6	0.048939
+to work	6	0.032559
+slim	5	0.021052
+conrad	5	0.020327
+cat	5	0.025869
+bureaucrat	5	0.019624
+5	5	0.025008
+central	5	0.018941
+the office	5	0.016375
+and it's	5	0.035658
+the central bureaucracy	5	0.014140
+ha ha ha	5	0.015763
+for that	5	0.026614
+jamaican	5	0.014167
+bird	5	0.021798
+the central	5	0.015230
+the last	5	0.048485
+waste	5	0.025869
+grade	5	0.015821
+in time	5	0.039177
+been a	4	0.049967
+us with	4	0.029578
+jah	4	0.000000
+of business	4	0.026464
+but not	4	0.049967
+toxic	4	0.029636
+lobster	4	0.038168
+item	4	0.031896
+time you	4	0.038027
+ha ha ha ha	4	0.024503
+is for	4	0.040771
+cost	4	0.043874
+inspector 5	4	0.028508
+hermes conrad	4	0.027470
+toxic waste	4	0.023626
+bureaucrats	4	0.024558
+jamaica	4	0.026495
+licence	4	0.027510
+barbados slim	4	0.028508
+paper	4	0.046972
+gotta do	4	0.031817
+a sugar cane	3	0.000000
+it's been a	3	0.045024
+night's	3	0.000000
+my boy	3	0.048712
+you to do	3	0.046807
+ha ha ha ha ha	3	0.000000
+day off	3	0.043311
+stamp	3	0.048769
+babylon	3	0.000000
+what in	3	0.045056
+mon it's	3	0.043311
+fathers	3	0.046897
+the event	3	0.048712
+a green snake	3	0.043295
+to do the	3	0.045024
+sweating	3	0.043325
+rage	3	0.045083
+torso	3	0.043325
+from the central bureaucracy	3	0.000000
+the event of	3	0.046807
+chief executive officer	3	0.043295
+in the event of	3	0.044983
+as this	3	0.046855
+company is	3	0.000000
+a tie	3	0.048712
+where in	3	0.000000
+cane	3	0.048769
+so your	3	0.045056
+my manwich	3	0.043311
+the munchies	3	0.000000
+munchies	3	0.000000
+kingston	3	0.000000

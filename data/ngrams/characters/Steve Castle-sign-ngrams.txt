@@ -1,0 +1,18 @@
+the	28	0.034584
+was	8	0.024261
+to the	6	0.018403
+80's	5	0.000000
+delivery	5	0.016637
+business	5	0.014670
+guy	5	0.018641
+sheep	4	0.023155
+i was	4	0.049343
+image	3	0.042191
+to the top	3	0.041602
+blank	3	0.042777
+company	3	0.048350
+plan	3	0.049797
+cure	3	0.042308
+the top	3	0.042569
+sharks	3	0.000000
+top	3	0.047191

@@ -1,0 +1,14 @@
+of	20	0.001364
+not	10	0.007826
+we	9	0.027832
+momon	6	0.007043
+she	4	0.035470
+wipe castle	3	0.041664
+the geysers	3	0.000000
+geysers	3	0.000000
+plastic	3	0.041865
+'tis	3	0.042360
+)	3	0.044591
+wipe	3	0.042658
+we must	3	0.043727
+castle	3	0.042959

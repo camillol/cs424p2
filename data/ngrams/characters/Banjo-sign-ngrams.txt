@@ -1,0 +1,14 @@
+link between	4	0.000000
+has	4	0.028688
+between	4	0.023118
+link	4	0.022458
+evolution	4	0.022539
+the missing	3	0.041298
+homo	3	0.041472
+missing link	3	0.041380
+the missing link between	3	0.000000
+apes	3	0.041394
+missing	3	0.042421
+found	3	0.044744
+no one	3	0.045325
+and this	3	0.043125

@@ -1,0 +1,18 @@
+clamps	18	0.000011
+this	15	0.023033
+bender	9	0.030480
+hey	8	0.022814
+whoa	7	0.006810
+see	6	0.033255
+gonna	5	0.044909
+a little	5	0.025128
+little	5	0.040274
+huh	4	0.037114
+whoa whoa	4	0.026667
+mafia	4	0.023606
+table	3	0.045607
+cigars	3	0.043169
+blotto	3	0.041901
+if he	3	0.045139
+down the	3	0.047337
+joey	3	0.041722

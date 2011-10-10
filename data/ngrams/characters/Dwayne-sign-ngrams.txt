@@ -1,0 +1,8 @@
+is	6	0.041186
+el	5	0.012399
+el chupanibre	5	0.012285
+chupanibre	5	0.012336
+legend	3	0.041634
+perhaps	3	0.044140
+kill	3	0.048235
+the legend	3	0.041279

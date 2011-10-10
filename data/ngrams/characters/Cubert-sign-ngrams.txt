@@ -1,0 +1,19 @@
+a	46	0.011749
+we	18	0.016905
+impossible	8	0.002749
+dad	8	0.003080
+why	7	0.044779
+awesome	5	0.013488
+like you	4	0.036150
+name	4	0.047255
+'em	4	0.036055
+faster	4	0.027962
+idiot	4	0.030960
+get 'em	3	0.042639
+the engines	3	0.042369
+your reflexes	3	0.000000
+engines	3	0.044635
+wanna be	3	0.047741
+duh	3	0.046085
+is all	3	0.048337
+reflexes	3	0.041845

@@ -1,0 +1,19 @@
+your	12	0.004712
+with	7	0.037735
+your hands	5	0.012933
+hands	5	0.014427
+with your	5	0.013921
+you're under	4	0.022862
+come out	4	0.022862
+you're under arrest	4	0.022734
+hands up	4	0.022724
+under	4	0.026706
+arrest	4	0.023271
+with your hands up	4	0.022518
+your hands up	4	0.022601
+under arrest	4	0.022907
+come out with your	4	0.022518
+out with	4	0.024320
+come out with your hands up	3	0.000000
+freeze	3	0.042714
+nose	3	0.044563

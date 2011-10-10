@@ -1,0 +1,7 @@
+wake up	10	0.000094
+up	10	0.000141
+wake	10	0.000131
+up wake up	8	0.000580
+wake up wake up	8	0.000000
+wake up wake up wake up	6	0.000000
+wake up wake up wake up wake up	4	0.000000

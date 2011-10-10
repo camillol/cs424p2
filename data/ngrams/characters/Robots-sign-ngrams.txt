@@ -1,0 +1,6 @@
+ooga	6	0.000000
+ooga ooga	5	0.000000
+hey	4	0.024944
+ooga ooga ooga	4	0.000000
+ooga ooga ooga ooga	3	0.000000
+us	3	0.045635

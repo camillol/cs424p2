@@ -1,0 +1,4 @@
+whale	5	0.012617
+mushu	4	0.022308
+biologist	3	0.041212
+whale biologist	3	0.041178

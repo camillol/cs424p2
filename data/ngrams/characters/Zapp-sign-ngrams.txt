@@ -1,0 +1,135 @@
+the	262	0.025381
+a	188	0.039843
+and	133	0.002233
+of	132	0.002011
+kif	67	0.000000
+leela	50	0.000001
+well	39	0.003415
+as	38	0.006218
+you're	34	0.030730
+will	26	0.023813
+or	24	0.007288
+them	22	0.007783
+very	19	0.001282
+little	18	0.014671
+ship	15	0.001314
+has	14	0.048786
+woman	14	0.000761
+their	13	0.012889
+captain	13	0.003220
+men	12	0.001935
+a little	12	0.021633
+like a	11	0.042590
+number	11	0.003397
+zapp	11	0.002467
+well well	11	0.000684
+order	10	0.003229
+perhaps	10	0.005676
+mmm	9	0.006401
+captain's	9	0.001626
+you and	8	0.028268
+she's	8	0.043038
+neutral	8	0.002651
+brannigan's	8	0.002736
+yet	8	0.023807
+of you	8	0.040923
+law	8	0.004344
+brannigan	8	0.008934
+i'll be	7	0.024867
+wave	7	0.006144
+soldier	7	0.004628
+zapp brannigan	7	0.011102
+uh-huh	7	0.009652
+battle	7	0.007383
+velour	7	0.004203
+stand	7	0.018879
+prepare	7	0.010533
+star	6	0.042882
+lower	6	0.016564
+date	6	0.029068
+oh god	6	0.027641
+i'd like	6	0.037226
+a woman	6	0.014522
+lemon	6	0.008141
+alien	6	0.026803
+prepare to	6	0.012046
+lieutenant	6	0.007881
+private	6	0.012266
+leela i	6	0.026882
+erotic	5	0.014947
+blow	5	0.031388
+president	5	0.047741
+well well well	5	0.014565
+female	5	0.041668
+sex	5	0.033258
+guilty	5	0.018728
+sensual	5	0.013994
+chop	5	0.015443
+brannigan's law	5	0.013105
+known	5	0.046473
+command	5	0.017573
+met	5	0.039420
+the ship's	4	0.029972
+human race	4	0.028975
+loyal	4	0.027863
+kif i'm	4	0.023553
+scissors	4	0.024351
+a very	4	0.042911
+you kif	4	0.023553
+man's	4	0.025193
+spare	4	0.026948
+service	4	0.033907
+realise	4	0.046325
+double	4	0.036145
+sexy	4	0.044939
+winner is	4	0.029972
+court	4	0.044939
+the human race	4	0.028162
+some of	4	0.047126
+very sensual	4	0.000000
+kif old	4	0.000000
+arrest	4	0.037308
+kif's	4	0.031783
+paper	4	0.043587
+for god's	4	0.033133
+ship's	4	0.029770
+the human	4	0.047126
+won't have	4	0.026148
+uniform	4	0.031783
+god's	4	0.037308
+all that	4	0.041575
+heroic	3	0.046293
+the neutral	3	0.043174
+have sex	3	0.044773
+of you are	3	0.000000
+some very	3	0.043174
+your planet	3	0.049854
+wreckage	3	0.000000
+some very sensual	3	0.000000
+ex-lover	3	0.000000
+adversary	3	0.000000
+wave of	3	0.048112
+the alien	3	0.048112
+codes	3	0.044692
+using the	3	0.046418
+come kif	3	0.043174
+what's your name	3	0.043216
+spacesuit	3	0.043135
+in command	3	0.046418
+maneuver	3	0.000000
+lee	3	0.043135
+around and	3	0.046418
+sex with	3	0.048112
+spare me	3	0.044773
+crawling back	3	0.043174
+the captain's	3	0.048112
+star date	3	0.000000
+boarded	3	0.000000
+fought	3	0.047940
+for your planet	3	0.000000
+of war	3	0.046418
+loyalty	3	0.044692
+a man's	3	0.000000
+seductive	3	0.000000
+tent	3	0.049633
+kif you're	3	0.048112

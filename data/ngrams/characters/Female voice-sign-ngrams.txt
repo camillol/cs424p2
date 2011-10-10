@@ -1,0 +1,5 @@
+la	7	0.003697
+la la	6	0.000000
+la la la	5	0.000000
+la la la la	4	0.000000
+la la la la la	3	0.000000

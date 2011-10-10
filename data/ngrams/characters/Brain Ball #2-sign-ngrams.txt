@@ -1,0 +1,9 @@
+air	3	0.040001
+he	3	0.045290
+bounced	3	0.039735
+he bounced	3	0.000000
+metres	3	0.039743
+the air	3	0.039787
+in the air	3	0.039626
+in the	3	0.045016
+metres in the air	3	0.000000

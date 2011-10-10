@@ -1,0 +1,7 @@
+in	5	0.040113
+20th	3	0.041618
+century	3	0.041921
+class	3	0.041478
+the 20th century	3	0.041300
+the 20th	3	0.041371
+20th century	3	0.041561

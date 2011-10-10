@@ -1,0 +1,15 @@
+the	31	0.009508
+of	15	0.031411
+in	12	0.028939
+now	8	0.021721
+robot	7	0.010302
+here	6	0.046188
+will	5	0.047022
+do you	5	0.022909
+demons	4	0.000000
+hell	4	0.031476
+to robot	3	0.041952
+mercy	3	0.042406
+robot hell	3	0.042187
+with your	3	0.048682
+brother	3	0.045480

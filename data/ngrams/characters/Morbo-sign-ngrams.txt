@@ -1,0 +1,25 @@
+morbo	15	0.000054
+are	12	0.016903
+will	11	0.004458
+human	9	0.002793
+our	9	0.017578
+puny	7	0.004105
+destroy	6	0.008506
+linda	6	0.007298
+has	6	0.023826
+news	6	0.011766
+will destroy	5	0.012722
+humans	4	0.033666
+earthlings	4	0.023010
+morbo's	4	0.000000
+mom	4	0.037732
+puny human	3	0.000000
+do not	3	0.045620
+i will destroy	3	0.041993
+our top	3	0.041990
+will destroy you	3	0.041993
+nixon	3	0.048348
+pathetic	3	0.045533
+our top story	3	0.000000
+top story	3	0.041771
+race	3	0.049807

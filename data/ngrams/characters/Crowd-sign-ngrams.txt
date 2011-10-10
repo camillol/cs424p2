@@ -1,0 +1,13 @@
+bean	15	0.000024
+bean bean	13	0.000000
+bean bean bean	11	0.000000
+bean bean bean bean	9	0.000000
+bean bean bean bean bean	7	0.000000
+claw-plach	6	0.006388
+claw-plach claw-plach	5	0.000000
+bean bean bean bean bean bean	5	0.000000
+claw-plach claw-plach claw-plach	4	0.000000
+bean bean bean bean bean bean bean	4	0.000000
+bean bean bean bean bean bean bean bean	3	0.000000
+zoidberg	3	0.044050
+claw-plach claw-plach claw-plach claw-plach	3	0.000000

@@ -1,0 +1,14 @@
+)	8	0.002291
+his	8	0.003791
+voice	8	0.002265
+voice )	8	0.002206
+(in	8	0.002222
+(in his	7	0.000000
+raspy	4	0.000000
+raspy voice )	4	0.000000
+why	4	0.041885
+normal	4	0.023535
+(in his normal voice )	4	0.000000
+the die	3	0.041515
+(in his raspy voice )	3	0.000000
+die	3	0.048975

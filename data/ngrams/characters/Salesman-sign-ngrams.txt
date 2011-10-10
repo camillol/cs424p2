@@ -1,0 +1,5 @@
+thundercougarfalconbird	4	0.000000
+right	4	0.047946
+sir	4	0.030390
+woman	3	0.047579
+beauty	3	0.042167

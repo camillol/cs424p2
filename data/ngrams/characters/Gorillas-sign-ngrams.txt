@@ -1,0 +1,5 @@
+love	4	0.012887
+love mom	4	0.000000
+mom	4	0.012776
+love mom love mom	3	0.000000
+mom love	3	0.030918

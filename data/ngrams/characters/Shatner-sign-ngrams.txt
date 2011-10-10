@@ -1,0 +1,10 @@
+please	4	0.032421
+we're	4	0.042595
+good	4	0.046664
+please stand up	3	0.000000
+good good	3	0.041634
+stand	3	0.044773
+please stand	3	0.041458
+shady	3	0.000000
+stand up	3	0.041575
+slim	3	0.042320

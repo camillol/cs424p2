@@ -1,0 +1,7 @@
+box	6	0.007396
+universe	6	0.008338
+our	5	0.026197
+the box	3	0.042504
+containing	3	0.041448
+our universe	3	0.041852
+box containing	3	0.041368

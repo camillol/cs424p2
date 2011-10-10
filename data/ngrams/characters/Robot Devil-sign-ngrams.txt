@@ -1,0 +1,22 @@
+you	45	0.019295
+your	18	0.009165
+bender	14	0.005102
+just	13	0.018923
+robot	11	0.002767
+hands	11	0.000611
+as	10	0.022736
+hell	10	0.001392
+you'll	7	0.010888
+back	7	0.042920
+ah	5	0.032719
+give	5	0.041580
+deal	5	0.016400
+robot hell	5	0.012876
+ironic	4	0.023298
+fiddle	4	0.023049
+my hands	4	0.023685
+return	3	0.049849
+a deal	3	0.044230
+hell is	3	0.043981
+just sign	3	0.041797
+just one	3	0.043734

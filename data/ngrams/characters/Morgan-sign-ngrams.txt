@@ -1,0 +1,9 @@
+you	24	0.020849
+dirty	7	0.004161
+fry	6	0.036030
+bureaucrat	5	0.012894
+boy	4	0.029705
+you will	3	0.046179
+mr bender	3	0.042447
+filthy	3	0.045405
+dirty boy	3	0.000000

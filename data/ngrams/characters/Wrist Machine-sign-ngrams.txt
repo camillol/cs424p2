@@ -1,0 +1,4 @@
+hot	6	0.001418
+hot hot	5	0.004081
+hot hot hot	4	0.011184
+hot hot hot hot	3	0.028987

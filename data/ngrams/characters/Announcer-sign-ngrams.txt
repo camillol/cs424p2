@@ -1,0 +1,34 @@
+the	50	0.000068
+now	14	0.001560
+by	13	0.000555
+for	11	0.036583
+to you	8	0.003381
+brought to you by	8	0.002332
+you by	8	0.002354
+brought	8	0.002648
+new	7	0.011527
+is brought to you by	6	0.007115
+in the	6	0.046632
+for the	5	0.026649
+this week	4	0.022791
+futurama is brought to you by	4	0.000000
+week	4	0.026094
+universe	4	0.038349
+human	4	0.040058
+futurama	4	0.023988
+and now	4	0.029590
+this week in the universe	3	0.000000
+ladies and	3	0.045782
+presents	3	0.042271
+gentlemen	3	0.047128
+hypnotoad	3	0.042121
+bring you	3	0.042437
+the winner	3	0.044323
+winner is	3	0.042903
+and the winner	3	0.043250
+teeth	3	0.043791
+winner	3	0.045515
+ladies and gentlemen	3	0.045383
+and the winner is	3	0.042789
+lightspeed	3	0.041823
+in the universe	3	0.043735

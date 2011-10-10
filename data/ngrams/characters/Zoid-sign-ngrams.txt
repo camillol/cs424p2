@@ -1,0 +1,17 @@
+is	13	0.031213
+cut	8	0.002736
+he	6	0.042955
+cut cut	5	0.000000
+thank	4	0.034019
+die	4	0.032472
+oy	4	0.023774
+doctor	4	0.027098
+nephew	4	0.023195
+thank you	4	0.031951
+action	3	0.046421
+funny	3	0.049735
+oscar	3	0.042872
+this is a	3	0.047781
+cut cut it	3	0.000000
+son	3	0.048206
+cut it	3	0.043958

@@ -1,0 +1,13 @@
+go	13	0.000140
+go go	11	0.000300
+go go go	9	0.000919
+go go go go	7	0.003003
+go go go go go	6	0.005337
+go go go go go go	5	0.000000
+drink the	4	0.021716
+drink	4	0.022505
+yeah	4	0.028804
+go go go go go go go	4	0.000000
+day	3	0.045573
+birthday	3	0.041503
+go go go go go go go go	3	0.000000

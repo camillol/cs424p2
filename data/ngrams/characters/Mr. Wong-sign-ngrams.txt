@@ -1,0 +1,17 @@
+we	15	0.019272
+she	7	0.009777
+big	5	0.033421
+done	4	0.037801
+fat	4	0.030128
+star	4	0.030690
+damn	4	0.033632
+already	4	0.035667
+free	4	0.032577
+dirty	4	0.025202
+i smell	3	0.042401
+we own	3	0.041762
+storm	3	0.043697
+feministas	3	0.043697
+miniature	3	0.043046
+sabotage	3	0.042190
+i smell sabotage	3	0.000000

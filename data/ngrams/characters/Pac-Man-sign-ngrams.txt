@@ -1,0 +1,2 @@
+wakka	6	0.005847
+wakka wakka	4	0.020754

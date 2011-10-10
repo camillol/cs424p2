@@ -1,0 +1,7 @@
+on	8	0.040996
+kids	7	0.004654
+leela	6	0.024696
+alien	3	0.046294
+the kids	3	0.042182
+orphans	3	0.042564
+orphanarium	3	0.042865

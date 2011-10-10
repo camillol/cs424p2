@@ -1,0 +1,27 @@
+the	62	0.026911
+of	30	0.037075
+one	15	0.009332
+was	14	0.018121
+as	11	0.027339
+universe	10	0.001943
+the universe	9	0.001928
+will	9	0.027533
+had	8	0.010096
+must	8	0.008913
+i was	7	0.023502
+brain	6	0.011902
+being	5	0.029897
+help	5	0.045945
+of your	5	0.021513
+talk	5	0.024759
+earth	5	0.042138
+code	5	0.014672
+of the universe	4	0.025569
+attack	4	0.028839
+help us	4	0.025329
+doomed	4	0.027728
+the code	4	0.023814
+brains	3	0.048124
+the brain	3	0.046277
+cats	3	0.044290
+as it	3	0.048613

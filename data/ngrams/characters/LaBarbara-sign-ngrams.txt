@@ -1,0 +1,14 @@
+a	28	0.037700
+no	15	0.004001
+your	14	0.012447
+hermes	11	0.000596
+husband	10	0.000794
+now	9	0.029085
+man	9	0.004415
+that's	8	0.031759
+my man	5	0.012950
+barbados	4	0.023785
+look at	4	0.033065
+that's my	3	0.047774
+now you	3	0.043702
+that's my man	3	0.000000

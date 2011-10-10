@@ -1,0 +1,18 @@
+the	17	0.002434
+femputer	7	0.003849
+women	6	0.007038
+by	5	0.017607
+will	5	0.019224
+men	5	0.013036
+will be	4	0.024307
+as	4	0.042495
+snu-snu	4	0.022575
+the men	3	0.041356
+the large	3	0.041209
+then the	3	0.041837
+snu-snu'd	3	0.000000
+death	3	0.045377
+will be snu-snu'd by the	3	0.000000
+large	3	0.041916
+the large women	3	0.000000
+by the	3	0.044079

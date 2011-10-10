@@ -1,0 +1,12 @@
+the	9	0.027524
+now	5	0.019445
+and now	4	0.022631
+brannigan	3	0.041949
+now the	3	0.041236
+futurama	3	0.041276
+transcredible	3	0.000000
+and now the	3	0.040736
+the transcredible exploits of zapp brannigan	3	0.000000
+exploits	3	0.000000
+zapp	3	0.042289
+zapp brannigan	3	0.041470
