@@ -32,7 +32,6 @@ final int seasonEpsViewHeightNgram = 60;
 
 SeasonEpsView seasonViews[];
 Animator seasonY[];
-Animator seasonH;
 Button overallButton;
 
 PieChart pieChart;
@@ -40,11 +39,12 @@ PieChart pieChart;
 NgramTable ngrams;
 HashMap<Character,CharNgramTable> charNgrams;
 boolean ngramMode = false;
+Animator ngramModeAnimator;
 Ngram activeNgram = null;
-Button ngramButton;
 
+View ngramView;
+Button ngramButton;
 ListBox ngramList;
-Animator ngramListH;
 
 void setupG2D()
 {
@@ -62,6 +62,7 @@ void setup()
   loadNgrams();
   characters.setAllActive(true);
   viewTotalLines = new Animator();
+  ngramModeAnimator = new Animator(0);
   
   size(1024, 768);
   setupG2D();
@@ -76,19 +77,24 @@ void setup()
   overallButton.myFlag = true;
   rootView.subviews.add(overallButton);
 
-  ngramButton = new Button(490, 10, 140, 20, "n-grams", 18, false, "n-grams");
-  rootView.subviews.add(ngramButton);
-  
   seasonViews = new SeasonEpsView[seasons.length];
   seasonY = new Animator[seasons.length];
-  seasonH = new Animator(seasonEpsViewHeight);
   for (int i = 0; i < seasons.length; i++) {
     float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
     seasonViews[i] = new SeasonEpsView(30, y, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]);
     rootView.subviews.add(seasonViews[i]);
     seasonY[i] = new Animator(y);
   }
+  
+  ngramView = new View(30, ngramY(), seasonEpsViewWidth, 240);
+  rootView.subviews.add(ngramView);
+  
+  ngramButton = new Button(0, 0, 140, 20, "n-grams", 18, false, "n-grams");
+  ngramView.subviews.add(ngramButton);
 
+  ngramList = new ListBox(0, 30, 200, 200, new MissingListDataSource("select a character"));
+  ngramView.subviews.add(ngramList);
+  
   PImage myImage;
   
   Iterator i = characters.iterator();
@@ -110,9 +116,6 @@ void setup()
 
   pieChart=new PieChart(750,500,200,200);
   rootView.subviews.add(pieChart);
-  
-  ngramList = new ListBox(30, height, 200, 200, new MissingListDataSource("select a character"));
-  rootView.subviews.add(ngramList);
   
   //rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
   //uncomment the following two lines to add the interaction chart(basically a chart that has char coded color lines for each dialog he has in the episode)
@@ -174,6 +177,17 @@ void loadNgrams()
   }
 }
 
+float seasonViewHeight()
+{
+  return map(ngramModeAnimator.value, 0.0, 1.0, seasonEpsViewHeight, seasonEpsViewHeightNgram);
+}
+
+float ngramY()
+{
+  return map(ngramModeAnimator.value, 0.0, 1.0, height - 30, seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length);
+//  return seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length;
+}
+
 void draw()
 {
   background(shipMain);    /* seems to be needed to actually clear the frame */
@@ -181,9 +195,10 @@ void draw()
   
   for (int i = 0; i < seasons.length; i++) {
     seasonViews[i].y = seasonY[i].value;
-    seasonViews[i].setHeight(seasonH.value);
+    seasonViews[i].setHeight(seasonViewHeight());
   }
-    
+  ngramView.y = ngramY();
+  
   //tint(255,255);
   noStroke();
   rootView.draw();
@@ -272,11 +287,7 @@ void retargetSeasonYs()
 void setNgramMode(boolean ngmode)
 {
   ngramMode = ngmode;
-  if (ngramMode) {
-    seasonH.target(seasonEpsViewHeightNgram);
-  } else {
-    seasonH.target(seasonEpsViewHeight);
-  }
+  ngramModeAnimator.target(ngramMode ? 1.0 : 0.0);
   retargetSeasonYs();
 }
 
