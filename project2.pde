@@ -35,6 +35,7 @@ Button overallButton;
 
 PieChart pieChart;
 
+NgramTable ngrams;
 
 void setupG2D()
 {
@@ -46,10 +47,13 @@ void setupG2D()
 void setup()
 {
   data=new DataClass("files");
+  
   loadCharacters();
   loadSeasons();
   characters.setAllActive(true);
   viewTotalLines = new Animator();
+  
+  ngrams = new NgramTable("ngrams/sign-ngrams.txt");
   
   size(1024, 768);
   setupG2D();
