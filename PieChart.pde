@@ -57,8 +57,7 @@ class PieChart extends View
                                 
                             }
                         }
-             
-  			
+               			
                         arc(centerX,centerY,diameter,diameter,prevAngle,prevAngle+radians(thisAngle));
 			prevAngle+=radians(thisAngle);
 			

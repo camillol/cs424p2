@@ -32,6 +32,8 @@ Button overallButton;
 
 ArrayList testAngles=new ArrayList();
 
+PieChart pieChart;
+
 
 void setupG2D()
 {
@@ -93,7 +95,8 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
-  rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
+  pieChart=new PieChart(750,520,200,200,testAngles,characters);
+  rootView.subviews.add(pieChart);
   
   
   
@@ -140,6 +143,17 @@ void draw()
   
   for (int i = 0; i < seasons.length; i++) {
     seasonViews[i].y = seasonY[i].value;
+    if(seasonViews[i].button.myFlag==true)
+    {
+      Season season=seasonViews[i].season;
+      int seasonNumber=season.number;
+      
+      pieChart.replaceAnglesList(data.getSeasonDataAngles("S0"+seasonNumber));
+    }
+  }
+  if(overallButton.myFlag==true)
+  {
+    pieChart.replaceAnglesList(data.getWholeAnglesList());
   }
   
   //tint(255,255);
