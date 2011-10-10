@@ -46,7 +46,7 @@ class DataClass
           
           processCharacterAppearance(folderName);
           
-          processEpisodeCharacters(folderName);
+//          processEpisodeCharacters(folderName);
         }
         
         
