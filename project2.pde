@@ -98,13 +98,17 @@ void setup()
   rootView.subviews.add(new ListBox(680,220,300,200, characters));
 
 
-  pieChart=new PieChart(750,520,200,200);
+  pieChart=new PieChart(750,500,200,200);
   rootView.subviews.add(pieChart);
   
   ngramList = new ListBox(100, 500, 200, 200, new MissingListDataSource("select a character"));
   rootView.subviews.add(ngramList);
   
   //rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
+  //uncomment the following two lines to add the interaction chart(basically a chart that has char coded color lines for each dialog he has in the episode)
+//  ArrayList episodeCharacters=data.getEpisodeCharactersList("S01E01");
+//  rootView.subviews.add(new InteractionChart(40,150,700,150,episodeCharacters));
+
 
 
   dropMenuView();
