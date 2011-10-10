@@ -86,13 +86,12 @@ class DataClass
           for(int i=0;i<files.size();i++)
           {
             File episodeFile=(File)files.get(i);
-            System.out.println(episodeFile.getAbsolutePath());
             String inputFileName=episodeFile.getAbsolutePath();
                     
             
             String[] inputFileNameParts=episodeFile.getAbsolutePath().split("/");
-            String fileName=inputFileNameParts[10];
-            String seasonName=inputFileNameParts[9];
+            String fileName=inputFileNameParts[inputFileNameParts.length-1];
+            String seasonName=inputFileNameParts[inputFileNameParts.length-2];
             String keyPart=fileName.split(" ")[0];
             float totalLines=0;
             if(seasonMap.containsKey(seasonName))
@@ -135,7 +134,6 @@ class DataClass
           file=new File(dataPath(folderName));
           ArrayList files=new ArrayList();
           
-
           listFiles(file,files);
           
           for(int j=0;j<files.size();j++)
@@ -148,7 +146,6 @@ class DataClass
             String statsFileName=inputFileNameSplit[2];
             String[] statsFileNameSplit=statsFileName.split(":");
             String keyPart=statsFileNameSplit[0];
-
 
             String[] seasonFileLines=loadStrings(inputFileName);
             HashMap tempSeasonMap=new HashMap();
