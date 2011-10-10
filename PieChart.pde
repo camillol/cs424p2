@@ -6,8 +6,7 @@ class PieChart extends View
 	float centerX,centerY;
 	float diameter;
 
-        CharacterList characters;
-	
+        HashMap charLineAnimators;
 
 	PieChart(float x_,float y_, float w_,float h_, ArrayList angles,CharacterList characters)
 	{
@@ -16,8 +15,25 @@ class PieChart extends View
 		centerX= w_/2;
 		centerY= h_/2;
 		diameter=min(w_,h_);
-                this.characters=characters;
+                
+                charLineAnimators = new HashMap();
+                Iterator it = characters.iterator();
+                while (it.hasNext()) {
+                  Character character = (Character)it.next();
+                  charLineAnimators.put(character, new Animator());
+                }
 	}
+
+        void updateCharAnimators()
+        {
+          if (viewTarget == null) {
+            // for vivek: go through characters and do
+            // 
+          } else if (seasons[0].getClass().isInstance(viewTarget)) {
+            Season season = (Season)viewTarget;
+            //
+          }
+        }
 	
         void replaceAnglesList(ArrayList newAngles)
         {
@@ -64,7 +80,5 @@ class PieChart extends View
 			
 		}
 	}
-
-
 
 }

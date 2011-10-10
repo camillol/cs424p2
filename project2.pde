@@ -9,6 +9,9 @@ DataClass data;
 
 View rootView;
 
+Object viewTarget;  // null when overall, Season when season, Episode when episode
+Animator viewTotalLines;
+
 CharacterList characters;
 Season[] seasons;
 
@@ -30,8 +33,9 @@ SeasonEpsView seasonViews[];
 Animator seasonY[];
 Button overallButton;
 
-ArrayList testAngles=new ArrayList();
+PieChart piechart;
 
+ArrayList testAngles=new ArrayList();
 
 void setupG2D()
 {
@@ -42,17 +46,18 @@ void setupG2D()
 
 void setup()
 {
-  //data=new DataClass("files");
+  data=new DataClass("files");
   loadCharacters();
   loadSeasons();
   characters.setAllActive(true);
+  viewTotalLines = new Animator();
   
   size(1024, 768);
   setupG2D();
   
   smooth();
   
-  //testAngles=data.getWholeAnglesList();
+  testAngles=data.getWholeAnglesList();
 //  
 //  testAngles.add("Fry:"+80.0);
 //  testAngles.add("Leela:"+120.0);
@@ -93,13 +98,11 @@ void setup()
   
   rootView.subviews.add(new ListBox(750,300,200,200, characters));
 
-  //rootView.subviews.add(new PieChart(750,520,200,200,testAngles,characters));
-  
-  
-  
-  //rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
+  piechart = new PieChart(750,520,200,200,testAngles,characters);
+  rootView.subviews.add(piechart);
   dropMenuView();
 
+  setViewTarget(null);
 }
 
 void loadCharacters()
@@ -189,6 +192,19 @@ void mouseClicked()
   rootView.mouseClicked(mouseX, mouseY);
 }
 
+void setViewTarget(Object target)
+{
+  viewTarget = target;
+  if (target == null) {
+    viewTotalLines.target(0); // for vivek: total lines over all series
+    piechart.updateCharAnimators();
+  } else if (seasons[0].getClass().isInstance(target)) {
+    Season season = (Season)target;
+    viewTotalLines.target(0); // for vivek: total lines over this season
+    piechart.updateCharAnimators();
+  }
+}
+
 void buttonClicked(Object element)
 {
   if (characters.iterator().next().getClass().isInstance(element)) {
@@ -199,6 +215,7 @@ void buttonClicked(Object element)
   } else if (seasons[0].getClass().isInstance(element)) {
     Season season = (Season)element;
     int idx = season.number - 1;
+    setViewTarget(season);
     overallButton.myFlag = false;
     for (int i = 0; i < idx; i++) {
       seasonY[i].target((i-idx)*(seasonEpsViewHeight + seasonEpsViewVGap));
@@ -215,6 +232,7 @@ void buttonClicked(Object element)
         float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
         seasonY[i].target(y);
         seasonViews[i].button.myFlag = false;
+        setViewTarget(null);
       }
     }
   }
