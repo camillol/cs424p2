@@ -13,6 +13,8 @@ class Button extends View{
   boolean myVertical = false;
   boolean isDirectional = false;
   boolean hasDirection;
+  boolean selectButton = false;
+  boolean hasSelect;
 
   Button(float x_, float y_, float w_, float h_, Object element)
   {
@@ -36,7 +38,7 @@ class Button extends View{
     hasDirection = isDirectional;
   }
   
-  Button(float x_, float y_, float w_, float h_, Object element, int fontSize, boolean vertical, String theLabel)
+  Button(float x_, float y_, float w_, float h_, Object element, int fontSize, boolean vertical, String theLabel, boolean selectButton)
   {
     super(x_,y_,w_,h_);
     level = 1;
@@ -46,18 +48,18 @@ class Button extends View{
     fontA = loadFont("Helvetica-Light-"+myFontSize+".vlw");
     myElement = element;
     myVertical = vertical;
+    hasSelect = selectButton;
   }
   
-
   
   void drawContent()
   {
-    if (hasImage && !hasDirection) {
+    if (hasImage && !hasDirection && !hasSelect) {
       if (myFlag) tint(0, 153, 204, 126);
       else noTint();
       image(myImage,0,0);
     }
-    else if (hasImage && hasDirection) {
+    else if (hasImage && hasDirection && !hasSelect) {
       noTint(); 
       fill(0);
       stroke(1);
@@ -66,12 +68,14 @@ class Button extends View{
       rect(0-1,0-1,w+1,h+1);
       image(myImage,0,0);
     }
+
     if (hasText){
       textFont(fontA, myFontSize);
       fill(myFlag ? ship2Light : shipLight);
       noStroke();
       rect(0,0,w,h);
       fill(myFlag ? shipRed : shipRedDark);
+
       if (myVertical) {
         textAlign(LEFT, TOP);
         pushMatrix();
@@ -79,9 +83,9 @@ class Button extends View{
         rotate(3*HALF_PI);
         text(myLabel, 0, 0);
         popMatrix();
-      } else {
-        text(myLabel,0,0);
-      }
+      } 
+      if(hasText && !myVertical){
+        text(myLabel,0,0);}
     }
   }
 

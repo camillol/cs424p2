@@ -49,6 +49,9 @@ View ngramView;
 Button ngramButton;
 ListBox ngramList;
 
+Button resetButton;
+Button allActiveButton;
+
 void setupG2D()
 {
   g2 = ((PGraphicsJava2D)g).g2;
@@ -76,7 +79,7 @@ void setup()
   
   rootView = new View(0, 0, width, height);
   
-  overallButton = new Button(30, overallY(), 140, overallButtonH, "overall", 18, false, "Appearances");
+  overallButton = new Button(30, overallY(), 140, overallButtonH, "overall", 18, false, "Appearances",false);
   overallButton.myFlag = true;
 
   seasonViews = new SeasonEpsView[seasons.length];
@@ -92,7 +95,7 @@ void setup()
   ngramView = new View(30, ngramY(), seasonEpsViewWidth, ngramViewH);
   rootView.subviews.add(ngramView);
   
-  ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams");
+  ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams", false);
   ngramView.subviews.add(ngramButton);
 
   ngramList = new ListBox(0, 20, 200, ngramViewH-20-overallButtonH-10, new MissingListDataSource("select a character"));
@@ -114,8 +117,12 @@ void setup()
     n++;
   }
   
-  rootView.subviews.add(new ListBox(680,220,300,200, characters));
-
+  rootView.subviews.add(new ListBox(680,260,300,200, characters));
+  resetButton = new Button(680,220, 60, 15, "Reset", 18, false, "Reset",true);
+  allActiveButton = new Button(760 ,220, 160, 15, "View All Characters", 18, false, "View All Characters",true);
+  
+  rootView.subviews.add(allActiveButton);
+  rootView.subviews.add(resetButton);
 
   pieChart=new PieChart(750,500,200,200);
   rootView.subviews.add(pieChart);
@@ -329,11 +336,16 @@ void buttonClicked(Object element)
       setNgramMode(false);
     } else if (element.equals("n-grams")) {
       setNgramMode(true);
+    } else if (element.equals("Reset")){
+      characters.setAllActive(false);
+    } else if (element.equals("View All Characters")){
+      characters.setAllActive(true);
     }
   } else if (CharNgram.class.isInstance(element)) {
     CharNgram charNgram = (CharNgram)element;
     activeNgram = charNgram.ngram;
   }
+
 }
 
 void updateActiveTotals()

@@ -17,7 +17,7 @@ class SeasonEpsView extends View {
     barWidth = floor((w + barGap - (labelWidth + barGap)) / maxEps) - barGap;  // / maxEps or / season.episodes.length ?
     labelLong = "Season "+season.number;
     labelShort = "S"+season.number;
-    button = new Button(0,0,labelWidth,h, season, labelFontSize, true, labelLong);
+    button = new Button(0,0,labelWidth,h, season, labelFontSize, true, labelLong, false);
     subviews.add(button);
   }
   
