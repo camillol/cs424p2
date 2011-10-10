@@ -29,8 +29,9 @@ final int seasonEpsViewHeight = 100;
 final int seasonEpsViewVGap = 8;
 final int seasonEpsViewHeightNgram = 60;
 
-final int ngramViewH = 240;
+final int ngramListH = 200;
 final int overallButtonH = 20;
+final int ngramViewH = 20 + ngramListH + 10 + overallButtonH;
 
 SeasonEpsView seasonViews[];
 Animator seasonY[];
