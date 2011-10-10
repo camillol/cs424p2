@@ -55,7 +55,7 @@ class ListBox extends View{
     data = data_;
     PImage uparrow = loadImage("uparrow.png");
     PImage downarrow = loadImage("downarrow.png");
-    subviews.add(new ArrowButton(w-barSize, 0, barSize, barSize, "uparrow", uparrow, true, this)); 
+    subviews.add(new ArrowButton(w-barSize, 0, barSize, barSize, "uparrow", uparrow, true,  this)); 
     subviews.add(new ArrowButton(w-barSize, h-barSize, barSize, barSize, "downarrow", downarrow, true, this));
     subviews.add(new VBar(w-barSize-1, barSize, barSize+1, h-barSize*2, this));
   }
@@ -77,8 +77,8 @@ class ListBox extends View{
     fill(0);
    
     for(int i = myListCounter; i < myListCounter+(h/rowHeight) && i < data.count(); i++) {
-
       text(data.getText(i), 0, (i-myListCounter)*rowHeight); 
+      println("XXXXXXXXXXXX"+myListCounter);
     }
   }
   

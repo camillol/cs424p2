@@ -316,6 +316,7 @@ void setNgramMode(boolean ngmode)
 
 void buttonClicked(Object element)
 {
+  PImage myImage;
   if (Character.class.isInstance(element)) {
     Character character = (Character)element;
     character.setActive(!character.active);
@@ -340,9 +341,37 @@ void buttonClicked(Object element)
         Character character = (Character)it.next();
         character.setActive(false);  /* force animator targeting */
       }
+      Iterator it2 = characters.iterator();
+      for (int n=0; n < 8 && it2.hasNext();) {
+        Character character = (Character)it2.next();
+        myImage = character.img;
+  
+        if (character.img == null) continue;
+        if(n <= 3){
+          rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
+        }
+        else{
+          rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
+        }
+        n++;
+      }
     } else if (element.equals("View All Characters")){
       characters.setAllActive(true); 
       updateActiveTotals();
+      Iterator it2 = characters.iterator();
+      for (int n=0; n < 8 && it2.hasNext();) {
+        Character character = (Character)it2.next();
+        myImage = character.img;
+  
+        if (character.img == null) continue;
+        if(n <= 3){
+          rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
+        }
+        else{
+          rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
+        }
+        n++;
+      }
     }
   } else if (CharNgram.class.isInstance(element)) {
     CharNgram charNgram = (CharNgram)element;

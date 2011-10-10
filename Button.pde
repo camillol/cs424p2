@@ -22,7 +22,7 @@ class Button extends View{
     level = 1;
   }
   
-  Button(float x_, float y_, float w_, float h_, Object element, PImage theImage,boolean isDirectional)
+  Button(float x_, float y_, float w_, float h_, Object element, PImage theImage, boolean isDirectional)
   {
     super(x_,y_,w_,h_);
     level = 1;
