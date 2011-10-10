@@ -1,5 +1,7 @@
 class DataClass
 {
+  
+        HashMap episodeCharactersMap=new HashMap();
         //stores list of episodes in each season
 	HashMap seasonMap=new HashMap();
         //stores each characters dialog count by season and episode
@@ -43,6 +45,33 @@ class DataClass
           processEpisodeStats(folderName+"/individualseasons");
           
           processCharacterAppearance(folderName);
+          
+          processEpisodeCharacters(folderName);
+        }
+        
+        
+        void processEpisodeCharacters(String folderName)
+        {
+          String[] episodeCharactersLines=loadStrings(folderName+"/EpisodeCharList");
+          
+          for(int i=0;i<episodeCharactersLines.length;i++)
+          {
+            String row=episodeCharactersLines[i];
+            String[] rowParts=row.split("###");
+            String keyPart=rowParts[0];
+            String[] characters=rowParts[1].split("\t");
+            ArrayList tempList=new ArrayList();
+            for(int j=0;j<characters.length;j++)
+            {
+              tempList.add(characters[j]);
+            }
+            episodeCharactersMap.put(keyPart,tempList);
+          }
+        }
+        
+        ArrayList getEpisodeCharactersList(String episodeName)
+        {
+          return (ArrayList)episodeCharactersMap.get(episodeName);
         }
         
         float getWholeStatsTotal()

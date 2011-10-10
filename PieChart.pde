@@ -74,7 +74,18 @@ class PieChart extends View
                           prevColor=selectedCharacter.keyColor;
                           if(selectedCharacter.keyColor==0)
                           {
-                            fill(#FFFFFF);
+                            if(prevColor!=#FFFFFF)
+                            {
+                              fill(#FFFFFF);
+                              prevColor=#FFFFFF;
+                            }
+                            else
+                            {
+                              fill(#000000);
+                              prevColor=#000000;
+                                                
+                            }
+
                           }
                           
 //                          if(selectedCharacter.keyColor!=prevColor)
