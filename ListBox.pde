@@ -77,7 +77,7 @@ class ListBox extends View{
     fill(0);
    
     for(int i = myListCounter; i < myListCounter+(h/rowHeight) && i < data.count(); i++) {
-      text(data.getText(i), 0, (i-myListCounter)*rowHeight); 
+      text("  " + data.getText(i), 0, (i-myListCounter)*rowHeight); 
     }
   }
   
