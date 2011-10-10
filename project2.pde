@@ -28,19 +28,23 @@ final int seasonEpsViewWidth = 600;
 final int seasonEpsViewHeight = 100;
 final int seasonEpsViewVGap = 8;
 final int seasonEpsTop = 38;
+final int seasonEpsViewHeightNgram = 60;
 
 SeasonEpsView seasonViews[];
 Animator seasonY[];
+Animator seasonH;
 Button overallButton;
 
 PieChart pieChart;
 
 NgramTable ngrams;
 HashMap<Character,CharNgramTable> charNgrams;
-boolean ngramMode = true;
+boolean ngramMode = false;
 Ngram activeNgram = null;
+Button ngramButton;
 
 ListBox ngramList;
+Animator ngramListH;
 
 void setupG2D()
 {
@@ -68,12 +72,16 @@ void setup()
   
   rootView = new View(0, 0, width, height);
   
-  overallButton = new Button(30, 10, 100, 20, "overall", 18, false, "Overall");
+  overallButton = new Button(30, 10, 140, 20, "overall", 18, false, "Appearances");
   overallButton.myFlag = true;
   rootView.subviews.add(overallButton);
+
+  ngramButton = new Button(490, 10, 140, 20, "n-grams", 18, false, "n-grams");
+  rootView.subviews.add(ngramButton);
   
   seasonViews = new SeasonEpsView[seasons.length];
   seasonY = new Animator[seasons.length];
+  seasonH = new Animator(seasonEpsViewHeight);
   for (int i = 0; i < seasons.length; i++) {
     float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
     seasonViews[i] = new SeasonEpsView(30, y, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]);
@@ -103,7 +111,7 @@ void setup()
   pieChart=new PieChart(750,500,200,200);
   rootView.subviews.add(pieChart);
   
-  ngramList = new ListBox(100, 500, 200, 200, new MissingListDataSource("select a character"));
+  ngramList = new ListBox(30, height, 200, 200, new MissingListDataSource("select a character"));
   rootView.subviews.add(ngramList);
   
   //rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
@@ -173,6 +181,7 @@ void draw()
   
   for (int i = 0; i < seasons.length; i++) {
     seasonViews[i].y = seasonY[i].value;
+    seasonViews[i].setHeight(seasonH.value);
   }
     
   //tint(255,255);
@@ -228,12 +237,47 @@ void setViewTarget(Object target)
   if (target == null) {
     viewTotalLines.target(data.getWholeStatsTotal()); // for vivek: total lines over all series
     pieChart.updateCharAnimators();
-  } else if (seasons[0].getClass().isInstance(target)) {
+  } else if (Season.class.isInstance(target)) {
     Season season = (Season)target;
     float total=data.getSeasonStatsTotal("S0"+season.number);
     viewTotalLines.target(total); // for vivek: total lines over this season
     pieChart.updateCharAnimators();
   }
+}
+
+void retargetSeasonYs()
+{
+  if (!ngramMode && Season.class.isInstance(viewTarget)) {
+    Season season = (Season)viewTarget;
+    int idx = season.number - 1;
+    for (int i = 0; i < idx; i++) {
+      seasonY[i].target((i-idx)*(seasonEpsViewHeight + seasonEpsViewVGap));
+      seasonViews[i].button.myFlag = false;
+    }
+    seasonY[idx].target(seasonEpsTop);
+    seasonViews[idx].button.myFlag = true;
+    for (int i = idx+1; i < seasons.length; i++) {
+      seasonY[i].target(height + (i-idx-1)*(seasonEpsViewHeight + seasonEpsViewVGap));
+      seasonViews[i].button.myFlag = false;
+    }
+  } else {
+    for (int i = 0; i < seasons.length; i++) {
+      float y = seasonEpsTop + ((ngramMode ? seasonEpsViewHeightNgram : seasonEpsViewHeight) + seasonEpsViewVGap)*i;
+      seasonY[i].target(y);
+      seasonViews[i].button.myFlag = false;
+    }
+  }
+}
+
+void setNgramMode(boolean ngmode)
+{
+  ngramMode = ngmode;
+  if (ngramMode) {
+    seasonH.target(seasonEpsViewHeightNgram);
+  } else {
+    seasonH.target(seasonEpsViewHeight);
+  }
+  retargetSeasonYs();
 }
 
 void buttonClicked(Object element)
@@ -248,24 +292,13 @@ void buttonClicked(Object element)
     Season season = (Season)element;
     int idx = season.number - 1;
     setViewTarget(season);
-    overallButton.myFlag = false;
-    for (int i = 0; i < idx; i++) {
-      seasonY[i].target((i-idx)*(seasonEpsViewHeight + seasonEpsViewVGap));
-      seasonViews[i].button.myFlag = false;
-    }
-    seasonY[idx].target(seasonEpsTop);
-    for (int i = idx+1; i < seasons.length; i++) {
-      seasonY[i].target(height + (i-idx-1)*(seasonEpsViewHeight + seasonEpsViewVGap));
-      seasonViews[i].button.myFlag = false;
-    }
+    retargetSeasonYs();
   } else if (String.class.isInstance(element)) {
     if (element.equals("overall")) {
-      for (int i = 0; i < seasons.length; i++) {
-        float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
-        seasonY[i].target(y);
-        seasonViews[i].button.myFlag = false;
-        setViewTarget(null);
-      }
+      setViewTarget(null);
+      setNgramMode(false);
+    } else if (element.equals("n-grams")) {
+      setNgramMode(true);
     }
   } else if (CharNgram.class.isInstance(element)) {
     CharNgram charNgram = (CharNgram)element;

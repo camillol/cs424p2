@@ -7,14 +7,25 @@ class SeasonEpsView extends View {
   Season season;
   Button button;
   int ngramOccIdx;
+  String labelLong;
+  String labelShort;
   
   SeasonEpsView(float x_, float y_, float w_, float h_, Season season_)
   {
     super(x_, y_, w_, h_);
     season = season_;
     barWidth = floor((w + barGap - (labelWidth + barGap)) / maxEps) - barGap;  // / maxEps or / season.episodes.length ?
-    button = new Button(0,0,labelWidth,h, season, labelFontSize, true, "Season "+season.number);
+    labelLong = "Season "+season.number;
+    labelShort = "S"+season.number;
+    button = new Button(0,0,labelWidth,h, season, labelFontSize, true, labelLong);
     subviews.add(button);
+  }
+  
+  void setHeight(float h_)
+  {
+    h = h_;
+    button.h = h;
+    button.myLabel = h < 80 ? labelShort : labelLong;
   }
   
   void drawEpBar(int epnum)
