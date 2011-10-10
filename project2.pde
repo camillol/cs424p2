@@ -27,8 +27,10 @@ color shipRedDark = #4C1819;
 final int seasonEpsViewWidth = 600;
 final int seasonEpsViewHeight = 100;
 final int seasonEpsViewVGap = 8;
-final int seasonEpsTop = 38;
 final int seasonEpsViewHeightNgram = 60;
+
+final int ngramViewH = 240;
+final int overallButtonH = 20;
 
 SeasonEpsView seasonViews[];
 Animator seasonY[];
@@ -73,26 +75,26 @@ void setup()
   
   rootView = new View(0, 0, width, height);
   
-  overallButton = new Button(30, 10, 140, 20, "overall", 18, false, "Appearances");
+  overallButton = new Button(30, overallY(), 140, overallButtonH, "overall", 18, false, "Appearances");
   overallButton.myFlag = true;
-  rootView.subviews.add(overallButton);
 
   seasonViews = new SeasonEpsView[seasons.length];
   seasonY = new Animator[seasons.length];
   for (int i = 0; i < seasons.length; i++) {
-    float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
+    float y = seasonEpsTop() + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
     seasonViews[i] = new SeasonEpsView(30, y, seasonEpsViewWidth, seasonEpsViewHeight, seasons[i]);
     rootView.subviews.add(seasonViews[i]);
     seasonY[i] = new Animator(y);
   }
+  rootView.subviews.add(overallButton);
   
-  ngramView = new View(30, ngramY(), seasonEpsViewWidth, 240);
+  ngramView = new View(30, ngramY(), seasonEpsViewWidth, ngramViewH);
   rootView.subviews.add(ngramView);
   
-  ngramButton = new Button(0, 0, 140, 20, "n-grams", 18, false, "n-grams");
+  ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams");
   ngramView.subviews.add(ngramButton);
 
-  ngramList = new ListBox(0, 30, 200, 200, new MissingListDataSource("select a character"));
+  ngramList = new ListBox(0, 20, 200, ngramViewH-20-overallButtonH-10, new MissingListDataSource("select a character"));
   ngramView.subviews.add(ngramList);
   
   PImage myImage;
@@ -184,8 +186,23 @@ float seasonViewHeight()
 
 float ngramY()
 {
-  return map(ngramModeAnimator.value, 0.0, 1.0, height - 30, seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length);
+  return map(ngramModeAnimator.value, 0.0, 1.0, overallButtonH + 10 - ngramViewH, 0);
+//  return map(ngramModeAnimator.value, 0.0, 1.0, height - 30, seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length);
 //  return seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length;
+}
+
+float overallY()
+{
+  return ngramY() + ngramViewH + 10;
+}
+
+float seasonEpsTop()
+{
+  if (ngramMode) {
+    return ngramViewH + 10 + overallButtonH + seasonEpsViewVGap;
+  } else {
+    return 30 + 10 + overallButtonH + seasonEpsViewVGap;
+  }
 }
 
 void draw()
@@ -198,6 +215,7 @@ void draw()
     seasonViews[i].setHeight(seasonViewHeight());
   }
   ngramView.y = ngramY();
+  overallButton.y = overallY();
   
   //tint(255,255);
   noStroke();
@@ -269,7 +287,7 @@ void retargetSeasonYs()
       seasonY[i].target((i-idx)*(seasonEpsViewHeight + seasonEpsViewVGap));
       seasonViews[i].button.myFlag = false;
     }
-    seasonY[idx].target(seasonEpsTop);
+    seasonY[idx].target(seasonEpsTop());
     seasonViews[idx].button.myFlag = true;
     for (int i = idx+1; i < seasons.length; i++) {
       seasonY[i].target(height + (i-idx-1)*(seasonEpsViewHeight + seasonEpsViewVGap));
@@ -277,7 +295,7 @@ void retargetSeasonYs()
     }
   } else {
     for (int i = 0; i < seasons.length; i++) {
-      float y = seasonEpsTop + ((ngramMode ? seasonEpsViewHeightNgram : seasonEpsViewHeight) + seasonEpsViewVGap)*i;
+      float y = seasonEpsTop() + ((ngramMode ? seasonEpsViewHeightNgram : seasonEpsViewHeight) + seasonEpsViewVGap)*i;
       seasonY[i].target(y);
       seasonViews[i].button.myFlag = false;
     }
