@@ -322,7 +322,8 @@ void buttonClicked(Object element)
     character.setActive(!character.active);
     characters.setAllActive(countActive == 0);
     updateActiveTotals();
-    ngramList.data = charNgrams.get(character);
+    CharNgramTable cng = charNgrams.get(character);
+    ngramList.data = cng != null ? cng : new MissingListDataSource("(no significant n-grams for this character)");
   } else if (Season.class.isInstance(element)) {
     Season season = (Season)element;
     int idx = season.number - 1;
