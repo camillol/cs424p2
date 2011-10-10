@@ -156,7 +156,7 @@ class DataClass
             for(int k=0;k<seasonFileLines.length;k++)
             {
               String[] seasonLineParts=seasonFileLines[k].split("###");
-              tempSeasonMap.put(seasonLineParts[0],seasonLineParts[1]);
+              tempSeasonMap.put(seasonLineParts[0],int(seasonLineParts[1]));
               System.out.println("in season "+seasonFileLines[k]);
               totalLines+=Float.parseFloat(seasonLineParts[1]);
             }

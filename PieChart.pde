@@ -40,11 +40,13 @@ class PieChart extends View
               Animator characterAnimator=(Animator)charLineAnimators.get(thisActiveCharacter);
               if(selectedStats.containsKey(thisActiveCharacter.name))
               {
-                float dialogCount=(Integer)data.getWholeData().get(thisActiveCharacter.name);
-              characterAnimator.target(dialogCount);
+                float dialogCount=(Integer)selectedStats.get(thisActiveCharacter.name);
+                characterAnimator.target(dialogCount);
               }
               else
               {
+                System.out.println(thisActiveCharacter.name);
+                System.out.println("mismatch");
                 characterAnimator.target(0);
               
 
@@ -68,64 +70,38 @@ class PieChart extends View
                   float currentAngle=(currentValue/total)*360;
                   if(selectedCharacter!=null)
                   {
-                          prevColor=selectedCharacter.keyColor;
                           fill(selectedCharacter.keyColor);
-                     }
-                     else
-                     {
-                       //need to fill characters color
-                       if(prevColor!=#FFFFFF)
-                       {
-                          prevColor=#FFFFFF;
-                          fill(#FFFFFF);
-                       }
-                       else
-                       {
-                          prevColor=#000000;
-                          fill(#000000);
-                              
-                       }
+                          prevColor=selectedCharacter.keyColor;
+                          if(selectedCharacter.keyColor==0)
+                          {
+                            fill(#FFFFFF);
+                          }
+                          
+//                          if(selectedCharacter.keyColor!=prevColor)
+//                          {
+//                             fill(selectedCharacter.keyColor);
+//                          }
+//                          else
+//                          {
+//                              if(prevColor!=#FFFFFF)
+//                              {
+//                                prevColor=#FFFFFF;
+//                                fill(#FFFFFF);
+//                              }
+//                              else
+//                              {
+//                                prevColor=#000000;
+//                                fill(#000000);
+//                              }
+//
+//                          }
                   }
+            
                                    
-                  arc(centerX,centerY,diameter,diameter,prevAngle,prevAngle+radians(currentAngle));
+                  arc(centerX,centerY,diameter,diameter,radians(prevAngle),radians(prevAngle)+radians(currentAngle));
                   
                   prevAngle+=currentAngle;
                 }
-//		for(int i=0;i<angles.size();i++)
-//		{
-//  
-//                        String[] anglesParts=((String)angles.get(i)).split(":");
-//                        
-//                        String characterName=anglesParts[0];
-//  			float thisAngle=Float.parseFloat(anglesParts[1]);
-//  			Character thisCharacter=characters.get(characterName);
-//  
-//                        //character not matching with characters list
-//                        if(thisCharacter!=null)
-//                        {
-//                          prevColor=thisCharacter.keyColor;
-//                          fill(thisCharacter.keyColor);
-//                        }
-//                        else
-//                        {
-//                            //need to fill characters color
-//                            if(prevColor!=#FFFFFF)
-//                            {
-//                              prevColor=#FFFFFF;
-//                              fill(#FFFFFF);
-//                            }
-//                            else
-//                            {
-//                              prevColor=#000000;
-//                              fill(#000000);
-//                                
-//                            }
-//                        }
-//               	
-//                        arc(centerX,centerY,diameter,diameter,prevAngle,prevAngle+radians(thisAngle));
-//			prevAngle+=radians(thisAngle);
-//			
-//		}
 	}
 
 }
