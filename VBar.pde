@@ -9,12 +9,12 @@ class VBar extends View {
   
   float start()
   {
-    return map(myList.myListCounter, 0, myList.maxListCounter, 0, h-14);
+    return map(myList.myListCounter, 0, myList.maxScroll(), 0, h-14);
   }
   
   void setStart(float start)
   {
-    myList.myListCounter = (int)map(start, 0, h-14, 0, myList.maxListCounter);
+    myList.myListCounter = (int)map(start, 0, h-14, 0, myList.maxScroll());
   }
   
   void drawContent()

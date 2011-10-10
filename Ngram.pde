@@ -15,14 +15,12 @@ class Occurrence {
   int season;
   int episode;
   int lineno;
-  Character[] chars;
   
-  Occurrence(int s, int e, int l, Character[] c)
+  Occurrence(int s, int e, int l)
   {
     season = s;
     episode = e;
     lineno = l;
-    chars = c;
   }
 }
 
@@ -46,20 +44,12 @@ class NgramTable extends TSVBase {
     Occurrence[] occs = new Occurrence[occStrs.length];
     
     for (int j = 0; j < occStrs.length; j++) {
-      String[] groups = match(occStrs[j], "S(\\d+)E(\\d+)L(\\d+)-(.*)");
+      String[] groups = match(occStrs[j], "S(\\d+)E(\\d+)L(\\d+)");
       int season = parseInt(groups[0]);
-      int episode = parseInt(groups[1]);
+      int epnum = parseInt(groups[1]);
       int lineno = parseInt(groups[2]);
-      
-      String[] names = groups[3].split(";");
-      Character[] chars = new Character[names.length];
-      for (int n = 0; n < names.length; n++) {
-        chars[n] = characters.get(names[n]);
-      }
-      
-      occs[j] = new Occurrence(season, episode, lineno, chars);
+      occs[j] = new Occurrence(season, epnum, lineno);
     }
-    
     ngramMap.put(words, new Ngram(words, count, occs));
     return true;
   }

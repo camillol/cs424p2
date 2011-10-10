@@ -38,7 +38,7 @@ class Character implements Comparable {
   }
 }
 
-class CharacterList extends TSVBase {
+class CharacterList extends TSVBase implements ListDataSource {
   HashMap charMap;
   ArrayList charList;
   
@@ -101,6 +101,11 @@ class CharacterList extends TSVBase {
       Character character = (Character)it.next();
       character.setActive(character.active);  /* force animator targeting */
     }
+  }
+  
+  String getText(int index)
+  {
+    return get(index).name;
   }
 }
 

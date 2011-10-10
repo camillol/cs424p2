@@ -1,9 +1,9 @@
 class DialogLine {
   String what;
   String when;
-  Character who;
+  Character[] who;
   
-  DialogLine(String when_, Character who_, String what_)
+  DialogLine(String when_, Character[] who_, String what_)
   {
     when = when_;
     who = who_;
@@ -39,12 +39,13 @@ class Episode extends TSVBase {
   boolean createItem(int i, String[] pieces)
   {
     String[] names = pieces[1].split(";");
+    Character[] chars = new Character[names.length];
     for (int j = 0; j < names.length; j++) {
-      Character c = characters.get(names[j]);
-      dialogs[i] = new DialogLine(pieces[0], c, pieces[2]);
-      charLineCount.put(c, getLineCount(c)+1);
+      chars[j] = characters.get(names[j]);
+      charLineCount.put(chars[j], getLineCount(chars[j]) + 1);
       totalLineCount++;
     }
+    dialogs[i] = new DialogLine(pieces[0], chars, pieces[2]);
     return true;
   }
   
