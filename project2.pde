@@ -9,6 +9,9 @@ DataClass data;
 
 View rootView;
 
+Object viewTarget;  // null when overall, Season when season, Episode when episode
+Animator viewTotalLines;
+
 CharacterList characters;
 Season[] seasons;
 
@@ -30,8 +33,6 @@ SeasonEpsView seasonViews[];
 Animator seasonY[];
 Button overallButton;
 
-ArrayList testAngles=new ArrayList();
-
 PieChart pieChart;
 
 
@@ -48,18 +49,13 @@ void setup()
   loadCharacters();
   loadSeasons();
   characters.setAllActive(true);
+  viewTotalLines = new Animator();
   
   size(1024, 768);
   setupG2D();
   
   smooth();
   
-  testAngles=data.getWholeAnglesList();
-//  
-//  testAngles.add("Fry:"+80.0);
-//  testAngles.add("Leela:"+120.0);
-//  testAngles.add("Bender:"+160.0);
-
   background(shipMain);
   
   rootView = new View(0, 0, width, height);
@@ -85,24 +81,28 @@ void setup()
     myImage = character.img;
     if (character.img == null) continue;
     if(n <= 3){
-    rootView.subviews.add(new Button(740+n*(60),50,50,50,character,myImage,false));
+    rootView.subviews.add(new Button(680+n*(60),50,50,50,character,myImage,false));
     }
     else{
-    rootView.subviews.add(new Button(740+(n-4)*(60),120,50,50,character,myImage,false));  
+    rootView.subviews.add(new Button(680+(n-4)*(60),120,50,50,character,myImage,false));  
     }
     n++;
   }
   
-  rootView.subviews.add(new ListBox(750,300,200,200, characters));
+  rootView.subviews.add(new ListBox(680,220,300,200, characters));
 
-  pieChart=new PieChart(750,520,200,200,testAngles,characters);
+
+  pieChart=new PieChart(750,520,200,200);
   rootView.subviews.add(pieChart);
   
   
   
   //rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
+
+
   dropMenuView();
 
+  setViewTarget(null);
 }
 
 void loadCharacters()
@@ -140,22 +140,7 @@ void draw()
 {
   background(shipMain);    /* seems to be needed to actually clear the frame */
   Animator.updateAll();
-  
-  for (int i = 0; i < seasons.length; i++) {
-    seasonViews[i].y = seasonY[i].value;
-    if(seasonViews[i].button.myFlag==true)
-    {
-      Season season=seasonViews[i].season;
-      int seasonNumber=season.number;
-      
-      pieChart.replaceAnglesList(data.getSeasonDataAngles("S0"+seasonNumber));
-    }
-  }
-  if(overallButton.myFlag==true)
-  {
-    pieChart.replaceAnglesList(data.getWholeAnglesList());
-  }
-  
+    
   //tint(255,255);
   noStroke();
   rootView.draw();
@@ -203,6 +188,20 @@ void mouseClicked()
   rootView.mouseClicked(mouseX, mouseY);
 }
 
+void setViewTarget(Object target)
+{
+  viewTarget = target;
+  if (target == null) {
+    viewTotalLines.target(data.getWholeStatsTotal()); // for vivek: total lines over all series
+    pieChart.updateCharAnimators();
+  } else if (seasons[0].getClass().isInstance(target)) {
+    Season season = (Season)target;
+    float total=data.getSeasonStatsTotal("S0"+season.number);
+    viewTotalLines.target(total); // for vivek: total lines over this season
+    pieChart.updateCharAnimators();
+  }
+}
+
 void buttonClicked(Object element)
 {
   if (characters.iterator().next().getClass().isInstance(element)) {
@@ -213,6 +212,7 @@ void buttonClicked(Object element)
   } else if (seasons[0].getClass().isInstance(element)) {
     Season season = (Season)element;
     int idx = season.number - 1;
+    setViewTarget(season);
     overallButton.myFlag = false;
     for (int i = 0; i < idx; i++) {
       seasonY[i].target((i-idx)*(seasonEpsViewHeight + seasonEpsViewVGap));
@@ -229,6 +229,7 @@ void buttonClicked(Object element)
         float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
         seasonY[i].target(y);
         seasonViews[i].button.myFlag = false;
+        setViewTarget(null);
       }
     }
   }

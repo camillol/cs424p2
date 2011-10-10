@@ -45,6 +45,10 @@ class DataClass
           processCharacterAppearance(folderName);
         }
         
+        float getWholeStatsTotal()
+        {
+          return wholeStatsTotal;
+        }
         
         
         void processCharacterAppearance(String folderName)
@@ -242,6 +246,11 @@ class DataClass
           
         }
         
+        Float getSeasonStatsTotal(String seasonName)
+        {
+           return (Float)seasonStatsTotalMap.get(seasonName);
+        }
+        
         //returns angleslist by season
         ArrayList getSeasonAnglesList(String seasonName)
         {
@@ -303,7 +312,7 @@ class DataClass
         }
         
         //returns angleslist by episode
-        ArrayList getepisodeAnglesList(String episodeName)
+        ArrayList getEpisodeAnglesList(String episodeName)
         {
           return (ArrayList)episodeAnglesMap.get(episodeName);
         }
