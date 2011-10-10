@@ -19,10 +19,10 @@ Dwight	85	9
 Morbo	76	32		
 Elzar	75	16		
 Linda	74	30		
+LaBarbara	72	15		
 URL	71	17		
 Wernstrom	71	9		
 Man	69	41		
-LaBarbara	67	14		
 Nudar	64	4		
 Walt	59	10		
 Scruffy	57	23		
@@ -51,6 +51,7 @@ Ship	38	1
 Morgan	38	1		
 Preacherbot	37	13		
 Fry-2	37	2		
+ALL	36	22		
 Flexo	36	3		
 Al Gore	35	5		
 Steve Castle	35	1		
@@ -59,6 +60,7 @@ Igner	33	12
 Mrs. Wong	33	9		
 Hattie	32	13		
 Nimoy	32	2		
+Yivo	32	2		
 Angleyne	32	1		
 Turanga Morris	31	7		
 Nd-Nd	31	5		
@@ -72,7 +74,6 @@ Colleen	29	4
 Frydo	29	2		
 Shatner	29	1		
 Warden Vogel	28	6		
-Yivo	28	2		
 Salesman	27	7		
 Albert	27	4		
 The Big Brain	27	2		
@@ -91,10 +92,10 @@ Raoul	24	5
 Dr. Perceptron	23	3		
 Farnsworth A	23	1		
 Farnsworth-Droid	23	1		
+Hedonism Bot	22	9		
 Stephen Hawking	22	3		
 Frida	22	3		
 Waterfall Jr.	22	1		
-Hedonism Bot	21	8		
 Mr. Panucci	21	6		
 Dwayne	21	4		
 Thog	21	4		
@@ -103,7 +104,6 @@ Leegola	21	2
 Guenter	21	1		
 Abner Doubledeal	21	1		
 Man #2	20	16		
-ALL	20	9		
 George Takei	20	3		
 Yancy Fry Sr	20	1		
 Mrs. Astor	20	1		
@@ -117,6 +117,7 @@ Bubblegum	18	6
 Grand Midwife	18	3		
 Doubledeal	18	2		
 Leela A	18	1		
+Thubanian leader	18	1		
 Countess	18	1		
 Vyolet	17	4		
 Liu	17	2		
@@ -124,7 +125,6 @@ Nichols	17	2
 Malachi	17	1		
 Nikolai	17	1		
 Robot Leela	17	1		
-All	16	13		
 Robot #1	16	9		
 Transition Announcer	16	6		
 Dr. Cahill	16	5		
@@ -142,7 +142,6 @@ Merg	15	1
 Umbriel	15	1		
 Glab	15	1		
 Spargle	15	1		
-Thubanian leader	15	1		
 Boy	14	10		
 Ben Beeler	14	8		
 Paper-hatted salesman	14	5		
@@ -162,6 +161,7 @@ Zookeeper	13	1
 "God"	13	1		
 Chief O'Mannahan	13	1		
 Blek	13	1		
+Female voice	12	9		
 Horrible Gelatinous Blob	12	6		
 Fembot	12	5		
 Terry	12	5		
@@ -228,12 +228,12 @@ Chaz	9	1
 Referee	9	1		
 Anderson	9	1		
 Director	9	1		
-Female voice	8	7		
+Old man	8	6		
 Nurse Ratchet	8	3		
-Leo	8	2		
 Fender	8	2		
 Teacher	8	2		
 Auctioneer	8	2		
+Leo	8	2		
 Blond man	8	2		
 Welles	8	1		
 Robot Fry	8	1		
@@ -292,6 +292,7 @@ Ignus	7	1
 Monk #1	7	1		
 Male voice	6	6		
 Robots	6	4		
+Hydroponic farmer	6	4		
 Judge	6	3		
 Destructor	6	3		
 Washington	6	3		
@@ -302,6 +303,7 @@ Soldier #1	6	2
 Inez	6	2		
 Security Guard	6	2		
 Malfunctioning Eddie	6	2		
+Suicide booth	6	2		
 Robot Stack	6	1		
 Kwanzabot	6	1		
 Lady Buggle	6	1		
@@ -334,7 +336,6 @@ Human Friend	5	3
 Sweet Clyde	5	3		
 Decapodian Woman	5	2		
 Younger Mom	5	2		
-Labarbara	5	2		
 Singer	5	2		
 Bret	5	1		
 Fry's Photo	5	1		
@@ -374,13 +375,10 @@ Robot guard #2	5	1
 Stewart	5	1		
 Reflection Host 2	5	1		
 Coffee Machine	5	1		
-Old man	4	3		
-Old Man	4	3		
 Announcer #1	4	3		
 Bolt	4	2		
 Nurse	4	2		
 Mutant	4	2		
-Female Voice	4	2		
 Michael	4	2		
 Leg Mutant	4	2		
 Sam	4	2		
@@ -393,7 +391,6 @@ Killbot 2	4	2
 Killbot 1	4	2		
 Leroy	4	2		
 Changstein el Gamahl	4	2		
-Hydroponic farmer	4	2		
 Commissioner	4	2		
 Van	4	1		
 Amy-Droid	4	1		
@@ -433,7 +430,6 @@ Chet	4	1
 Leo Wong	4	1		
 Wash bucket	4	1		
 Whalerbots	4	1		
-YIVO	4	1		
 Donovan	4	1		
 Barbados	4	1		
 Aaron Sr.	4	1		
@@ -493,7 +489,6 @@ Intercom Assistant	3	1
 Salesman #2	3	1		
 Salesman #1	3	1		
 Grunka Lunka #2	3	1		
-Suicide Booth	3	1		
 Neptunian Salesman #1	3	1		
 Cryogenisist	3	1		
 Priests	3	1		
@@ -539,7 +534,6 @@ Suz	3	1
 Bully	3	1		
 Bee #1	3	1		
 Green Alien	3	1		
-Suicide booth	3	1		
 Pawnbroker	3	1		
 George Washington	3	1		
 Ruth	3	1		
@@ -550,7 +544,6 @@ Cyclops	3	1
 Shpeekenshpell	3	1		
 Judge #1	3	1		
 Sergeant	3	1		
-Thubanian Leader	3	1		
 Cygnoid #2	3	1		
 Doctorbot	2	2		
 Brown-haired man	2	2		
@@ -568,16 +561,18 @@ Doorman	2	2
 Hermaphrobot	2	2		
 Chain Smoker	2	2		
 Man #5	2	2		
+Enema Bot	2	2		
 Waitress	2	2		
 Robot #5	2	2		
 Priest	2	2		
+Security woman	2	2		
 Women	2	2		
 Killbot 3	2	2		
 Florp	2	2		
 Inuit #1	2	2		
 Farsnworth	2	2		
 Official	2	2		
-Enema Bot	2	2		
+Bender doll	2	2		
 Pazuzu	2	2		
 Feministas	2	2		
 Pig	2	2		
@@ -586,7 +581,6 @@ Ogre	2	2
 Female Centaur	2	2		
 Scientist	2	2		
 Refreshment-bot	2	2		
-Hydroponic Farmer	2	2		
 Hairbot	2	2		
 Voice	2	1		
 Craterface	2	1		
@@ -604,6 +598,7 @@ Guardbot #1	2	1
 Guardbot #2	2	1		
 Guardbot #3	2	1		
 Male inhabitant	2	1		
+Dr. Banjo	2	1		
 P.A. Announcer	2	1		
 Emcee	2	1		
 Holo-Robot Devil	2	1		
@@ -634,7 +629,6 @@ Old Cubert	2	1
 Bender-3	2	1		
 Stoned Guy	2	1		
 Robot Slave	2	1		
-Dr. Banjo	2	1		
 Erwin Schrödinger	2	1		
 Whalerbot	2	1		
 Princess Num Num	2	1		
@@ -716,6 +710,7 @@ Aide #4	2	1
 Lackey	2	1		
 Alexander Hamilton	2	1		
 FART Mob	2	1		
+Underwater house salesman	2	1		
 Tex Connecticut	2	1		
 Foreigner	2	1		
 Mutant #2	2	1		
@@ -747,7 +742,6 @@ Moustached Alien	1	1
 Pocket Pal	1	1		
 Neptunian Man	1	1		
 Alarm Clock	1	1		
-Bender Doll	1	1		
 Male Scientist	1	1		
 Lady #2	1	1		
 Lady #3	1	1		
@@ -803,7 +797,7 @@ Q-Bert	1	1
 Decapodian Man #2	1	1		
 Suspiciously fantastic apartment salesman	1	1		
 Farnsworth's Killbot	1	1		
-Security Woman	1	1		
+Darth Urderer	1	1		
 Motorist #1	1	1		
 Motorist #3	1	1		
 Motorist #2	1	1		
@@ -852,7 +846,6 @@ Guards	1	1
 Octopus	1	1		
 Morgan Proctor	1	1		
 Abraham Lincoln	1	1		
-Darth Urderer	1	1		
 Rabbi-bot	1	1		
 The Force	1	1		
 Mayor	1	1		
@@ -886,8 +879,8 @@ Vijai Patel	1	1
 Judge 802	1	1		
 Clock	1	1		
 Trekkie #2	1	1		
-Underwater House Salesman	1	1		
 Young woman	1	1		
+Criminal	1	1		
 Cyclopian Man #1	1	1		
 Oily	1	1		
 Cyclopian Man #2	1	1		
@@ -918,7 +911,6 @@ Robosexual Robot	1	1
 Billy's Mom	1	1		
 Cohen	1	1		
 Man #6	1	1		
-Bender doll	1	1		
 Worm Guard #2	1	1		
 wormhole!	1	1		
 Sims Woman	1	1		
@@ -962,7 +954,6 @@ Clip Board	1	1
 MCA	1	1		
 Lrrr's Father	1	1		
 Dark One	1	1		
-Criminal	1	1		
 William Taft	1	1		
 Mine Spokesman	1	1		
 Bike Thief	1	1		
@@ -988,7 +979,6 @@ Hattie McDoogal	1	1
 TV Announcer	1	1		
 Small rock Alien	1	1		
 Robot #6	1	1		
-Security woman	1	1		
 Dwarf	1	1		
 Professor Farnsoworth	1	1		
 Nannybot 1.0	1	1		
@@ -1045,7 +1035,6 @@ Infosphere	1	1
 Michael's Wife	1	1		
 The Dixie Chicks	1	1		
 Bender duplicate A	1	1		
-Hedonism bot	1	1		
 Crazy Guy	1	1		
 Leonardo da Vinci	1	1		
 Bender duplicate B	1	1		
@@ -1100,7 +1089,6 @@ Aide #3	1	1
 M-5438	1	1		
 Neptunian	1	1		
 Lulabelle 7	1	1		
-Underwater house salesman	1	1		
 Action Figure	1	1		
 Brown-haired mMan	1	1		
 Walter Cronkite	1	1		

@@ -27,7 +27,7 @@
 	Fry	This is perfect for me.
 	Zoidberg	Question: Do you have to have been cryogenically frozen to get the free-- [The man slams the door in his face.] You didn't let me finish. I was going to say "to get the free food".
 	Joe	My name's Joe and I'm a defrostee.
-	All	[monotonous] Hello, Joe.
+	ALL	[monotonous] Hello, Joe.
 	Joe	When I was frozen, giant carrots ruled the Earth, but now they don't. It takes some getting used to.
 	Steve Castle	Back in the 1980's, I was the toast of Wall Street. I was having whiskey with Boesky and cookies with Milken. But then, I was diagnosed with terminal boneitis.
 	Fry	Boneitis? Pft! That's a funny name for a horrible disease.

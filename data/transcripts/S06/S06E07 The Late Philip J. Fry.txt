@@ -67,7 +67,7 @@
 	Leela	Fry went to the party?
 	Linda	[on television] We interrupt Hypnotoad on Ice to bring you breaking coverage ... [The title card reads 'Sorrow at the soirée'.] ... of the disaster at Hedonism bot's bachelor party.
 	Morbo	[on television] Linda, what began as innocent fun ended in tragedy tonight when a nuclear powered robot stripper suffered a catastrophic reactor meltdown. There is only one survive.
-	Hedonism bot	Everywhere I looked there were piles of bodies. And then the explosion struck.
+	Hedonism Bot	Everywhere I looked there were piles of bodies. And then the explosion struck.
 	Zoidberg	The three coworkers I like... all dead!
 	Leela	Fry stood me up and died? [angry] I'm so angry. [sad] I mean, I'm so sad. [angry] But I'm still pretty angry. [sad] But also sad. [to Hermes] Can I be both?
 	Hermes	It's what he'd want.

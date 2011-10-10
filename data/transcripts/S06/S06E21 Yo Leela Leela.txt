@@ -135,7 +135,7 @@
 	Leela	[dressed as Lady Buggle, singing] Be it parsnips or peppers or kale or zucchini.
 	Fry	[dressed as Doingg, singing] I like to relax with a spinach martini.
 	Bender	[dressed as Garbly, singing] A-gurgle bufwoozle didoodi houdini.
-	All	[dressed as Humplings, singing] 'Cause we love our vegetables.
+	ALL	[dressed as Humplings, singing] 'Cause we love our vegetables.
 	Abner Doubledeal	And... Cut! That's a wrap, everybody. Ten-minute break, then we shoot season three.
 	Fry	Leela, you may have become a Lady Gaga-esque fame hag, but you sure cheered up those orphans. Nice job.
 	Warden Vogel	Thanks so much for inviting us to the taping. The kids haven't been this excited since food day!

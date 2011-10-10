@@ -72,15 +72,15 @@
 	Bender	Oh.
 	Bender	Now that I know robots are worthless, with no League of Robots to protect us from the fleshy menace known as man, I have resolved to kill myself. In lieu of flowers, please beat yourselves in the face with rusty chains. Your friend, Bender.
 	Zoidberg	Ow.
-	Suicide Booth	Please select mode of death.
+	Suicide booth	Please select mode of death.
 	Bender	Clumsy bludgeoning, please.
-	Suicide Booth	You have selected clumsy bludgeoning. For an additional $10, would you like your eyes scooped out with a melon-baller?
+	Suicide booth	You have selected clumsy bludgeoning. For an additional $10, would you like your eyes scooped out with a melon-baller?
 	Bender	What the heck, I'll treat myself.
 	Zapp	Enemy in range. Prepare to launch universe-to-universe missile.
 	Kif	Preparing to launch U.U.M. [He grabs a small hammer hanging on the wall and breaks the glass protecting a larger hammer hanging on the wall. He grabs the larger hammer and smashes the glass protecting a large red button. He presses the button and a missile is loaded for fire in the bridge. Alarms are blaring.]
 	Zapp	Hell of a thing to send a universe to certain doom. Fun, though. Makes a man feel big.
 	Bender	Come on, come on, I didn't ask to die of boredom!
-	Suicide Booth	You are now dead. Please take your receipt. [A receipt is printed out and it lands on a large pile of other receipts.]
+	Suicide booth	You are now dead. Please take your receipt. [A receipt is printed out and it lands on a large pile of other receipts.]
 	Bender	What's... What's happening?
 	Hooded Robot	Kneel before the candle.
 	Bender	Don't hurt me! I'll betray anyone!

@@ -189,7 +189,7 @@
 	Fry	Jeez, doesn't that shock collar hurt?
 	Leela	Actually, feels kind of good. I guess I'm starting to associate it with the pleasure of beating people up.
 	Walt	We shot them down, Mother. The intruders never even got to Sector 1 .
-	Security Woman	(on PA): Intruders in Sector 15. Intruders in Sector 15.
+	Security woman	(on PA): Intruders in Sector 15. Intruders in Sector 15.
 	Mom	Ugh... Sometimes I don't know why I even bother to slap you. [She slaps them twice.] (on PA:) All Killbots to Sector 15.
 	Killbot 1	[He turns to the other Killbot and shoots him.] What did she say?
 	Killbot 2	[He turns to the other Killbot and shoots him.]What did you say? [The two of them stay position towards each other and eventually destroy themselves. Fry, Farnsworth and Leela dash by their bodies. Another view of a hallway shows balls of Dark Matter being transported through tubes.]

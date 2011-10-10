@@ -31,8 +31,21 @@ name_map = {
 	'Small Glurmo #2': 'Glurmo',
 	'Nixon': 'Richard Nixon',
 	'NIxon': 'Richard Nixon',
-	'Farnsworth': 'Professor Farnsworth',
+	'Farnsworth': 'Prof. Farnsworth',
+	'Professor Farnsworth': 'Prof. Farnsworth',
 	'Clinton': 'Bill Clinton',
+	'All': 'ALL',
+	'Female Voice': 'Female voice',
+	'Labarbara': 'LaBarbara',
+	'Old Man': 'Old man',
+	'Bender Doll': 'Bender doll',
+	'Security Woman': 'Security woman',
+	'Hedonism bot': 'Hedonism Bot',
+	'Underwater House Salesman': 'Underwater house salesman',
+	'Suicide Booth': 'Suicide booth',
+	'Hydroponic Farmer': 'Hydroponic farmer',
+	'YIVO': 'Yivo',
+	'Thubanian Leader': 'Thubanian leader',
 }
 
 # what about Lucy Liu? we don't want the Liubots to count as her, do we?
@@ -45,8 +58,8 @@ url_name_map = {
 	'http://theinfosphere.org/Glurmo': 'Glurmo',
 	'http://theinfosphere.org/Warden_Vogel': 'Warden Vogel',
 	'http://theinfosphere.org/%22Fishy%22_Joseph_Gilman': 'Fishy Joe',
-	'http://theinfosphere.org/Professor_Hubert_Farnsworth': 'Professor Farnsworth',
-	'http://theinfosphere.org/Professor_Hubert_J._Farnsworth': 'Professor Farnsworth',
+	'http://theinfosphere.org/Professor_Hubert_Farnsworth': 'Prof. Farnsworth',
+	'http://theinfosphere.org/Professor_Hubert_J._Farnsworth': 'Prof. Farnsworth',
 	'http://theinfosphere.org/The_Big_Brain': 'The Big Brain',
 	'http://theinfosphere.org/Dr._Ben_Beeler': 'Ben Beeler',
 	'http://theinfosphere.org/Reverend_Lionel_Preacherbot': 'Preacherbot',
@@ -58,13 +71,25 @@ url_name_map = {
 	'http://theinfosphere.org/Yellow_and_red_lawyer': 'Yellow and red lawyer'
 }
 
+char_extra = {
+	'Fry' : ['EB491D', 'fry.png'],
+	'Bender' : ['6C8486', 'bender.png'],
+	'Leela' : ['462252', 'leela.png'],
+	'Prof. Farnsworth' : ['E1B675', 'farnsworth.png'],
+	'Zoidberg' : ['EA504C', 'zoidberg.png'],
+	'Amy' : ['EF8598', 'wong.png'],
+	'Hermes' : ['435F27', 'hermes.png'],
+	'Zapp' : ['7F172D', 'zapp.png']
+
+}
+
 def uni_name(name, url):
 	name = re.sub("'s [Hh]ead$", '', name)
 	if url in url_name_map: return url_name_map[url]
 	if name in name_map: return name_map[name]
 	return name
 
-characters = defaultdict(int)
+characters = defaultdict(lambda:[0,0])
 
 try: os.mkdir(transcript_dir)
 except os.error: pass
@@ -85,6 +110,7 @@ for season_name in os.listdir(vivek_dir):
 		out_file_path = os.path.join(out_season_dir, out_file_name)
 		with open(ep_file_path) as f:
 			with open(out_file_path, "w") as out:
+				charsinep = set()
 				for line in f:
 					m = vivek_re.match(line)
 					if not m:
@@ -98,7 +124,8 @@ for season_name in os.listdir(vivek_dir):
 					names = re.split(', and |, (?!Jr)| and (?!red )', name)
 					charnames = [uni_name(name, url) for name in names]
 					for charname in charnames:
-						characters[charname] += 1
+						characters[charname][0] += 1
+						charsinep.add(charname)
 						if charname.startswith('(') or charname.startswith('.') or charname.endswith("'"):
 							print "BAD NAME", season, epnum, dialogue
 					
@@ -108,8 +135,22 @@ for season_name in os.listdir(vivek_dir):
 						print "NO NAME", season, epnum, dialogue
 					
 					out.write("%s	%s	%s\n" % (timestamp, ';'.join(charnames), dialogue))
+				for charname in charsinep:
+					characters[charname][1] += 1
+
+# check for case differences
+lcnames = defaultdict(set)
+for charname in characters.keys():
+	s = lcnames[charname.lower()]
+	s.add(charname)
+	if len(s) > 1:
+		print "CASE AMBIGUITY", s
 
 print "%d unique characters" % len(characters)
 with open(character_file_name, "w") as out:
-	for name, count in sorted(characters.items(), key=itemgetter(1), reverse=True):
-		out.write("%s	%d\n" % (name, count))
+	for name, counts in sorted(characters.items(), key=itemgetter(1), reverse=True):
+		if name in char_extra:
+			color, img = char_extra[name]
+		else:
+			color, img = '', ''
+		out.write("%s	%d	%d	%s	%s\n" % (name, counts[0], counts[1], color, img))

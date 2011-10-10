@@ -155,9 +155,9 @@
 	Australian Man	Oh, Lord!
 	Man	You know, you oughta be a bureaucrat or something.
 	Fry	Man, how long is this gonna take?
-	Old Man	I'm still waiting on my birth certificate.
+	Old man	I'm still waiting on my birth certificate.
 	Prof. Farnsworth	Well, it doesn't look like I'll make it inside with the rest of you. Uh, but good luck. Just leave me where I drop.
-	Old Man	Oh, great! Someone had a baby.
+	Old man	Oh, great! Someone had a baby.
 	Leela	Come on. I have a better idea.
 	Leela	Excuse me? We're from the Planet Express delivery company. We're here to deliver a robot.
 	Bender	[mechanical voice] I am Bender. Please insert girder.
@@ -208,7 +208,7 @@
 	Leela	[singing] They said I probably shouldn't fly with just one eye.
 	Bender	[mechanical voice] I am Bender. Please insert girder.
 	Hermes	[singing] Everybody sing Jamaica!
-	All	[singing] Jamaica!
+	ALL	[singing] Jamaica!
 	Hermes	Just the bureaucrats, Jamaica!
 	Bureaucrats	[singing] Jamaica!
 	Hermes	[singing] The grade 19's!

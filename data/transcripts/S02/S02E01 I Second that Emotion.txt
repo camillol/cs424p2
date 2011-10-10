@@ -37,7 +37,7 @@
 	Bender	You call that talent? Gather round old Bender and get ready for the show of a lifetime. [He takes off his head, whistles Sweet Georgia Brown and spins his head like a Globetrotter then reattaches it.] Ta-da!
 	Hermes	Now he's wearing a hat!
 	Leela	Come on, let's all sing Happy Birthday!
-	All	[singing] What day is today?It's Nibbler's birthday,What a day for a birthday,Let's all have some cake.
+	ALL	[singing] What day is today?It's Nibbler's birthday,What a day for a birthday,Let's all have some cake.
 	Fry	[singing] And you smell like one too!
 	Bender	Hey, what about this?
 	Leela	Bender, I thought you were supposed to be cooking for this party.

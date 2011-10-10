@@ -112,7 +112,7 @@ class NgramDetails(object):
 			for w in self.allsign_ngrams:
 				ng = self.ngrams[w]
 				out.write("%d\t%s\t" % (ng['count'], ' '.join(w)))
-				out.write(':'.join("S%02dE%02dL%d-%s" % (season, episode, lineno, characters) for season, episode, lineno, characters in ng['occurrences']))
+				out.write(':'.join("S%02dE%02dL%d" % (season, episode, lineno) for season, episode, lineno, characters in ng['occurrences']))
 				out.write('\n')
 
 if __name__ == "__main__":

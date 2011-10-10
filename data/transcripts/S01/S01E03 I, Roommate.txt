@@ -89,7 +89,7 @@
 08:13	Underwater house salesman	Sure, it ain't one of them la-de-da above-ground places. But if you like dank, hey, forget about it!
 08:21	Leela	At least it's got a great view.
 08:24	Bender	What the--?
-08:31	Underwater House Salesman	Excuse me. I gotta go change a lightbulb.
+08:31	Underwater house salesman	Excuse me. I gotta go change a lightbulb.
 08:38	Leela	Wow! Now this is fantastic!
 08:41	Fry	Hmm. I'm not sure we want to pay for a dimension we're not going to use.
 08:55	Fry	Well, I give up. What's the catch?

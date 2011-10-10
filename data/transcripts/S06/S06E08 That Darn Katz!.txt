@@ -98,9 +98,9 @@
 	Amy	So I had my doctorate denied by that fuzzball? [She shoots a picture of the cat.] Bad kitty!
 	Amy	They actually built the planetary ratchet from my thesis! [The remaining crew are operating the ratchet, supervised by cats. Amy sneezes.] Uh-oh.
 	Nibbler	What the... [Leela is standing in front of them. She kicks the weapons out of their hands.]
-	Thubanian Leader	Well, look what the me dragged in.
+	Thubanian leader	Well, look what the me dragged in.
 	Nibbler	You can talk!
-	Thubanian Leader	You can talk?
+	Thubanian leader	You can talk?
 	Nibbler	How ironic. Two hyper-intelligent beings both pretending to be simple house pets!
 	Thubanian leader	Say, do you know Obliteron? He pretends to be a hamster, but when...
 	Amy	Yeah, that really great. Could you please tell us what's going on?
@@ -152,7 +152,7 @@
 	Amy	[Reading a device.] It's working! Just a little faster!
 	Zoidberg	But we're plotzing here!
 	Amy	Then look at Nibbler! [Nibbler is in his naval uniform. He does a little dance. Everyone speeds up.]
-	Thubanian Leader	[Addressing numerous other Thubanians.] On the whole, Earth's society is worthless. But they do these things called antique rugs that are great for peeing on. [Thuban 9 starts shaking as the rotational energy is returned to Earth. The cats go flying.]
+	Thubanian leader	[Addressing numerous other Thubanians.] On the whole, Earth's society is worthless. But they do these things called antique rugs that are great for peeing on. [Thuban 9 starts shaking as the rotational energy is returned to Earth. The cats go flying.]
 	Prof. Farnsworth	And though the Earth is now spinning in the wrong direction, it's good enough. Well done, Amy.
 	Wernstrom	I'm honored to begrudgingly present you with your Ph.D. in applied physics.
 	Tate	Also, some kind of sportsmanship award I had in my glove compartment.

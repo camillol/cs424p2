@@ -82,7 +82,7 @@
 	Hermes	Say, I'm no physicist, but I think I know how to stop the skipping. We'll just--
 	Hermes	I don't know how this was suppose to work.
 	Amy	Professor, I hope you find out what's wrong before we skip right past my birth--
-	All	--ppy birthday, Amy.
+	ALL	--ppy birthday, Amy.
 	Amy	Hooray! Look at all these presents!
 	Zoidberg	I hope we all have as much tomorrow at my birth--
 	Zoidberg	What?
@@ -168,7 +168,7 @@
 	Bender	Vintage Bubblegum!
 	Prof. Farnsworth	The time skips are worse than ever now. Isolated spots are jumping by years at a time. Look.
 	Boy	Stupid senior citizens. Why should we have to pay for their social security benefits?
-	Old Man	I deserve free money!
+	Old man	I deserve free money!
 	Prof. Farnsworth	Well, I'm stumped. We'll have to call in the finest scientific minds in the univ--
 	Prof. Farnsworth	Perhaps we could explode the whole damned nebula. What do you think, Curly Joe?
 	Curly Joe	No, man. An explosion big enough to destroy that mama would take out half the universe.

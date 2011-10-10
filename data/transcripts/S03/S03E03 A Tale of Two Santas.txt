@@ -73,7 +73,7 @@
 	Neptunians	[singing] We are free and fairly sober,With so many toys to build.
 	Neptunians	[singing] The machines are kinda tricky,Probably someone will be killed,But we gladly work for nothing--
 	Fry	[singing] Which is good because we don't intend to pay.
-	All	[singing] The elves are back to work today!
+	ALL	[singing] The elves are back to work today!
 	Neptunians	[singing] Hooray![They saw logs and they go down a conveyor belt.]We have just a couple hours,To make several billion gifts,[A Neptunian boxes some toys. Another adds the polystyrene S's.]And the labour isn't easy--
 	Leela	[singing] Then you'll all work triple shifts,You can make the job go quicker if you turn up the controls to super-speed.
 	Fry	, and [singing] It's back to work on Xmas Eve!
@@ -93,7 +93,7 @@
 	Neptunians	[singing] Now it's back into our tenements,To drown ourselves in rye.
 	Leela	[singing] You did the best you could,I guess that some of these gorillas are OK.
 	Aide #7	We're adequate!
-	All	[singing] The elves have rescued Xmas Day! Hooray!
+	ALL	[singing] The elves have rescued Xmas Day! Hooray!
 	Bender	[stupid voice] Duh! Gee, Bender, how you gonna get through these bars? [normal voice] I dunno, moron, suppose I bend them? [stupid voice] Duh, OK!
 	Girl	Mommy! Mommy! Santa's through the perimeter!
 	Mrs. Grant	This is it, kids. Take your suicide pills so you won't suffer.

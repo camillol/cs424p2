@@ -162,7 +162,7 @@
 13:44	Bender	Yeah, well, I'm gonna go build my own theme park, with blackjack and hookers. In fact, forget the park!
 13:57	Fry	[gasping] I'm sorry, Leela, I can't go on any further. Just leave me to die in that barn over there.
 14:11	Leela	Thank God!
-14:14	Hydroponic Farmer	Trespassers, eh?
+14:14	Hydroponic farmer	Trespassers, eh?
 14:15	Fry	No, sir. We're amusement park patrons.
 14:18	Farmer	Ooh, that's a wicked sinful place. Tilt-a-whirl's OK, but the rest is mighty wicked.
 14:23	Leela	Our car broke down and we're out of oxygen. Can we borrow some?

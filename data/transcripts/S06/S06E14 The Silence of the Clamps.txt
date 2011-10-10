@@ -200,7 +200,7 @@
 	Hermes	What?
 	Donbot	Bender was a helluva squealer. [The Donbot takes his hat off.] Maybe the best there ever was. We'll send his widow some meatballs. Clamps, Bella, get in the way-back.
 	Fry	To my friend Bender. A wise man once said he was a helluva squealer. [sad] Maybe the best there ever was.
-	All	To Bender!
+	ALL	To Bender!
 	Bender	[in an Italian accent] You pizzas gonna be another minute. [Bender walks up to the table wearing a moustache and an apron and holding a tray with a bigger beer mug on it.] We are still waitin' for it to be delivered.
 	Fry	Bender?!
 	Bender	[in an Italian accent] I'm no Bender. You got me mixed up with another Robot.

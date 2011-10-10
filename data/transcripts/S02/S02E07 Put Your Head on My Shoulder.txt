@@ -62,9 +62,9 @@
 	Amy	So while they're towin' us, you wanna do it?
 	Fry	Yeah.
 	Hermes	Which concludes the summary of the movie I saw last night. Now, any old business?
-	All	[simultaneous] No.
+	ALL	[simultaneous] No.
 	Hermes	Any new business?
-	All	[simultaneous] No.
+	ALL	[simultaneous] No.
 	Hermes	Anyone spend the night together?
 	Amy	Yep.
 	Fry	Kind of.

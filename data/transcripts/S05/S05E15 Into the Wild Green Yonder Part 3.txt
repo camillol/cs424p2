@@ -53,7 +53,7 @@
 	Frida	Very well, I'll fem-municate your man-formation.
 	Fry	[He rolls his eyes.] Just tell her.
 	Prof. Farnsworth	Well, this is it, old friends. Planet Express is done for, what with our delivery crew missing and the abysmal sales of Tickle Me Bender.
-	Bender Doll	[He doll giggles.] Quit touching my junk, pervert!
+	Bender doll	[He doll giggles.] Quit touching my junk, pervert!
 	Prof. Farnsworth	Hold out your hands and I'll remove your career chips.
 	Zoidberg	I hate to see it come to an end. [His chip is removed and he screams in agony.] When will it end?
 	Hermes	Shouldn't you get that, Professor?
@@ -104,14 +104,14 @@
 	Fry	Just as a pillow, a wig and a corncob pipe can be used to recreate my old girlfriend!
 	Nine	Bingo.
 	Transition Announcer	Meanwhile, at the Honeybun Hideout.
-	Labarbara	Now you know how it feels to be locked up in a go-go cage.
+	LaBarbara	Now you know how it feels to be locked up in a go-go cage.
 	Hermes	What the hell are you talking about?
-	Labarbara	Shut your man-hole.
+	LaBarbara	Shut your man-hole.
 	Hermes	I feel dirty.
 	Leela	Are you sure Fry is working for your father? It just doesn't seem like him to be so evil, or to hold down a job.
 	Amy	It's true, Leela. Cross My Heart bra and swear to Goddess.
 	Leela	But the Fry I know wouldn't do that. I'm gonna call his cell phone telephone and prove you wrong. [She walks over to a phone booth and tries to open the door. The camera pans down and reveals Frida's body is blocking the door.] Oh, no! Frida's been murdered!
-	Labarbara	Sweet she-cattle of Seattle.
+	LaBarbara	Sweet she-cattle of Seattle.
 	Hermes	Not your strong suit, woman.
 	Amy	Who could have done this?
 	Leela	Your dad? Nixon?

@@ -140,13 +140,13 @@
 	Amy	Don't give up. You just need more titillating twits.
 	Fry	Trust me, I want twits that tittle.
 	Leela	Then you're gonna have to sink to Bender's level. Stop acting like the Queen of England.
-	Female Voice	[singing] La la la la la la la!
+	Female voice	[singing] La la la la la la la!
 	Fry	Whose that? The Queen of England?
 	Leela	[gets out of her lounge chair] Uh, e-e-excuse me. I have to...someplace. [takes her towel and exits]
 	Fry	That was odd. Where'd that singing come from?
 	Amy	It wasn't the goat. All of its orifices are in use.
-	Female Voice	[singing in a Scottish accent] I dreamed a dream in time gone by...
-	Leela;Female Voice	[singing] When hope was high and life worth living.I dreamed that love would never die.
+	Female voice	[singing in a Scottish accent] I dreamed a dream in time gone by...
+	Leela;Female voice	[singing] When hope was high and life worth living.I dreamed that love would never die.
 	Susan	[still singing] I dreamed that God would be forgiving.
 	Fry	What the hell is that?
 	Leela	[hides the boil with a towel] Nothing.

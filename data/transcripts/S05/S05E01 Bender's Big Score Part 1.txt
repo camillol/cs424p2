@@ -32,11 +32,11 @@
 	Prof. Farnsworth	Yes, flying on the air in our mighty spaceship!
 	Staff	Woooohoooo!
 	Bender	We're back, baby!
-	All	Party! Go, go, go!
+	ALL	Party! Go, go, go!
 	Cubert	Lower, lawn mower!
 	Hermes	What's the matter, robot? You got a rod up your spine?
 	Bender	Yes, I do. That's how I'm built.
-	All	Hooray.
+	ALL	Hooray.
 	Fry	Way to bend it!
 	Bender	You're the greatest, Bender!
 	Hermes	In Jamaica, we got 10-story office buildings lower than that.

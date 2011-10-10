@@ -103,9 +103,9 @@
 	Bender	Wait. [Whispering:] Let me come with you.
 	Fry	I'm sorry, Bender. Robots don't go to heaven. [The escalators retract up with Fry's departure.]
 	Bender	Death to humans.
-	YIVO	Welcome, welcome, everyone. Oh, you look so beautiful. I wish I'd had more time to straighten up. My harps are just lying everywhere.
+	Yivo	Welcome, welcome, everyone. Oh, you look so beautiful. I wish I'd had more time to straighten up. My harps are just lying everywhere.
 	Amy	Oh, relax, it's fine. It looks lived in.
-	YIVO	Let's heat up some leftovers and then spend eternity together. I have only one request. Now that you're here, promise me you'll never, ever communicate with any other universe.
+	Yivo	Let's heat up some leftovers and then spend eternity together. I have only one request. Now that you're here, promise me you'll never, ever communicate with any other universe.
 	Fry	We promise, Yivo. As far as we're concerned, you're the only universe in the world. [He kisses a tentacle and Leela exclaims in disgust.]
 	Bender	Has humanity called?
 	Robot 1-X	No, sir.
@@ -114,10 +114,10 @@
 	Leela	Am I the only one who thinks this is all a sham?
 	Zoidberg	Yes.
 	Leela	This isn't heaven. It just looks exactly like it, and makes us immortal, which I find suspicious.
-	YIVO	Allow me to explain. Centuries ago, I sent an image of myself into the minds of your artists. The heavenly clouds they painted depict a vapour I exude.
+	Yivo	Allow me to explain. Centuries ago, I sent an image of myself into the minds of your artists. The heavenly clouds they painted depict a vapour I exude.
 	Prof. Farnsworth	I wish I exuded anything that smelled half that good.
 	Leela	Then what about these angels? Some kind of Scooby Doo-esque flashlight projection?
-	YIVO	Actually, those are mindless jakabirds. [A shot of two jakabirds eating green larvae is shown.] They keep my surface free of parasitic larvae. [The jakabirds cluck like chickens.]
+	Yivo	Actually, those are mindless jakabirds. [A shot of two jakabirds eating green larvae is shown.] They keep my surface free of parasitic larvae. [The jakabirds cluck like chickens.]
 	Fry	You didn't like Country Bear Jamboree either, Leela. There's no pleasing you.
 	Fry	Dearest Bender. How are you? I am fine. Everyone is happy here except Leela, but you know her. She didn't like Country Bear Jamboree, either. I'm so madly in love with Yivo, I feel like a schoolgirl with a crush on Justin Timberlake, and then she moves into a tiny house on his head. We have giant rubies that taste like root beer. Sincerely, Fry.
 	Robot 1-X	Letter for you, hyperlord Bender.

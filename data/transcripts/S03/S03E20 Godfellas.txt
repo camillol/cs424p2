@@ -107,7 +107,7 @@
 14:29	Namgyal	Behold. The Monastery of Deshuba. I must leave you now for I am not holy enough to enter.
 14:36	Fry	OK.
 14:44	Leela	Looks rickety. We'd better test it.
-14:53	Female Voice	Welcome to our monastery. Please stand to one side to let faster pilgrims by.
+14:53	Female voice	Welcome to our monastery. Please stand to one side to let faster pilgrims by.
 15:11	Bender	Hey! That galaxy's signalling in binary. I gotta signal back. But I only know enough binary to ask where the bathroom is. [shouting] You speak English?
 15:20	Galactic Entity	I do now.
 15:28	Bender	What are you? Some kind of galactic computer?
