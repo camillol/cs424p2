@@ -106,7 +106,8 @@ void setup()
   Iterator i = characters.iterator();
   for (int n=0; n < 8 && i.hasNext();) {
     Character character = (Character)i.next();
-    myImage = character.img;
+    myImage = character.img;;
+
     if (character.img == null) continue;
     if(n <= 3){
     rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
@@ -131,10 +132,6 @@ void setup()
   //uncomment the following two lines to add the interaction chart(basically a chart that has char coded color lines for each dialog he has in the episode)
 //  ArrayList episodeCharacters=data.getEpisodeCharactersList("S01E01");
 //  rootView.subviews.add(new InteractionChart(40,150,700,150,episodeCharacters));
-
-
-
-  dropMenuView();
 
   setViewTarget(null);
 }
@@ -344,7 +341,8 @@ void buttonClicked(Object element)
         character.setActive(false);  /* force animator targeting */
       }
     } else if (element.equals("View All Characters")){
-      characters.setAllActive(true);
+      characters.setAllActive(true); 
+      updateActiveTotals();
     }
   } else if (CharNgram.class.isInstance(element)) {
     CharNgram charNgram = (CharNgram)element;
@@ -371,21 +369,5 @@ void drawLabels(){
     text("Zapp", 680+3*(80),175);
 }
 
-void dropMenuView(){
-  text("Overall", 30, 10);
-  int myDivNum = ((650-84)/6);
-  
-/*  fill(100);
-   rect(50, 50, 658, 380);
-  int myY = 410;
 
-  for (int i = 1; i<7; i++){
-    rootView.subviews.add(new Button(50+myDivNum*(i-1),410,myDivNum,40,i+8,32,true, "S"+i));
-  }
-  rootView.subviews.add(new Button(50+myDivNum*(6),410,myDivNum,40,16,32, false, "  All"));
-
-  for(int j = myY; j >= 50; j--){
-     
-  } */
-}
 
