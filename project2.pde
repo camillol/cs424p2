@@ -140,6 +140,10 @@ void draw()
 {
   background(shipMain);    /* seems to be needed to actually clear the frame */
   Animator.updateAll();
+  
+  for (int i = 0; i < seasons.length; i++) {
+    seasonViews[i].y = seasonY[i].value;
+  }
     
   //tint(255,255);
   noStroke();
