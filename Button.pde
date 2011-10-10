@@ -84,8 +84,10 @@ class Button extends View{
         text(myLabel, 0, 0);
         popMatrix();
       } 
+
       if(hasText && !myVertical){
-        text(myLabel,0,0);}
+        text(myLabel,0,0);
+      }
     }
   }
 
@@ -95,7 +97,10 @@ class Button extends View{
       tint(0, 130,109,200);
       image(myImage,x,y);
     }
+    
+    if(!hasSelect)
     myFlag = !myFlag;
+    
     buttonClicked(myElement);
     return true;
   }

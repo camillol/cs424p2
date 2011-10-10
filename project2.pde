@@ -79,8 +79,8 @@ void setup()
   
   rootView = new View(0, 0, width, height);
   
-  overallButton = new Button(30, overallY(), 140, overallButtonH, "overall", 18, false, "Appearances",false);
-  overallButton.myFlag = true;
+  overallButton = new Button(30, overallY(), 140, overallButtonH, "overall", 18, false, "Appearances",true);
+  //overallButton.myFlag = true;
 
   seasonViews = new SeasonEpsView[seasons.length];
   seasonY = new Animator[seasons.length];
@@ -95,7 +95,7 @@ void setup()
   ngramView = new View(30, ngramY(), seasonEpsViewWidth, ngramViewH);
   rootView.subviews.add(ngramView);
   
-  ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams", false);
+  ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams", true);
   ngramView.subviews.add(ngramButton);
 
   ngramList = new ListBox(0, 20, 200, ngramViewH-20-overallButtonH-10, new MissingListDataSource("select a character"));
@@ -337,7 +337,12 @@ void buttonClicked(Object element)
     } else if (element.equals("n-grams")) {
       setNgramMode(true);
     } else if (element.equals("Reset")){
-      characters.setAllActive(false);
+      characters.setAllActive(false); 
+      Iterator it = characters.iterator();
+      while (it.hasNext()) {
+        Character character = (Character)it.next();
+        character.setActive(false);  /* force animator targeting */
+      }
     } else if (element.equals("View All Characters")){
       characters.setAllActive(true);
     }
