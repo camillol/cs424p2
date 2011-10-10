@@ -6,6 +6,7 @@ class SeasonEpsView extends View {
   int barWidth;
   Season season;
   Button button;
+  int ngramOccIdx;
   
   SeasonEpsView(float x_, float y_, float w_, float h_, Season season_)
   {
@@ -29,32 +30,60 @@ class SeasonEpsView extends View {
     noStroke();
     
     Episode episode = season.episodes[epidx];
-    Iterator i = episode.charLineCount.entrySet().iterator();
-    float total = episode.activeTotal.value;
-    float slicey = 0, sliceh;
     
-    float a = 255.0;
-    if (episode.activeTotal.target == 0.0) {
-      a = map(episode.activeTotal.value, episode.activeTotal.oldtarget, episode.activeTotal.target, 255.0, 0.0);
-      fill(224);
+    if (ngramMode) {
+      fill(255);
       rect(0,0,barWidth,h);
-    }
-    
-    pushClip();
-    clipRect(0,0,barWidth,h);
-    while (i.hasNext()) {
-      Map.Entry entry = (Map.Entry)i.next();
-      Character character = (Character)entry.getKey();
-      int count = (Integer)entry.getValue();
       
-      if (character.activeAnimator.value > 0) {
-        sliceh = (float)count/total*h*character.activeAnimator.value;
-        fill(character.keyColor, a);
-        rect(0,slicey,barWidth,sliceh);
-        slicey += sliceh;
+      if (activeNgram != null) {
+//        strokeWeight(2);
+        while (ngramOccIdx < activeNgram.occurrences.length && (activeNgram.occurrences[ngramOccIdx].precedes(episode))) ngramOccIdx++;
+        while (ngramOccIdx < activeNgram.occurrences.length && (activeNgram.occurrences[ngramOccIdx].within(episode))) {
+          int lineno = activeNgram.occurrences[ngramOccIdx].lineno;
+          DialogLine dialog = episode.dialogs[lineno];
+          float liney = (float)lineno / episode.dialogs.length * h;
+          float piecew = (float)barWidth / dialog.who.length;
+          /* at this scale we can really only draw one character's lines, since they tend to overlap */
+          for (int i = 0; i < dialog.who.length; i++) {
+            Character c = dialog.who[i];
+            if (c.active) {
+              stroke(c.keyColor);
+              line(/*piecew*i*/0, liney, /*piecew*(i+1)*/barWidth, liney);
+              break;
+            }
+          }
+          ngramOccIdx++;
+        }
+//        strokeWeight(1);
       }
+    } else {
+      Iterator i = episode.charLineCount.entrySet().iterator();
+      float total = episode.activeTotal.value;
+      float slicey = 0, sliceh;
+      
+      float a = 255.0;
+      if (episode.activeTotal.target == 0.0) { /* none of the selected characters appear in this episode */
+        a = map(episode.activeTotal.value, episode.activeTotal.oldtarget, episode.activeTotal.target, 255.0, 0.0);
+        fill(224);
+        rect(0,0,barWidth,h);
+      }
+      
+      pushClip();
+      clipRect(0,0,barWidth,h);
+      while (i.hasNext()) {
+        Map.Entry entry = (Map.Entry)i.next();
+        Character character = (Character)entry.getKey();
+        int count = (Integer)entry.getValue();
+        
+        if (character.activeAnimator.value > 0) {
+          sliceh = (float)count/total*h*character.activeAnimator.value;
+          fill(character.keyColor, a);
+          rect(0,slicey,barWidth,sliceh);
+          slicey += sliceh;
+        }
+      }
+      popClip();
     }
-    popClip();
     
     popMatrix();
   }
@@ -80,7 +109,7 @@ class SeasonEpsView extends View {
     rect(0,0,w,h);
     
 //    drawLabel();
-    
+    ngramOccIdx = 0;
     for (int n = 1; n <= season.episodes.length; n++) {
       drawEpBar(n);
     }

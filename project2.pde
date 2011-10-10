@@ -37,7 +37,7 @@ PieChart pieChart;
 
 NgramTable ngrams;
 HashMap<Character,CharNgramTable> charNgrams;
-boolean ngramMode = false;
+boolean ngramMode = true;
 Ngram activeNgram = null;
 
 ListBox ngramList;
@@ -267,6 +267,9 @@ void buttonClicked(Object element)
         setViewTarget(null);
       }
     }
+  } else if (CharNgram.class.isInstance(element)) {
+    CharNgram charNgram = (CharNgram)element;
+    activeNgram = charNgram.ngram;
   }
 }
 

@@ -69,6 +69,7 @@ class Button extends View{
     if (hasText){
       textFont(fontA, myFontSize);
       fill(myFlag ? ship2Light : shipLight);
+      noStroke();
       rect(0,0,w,h);
       fill(myFlag ? shipRed : shipRedDark);
       if (myVertical) {

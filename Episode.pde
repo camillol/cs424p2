@@ -23,9 +23,9 @@ class Episode extends TSVBase {
   Episode(String filename) {
     super(filename, false);  // this loads the data
     String[] groups = match(filename, "S(\\d+)E(\\d+) (.*)\\.txt");
-    season = parseInt(groups[0]);
-    number = parseInt(groups[1]);
-    title = groups[2];
+    season = parseInt(groups[1]);
+    number = parseInt(groups[2]);
+    title = groups[3];
     activeTotal = new Animator();
     updateActiveTotal();
   }

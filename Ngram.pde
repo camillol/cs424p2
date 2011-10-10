@@ -22,6 +22,16 @@ class Occurrence {
     episode = e;
     lineno = l;
   }
+  
+  boolean precedes(Episode ep)
+  {
+    return (season < ep.season || (season == ep.season && episode < ep.number));
+  }
+  
+  boolean within(Episode ep)
+  {
+    return (season == ep.season && episode == ep.number);
+  }
 }
 
 class CharNgram {
@@ -98,9 +108,9 @@ class NgramTable extends TSVBase {
     
     for (int j = 0; j < occStrs.length; j++) {
       String[] groups = match(occStrs[j], "S(\\d+)E(\\d+)L(\\d+)");
-      int season = parseInt(groups[0]);
-      int epnum = parseInt(groups[1]);
-      int lineno = parseInt(groups[2]);
+      int season = parseInt(groups[1]);
+      int epnum = parseInt(groups[2]);
+      int lineno = parseInt(groups[3]);
       occs[j] = new Occurrence(season, epnum, lineno);
     }
     ngramMap.put(words, new Ngram(words, count, occs));
