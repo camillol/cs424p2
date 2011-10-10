@@ -36,6 +36,9 @@ Button overallButton;
 PieChart pieChart;
 
 NgramTable ngrams;
+HashMap<Character,CharNgramTable> charNgrams;
+
+ListBox ngramList;
 
 void setupG2D()
 {
@@ -50,10 +53,9 @@ void setup()
   
   loadCharacters();
   loadSeasons();
+  loadNgrams();
   characters.setAllActive(true);
   viewTotalLines = new Animator();
-  
-  ngrams = new NgramTable("ngrams/sign-ngrams.txt");
   
   size(1024, 768);
   setupG2D();
@@ -99,7 +101,8 @@ void setup()
   pieChart=new PieChart(750,520,200,200);
   rootView.subviews.add(pieChart);
   
-  
+  ngramList = new ListBox(100, 500, 200, 200, new MissingListDataSource("select a character"));
+  rootView.subviews.add(ngramList);
   
   //rootView.subviews.add(new InteractionChart(750,520,400,500,episodeCharacters,characters));
 
@@ -137,6 +140,23 @@ void loadSeasons()
     String[] groups = match(names[i], "S(\\d+)");
     if (groups == null) continue;
     seasons[i] = new Season(parseInt(groups[1]), "transcripts/"+names[i]);
+  }
+}
+
+void loadNgrams()
+{
+  ngrams = new NgramTable("ngrams/sign-ngrams.txt");
+  charNgrams = new HashMap<Character,CharNgramTable>(characters.count());
+  Iterator it = characters.iterator();
+  while (it.hasNext()) {
+    Character c = (Character)it.next();
+    println(c.name);
+    String path = "ngrams/characters/"+c.name+"-sign-ngrams.txt";
+    File f = new File(dataPath(path));
+    if (f.exists()) {
+      CharNgramTable cngt = new CharNgramTable(path);
+      charNgrams.put(c, cngt);
+    }
   }
 }
 

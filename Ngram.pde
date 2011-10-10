@@ -24,6 +24,59 @@ class Occurrence {
   }
 }
 
+class CharNgram {
+  Ngram ngram;
+  int count;
+  float pvalue;
+  
+  CharNgram(Ngram ngram_, int count_, float pvalue_)
+  {
+    ngram = ngram_;
+    count = count_;
+    pvalue = pvalue_;
+  }
+}
+
+class CharNgramTable extends TSVBase implements ListDataSource {
+  ArrayList<CharNgram> charNgramList;
+  HashMap<String,CharNgram> charNgramMap;
+  
+  CharNgramTable(String filename) {
+    super(filename, false);  // this loads the data
+  }
+  
+  void allocateData(int rows)
+  {
+    charNgramMap = new HashMap<String,CharNgram>(rows);
+    charNgramList = new ArrayList<CharNgram>(rows);
+  }
+  
+  boolean createItem(int i, String[] pieces)
+  {
+    String words = pieces[0];
+    int count = parseInt(pieces[1]);
+    float pvalue = parseFloat(pieces[2]);
+    CharNgram cng = new CharNgram(ngrams.get(words), count, pvalue);
+    charNgramMap.put(words, cng);
+    charNgramList.add(cng);
+    return true;
+  }
+  
+  void resizeData(int rows) {}
+  
+  int count() {
+    return charNgramList.size();
+  }
+  
+  CharNgram get(int index) {
+    return charNgramList.get(index);
+  }
+  
+  String getText(int index) {
+    return charNgramList.get(index).ngram.words;
+  }
+}
+
 class NgramTable extends TSVBase {
   HashMap<String,Ngram> ngramMap;
   
@@ -55,4 +108,9 @@ class NgramTable extends TSVBase {
   }
   
   void resizeData(int rows) {}
+  
+  Ngram get(String words)
+  {
+    return (Ngram)ngramMap.get(words);
+  }
 }

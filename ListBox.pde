@@ -4,6 +4,15 @@ interface ListDataSource {
   int count();
 }
 
+class MissingListDataSource implements ListDataSource {
+  String msg;
+  
+  MissingListDataSource(String msg_) { msg = msg_; }
+  String getText(int index) { return msg; }
+  Object get(int index) { return null; }
+  int count() { return 1; }
+}
+
 class ArrowButton extends Button {
   ListBox myList;
   boolean isUp;
@@ -67,7 +76,7 @@ class ListBox extends View{
     rect(0,0,w,h);
     fill(0);
    
-    for(int i = myListCounter; i< myListCounter+(h/rowHeight); i++) {
+    for(int i = myListCounter; i < myListCounter+(h/rowHeight) && i < data.count(); i++) {
       text(data.getText(i), 0, (i-myListCounter)*rowHeight); 
     }
   }
