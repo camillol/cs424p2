@@ -106,10 +106,10 @@ void setup()
     myImage = character.img;
     if (character.img == null) continue;
     if(n <= 3){
-    rootView.subviews.add(new Button(680+n*(60),50,50,50,character,myImage,false));
+    rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
     }
     else{
-    rootView.subviews.add(new Button(680+(n-4)*(60),120,50,50,character,myImage,false));  
+    rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
     }
     n++;
   }
@@ -217,7 +217,7 @@ void draw()
   }
   ngramView.y = ngramY();
   overallButton.y = overallY();
-  
+  drawLabels();
   //tint(255,255);
   noStroke();
   rootView.draw();
@@ -341,6 +341,17 @@ void updateActiveTotals()
   for (int i = 0; i < seasons.length; i++) {
     seasons[i].updateActiveTotals();
   }
+}
+
+void drawLabels(){
+    text("Fry", 680+0*(80),102);
+    text("Bender", 680+1*(80),102);
+    text("Leela", 680+2*(80),102);
+    text("Farnsworth", 680+3*(80),102);
+    text("Zoidberg", 680+0*(80),175);
+    text("Amy", 680+1*(80),175);
+    text("Hermes", 680+2*(80),175);
+    text("Zapp", 680+3*(80),175);
 }
 
 void dropMenuView(){
