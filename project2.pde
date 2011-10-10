@@ -328,6 +328,7 @@ void buttonClicked(Object element)
     int idx = season.number - 1;
     setViewTarget(season);
     retargetSeasonYs();
+    rootView.subviews.add(new StatsView(30,200,600,400,season,characters));
   } else if (String.class.isInstance(element)) {
     if (element.equals("overall")) {
       setViewTarget(null);
