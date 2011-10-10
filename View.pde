@@ -61,7 +61,7 @@ class View {
     float lx = px - x;
     float ly = py - y;
     // check our subviews first
-    for (int i = 0; i < subviews.size(); i++) {
+    for (int i = subviews.size()-1; i >= 0; i--) {
       View v = (View)subviews.get(i);
       if (v.mousePressed(lx, ly)) return true;
     }
@@ -74,7 +74,7 @@ class View {
     float lx = px - x;
     float ly = py - y;
     // check our subviews first
-    for (int i = 0; i < subviews.size(); i++) {
+    for (int i = subviews.size()-1; i >= 0; i--) {
       View v = (View)subviews.get(i);
       if (v.mouseDragged(lx, ly)) return true;
     }
@@ -87,7 +87,7 @@ class View {
     float lx = px - x;
     float ly = py - y;
     // check our subviews first
-    for (int i = 0; i < subviews.size(); i++) {
+    for (int i = subviews.size()-1; i >= 0; i--) {
       View v = (View)subviews.get(i);
       if (v.mouseClicked(lx, ly)) return true;
     }

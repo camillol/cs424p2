@@ -241,6 +241,7 @@ void buttonClicked(Object element)
     character.setActive(!character.active);
     characters.setAllActive(countActive == 0);
     updateActiveTotals();
+    ngramList.data = charNgrams.get(character);
   } else if (seasons[0].getClass().isInstance(element)) {
     Season season = (Season)element;
     int idx = season.number - 1;
