@@ -37,6 +37,8 @@ PieChart pieChart;
 
 NgramTable ngrams;
 HashMap<Character,CharNgramTable> charNgrams;
+boolean ngramMode = false;
+Ngram activeNgram = null;
 
 ListBox ngramList;
 
@@ -236,13 +238,13 @@ void setViewTarget(Object target)
 
 void buttonClicked(Object element)
 {
-  if (characters.iterator().next().getClass().isInstance(element)) {
+  if (Character.class.isInstance(element)) {
     Character character = (Character)element;
     character.setActive(!character.active);
     characters.setAllActive(countActive == 0);
     updateActiveTotals();
     ngramList.data = charNgrams.get(character);
-  } else if (seasons[0].getClass().isInstance(element)) {
+  } else if (Season.class.isInstance(element)) {
     Season season = (Season)element;
     int idx = season.number - 1;
     setViewTarget(season);
@@ -256,7 +258,7 @@ void buttonClicked(Object element)
       seasonY[i].target(height + (i-idx-1)*(seasonEpsViewHeight + seasonEpsViewVGap));
       seasonViews[i].button.myFlag = false;
     }
-  } else if ("".getClass().isInstance(element)) {
+  } else if (String.class.isInstance(element)) {
     if (element.equals("overall")) {
       for (int i = 0; i < seasons.length; i++) {
         float y = seasonEpsTop + (seasonEpsViewHeight + seasonEpsViewVGap)*i;
