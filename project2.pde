@@ -31,7 +31,7 @@ final int seasonEpsViewHeightNgram = 60;
 
 final int ngramListH = 200;
 final int overallButtonH = 20;
-final int ngramViewH = 20 + ngramListH + 10 + overallButtonH;
+final int ngramViewH = 28 + ngramListH + 10 + overallButtonH;
 
 SeasonEpsView seasonViews[];
 Animator seasonY[];
@@ -101,7 +101,7 @@ void setup()
   ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams", true);
   ngramView.subviews.add(ngramButton);
 
-  ngramList = new ListBox(0, 20, 600, ngramViewH-20-overallButtonH-10, new MissingListDataSource("select a character"));
+  ngramList = new ListBox(0, 28, 600, ngramListH, new MissingListDataSource("select a character"));
   ngramView.subviews.add(ngramList);
   
   PImage myImage;

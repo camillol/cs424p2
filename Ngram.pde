@@ -141,7 +141,7 @@ class NgramView extends View {
   void drawContent() {
     if(activeNgramChar != null) {
       fill(0);
-      text("Significant n-grams for " + activeNgramChar.name, 0, 0);
+      text("Significant n-grams for " + activeNgramChar.name, 0, 8);
     }
   }
 }
