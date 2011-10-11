@@ -106,6 +106,8 @@ class Button extends View
 }
 
 class CharacterButton extends Button {
+  final int highlightWidth = 4;
+  
   CharacterButton(float x_, float y_, float w_, float h_, Character character)
   {
     super(x_,y_,w_,h_, character, character.img, false);
@@ -115,5 +117,16 @@ class CharacterButton extends Button {
   {
     Character character = (Character)myElement;
     return character.active;
+  }
+  
+  void drawContent()
+  {
+    Character character = (Character)myElement;
+    if (selected()) {
+      fill(character.keyColor);
+      noStroke();
+      rect(-highlightWidth, -highlightWidth, w+highlightWidth*2, h+highlightWidth*2);
+    }
+    image(myImage,0,0);
   }
 }

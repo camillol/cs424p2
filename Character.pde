@@ -107,5 +107,10 @@ class CharacterList extends TSVBase implements ListDataSource {
   {
     return get(index).name;
   }
+  
+  boolean selected(int index)
+  {
+    return get(index).active;
+  }
 }
 

@@ -107,18 +107,12 @@ void setup()
   PImage myImage;
   
   Iterator i = characters.iterator();
-  for (int n=0; n < 8 && i.hasNext();) {
+  for (int n=0; n < 8 && i.hasNext(); n++) {
     Character character = (Character)i.next();
     myImage = character.img;;
 
-    if (character.img == null) continue;
-    if(n <= 3){
-    rootView.subviews.add(new Button(680+n*(80),90,50,50,character,myImage,false));
-    }
-    else{
-    rootView.subviews.add(new Button(680+(n-4)*(80),160,50,50,character,myImage,false));  
-    }
-    n++;
+    assert (character.img != null);
+    rootView.subviews.add(new CharacterButton(680+(n%4)*(80),90+(20+50)*(n/4),50,50,character));
   }
   
   rootView.subviews.add(new ListBox(680,260,300,200, characters));

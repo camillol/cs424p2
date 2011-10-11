@@ -2,6 +2,7 @@ interface ListDataSource {
   String getText(int index);
   Object get(int index);
   int count();
+  boolean selected(int index);
 }
 
 class MissingListDataSource implements ListDataSource {
@@ -11,6 +12,7 @@ class MissingListDataSource implements ListDataSource {
   String getText(int index) { return msg; }
   Object get(int index) { return null; }
   int count() { return 1; }
+  boolean selected(int index) { return false; }
 }
 
 class ArrowButton extends Button {
@@ -75,9 +77,18 @@ class ListBox extends View{
     fill(myColor);
     rect(0,0,w,h);
     fill(0);
+    noStroke();
    
     for(int i = myListCounter; i < myListCounter+(h/rowHeight) && i < data.count(); i++) {
-      text("  " + data.getText(i), 0, (i-myListCounter)*rowHeight); 
+      float rowy = (i-myListCounter)*rowHeight;
+      if (data.selected(i)) {
+        fill(shipRed);
+        rect(0, rowy, w, rowHeight);
+        fill(255);
+      } else {
+        fill(0);
+      }
+      text(data.getText(i), 8, rowy);
     }
   }
   
