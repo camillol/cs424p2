@@ -113,16 +113,16 @@ void setup()
 
     if (character.img == null) continue;
     if(n <= 3){
-    rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
+    rootView.subviews.add(new Button(680+n*(80),90,50,50,character,myImage,false));
     }
     else{
-    rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
+    rootView.subviews.add(new Button(680+(n-4)*(80),160,50,50,character,myImage,false));  
     }
     n++;
   }
   
   rootView.subviews.add(new ListBox(680,260,300,200, characters));
-  allActiveButton = new Button(680 ,220, 160, 15, "View All Characters", 18, false, "View All Characters",true);
+  allActiveButton = new Button(680 ,50, 160, 15, "View All Characters", 18, false, "View All Characters",true);
   
   rootView.subviews.add(allActiveButton);
 
@@ -357,10 +357,10 @@ void buttonClicked(Object element)
   
         if (character.img == null) continue;
         if(n <= 3){
-          rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
+          rootView.subviews.add(new Button(680+n*(80),90,50,50,character,myImage,false));
         }
         else{
-          rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
+          rootView.subviews.add(new Button(680+(n-4)*(80),160,50,50,character,myImage,false));  
         }
         n++;
       }
@@ -380,14 +380,14 @@ void updateActiveTotals()
 }
 
 void drawLabels(){
-    text("Fry", 680+0*(80),102);
-    text("Bender", 680+1*(80),102);
-    text("Leela", 680+2*(80),102);
-    text("Farnsworth", 680+3*(80),102);
-    text("Zoidberg", 680+0*(80),175);
-    text("Amy", 680+1*(80),175);
-    text("Hermes", 680+2*(80),175);
-    text("Zapp", 680+3*(80),175);
+    text("Fry", 680+0*(80),142);
+    text("Bender", 680+1*(80),142);
+    text("Leela", 680+2*(80),142);
+    text("Farnsworth", 680+3*(80),142);
+    text("Zoidberg", 680+0*(80),215);
+    text("Amy", 680+1*(80),215);
+    text("Hermes", 680+2*(80),215);
+    text("Zapp", 680+3*(80),215);
 }
 
 
