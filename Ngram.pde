@@ -132,3 +132,16 @@ class NgramTable extends TSVBase {
     return (Ngram)ngramMap.get(words);
   }
 }
+
+class NgramView extends View {
+  NgramView(float x_, float y_, float w_, float h_) {
+    super(x_,y_,w_,h_);
+  }
+  
+  void drawContent() {
+    if(activeNgramChar != null) {
+      fill(0);
+      text("Significant n-grams for " + activeNgramChar.name, 0, 0);
+    }
+  }
+}

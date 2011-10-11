@@ -44,8 +44,9 @@ HashMap<Character,CharNgramTable> charNgrams;
 boolean ngramMode = false;
 Animator ngramModeAnimator;
 Ngram activeNgram = null;
+Character activeNgramChar = null;
 
-View ngramView;
+NgramView ngramView;
 Button ngramButton;
 ListBox ngramList;
 
@@ -94,7 +95,7 @@ void setup()
   }
   rootView.subviews.add(overallButton);
   
-  ngramView = new View(30, ngramY(), seasonEpsViewWidth, ngramViewH);
+  ngramView = new NgramView(30, ngramY(), seasonEpsViewWidth, ngramViewH);
   rootView.subviews.add(ngramView);
   
   ngramButton = new Button(0, ngramViewH-overallButtonH, 140, overallButtonH, "n-grams", 18, false, "n-grams", true);
@@ -329,6 +330,7 @@ void buttonClicked(Object element)
     characters.setAllActive(countActive == 0);
     updateActiveTotals();
     CharNgramTable cng = charNgrams.get(character);
+    activeNgramChar = character;
     ngramList.data = cng != null ? cng : new MissingListDataSource("(no significant n-grams for this character)");
   } else if (Season.class.isInstance(element)) {
     Season season = (Season)element;
