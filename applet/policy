@@ -1,0 +1,23 @@
+grant {
+  permission java.awt.AWTPermission 
+	"accessEventQueue";
+  permission java.awt.AWTPermission 
+	"showWindowWithoutWarningBanner";
+
+  permission java.io.FilePermission 
+	"data/files/seasonaggregate/S01:seasonStats:sorted", "read,write";
+	
+  permission java.io.FilePermission 
+	"data/files/seasonaggregate/S02:seasonStats:sorted", "read,write";
+  permission java.io.FilePermission 
+	"data/files/seasonaggregate/S03:seasonStats:sorted", "read,write";
+  permission java.io.FilePermission 
+	"data/files/seasonaggregate/S04:seasonStats:sorted", "read,write";
+  permission java.io.FilePermission 
+	"data/files/seasonaggregate/S05:seasonStats:sorted", "read,write";
+  permission java.io.FilePermission 
+	"data/files/seasonaggregate/S06:seasonStats:sorted", "read,write";
+
+	
+};
+
