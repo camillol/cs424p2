@@ -1,6 +1,5 @@
-class Button extends View{
-  
-  float level;
+class Button extends View
+{
   color myColor = color(255,255,255,0);
   boolean myFlag = false;
   PImage myImage;
@@ -19,13 +18,11 @@ class Button extends View{
   Button(float x_, float y_, float w_, float h_, Object element)
   {
     super(x_,y_,w_,h_);
-    level = 1;
   }
   
   Button(float x_, float y_, float w_, float h_, Object element, PImage theImage, boolean isDirectional)
   {
     super(x_,y_,w_,h_);
-    level = 1;
     hasImage = true;
     myImage = theImage;
     if(!isDirectional){
@@ -41,7 +38,6 @@ class Button extends View{
   Button(float x_, float y_, float w_, float h_, Object element, int fontSize, boolean vertical, String theLabel, boolean selectButton)
   {
     super(x_,y_,w_,h_);
-    level = 1;
     hasText = true;
     myLabel = theLabel;
     myFontSize = fontSize;
@@ -51,11 +47,15 @@ class Button extends View{
     hasSelect = selectButton;
   }
   
+  boolean selected()
+  {
+    return myFlag;
+  }
   
   void drawContent()
   {
     if (hasImage && !hasDirection && !hasSelect) {
-      if (myFlag) tint(0, 153, 204, 126);
+      if (selected()) tint(0, 153, 204, 126);
       else noTint();
       image(myImage,0,0);
     }
@@ -71,10 +71,10 @@ class Button extends View{
 
     if (hasText){
       textFont(fontA, myFontSize);
-      fill(myFlag ? ship2Light : shipLight);
+      fill(selected() ? ship2Light : shipLight);
       noStroke();
       rect(0,0,w,h);
-      fill(myFlag ? shipRed : shipRedDark);
+      fill(selected() ? shipRed : shipRedDark);
 
       if (myVertical) {
         textAlign(LEFT, TOP);
@@ -98,12 +98,22 @@ class Button extends View{
       tint(0, 130,109,200);
       image(myImage,x,y);
     }
-    
-    if(!hasSelect)
-    myFlag = !myFlag;
-    
+        
     buttonClicked(myElement);
     return true;
   }
   
+}
+
+class CharacterButton extends Button {
+  CharacterButton(float x_, float y_, float w_, float h_, Character character)
+  {
+    super(x_,y_,w_,h_, character, character.img, false);
+  }
+  
+  boolean selected()
+  {
+    Character character = (Character)myElement;
+    return character.active;
+  }
 }
