@@ -21,7 +21,15 @@ void drawContent(){
   text("Season "+mySeason +" Stats:", 0,0);
   
   checkActive();
-  seasonMap=data.getSeasonData("S0"+mySeason);
+  if(mySeason!=0)
+  {
+      seasonMap=data.getSeasonData("S0"+mySeason);
+  }
+  else
+  {
+    seasonMap=data.getWholeData();
+  }
+
   for(int i = 0; i < charList.length;i++){
     if(charList[i] != null){
     text(charList[i] , 20, 20*i);
