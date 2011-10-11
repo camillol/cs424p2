@@ -85,7 +85,7 @@ class CharNgramTable extends TSVBase implements ListDataSource {
   }
   
   String getText(int index) {
-    return charNgramList.get(index).ngram.words;
+    return charNgramList.get(index).ngram.count + "  "+ charNgramList.get(index).ngram.words;
   }
   
   boolean selected(int index) {
