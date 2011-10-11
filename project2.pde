@@ -111,11 +111,11 @@ void setup()
     myImage = character.img;;
 
     assert (character.img != null);
-    rootView.subviews.add(new CharacterButton(680+(n%4)*(80),50+(20+50)*(n/4),50,50,character));
+    rootView.subviews.add(new CharacterButton(680+(n%4)*(80),90+(20+50)*(n/4),50,50,character));
   }
   
   rootView.subviews.add(new ListBox(680,260,300,200, characters));
-  allActiveButton = new Button(680 ,220, 160, 15, "View All Characters", 18, false, "View All Characters",true);
+  allActiveButton = new Button(680 ,50, 160, 15, "View All Characters", 18, false, "View All Characters",true);
   allActiveButton.myFlag = true;
   rootView.subviews.add(allActiveButton);
 
@@ -362,14 +362,14 @@ void updateActiveTotals()
 }
 
 void drawLabels(){
-    text("Fry", 680+0*(80),102);
-    text("Bender", 680+1*(80),102);
-    text("Leela", 680+2*(80),102);
-    text("Farnsworth", 680+3*(80),102);
-    text("Zoidberg", 680+0*(80),175);
-    text("Amy", 680+1*(80),175);
-    text("Hermes", 680+2*(80),175);
-    text("Zapp", 680+3*(80),175);
+    text("Fry", 680+0*(80),142);
+    text("Bender", 680+1*(80),142);
+    text("Leela", 680+2*(80),142);
+    text("Farnsworth", 680+3*(80),142);
+    text("Zoidberg", 680+0*(80),215);
+    text("Amy", 680+1*(80),215);
+    text("Hermes", 680+2*(80),215);
+    text("Zapp", 680+3*(80),215);
 }
 
 
