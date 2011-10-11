@@ -71,10 +71,10 @@ class Button extends View
 
     if (hasText){
       textFont(fontA, myFontSize);
-      fill(selected() ? ship2Light : shipLight);
+      fill(selected() ? shipRed : shipLight);
       noStroke();
       rect(0,0,w,h);
-      fill(selected() ? shipRed : shipRedDark);
+      fill(selected() ? 255 : shipRedDark);
 
       if (myVertical) {
         textAlign(LEFT, TOP);

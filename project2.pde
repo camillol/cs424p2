@@ -69,7 +69,6 @@ void setup()
   loadCharacters();
   loadSeasons();
   loadNgrams();
-  characters.setAllActive(true);
   viewTotalLines = new Animator();
   ngramModeAnimator = new Animator(0);
   
@@ -83,7 +82,7 @@ void setup()
   rootView = new View(0, 0, width, height);
   
   overallButton = new Button(30, overallY(), 140, overallButtonH, "overall", 18, false, "Appearances",true);
-  //overallButton.myFlag = true;
+  overallButton.myFlag = true;
 
   seasonViews = new SeasonEpsView[seasons.length];
   seasonY = new Animator[seasons.length];
@@ -117,9 +116,10 @@ void setup()
   
   rootView.subviews.add(new ListBox(680,260,300,200, characters));
   allActiveButton = new Button(680 ,220, 160, 15, "View All Characters", 18, false, "View All Characters",true);
-  
+  allActiveButton.myFlag = true;
   rootView.subviews.add(allActiveButton);
 
+  characters.setAllActive(true);
 
   pieChart=new PieChart(750,500,200,200);
   rootView.subviews.add(pieChart);
@@ -314,6 +314,8 @@ void retargetSeasonYs()
 void setNgramMode(boolean ngmode)
 {
   ngramMode = ngmode;
+  overallButton.myFlag = !ngmode;
+  ngramButton.myFlag = ngmode;
   ngramModeAnimator.target(ngramMode ? 1.0 : 0.0);
   retargetSeasonYs();
 }
@@ -344,20 +346,6 @@ void buttonClicked(Object element)
     }  else if (element.equals("View All Characters")){
       characters.setAllActive(true); 
       updateActiveTotals();
-      Iterator it2 = characters.iterator();
-      for (int n=0; n < 8 && it2.hasNext();) {
-        Character character = (Character)it2.next();
-        myImage = character.img;
-  
-        if (character.img == null) continue;
-        if(n <= 3){
-          rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
-        }
-        else{
-          rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
-        }
-        n++;
-      }
     }
   } else if (CharNgram.class.isInstance(element)) {
     CharNgram charNgram = (CharNgram)element;

@@ -96,6 +96,7 @@ class CharacterList extends TSVBase implements ListDataSource {
   void setAllActive(boolean act)
   {
     allActive = act;
+    allActiveButton.myFlag = act;
     Iterator it = iterator();
     while (it.hasNext()) {
       Character character = (Character)it.next();

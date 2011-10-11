@@ -89,7 +89,7 @@ class CharNgramTable extends TSVBase implements ListDataSource {
   }
   
   boolean selected(int index) {
-    return false;
+    return get(index).ngram == activeNgram;
   }
 }
 
