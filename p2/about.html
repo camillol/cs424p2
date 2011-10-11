@@ -16,11 +16,10 @@
 	<div id="nav">
 		<ul>
 			<li><a href="http://cs424project2hkl.blogspot.com/" title="Blog">Blog</a></li>
-			<li><a href="applet.html" title="Applet">Applet</a></li>
-			<li><a href="about.html" title="About">About</a></li>
-			<li><a href="media.html" title="Media">Media</a></li>
-			<li><a href="thingslearned.html" title="Things Learned">Things Learned</a></li>
-			<li><a href="questions.html" title="Questions">Questions</a></li>
+			<li><a href="/~jkinahan/cs424/p2/applet/index.html" title="Applet">Applet</a></li>
+			<li><a href="/~jkinahan/cs424/p2/about.html" title="About">About</a></li>
+			<li><a href="/~jkinahan/cs424/p2/media.html" title="Media">Media</a></li>
+			<li><a href="/~jkinahan/cs424/p2/questions.html" title="Questions">Questions</a></li>
 
 
 		</ul>
@@ -43,22 +42,22 @@
 			
 				<h4>About</h4>
 				<br>
-				The main purpose of this application is to give the ability to view the transcript data
+				<p>The main purpose of this application is to give the ability to view the transcript data
 				 for the TV series Futurama.  The application can view season and episode data in the form
 				  of graph and pie charts along with textual views for each season.  N-Grams are also produced
 				  in order to view the most commonly used quotes for each character.  Characters can be selected in two
 				  different ways.  The main characters can be viewed via picture icons and the "other" characters can be 
-				  selected textually.  <br><br>
+				  selected textually.  </p><br><br>
 				  <h4>How we Wrote the Program:</h4><br>
 				Data Acquisition:<br>
 
-The data for the project was obtained from the following website http://theinfosphere.org/Episode_Transcript_Listing that has scripts for each episode in the Futurama series. We built a crawler to crawl the website to get the individual script files. For the crawler we made use of a DOM (Document Object Model) parser to parse the html files and extract from it the characters name, timestamp, character url and dialog. For the DOM parsing we made use of JDOM (http://www.jdom.org/) a java library for dom parsing.
-
+<p>The data for the project was obtained from the following website http://theinfosphere.org/Episode_Transcript_Listing that has scripts for each episode in the Futurama series. We built a crawler to crawl the website to get the individual script files. For the crawler we made use of a DOM (Document Object Model) parser to parse the html files and extract from it the characters name, timestamp, character url and dialog. For the DOM parsing we made use of JDOM (http://www.jdom.org/) a java library for dom parsing.
+</p>
 <br><br>Processing the Data:<br>
-
+<p>
 The raw data from the html files was stored in tab separated files for each episode of the series. In order to visualize the importance of each character, we precomputed the number of dialogues for each character at a episode, season and series level. These statistics were stored in the form of files and later loaded into memory on Processing. <add text about cleaning and n grams>
-
-<h4>N-grams</h4>
+</p>
+<br><br><h4>N-grams</h4><br>
 
 <p>To identify the catchphrases and significant words for each character, I decided to try my hand at some NLP and statistics. Instead of sticking to words and sentences as specified, I decided to work with n-grams: this allows the program to find interesting phrases which are not complete sentences (e.g., all the instances when Fry is asked to deliver a pizza to "Icy Wiener").</p>
 
@@ -87,6 +86,14 @@ The raw data from the html files was stored in tab separated files for each epis
 </ul>
 
 <p>The program then loads this data and uses it to display a list of significant n-grams for a chosen character, and visually display the occurrences over the episodes. The list is currently sorted by n-gram length first and by count second; I would have liked to provide the ability to sort it in different ways in the interface, but time ran short.</p>
+
+
+<br><br><h4>Layout</h4><br><p>
+The layout of the project was based off of a view controller which allowed for quick and easy updates.  Along with the animation the program updates
+very cleanly with much attention payed to speed and efficiency.  We wanted to stay away from other premade libraries as much as possible.  Our button
+list box, pie chart, as well as other animated objects were written by ourselves in order to keep the size down as well as staying away from relying on other code.
+The seasons can be viewed individually or as a whole series.  The characters can be selected via image or text box.  The line data for each season can be shown upon
+clicking a particular season.  </p>
 
 			</div>
 		
