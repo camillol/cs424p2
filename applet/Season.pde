@@ -5,8 +5,7 @@ class Season {
   Season(int number_, String dirname)
   {
     number = number_;
-    File dir = new File(dataPath(dirname));
-    String[] names = namesMatching(dir.list(), "S(\\d+)E(\\d+).*");
+    String[] names = namesMatching(listDataSubdir(dirname), "S(\\d+)E(\\d+).*");
     Arrays.sort(names);
     episodes = new Episode[names.length];
     for (int i = 0; i < names.length; i++) {

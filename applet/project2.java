@@ -3,6 +3,7 @@ import processing.xml.*;
 
 import java.awt.Graphics2D; 
 import java.awt.Shape; 
+import java.util.jar.*; 
 
 import java.applet.*; 
 import java.awt.Dimension; 
@@ -19,6 +20,7 @@ import java.util.zip.*;
 import java.util.regex.*; 
 
 public class project2 extends PApplet {
+
 
 
 
@@ -87,6 +89,8 @@ public void setupG2D()
 
 public void setup()
 {
+  listDataSubdir("transcripts");
+  
   data=new DataClass("files");
   
   loadCharacters();
@@ -179,8 +183,7 @@ public String[] namesMatching(String[] names, String re)
 
 public void loadSeasons()
 {
-  File dir = new File(dataPath("transcripts"));
-  String[] names = namesMatching(dir.list(), "S(\\d+)");
+  String[] names = namesMatching(listDataSubdir("transcripts"), "S(\\d+)");
   Arrays.sort(names);
   seasons = new Season[names.length];
   for (int i = 0; i < names.length; i++) {
@@ -197,10 +200,8 @@ public void loadNgrams()
   Iterator it = characters.iterator();
   while (it.hasNext()) {
     Character c = (Character)it.next();
-    println(c.name);
     String path = "ngrams/characters/"+c.name+"-sign-ngrams.txt";
-    File f = new File(dataPath(path));
-    if (f.exists()) {
+    if (dataFileExists(path)) {
       CharNgramTable cngt = new CharNgramTable(path);
       charNgrams.put(c, cngt);
     }
@@ -396,8 +397,49 @@ public void drawLabels(){
     text("Zapp", 680+3*(80),215);
 }
 
+public String[] listDataSubdir(String subdir)
+{
+  String[] items = null;
+  if (sketchPath != null) { /* application */
+    File dir = new File(dataPath(subdir));
+    items = dir.list();
+  } else try {  /* applet */
+    ClassLoader cl = getClass().getClassLoader();
+    URL url = cl.getResource("data/characters.txt");  /* just a random file that's known to exist */
+    JarURLConnection conn = (JarURLConnection)url.openConnection();
+    JarFile jar = conn.getJarFile();
+    Enumeration e = jar.entries();
+    String re = "data/" + subdir + "/(.*)";
+    /* note that jars don't have directory entries, or at least Processing's don't */
+    Set<String> itemSet = new LinkedHashSet<String>();
+    while (e.hasMoreElements()) {
+      JarEntry entry = (JarEntry)e.nextElement();
+      String[] groups = match(entry.getName(), re);
+      if (groups == null) continue;
+      String[] comps = split(groups[1], "/");
+      itemSet.add(comps[0]);
+    }
+    /*Iterator it = itemSet.iterator();
+    while (it.hasNext()) {
+      println(it.next());
+    }*/
+    items = (String[])itemSet.toArray(new String[0]);
+  } catch (IOException e) {
+    println(e);
+  }
+  return items;
+}
 
-
+public boolean dataFileExists(String path)
+{
+  InputStream is = createInput(path);
+  if (is == null) return false;
+  else {
+    try { is.close(); }
+    catch (IOException e) {}
+    return true;
+  }
+}
 
 static class Animator {
   static List<Animator> allAnimators;  /* looks like we can use generics after al */
@@ -819,22 +861,14 @@ class DataClass
         
         public void processEpisodeStats(String folderName)
         {
-          file=new File(dataPath(folderName));
-          ArrayList files=new ArrayList();
-          
-          listFiles(file,files);
-          
-          
-          for(int i=0;i<files.size();i++)
-          {
-            File episodeFile=(File)files.get(i);
-            String inputFileName=episodeFile.getAbsolutePath();
-                    
-            
-            String[] inputFileNameParts=episodeFile.getAbsolutePath().split("/");
-            String fileName=inputFileNameParts[inputFileNameParts.length-1];
-            String seasonName=inputFileNameParts[inputFileNameParts.length-2];
-            String keyPart=fileName.split(" ")[0];
+          String[] seasonDirs = listDataSubdir(folderName);
+          for (int j = 0; j < seasonDirs.length; j++) {
+            String seasonName = seasonDirs[j];
+            if (match(seasonName, "S\\d+") == null) continue;
+            String[] epFiles = listDataSubdir(folderName+"/"+seasonName);
+            for (int i = 0; i < epFiles.length; i++) {
+              String fileName = epFiles[i];
+              String keyPart=fileName.split(" ")[0];
             float totalLines=0;
             if(seasonMap.containsKey(seasonName))
             {
@@ -850,12 +884,12 @@ class DataClass
               
             }
             //seasonMap.put(seasonName,keyPart);
-            String[] episodeFileLines=loadStrings(inputFileName);
+            String[] episodeFileLines=loadStrings(folderName+"/"+seasonName+"/"+fileName);
          
             
             HashMap tempEpisodeMap=new HashMap();
             
-            for(int j=0;j<episodeFileLines.length;j++)
+            for( j=0;j<episodeFileLines.length;j++)
             {
               String[] episodeFileLineParts=episodeFileLines[j].split("###");
               totalLines+=Float.parseFloat(episodeFileLineParts[1]);
@@ -867,26 +901,19 @@ class DataClass
             ArrayList tempList=getEpisodeDataAngles(keyPart);
             episodeAnglesMap.put(keyPart,tempList);
             
+            }
           }
         }        
         
         public void processSeasonStats(String folderName)
         {
-          
-          file=new File(dataPath(folderName));
-          ArrayList files=new ArrayList();
-          
-          listFiles(file,files);
-          
-          for(int j=0;j<files.size();j++)
+          String[] files = listDataSubdir(folderName);
+          for(int j=0;j<files.length;j++)
           {
-            File episodeFile=(File)files.get(j);
             float totalLines=0;
-            String inputFileName=folderName+"/"+episodeFile.getName();
-            System.out.println(inputFileName);
-            String[] inputFileNameSplit=inputFileName.split("/");
-            String statsFileName=inputFileNameSplit[2];
-            String[] statsFileNameSplit=statsFileName.split(":");
+
+            String inputFileName=folderName+"/"+files[j];
+            String[] statsFileNameSplit=files[j].split(":");
             String keyPart=statsFileNameSplit[0];
 
             String[] seasonFileLines=loadStrings(inputFileName);
@@ -1629,8 +1656,7 @@ class Season {
   Season(int number_, String dirname)
   {
     number = number_;
-    File dir = new File(dataPath(dirname));
-    String[] names = namesMatching(dir.list(), "S(\\d+)E(\\d+).*");
+    String[] names = namesMatching(listDataSubdir(dirname), "S(\\d+)E(\\d+).*");
     Arrays.sort(names);
     episodes = new Episode[names.length];
     for (int i = 0; i < names.length; i++) {
@@ -2074,6 +2100,6 @@ class View {
 }
 
   static public void main(String args[]) {
-    PApplet.main(new String[] { "--bgcolor=#DFDFDF", "project2" });
+    PApplet.main(new String[] { "--bgcolor=#FFFFFF", "project2" });
   }
 }

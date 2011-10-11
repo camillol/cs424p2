@@ -106,22 +106,14 @@ class DataClass
         
         void processEpisodeStats(String folderName)
         {
-          file=new File(dataPath(folderName));
-          ArrayList files=new ArrayList();
-          
-          listFiles(file,files);
-          
-          
-          for(int i=0;i<files.size();i++)
-          {
-            File episodeFile=(File)files.get(i);
-            String inputFileName=episodeFile.getAbsolutePath();
-                    
-            
-            String[] inputFileNameParts=episodeFile.getAbsolutePath().split("/");
-            String fileName=inputFileNameParts[inputFileNameParts.length-1];
-            String seasonName=inputFileNameParts[inputFileNameParts.length-2];
-            String keyPart=fileName.split(" ")[0];
+          String[] seasonDirs = listDataSubdir(folderName);
+          for (int j = 0; j < seasonDirs.length; j++) {
+            String seasonName = seasonDirs[j];
+            if (match(seasonName, "S\\d+") == null) continue;
+            String[] epFiles = listDataSubdir(folderName+"/"+seasonName);
+            for (int i = 0; i < epFiles.length; i++) {
+              String fileName = epFiles[i];
+              String keyPart=fileName.split(" ")[0];
             float totalLines=0;
             if(seasonMap.containsKey(seasonName))
             {
@@ -137,12 +129,12 @@ class DataClass
               
             }
             //seasonMap.put(seasonName,keyPart);
-            String[] episodeFileLines=loadStrings(inputFileName);
+            String[] episodeFileLines=loadStrings(folderName+"/"+seasonName+"/"+fileName);
          
             
             HashMap tempEpisodeMap=new HashMap();
             
-            for(int j=0;j<episodeFileLines.length;j++)
+            for( j=0;j<episodeFileLines.length;j++)
             {
               String[] episodeFileLineParts=episodeFileLines[j].split("###");
               totalLines+=Float.parseFloat(episodeFileLineParts[1]);
@@ -154,26 +146,19 @@ class DataClass
             ArrayList tempList=getEpisodeDataAngles(keyPart);
             episodeAnglesMap.put(keyPart,tempList);
             
+            }
           }
         }        
         
         void processSeasonStats(String folderName)
         {
-          
-          file=new File(dataPath(folderName));
-          ArrayList files=new ArrayList();
-          
-          listFiles(file,files);
-          
-          for(int j=0;j<files.size();j++)
+          String[] files = listDataSubdir(folderName);
+          for(int j=0;j<files.length;j++)
           {
-            File episodeFile=(File)files.get(j);
             float totalLines=0;
-            String inputFileName=folderName+"/"+episodeFile.getName();
-            System.out.println(inputFileName);
-            String[] inputFileNameSplit=inputFileName.split("/");
-            String statsFileName=inputFileNameSplit[2];
-            String[] statsFileNameSplit=statsFileName.split(":");
+
+            String inputFileName=folderName+"/"+files[j];
+            String[] statsFileNameSplit=files[j].split(":");
             String keyPart=statsFileNameSplit[0];
 
             String[] seasonFileLines=loadStrings(inputFileName);

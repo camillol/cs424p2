@@ -1,5 +1,6 @@
 import java.awt.Graphics2D;
 import java.awt.Shape;
+import java.util.jar.*;
 
 Graphics2D g2;
 Shape[] clipStack;
@@ -65,6 +66,8 @@ void setupG2D()
 
 void setup()
 {
+  listDataSubdir("transcripts");
+  
   data=new DataClass("files");
   
   loadCharacters();
@@ -157,8 +160,7 @@ String[] namesMatching(String[] names, String re)
 
 void loadSeasons()
 {
-  File dir = new File(dataPath("transcripts"));
-  String[] names = namesMatching(dir.list(), "S(\\d+)");
+  String[] names = namesMatching(listDataSubdir("transcripts"), "S(\\d+)");
   Arrays.sort(names);
   seasons = new Season[names.length];
   for (int i = 0; i < names.length; i++) {
@@ -175,10 +177,8 @@ void loadNgrams()
   Iterator it = characters.iterator();
   while (it.hasNext()) {
     Character c = (Character)it.next();
-    println(c.name);
     String path = "ngrams/characters/"+c.name+"-sign-ngrams.txt";
-    File f = new File(dataPath(path));
-    if (f.exists()) {
+    if (dataFileExists(path)) {
       CharNgramTable cngt = new CharNgramTable(path);
       charNgrams.put(c, cngt);
     }
@@ -374,6 +374,47 @@ void drawLabels(){
     text("Zapp", 680+3*(80),215);
 }
 
+String[] listDataSubdir(String subdir)
+{
+  String[] items = null;
+  if (sketchPath != null) { /* application */
+    File dir = new File(dataPath(subdir));
+    items = dir.list();
+  } else try {  /* applet */
+    ClassLoader cl = getClass().getClassLoader();
+    URL url = cl.getResource("data/characters.txt");  /* just a random file that's known to exist */
+    JarURLConnection conn = (JarURLConnection)url.openConnection();
+    JarFile jar = conn.getJarFile();
+    Enumeration e = jar.entries();
+    String re = "data/" + subdir + "/(.*)";
+    /* note that jars don't have directory entries, or at least Processing's don't */
+    Set<String> itemSet = new LinkedHashSet<String>();
+    while (e.hasMoreElements()) {
+      JarEntry entry = (JarEntry)e.nextElement();
+      String[] groups = match(entry.getName(), re);
+      if (groups == null) continue;
+      String[] comps = split(groups[1], "/");
+      itemSet.add(comps[0]);
+    }
+    /*Iterator it = itemSet.iterator();
+    while (it.hasNext()) {
+      println(it.next());
+    }*/
+    items = (String[])itemSet.toArray(new String[0]);
+  } catch (IOException e) {
+    println(e);
+  }
+  return items;
+}
 
-
+boolean dataFileExists(String path)
+{
+  InputStream is = createInput(path);
+  if (is == null) return false;
+  else {
+    try { is.close(); }
+    catch (IOException e) {}
+    return true;
+  }
+}
 
