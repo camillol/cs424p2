@@ -21,6 +21,7 @@ class VBar extends View {
   {
     noFill();
     stroke(0);
+    fill(255);
     rect(0, 0, w, h);
     fill(128);
     rect(0, start(), w, 14);
