@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>CS 424 Project 2</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<div id="wrap">
+<div id="container">
+
+	<div id="header">
+		<h1><a href="http://www.cs.uic.edu/~jkinahan/cs424/p2">In the Year 2525</a></h1>
+		<h2>Fall 2011 CS 424 Project 2</h2>
+	</div>
+	<div id="nav">
+		<ul>
+			<li><a href="http://cs424project2hkl.blogspot.com/" title="Blog">Blog</a></li>
+			<li><a href="/~jkinahan/cs424/p2/applet/index.html" title="Applet">Applet</a></li>
+			<li><a href="/~jkinahan/cs424/p2/about.html" title="About">About</a></li>
+			<li><a href="/~jkinahan/cs424/p2/media.html" title="Media">Media</a></li>
+			<li><a href="/~jkinahan/cs424/p2/thingslearned.html" title="Things Learned">Things Learned</a></li>
+			<li><a href="/~jkinahan/cs424/p2/questions.html" title="Questions">Questions</a></li>
+
+
+		</ul>
+		<br class="clear" />
+	</div>
+	<div id="content">
+		<div class="top-panel">
+		<div>
+			<h3>CS 424 Project 2</h3>
+
+<br><p>
+<h5>Vivek Hariharan<br>Jenny Kinahan<br>Camillo Lugaresi<br></h5>
+<br><p>	
+		</p></p>
+		</div></div>
+		<div class="page-wrap">
+			<div class="page">
+				
+			<!-- begin main content -->
+			
+				<h4>About</h4>
+				<br>
+				The main purpose of this application is to give the ability to view the transcript data
+				 for the TV series Futurama.  The application can view season and episode data in the form
+				  of graph and pie charts along with textual views for each season.  N-Grams are also produced
+				  in order to view the most commonly used quotes for each character.  Characters can be selected in two
+				  different ways.  The main characters can be viewed via picture icons and the "other" characters can be 
+				  selected textually.  <br><br>
+				  <h4>How we Wrote the Program:</h4><br>
+				Data Acquisition:<br>
+
+The data for the project was obtained from the following website http://theinfosphere.org/Episode_Transcript_Listing that has scripts for each episode in the Futurama series. We built a crawler to crawl the website to get the individual script files. For the crawler we made use of a DOM (Document Object Model) parser to parse the html files and extract from it the characters name, timestamp, character url and dialog. For the DOM parsing we made use of JDOM (http://www.jdom.org/) a java library for dom parsing.
+
+<br><br>Processing the Data:<br>
+
+The raw data from the html files was stored in tab separated files for each episode of the series. In order to visualize the importance of each character, we precomputed the number of dialogues for each character at a episode, season and series level. These statistics were stored in the form of files and later loaded into memory on Processing. <add text about cleaning and n grams>
+
+<h4>N-grams</h4>
+
+
+
+			</div>
+		
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div id="footer">
+		<p>&copy; 2009 mySite. Design: <a href="http://www.spyka.net">spyka webmaster</a> | <a href="http://www.justfreetemplates.com">Free Web Templates</a></p>
+	</div>
+
+</div>
+</div>
+
+</body>
+</html>
