@@ -191,7 +191,7 @@ float seasonViewHeight()
 
 float ngramY()
 {
-  return map(ngramModeAnimator.value, 0.0, 1.0, overallButtonH + 10 - ngramViewH, 0);
+  return map(ngramModeAnimator.value, 0.0, 1.0, overallButtonH + 10 - ngramViewH - 1, 0);
 //  return map(ngramModeAnimator.value, 0.0, 1.0, height - 30, seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length);
 //  return seasonEpsTop + (seasonViewHeight() + seasonEpsViewVGap)*seasons.length;
 }
