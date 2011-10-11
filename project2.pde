@@ -52,6 +52,9 @@ ListBox ngramList;
 Button resetButton;
 Button allActiveButton;
 
+StatsView statsView;
+Animator statsViewY;
+
 void setupG2D()
 {
   g2 = ((PGraphicsJava2D)g).g2;
@@ -132,6 +135,10 @@ void setup()
   //uncomment the following two lines to add the interaction chart(basically a chart that has char coded color lines for each dialog he has in the episode)
 //  ArrayList episodeCharacters=data.getEpisodeCharactersList("S01E01");
 //  rootView.subviews.add(new InteractionChart(40,150,700,150,episodeCharacters));
+
+  statsView = new StatsView(30, height, 600, 400, null);
+  statsViewY = new Animator(height);
+  rootView.subviews.add(statsView);
 
   setViewTarget(null);
 }
@@ -221,6 +228,8 @@ void draw()
   }
   ngramView.y = ngramY();
   overallButton.y = overallY();
+  statsView.y = statsViewY.value;
+  
   drawLabels();
   //tint(255,255);
   noStroke();
@@ -294,6 +303,7 @@ void retargetSeasonYs()
     }
     seasonY[idx].target(seasonEpsTop());
     seasonViews[idx].button.myFlag = true;
+    statsViewY.target(seasonEpsTop() + seasonEpsViewHeight + seasonEpsViewVGap);
     for (int i = idx+1; i < seasons.length; i++) {
       seasonY[i].target(height + (i-idx-1)*(seasonEpsViewHeight + seasonEpsViewVGap));
       seasonViews[i].button.myFlag = false;
@@ -304,6 +314,7 @@ void retargetSeasonYs()
       seasonY[i].target(y);
       seasonViews[i].button.myFlag = false;
     }
+    statsViewY.target(height);
   }
 }
 
@@ -329,7 +340,8 @@ void buttonClicked(Object element)
     int idx = season.number - 1;
     setViewTarget(season);
     retargetSeasonYs();
-    rootView.subviews.add(new StatsView(30,200,600,400,season,characters));
+    
+    statsView.mySeason = season.number;
   } else if (String.class.isInstance(element)) {
     if (element.equals("overall")) {
       setViewTarget(null);

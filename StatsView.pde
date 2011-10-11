@@ -5,13 +5,11 @@ class StatsView extends View{
    String characterName;
    String[] charList = new String[30];
    int myLines;
-   CharacterList myCharacters;
 
 
-StatsView (float x_, float y_, float w_, float h_, Season season_, CharacterList characters_){
+StatsView (float x_, float y_, float w_, float h_, Season season_){
   super(x_,y_,w_,h_);
-  mySeason = season_.number;
-  myCharacters = characters_;
+  mySeason = season_ == null ? 0 : season_.number;
 }
 
 void drawContent(){
@@ -23,7 +21,7 @@ void drawContent(){
   for(int i = 0; i < charList.length;i++){
     if(charList[i] != null){
     text(charList[i] , 20, 20*i);
-    Character myCharacter = myCharacters.get(charList[i]);
+    Character myCharacter = characters.get(charList[i]);
     myLines = myCharacter.totalLines;
     text("Lines: "+myLines, 200, 20*i);
     }
