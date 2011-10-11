@@ -25,6 +25,7 @@ class NgramDetails(object):
 		self.loadNgrams()
 		self.character_ngrams = {}
 		self.character_ngram_totals = {}
+		self.loadGoogleNgrams()
 	
 	def loadNgrams(self):
 		self.ngrams = {}
@@ -43,8 +44,23 @@ class NgramDetails(object):
 					count, text = line.split('\t')
 					words = tuple(text.split())
 					assert len(words) == n
-					self.ngrams[words] = {'count':int(count), 'occurrences':set()}
+					self.ngrams[words] = {'count':int(count), 'occurrences':set(), 'common':False}
 				self.ngram_totals[n] = total_count
+	
+	def loadGoogleNgrams(self):
+		google_dir = os.path.join(ngram_dir,'google-ngrams')
+		for file_name in os.listdir(google_dir):
+			m = re.match("most\dgram.txt", file_name)
+			if not m: continue
+			file_path = os.path.join(google_dir, file_name)
+			with open(file_path) as f:
+				for line in f:
+					count, text = line.split('\t')
+					# Google treats don't as a trigram don ' t
+					text = re.sub(" ' ", "'", text)
+					words = tuple(text.split())
+					if words in self.ngrams:
+						self.ngrams[words]['common'] = True
 	
 	def process_line(self, season, episode, lineno, characterstr, text):
 #		words = [w.strip('.!?,;:').lower() for w in text.split()]
@@ -111,7 +127,7 @@ class NgramDetails(object):
 		with open(os.path.join(out_dir, "sign-ngrams.txt"), "w") as out:
 			for w in self.allsign_ngrams:
 				ng = self.ngrams[w]
-				out.write("%d\t%s\t" % (ng['count'], ' '.join(w)))
+				out.write("%d\t%s\t%s\t" % (ng['count'], ' '.join(w), 'C' if ng['common'] else 'U'))
 				out.write(':'.join("S%02dE%02dL%d" % (season, episode, lineno) for season, episode, lineno, characters in sorted(ng['occurrences'])))
 				out.write('\n')
 

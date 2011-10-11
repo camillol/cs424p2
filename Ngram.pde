@@ -66,7 +66,9 @@ class CharNgramTable extends TSVBase implements ListDataSource {
     String words = pieces[0];
     int count = parseInt(pieces[1]);
     float pvalue = parseFloat(pieces[2]);
-    CharNgram cng = new CharNgram(ngrams.get(words), count, pvalue);
+    Ngram ng = ngrams.get(words);
+    if (ng == null) return false;  /* we're skipping common ones */
+    CharNgram cng = new CharNgram(ng, count, pvalue);
     charNgramMap.put(words, cng);
     charNgramList.add(cng);
     return true;
@@ -103,7 +105,9 @@ class NgramTable extends TSVBase {
   {
     int count = parseInt(pieces[0]);
     String words = pieces[1];
-    String[] occStrs = pieces[2].split(":");
+    boolean common = pieces[2].equals("C");
+    if (common) return false;  /* skip ngrams that are common in general english */
+    String[] occStrs = pieces[3].split(":");
     Occurrence[] occs = new Occurrence[occStrs.length];
     
     for (int j = 0; j < occStrs.length; j++) {
