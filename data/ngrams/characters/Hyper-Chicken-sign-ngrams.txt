@@ -1,11 +1,11 @@
-your	9	0.018709
+your honour the prosecution	3	0.000000
 your honour	8	0.002300
+honour the	3	0.041509
+that there	3	0.041842
+the prosecution	3	0.041509
+your	9	0.018709
 honour	8	0.002402
 done	6	0.008467
 y'all	4	0.023185
 jury	3	0.042577
-honour the	3	0.041509
-that there	3	0.041842
-the prosecution	3	0.041509
-your honour the prosecution	3	0.000000
 prosecution	3	0.041600

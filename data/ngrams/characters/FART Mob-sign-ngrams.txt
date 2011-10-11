@@ -1,12 +1,12 @@
+down with bender down with bender down with bender	3	0.000000
+down with bender down with bender down	4	0.000000
+down with bender down with bender	5	0.000000
+bender down with bender	6	0.000000
+down with bender down	6	0.000000
+down with bender	8	0.000000
+with bender	8	0.001096
+down with	8	0.001097
+bender down	7	0.000000
 bender	9	0.000606
 down	9	0.000564
 with	8	0.001363
-with bender	8	0.001096
-down with	8	0.001097
-down with bender	8	0.000000
-bender down	7	0.000000
-bender down with bender	6	0.000000
-down with bender down	6	0.000000
-down with bender down with bender	5	0.000000
-down with bender down with bender down	4	0.000000
-down with bender down with bender down with bender	3	0.000000

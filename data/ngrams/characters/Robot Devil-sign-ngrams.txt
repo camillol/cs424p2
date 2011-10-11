@@ -1,3 +1,9 @@
+robot hell	5	0.012876
+my hands	4	0.023685
+a deal	3	0.044230
+hell is	3	0.043981
+just sign	3	0.041797
+just one	3	0.043734
 you	45	0.019295
 your	18	0.009165
 bender	14	0.005102
@@ -11,12 +17,6 @@ back	7	0.042920
 ah	5	0.032719
 give	5	0.041580
 deal	5	0.016400
-robot hell	5	0.012876
 ironic	4	0.023298
 fiddle	4	0.023049
-my hands	4	0.023685
 return	3	0.049849
-a deal	3	0.044230
-hell is	3	0.043981
-just sign	3	0.041797
-just one	3	0.043734

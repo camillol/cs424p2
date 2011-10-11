@@ -1,3 +1,6 @@
+i love you	3	0.045026
+i love	5	0.014770
+love you	3	0.046192
 you	24	0.000509
 i	18	0.009872
 flexo	10	0.000754
@@ -5,7 +8,4 @@ love	7	0.006427
 are	7	0.016096
 well	6	0.019472
 bender	5	0.043483
-i love	5	0.014770
 always	4	0.028244
-i love you	3	0.045026
-love you	3	0.046192

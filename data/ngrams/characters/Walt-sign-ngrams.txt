@@ -1,8 +1,8 @@
-mother	12	0.000267
 in the	5	0.048834
+mother you	3	0.000000
+mr fry	3	0.043592
+mother	12	0.000267
 mr	4	0.033505
 owl	3	0.042021
-mother you	3	0.000000
 play	3	0.049986
-mr fry	3	0.043592
 larry	3	0.041913

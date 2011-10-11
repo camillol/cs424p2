@@ -1,8 +1,8 @@
+rotational energy	3	0.041494
 to	14	0.041130
 and	11	0.041588
 our	6	0.019403
 stop	4	0.035920
 world	4	0.027679
-rotational energy	3	0.041494
 energy	3	0.043027
 rotational	3	0.041652

@@ -1,4 +1,4 @@
-contestant	4	0.022285
-next up	3	0.041136
-next	3	0.045673
 next up contestant	3	0.000000
+next up	3	0.041136
+contestant	4	0.022285
+next	3	0.045673

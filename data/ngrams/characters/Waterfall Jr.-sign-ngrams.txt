@@ -1,6 +1,6 @@
-up	18	0.000012
-shut up	18	0.000006
-shut	18	0.000007
-shut up shut up	8	0.002006
-shut up shut up shut up	6	0.000000
 shut up shut up shut up shut up	4	0.000000
+shut up shut up shut up	6	0.000000
+shut up shut up	8	0.002006
+shut up	18	0.000006
+up	18	0.000012
+shut	18	0.000007

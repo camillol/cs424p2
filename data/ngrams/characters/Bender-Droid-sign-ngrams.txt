@@ -1,3 +1,3 @@
-ship	3	0.041174
 abandon ship	3	0.000000
+ship	3	0.041174
 abandon	3	0.040045

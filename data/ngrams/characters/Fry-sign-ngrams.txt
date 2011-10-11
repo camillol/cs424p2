@@ -1,3 +1,507 @@
+fix it fix it fix it fix it fix it fix it fix it	3	0.000000
+fix it fix it fix it fix it fix it fix it	4	0.000000
+bender i think you might be playing too much dungeons & dragons	3	0.000000
+i think you might be playing too much dungeons & dragons	4	0.000000
+fix it fix it fix it fix it fix it	5	0.000000
+it's the price of a cheese pizza and a large	3	0.000000
+fix it fix it fix it fix it	6	0.008657
+coffee coffee coffee coffee coffee coffee coffee coffee	3	0.000000
+hello pizza delivery for icy wiener aw crud	3	0.000000
+coffee coffee coffee coffee coffee coffee coffee	4	0.000000
+fix it fix it fix it	7	0.005979
+blah blah blah blah blah blah	6	0.025328
+coffee coffee coffee coffee coffee coffee	5	0.000000
+yeah i get that a lot	3	0.000000
+blah blah blah blah blah	8	0.009887
+coffee coffee coffee coffee coffee	6	0.000000
+make it up to you	5	0.015521
+back in the 20th century	4	0.000000
+here's to another lousy millennium	3	0.000000
+ha ha ha ha ha	3	0.000000
+hey i have an idea	3	0.000000
+that's when it hit me	3	0.000000
+blah blah blah blah	10	0.003982
+fix it fix it	8	0.004176
+coffee coffee coffee coffee	7	0.000000
+i don't get it	6	0.015518
+hello pizza delivery for	6	0.000000
+i used to work	5	0.000000
+a thousand years ago	5	0.027696
+icy wiener aw crud	5	0.000000
+as long as you	4	0.000000
+i have an idea	4	0.034364
+ha ha ha ha	4	0.034364
+in a thousand years	4	0.034364
+i think you might	4	0.034364
+for a thousand years	4	0.041705
+hey wait a second	4	0.034364
+i'm walking on sunshine	4	0.000000
+hey bender hey bender	3	0.000000
+will you be my	3	0.000000
+nuh nuh nuh nuh	3	0.000000
+make you love me	3	0.000000
+i hate my life	3	0.000000
+i don't know	26	0.023653
+a thousand years	17	0.000226
+wait a second	16	0.001731
+oh my god	13	0.036091
+i used to	13	0.002915
+wait a minute	12	0.002269
+blah blah blah	12	0.001929
+the 20th century	11	0.002794
+i can't believe	11	0.038200
+i need to	10	0.018310
+coffee coffee coffee	8	0.000000
+i don't like	8	0.025999
+but i don't	8	0.022485
+don't know what	8	0.039284
+one of those	8	0.029947
+i know i	7	0.012709
+pizza delivery for	7	0.004988
+bender are you	7	0.008875
+i'm not a	7	0.024611
+i feel like	7	0.028700
+hey wait a	7	0.007361
+where are we	7	0.024611
+make it up	6	0.008778
+to tell you	6	0.031310
+don't do it	6	0.012990
+in the year	6	0.036729
+i'm gonna be	6	0.022391
+i don't get	6	0.018780
+back in time	6	0.049759
+what if i	6	0.042860
+don't get it	6	0.018780
+i can get	6	0.026550
+up to you	6	0.015664
+a delivery boy	6	0.018780
+well at least	6	0.049759
+the dark one	6	0.022391
+in the future	6	0.031310
+you might be	5	0.023178
+you and me	5	0.047130
+walking on sunshine	5	0.023178
+i give up	5	0.019086
+and i'm gonna	5	0.023178
+but i just	5	0.019086
+i get it	5	0.039856
+i know what	5	0.033489
+just like the	5	0.019086
+i'll miss you	5	0.027954
+i came to	5	0.023178
+i got you	5	0.039856
+i think you	5	0.039856
+dungeons & dragons	5	0.023178
+so what do	5	0.033489
+ha ha ha	5	0.039856
+thousand years ago	5	0.033489
+it up to	5	0.027954
+he stole my	4	0.028154
+and then the	4	0.042008
+are you okay	4	0.028154
+i'm not going	4	0.042008
+we had a	4	0.034539
+check it out	4	0.034539
+i can't wait	4	0.042008
+nuh nuh nuh	4	0.000000
+i had no	4	0.028154
+i got frozen	4	0.000000
+go out with	4	0.034539
+long as you	4	0.034539
+the year 3000	4	0.034539
+i'm on it	4	0.034539
+make you happy	4	0.000000
+i can't take	4	0.042008
+not a robot	4	0.042008
+that i'm not	4	0.042008
+it hit me	4	0.000000
+a long time	4	0.042008
+how i feel	4	0.028154
+i wanna see	4	0.000000
+there in the	4	0.028154
+are you and	4	0.034539
+to help me	4	0.042008
+a man can	4	0.042008
+it's good to	4	0.042008
+gonna be a	4	0.042008
+just like a	4	0.028154
+i've got one	4	0.034539
+what's the catch	3	0.000000
+bender wake up	3	0.000000
+my seven-leaf clover	3	0.000000
+to find my	3	0.000000
+no thanks i	3	0.000000
+wanna see the	3	0.000000
+about to start	3	0.000000
+why aren't we	3	0.000000
+she thinks i'm	3	0.000000
+of the tentacle	3	0.000000
+thought it would	3	0.000000
+gonna be like	3	0.000000
+hey i can	3	0.000000
+do something to	3	0.000000
+worry about blank	3	0.000000
+think it was	3	0.000000
+'em you can	3	0.000000
+as vice chairman	3	0.000000
+except in kansas	3	0.000000
+happy birthday leela	3	0.000000
+hey leela look	3	0.000000
+i don't trust	3	0.000000
+in the sewers	3	0.000000
+my comic book	3	0.000000
+i'm gonna find	3	0.000000
+i don't	90	0.000503
+are you	70	0.002019
+i can't	61	0.000043
+i can	56	0.000076
+but i	56	0.000309
+i know	50	0.000218
+i think	41	0.002157
+i'm gonna	35	0.000376
+it was	35	0.026599
+if i	34	0.036234
+did you	33	0.001938
+don't know	33	0.008561
+is it	32	0.006417
+i guess	32	0.005411
+can i	31	0.000024
+i love	30	0.015675
+wait a	29	0.000042
+what are	28	0.036055
+my god	28	0.006203
+and then	27	0.000126
+i've got	27	0.006399
+i mean	27	0.043653
+i thought	25	0.014045
+i had	24	0.002751
+in my	24	0.024227
+leela i	23	0.000071
+used to	23	0.003085
+i want	23	0.012649
+i need	23	0.012649
+he was	23	0.001966
+with you	22	0.006572
+i didn't	22	0.036684
+i do	22	0.033894
+you guys	22	0.001533
+know what	21	0.032793
+just like	21	0.001919
+is that	20	0.034364
+but you	20	0.047500
+a second	20	0.002714
+back in	20	0.004858
+a lot	20	0.018500
+what do	20	0.037336
+at least	20	0.018500
+my life	19	0.003405
+i like	19	0.014269
+a thousand	19	0.000216
+oh yeah	19	0.033025
+gonna be	19	0.000814
+i feel	19	0.004320
+you do	19	0.042548
+the future	19	0.000814
+thousand years	18	0.000163
+bender i	18	0.001338
+that's the	18	0.017887
+a minute	18	0.000568
+i did	18	0.006101
+you mean	17	0.042988
+that's not	17	0.018362
+are we	17	0.008615
+what's the	16	0.008605
+i get	16	0.018788
+i wanna	16	0.006768
+hey bender	15	0.000562
+my friend	15	0.005853
+hey i	15	0.003938
+think i	15	0.047013
+feel like	15	0.001681
+with me	15	0.026275
+get it	15	0.009636
+help me	14	0.010777
+let's go	14	0.019412
+how to	14	0.044620
+it up	14	0.026935
+ow ow	14	0.012176
+blah blah	14	0.001118
+so what	14	0.021697
+what if	13	0.009304
+i knew	13	0.003499
+i used	13	0.005401
+yeah i	13	0.004054
+that's it	13	0.046339
+mr peppy	13	0.000486
+20th century	13	0.003012
+wake up	13	0.024597
+can you	13	0.037851
+leela you	12	0.003742
+it out	12	0.019560
+you wanna	12	0.024842
+wanted to	12	0.015246
+delivery boy	12	0.004360
+hey leela	12	0.000477
+here i	12	0.024842
+to tell	11	0.031631
+thing i	11	0.008520
+you're right	11	0.024883
+the 20th	11	0.003368
+what's happening	11	0.003962
+make you	11	0.014897
+you look	11	0.021980
+don't get	11	0.007355
+who's the	10	0.002454
+i'll take	10	0.040402
+yeah well	10	0.014328
+the moon	10	0.028023
+give up	10	0.018914
+best friend	10	0.012410
+hey wait	10	0.002454
+what was	10	0.014328
+where are	10	0.024657
+i'll never	10	0.016488
+the year	10	0.040402
+believe it	9	0.024078
+go out	9	0.013486
+ow my	9	0.007125
+pizza delivery	9	0.002437
+coffee coffee	9	0.000000
+you might	9	0.018149
+what i'm	9	0.031504
+fix it	9	0.007125
+my old	9	0.013486
+that a	9	0.031504
+don't do	9	0.008405
+can get	9	0.031504
+i really	9	0.045971
+came to	9	0.009876
+will you	9	0.040665
+something to	9	0.018149
+leela i'm	9	0.003541
+wants to	8	0.026670
+the tentacle	8	0.016986
+what does	8	0.026670
+you be	8	0.035320
+it really	8	0.007370
+a delivery	8	0.046063
+like i	8	0.040411
+so what's	8	0.026670
+about you	8	0.030751
+i came	8	0.026670
+bender are	8	0.006156
+have my	8	0.035320
+and me	8	0.030751
+sorry i'm	8	0.019823
+how you	8	0.040411
+leela how	8	0.004237
+wanna see	8	0.010425
+use the	8	0.046063
+wow i	8	0.008784
+about a	8	0.030751
+star trek	8	0.016986
+be my	8	0.026670
+delivery for	7	0.010770
+i wouldn't	7	0.045417
+dark one	7	0.018157
+to him	7	0.039426
+bender if	7	0.010770
+i remember	7	0.034073
+i'm on	7	0.025106
+gonna die	7	0.029315
+my best	7	0.039426
+you leela	7	0.025106
+that sounds	7	0.018157
+where is	7	0.039426
+i dunno	7	0.039426
+gonna do	7	0.045417
+go ahead	7	0.021401
+see it	7	0.039426
+ha ha	7	0.039426
+it's too	7	0.045417
+there in	7	0.015331
+right i	7	0.034073
+be like	7	0.018157
+my nose	7	0.006106
+i miss	7	0.045417
+uh what	7	0.021401
+why is	7	0.045417
+not going	7	0.025106
+to hear	7	0.034073
+but you're	6	0.037395
+good to	6	0.037395
+poor bender	6	0.010764
+love with	6	0.026952
+good old	6	0.018998
+love me	6	0.037395
+a fish	6	0.022692
+a date	6	0.026952
+the ice	6	0.015813
+stole my	6	0.015813
+bender bender	6	0.037395
+and i've	6	0.037395
+my clover	6	0.000000
+never mind	6	0.026952
+icy wiener	6	0.008801
+the internet	6	0.022692
+wow you	6	0.013086
+how come	6	0.026952
+tell her	6	0.022692
+i'm late	6	0.015813
+can take	6	0.037395
+bender no	6	0.010764
+my money	6	0.008801
+that's when	6	0.022692
+hey uh	6	0.008801
+for some	6	0.022692
+i'll tell	6	0.043694
+find that	6	0.037395
+an idea	6	0.026952
+this but	6	0.031834
+i missed	6	0.010764
+my girlfriend	6	0.008801
+be some	6	0.026952
+gotta go	6	0.031834
+miss you	6	0.022692
+she was	6	0.031834
+he stole	5	0.028220
+hit me	5	0.033872
+had no	5	0.033872
+my grandfather	5	0.015649
+watch the	5	0.023350
+here's to	5	0.028220
+remember that	5	0.023350
+dungeons &	5	0.028220
+was gonna	5	0.028220
+i'll miss	5	0.033872
+remember the	5	0.033872
+interested in	5	0.047827
+said it	5	0.033872
+he wasn't	5	0.047827
+than me	5	0.040382
+up here	5	0.047827
+find my	5	0.019184
+look for	5	0.033872
+we've gotta	5	0.023350
+love the	5	0.047827
+she had	5	0.019184
+i loved	5	0.019184
+remember when	5	0.033872
+aren't we	5	0.015649
+was right	5	0.033872
+seven-leaf clover	5	0.019184
+one time	5	0.023350
+so leela	5	0.023350
+good at	5	0.033872
+a jerk	5	0.028220
+know who	5	0.040382
+refuse to	5	0.040382
+check it	5	0.023350
+watch tv	5	0.028220
+bender how	5	0.033872
+wait that's	5	0.023350
+you ok	5	0.019184
+like my	5	0.047827
+wanna go	5	0.028220
+my butt	5	0.033872
+more important	5	0.015649
+i refuse	5	0.040382
+he's dead	5	0.047827
+ashamed to	5	0.015649
+ooh ooh	5	0.047827
+what up	5	0.019184
+a romantic	5	0.019184
+a tv	5	0.040382
+to start	5	0.028220
+nuh nuh	5	0.000000
+the atom	5	0.033872
+to another	5	0.033872
+taught me	4	0.034718
+get any	4	0.028230
+quit it	4	0.042320
+could never	4	0.042320
+it we're	4	0.034718
+hit him	4	0.042320
+a secret	4	0.034718
+comic book	4	0.028230
+you happy	4	0.028230
+my day	4	0.042320
+love leela	4	0.034718
+what smells	4	0.028230
+some kinda	4	0.028230
+look leela	4	0.034718
+her and	4	0.042320
+we're saved	4	0.042320
+i'm walking	4	0.028230
+sorry bender	4	0.042320
+got frozen	4	0.028230
+seen a	4	0.042320
+wait you're	4	0.042320
+here i'll	4	0.042320
+an old-fashioned	4	0.028230
+wanna hear	4	0.034718
+other people	4	0.034718
+let my	4	0.028230
+my dad	4	0.042320
+yeah no	4	0.000000
+year 3000	4	0.042320
+trust me	4	0.042320
+show him	4	0.028230
+leela i've	4	0.028230
+be gone	4	0.042320
+i'm at	4	0.034718
+you okay	4	0.042320
+never thought	4	0.042320
+let go	4	0.042320
+important to	4	0.042320
+thanks bender	4	0.028230
+best thing	4	0.000000
+my time	4	0.042320
+leela was	4	0.028230
+my comic	4	0.000000
+me think	4	0.034718
+bender but	4	0.042320
+ahead i	4	0.028230
+bender back	4	0.000000
+i'm never	4	0.042320
+a pizza	4	0.034718
+psst leela	4	0.000000
+look so	4	0.042320
+back yet	3	0.000000
+steal my	3	0.000000
+the gorilla	3	0.000000
+need something	3	0.000000
+space experiment	3	0.000000
+thanks leela	3	0.000000
+cool can	3	0.000000
+know her	3	0.000000
+what's so	3	0.000000
+there's amy	3	0.000000
+the grasshopper	3	0.000000
+yup i	3	0.000000
+girl i	3	0.000000
+an astronaut	3	0.000000
+i'm fry	3	0.000000
+me an'	3	0.000000
+nervous and	3	0.000000
+run over	3	0.000000
+clover i	3	0.000000
+way about	3	0.000000
+leela she's	3	0.000000
+with colleen	3	0.000000
+listen leela	3	0.000000
+leela back	3	0.000000
+the monsterpus	3	0.000000
+the octopus	3	0.000000
+of women	3	0.000000
+just 'ave	3	0.000000
+about leela	3	0.000000
+for losers	3	0.000000
+show leela	3	0.000000
+dinner tonight	3	0.000000
+no yeah	3	0.000000
+i consider	3	0.000000
+missed the	3	0.000000
 i	1381	0.000000
 you	1094	0.013769
 it	522	0.000527
@@ -35,7 +539,6 @@ look	103	0.003997
 can't	100	0.001558
 right	96	0.009759
 gonna	95	0.000000
-i don't	90	0.000503
 really	87	0.000009
 never	85	0.001242
 what's	85	0.000025
@@ -45,17 +548,13 @@ her	76	0.000053
 too	74	0.004201
 ow	72	0.000001
 love	72	0.022101
-are you	70	0.002019
 man	69	0.036668
 he's	68	0.002693
 something	63	0.000195
 even	62	0.007871
-i can't	61	0.000043
 mean	59	0.001162
 had	59	0.001345
 where	56	0.011818
-i can	56	0.000076
-but i	56	0.000309
 great	55	0.012407
 there's	55	0.046338
 she	54	0.000232
@@ -63,7 +562,6 @@ sorry	54	0.004761
 ok	52	0.013534
 life	51	0.028077
 wanna	50	0.000366
-i know	50	0.000218
 sure	49	0.024942
 maybe	48	0.002417
 didn't	48	0.005424
@@ -71,7 +569,6 @@ ever	48	0.040361
 wow	48	0.000001
 feel	45	0.000649
 things	45	0.013954
-i think	41	0.002157
 ooh	41	0.004673
 friend	41	0.002453
 thought	39	0.003370
@@ -79,659 +576,162 @@ thanks	37	0.009404
 guys	37	0.003042
 find	37	0.023448
 guess	36	0.007788
-i'm gonna	35	0.000376
-it was	35	0.026599
-if i	34	0.036234
 she's	34	0.000578
 anything	33	0.044845
-did you	33	0.001938
 show	33	0.037151
 cool	33	0.000104
-don't know	33	0.008561
-is it	32	0.006417
-i guess	32	0.005411
 gotta	32	0.001640
 remember	31	0.023872
 delivery	31	0.002469
-can i	31	0.000024
 whoa	30	0.046275
-i love	30	0.015675
 believe	30	0.040621
 happy	29	0.004159
 used	29	0.003434
-wait a	29	0.000042
 real	29	0.048767
 best	29	0.009367
 everything	28	0.003860
-what are	28	0.036055
 home	28	0.025552
-my god	28	0.006203
-and then	27	0.000126
-i've got	27	0.006399
-i mean	27	0.043653
 does	27	0.038564
-i don't know	26	0.023653
 boy	26	0.032595
 aren't	25	0.002136
-i thought	25	0.014045
-i had	24	0.002751
 second	24	0.022245
 pizza	24	0.000095
 future	24	0.000497
-in my	24	0.024227
 hmm	24	0.018796
 coffee	24	0.000011
 tv	23	0.016366
-leela i	23	0.000071
 stuff	23	0.025190
-used to	23	0.003085
-i want	23	0.012649
 lot	23	0.014958
-i need	23	0.012649
-he was	23	0.001966
-with you	22	0.006572
-i didn't	22	0.036684
 gone	22	0.033634
 minute	22	0.000392
-i do	22	0.033894
 leela's	22	0.000192
-you guys	22	0.001533
 least	21	0.025060
-know what	21	0.032793
 evil	21	0.005178
 wasn't	21	0.009762
 thousand	21	0.000204
-just like	21	0.001919
-is that	20	0.034364
-but you	20	0.047500
-a second	20	0.002714
-back in	20	0.004858
-a lot	20	0.018500
-what do	20	0.037336
 making	20	0.016372
-at least	20	0.018500
 wouldn't	20	0.008943
-my life	19	0.003405
-i like	19	0.014269
-a thousand	19	0.000216
-oh yeah	19	0.033025
-gonna be	19	0.000814
 date	19	0.001691
-i feel	19	0.004320
-you do	19	0.042548
-the future	19	0.000814
-thousand years	18	0.000163
-bender i	18	0.001338
-that's the	18	0.017887
-a minute	18	0.000568
-i did	18	0.006101
 an'	18	0.012604
 anyway	17	0.015805
 knew	17	0.009108
 seymour	17	0.000049
-you mean	17	0.042988
 important	17	0.008113
-a thousand years	17	0.000226
-that's not	17	0.018362
-are we	17	0.008615
-what's the	16	0.008605
-i get	16	0.018788
 blah	16	0.000768
-wait a second	16	0.001731
 xmas	16	0.014347
 century	16	0.003289
-i wanna	16	0.006768
 ice	16	0.006292
 hurt	16	0.047555
 happening	15	0.004112
-hey bender	15	0.000562
-my friend	15	0.005853
-hey i	15	0.003938
 moon	15	0.020152
 giant	15	0.041123
 colleen	15	0.000117
-think i	15	0.047013
-feel like	15	0.001681
-with me	15	0.026275
-get it	15	0.009636
-help me	14	0.010777
-let's go	14	0.019412
-how to	14	0.044620
-it up	14	0.026935
 kinda	14	0.007697
 cold	14	0.046890
 clover	14	0.000494
 yay	14	0.005900
-ow ow	14	0.012176
-blah blah	14	0.001118
-so what	14	0.021697
-what if	13	0.009304
-i knew	13	0.003499
-i used	13	0.005401
 20th	13	0.003617
-yeah i	13	0.004054
 fish	13	0.032080
-that's it	13	0.046339
-mr peppy	13	0.000486
-20th century	13	0.003012
-oh my god	13	0.036091
-i used to	13	0.002915
-wake up	13	0.024597
 happen	13	0.035700
 peppy	13	0.000492
 wake	13	0.035700
-can you	13	0.037851
 girlfriend	12	0.002020
-leela you	12	0.003742
-wait a minute	12	0.002269
 yivo	12	0.004493
-it out	12	0.019560
-you wanna	12	0.024842
-wanted to	12	0.015246
 y'know	12	0.020361
-delivery boy	12	0.004360
 goodbye	12	0.029080
 slurm	12	0.020361
-hey leela	12	0.000477
 loved	12	0.013929
 ew	12	0.022989
-here i	12	0.024842
-blah blah blah	12	0.001929
 jeez	11	0.011708
-to tell	11	0.031631
-thing i	11	0.008520
 ahead	11	0.025831
-you're right	11	0.024883
 ha	11	0.025831
-the 20th	11	0.003368
 butt	11	0.032871
 sound	11	0.046231
-what's happening	11	0.003962
 weird	11	0.010157
 stole	11	0.022803
 where's	11	0.036928
-make you	11	0.014897
-you look	11	0.021980
-don't get	11	0.007355
-the 20th century	11	0.002794
-i can't believe	11	0.038200
-who's the	10	0.002454
-i need to	10	0.018310
-i'll take	10	0.040402
-yeah well	10	0.014328
 tentacle	10	0.011014
-the moon	10	0.028023
-blah blah blah blah	10	0.003982
-give up	10	0.018914
-best friend	10	0.012410
 missed	10	0.005889
-hey wait	10	0.002454
 fix	10	0.009466
-what was	10	0.014328
 card	10	0.025490
-where are	10	0.024657
-i'll never	10	0.016488
-the year	10	0.040402
 50	10	0.022342
 nope	10	0.019521
-believe it	9	0.024078
-go out	9	0.013486
 somewhere	9	0.028418
-ow my	9	0.007125
-pizza delivery	9	0.002437
-coffee coffee	9	0.000000
 dunno	9	0.016080
-you might	9	0.018149
-what i'm	9	0.031504
 fell	9	0.036985
-fix it	9	0.007125
 smart	9	0.024780
-my old	9	0.013486
 anchovies	9	0.005140
-that a	9	0.031504
 exist	9	0.013820
 frozen	9	0.018641
-don't do	9	0.008405
-can get	9	0.031504
 yup	9	0.010094
-i really	9	0.045971
-came to	9	0.009876
-will you	9	0.040665
-something to	9	0.018149
-leela i'm	9	0.003541
 o'	9	0.036985
 animal	9	0.024780
-wants to	8	0.026670
-the tentacle	8	0.016986
 romantic	8	0.031556
-what does	8	0.026670
-coffee coffee coffee	8	0.000000
-you be	8	0.035320
-it really	8	0.007370
-i don't like	8	0.025999
-a delivery	8	0.046063
-like i	8	0.040411
-so what's	8	0.026670
 bigfoot	8	0.036277
-but i don't	8	0.022485
-about you	8	0.030751
 but--	8	0.014787
-i came	8	0.026670
-don't know what	8	0.039284
-blah blah blah blah blah	8	0.009887
-fix it fix it	8	0.004176
 monsters	8	0.031556
-bender are	8	0.006156
 crud	8	0.006226
 michelle	8	0.000000
-have my	8	0.035320
-and me	8	0.030751
-sorry i'm	8	0.019823
-how you	8	0.040411
-leela how	8	0.004237
-wanna see	8	0.010425
-use the	8	0.046063
 gross	8	0.017351
-wow i	8	0.008784
-about a	8	0.030751
-star trek	8	0.016986
 trust	8	0.047385
 trek	8	0.023592
-one of those	8	0.029947
-be my	8	0.026670
-delivery for	7	0.010770
-i wouldn't	7	0.045417
-dark one	7	0.018157
-to him	7	0.039426
-bender if	7	0.010770
-i remember	7	0.034073
-i'm on	7	0.025106
-coffee coffee coffee coffee	7	0.000000
 wiener	7	0.009044
-gonna die	7	0.029315
-i know i	7	0.012709
 episode	7	0.025598
 'ave	7	0.046514
-my best	7	0.039426
-you leela	7	0.025106
-pizza delivery for	7	0.004988
-that sounds	7	0.018157
-where is	7	0.039426
-bender are you	7	0.008875
-i dunno	7	0.039426
-gonna do	7	0.045417
-go ahead	7	0.021401
-fix it fix it fix it	7	0.005979
 playing	7	0.034826
-i'm not a	7	0.024611
-see it	7	0.039426
-i feel like	7	0.028700
 smells	7	0.034826
-ha ha	7	0.039426
-it's too	7	0.045417
-there in	7	0.015331
-hey wait a	7	0.007361
-right i	7	0.034073
-be like	7	0.018157
-my nose	7	0.006106
 rings	7	0.009044
-i miss	7	0.045417
-uh what	7	0.021401
-where are we	7	0.024611
-why is	7	0.045417
-not going	7	0.025106
 nerd	7	0.021791
 somethin'	7	0.015562
-to hear	7	0.034073
 liked	7	0.040339
-but you're	6	0.037395
-good to	6	0.037395
-poor bender	6	0.010764
-make it up	6	0.008778
-to tell you	6	0.031310
 poop	6	0.019213
-love with	6	0.026952
 christmas	6	0.010818
-don't do it	6	0.012990
-good old	6	0.018998
-love me	6	0.037395
-in the year	6	0.036729
-a fish	6	0.022692
-a date	6	0.026952
-i don't get it	6	0.015518
-i'm gonna be	6	0.022391
-the ice	6	0.015813
-stole my	6	0.015813
-bender bender	6	0.037395
-and i've	6	0.037395
 steam	6	0.032353
 speaking	6	0.044524
-my clover	6	0.000000
-i don't get	6	0.018780
-never mind	6	0.026952
 sunshine	6	0.013181
 hook	6	0.010818
 moving	6	0.038058
-icy wiener	6	0.008801
 nuh	6	0.000000
 cry	6	0.038058
-the internet	6	0.022692
-wow you	6	0.013086
-how come	6	0.026952
-tell her	6	0.022692
-i'm late	6	0.015813
-can take	6	0.037395
-bender no	6	0.010764
-my money	6	0.008801
-back in time	6	0.049759
-that's when	6	0.022692
-what if i	6	0.042860
-hello pizza delivery for	6	0.000000
-hey uh	6	0.008801
-for some	6	0.022692
 cares	6	0.038058
-fix it fix it fix it fix it	6	0.008657
 banana	6	0.015962
-don't get it	6	0.018780
-i'll tell	6	0.043694
 phew	6	0.032353
-find that	6	0.037395
-an idea	6	0.026952
 icy	6	0.013181
 chick	6	0.019213
-this but	6	0.031834
-i can get	6	0.026550
-i missed	6	0.010764
-up to you	6	0.015664
-a delivery boy	6	0.018780
-my girlfriend	6	0.008801
 blank	6	0.032353
-well at least	6	0.049759
-the dark one	6	0.022391
-be some	6	0.026952
-gotta go	6	0.031834
 refuse	6	0.027350
-blah blah blah blah blah blah	6	0.025328
 psst	6	0.032353
-miss you	6	0.022692
-coffee coffee coffee coffee coffee	6	0.000000
 comic	6	0.010818
 sheep	6	0.027350
 milk	6	0.032353
-in the future	6	0.031310
-she was	6	0.031834
-you might be	5	0.023178
-he stole	5	0.028220
-hit me	5	0.033872
-had no	5	0.033872
 3000	5	0.048518
 van	5	0.034251
-my grandfather	5	0.015649
 dragons	5	0.034251
-watch the	5	0.023350
-you and me	5	0.047130
-here's to	5	0.028220
-remember that	5	0.023350
-dungeons &	5	0.028220
-was gonna	5	0.028220
-walking on sunshine	5	0.023178
-i'll miss	5	0.033872
-remember the	5	0.033872
-interested in	5	0.047827
-said it	5	0.033872
-he wasn't	5	0.047827
-than me	5	0.040382
-i give up	5	0.019086
-up here	5	0.047827
-find my	5	0.019184
-look for	5	0.033872
-we've gotta	5	0.023350
-love the	5	0.047827
-i used to work	5	0.000000
-she had	5	0.019184
-a thousand years ago	5	0.027696
-i loved	5	0.019184
-coffee coffee coffee coffee coffee coffee	5	0.000000
 dungeons	5	0.028483
 old-fashioned	5	0.048518
 celebrity	5	0.040903
-remember when	5	0.033872
-aren't we	5	0.015649
-was right	5	0.033872
-and i'm gonna	5	0.023178
-but i just	5	0.019086
-i get it	5	0.039856
-i know what	5	0.033489
 mermaid	5	0.023520
-make it up to you	5	0.015521
-just like the	5	0.019086
-seven-leaf clover	5	0.019184
-one time	5	0.023350
-so leela	5	0.023350
-good at	5	0.033872
-a jerk	5	0.028220
-know who	5	0.040382
-refuse to	5	0.040382
-icy wiener aw crud	5	0.000000
-i'll miss you	5	0.027954
-check it	5	0.023350
-watch tv	5	0.028220
-i came to	5	0.023178
-bender how	5	0.033872
-wait that's	5	0.023350
-you ok	5	0.019184
 octopus	5	0.019281
-i got you	5	0.039856
-like my	5	0.047827
-i think you	5	0.039856
-wanna go	5	0.028220
-my butt	5	0.033872
-more important	5	0.015649
-i refuse	5	0.040382
 swim	5	0.040903
-dungeons & dragons	5	0.023178
-he's dead	5	0.047827
-so what do	5	0.033489
-ashamed to	5	0.015649
 &	5	0.040903
-ha ha ha	5	0.039856
 grandfather	5	0.040903
-thousand years ago	5	0.033489
-ooh ooh	5	0.047827
-what up	5	0.019184
-fix it fix it fix it fix it fix it	5	0.000000
-a romantic	5	0.019184
-a tv	5	0.040382
-it up to	5	0.027954
-to start	5	0.028220
 pipe	5	0.034251
-nuh nuh	5	0.000000
 beep	5	0.015690
-the atom	5	0.033872
-to another	5	0.033872
 seven-leaf	5	0.019281
-taught me	4	0.034718
-get any	4	0.028230
-quit it	4	0.042320
-could never	4	0.042320
-it we're	4	0.034718
-hit him	4	0.042320
-as long as you	4	0.000000
-a secret	4	0.034718
-comic book	4	0.028230
 bothering	4	0.034894
-he stole my	4	0.028154
-i have an idea	4	0.034364
-you happy	4	0.028230
 pizzeria	4	0.028306
-my day	4	0.042320
-love leela	4	0.034718
-back in the 20th century	4	0.000000
-and then the	4	0.042008
-are you okay	4	0.028154
-i'm not going	4	0.042008
-what smells	4	0.028230
 clothes	4	0.042628
-we had a	4	0.034539
-some kinda	4	0.028230
-look leela	4	0.034718
-check it out	4	0.034539
-i can't wait	4	0.042008
-her and	4	0.042320
-ha ha ha ha	4	0.034364
-nuh nuh nuh	4	0.000000
-we're saved	4	0.042320
-i had no	4	0.028154
-i got frozen	4	0.000000
-in a thousand years	4	0.034364
-i'm walking	4	0.028230
-fix it fix it fix it fix it fix it fix it	4	0.000000
-go out with	4	0.034539
-sorry bender	4	0.042320
-i think you might	4	0.034364
-got frozen	4	0.028230
-seen a	4	0.042320
-wait you're	4	0.042320
-i think you might be playing too much dungeons & dragons	4	0.000000
-long as you	4	0.034539
-here i'll	4	0.042320
 cheek	4	0.042628
-an old-fashioned	4	0.028230
 sober	4	0.042628
-the year 3000	4	0.034539
-wanna hear	4	0.034718
-other people	4	0.034718
 pst	4	0.028306
-let my	4	0.028230
-i'm on it	4	0.034539
 staying	4	0.042628
-my dad	4	0.042320
-yeah no	4	0.000000
-year 3000	4	0.042320
-trust me	4	0.042320
-show him	4	0.028230
-leela i've	4	0.028230
-be gone	4	0.042320
-make you happy	4	0.000000
-i'm at	4	0.034718
-i can't take	4	0.042008
 washing	4	0.042628
-you okay	4	0.042320
-never thought	4	0.042320
-not a robot	4	0.042008
-let go	4	0.042320
-important to	4	0.042320
-for a thousand years	4	0.041705
-hey wait a second	4	0.034364
-that i'm not	4	0.042008
-thanks bender	4	0.028230
 lizards	4	0.034894
-it hit me	4	0.000000
-a long time	4	0.042008
 parrot	4	0.034894
-how i feel	4	0.028154
-best thing	4	0.000000
-i wanna see	4	0.000000
-there in the	4	0.028154
-are you and	4	0.034539
-my time	4	0.042320
-leela was	4	0.028230
-to help me	4	0.042008
-a man can	4	0.042008
-i'm walking on sunshine	4	0.000000
-my comic	4	0.000000
-me think	4	0.034718
-bender but	4	0.042320
-coffee coffee coffee coffee coffee coffee coffee	4	0.000000
-it's good to	4	0.042008
-ahead i	4	0.028230
-gonna be a	4	0.042008
 grasshopper	4	0.000000
-bender back	4	0.000000
 dork	4	0.042628
-i'm never	4	0.042320
-just like a	4	0.028154
-a pizza	4	0.034718
-psst leela	4	0.000000
 it'd	4	0.042628
-i've got one	4	0.034539
-look so	4	0.042320
-here's to another lousy millennium	3	0.000000
-what's the catch	3	0.000000
-back yet	3	0.000000
-bender wake up	3	0.000000
-my seven-leaf clover	3	0.000000
 n--	3	0.000000
-steal my	3	0.000000
-the gorilla	3	0.000000
 futuristic	3	0.000000
-need something	3	0.000000
-space experiment	3	0.000000
-thanks leela	3	0.000000
-cool can	3	0.000000
-know her	3	0.000000
-what's so	3	0.000000
-ha ha ha ha ha	3	0.000000
-there's amy	3	0.000000
-to find my	3	0.000000
-the grasshopper	3	0.000000
-no thanks i	3	0.000000
-wanna see the	3	0.000000
-hey bender hey bender	3	0.000000
 yancy's	3	0.000000
-yup i	3	0.000000
-about to start	3	0.000000
-coffee coffee coffee coffee coffee coffee coffee coffee	3	0.000000
-girl i	3	0.000000
-an astronaut	3	0.000000
-hello pizza delivery for icy wiener aw crud	3	0.000000
-i'm fry	3	0.000000
-me an'	3	0.000000
-bender i think you might be playing too much dungeons & dragons	3	0.000000
-why aren't we	3	0.000000
-nervous and	3	0.000000
-run over	3	0.000000
-clover i	3	0.000000
-way about	3	0.000000
-she thinks i'm	3	0.000000
-leela she's	3	0.000000
-with colleen	3	0.000000
-of the tentacle	3	0.000000
-fix it fix it fix it fix it fix it fix it fix it	3	0.000000
-thought it would	3	0.000000
-listen leela	3	0.000000
-gonna be like	3	0.000000
-leela back	3	0.000000
-will you be my	3	0.000000
-the monsterpus	3	0.000000
-hey i can	3	0.000000
-do something to	3	0.000000
-worry about blank	3	0.000000
-it's the price of a cheese pizza and a large	3	0.000000
-think it was	3	0.000000
-the octopus	3	0.000000
-of women	3	0.000000
 monsterpus	3	0.000000
-hey i have an idea	3	0.000000
-'em you can	3	0.000000
-as vice chairman	3	0.000000
-nuh nuh nuh nuh	3	0.000000
-just 'ave	3	0.000000
-about leela	3	0.000000
-for losers	3	0.000000
-yeah i get that a lot	3	0.000000
-show leela	3	0.000000
-except in kansas	3	0.000000
-that's when it hit me	3	0.000000
-happy birthday leela	3	0.000000
-hey leela look	3	0.000000
-i don't trust	3	0.000000
-dinner tonight	3	0.000000
-in the sewers	3	0.000000
-no yeah	3	0.000000
-my comic book	3	0.000000
-make you love me	3	0.000000
-i'm gonna find	3	0.000000
-i consider	3	0.000000
-missed the	3	0.000000
-i hate my life	3	0.000000

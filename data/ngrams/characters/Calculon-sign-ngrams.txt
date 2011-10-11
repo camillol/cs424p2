@@ -1,3 +1,18 @@
+the league of robots	4	0.023616
+league of robots	4	0.023839
+the league of	4	0.023839
+for you see	3	0.043752
+for you	6	0.020433
+harold zoid	6	0.007525
+no no	6	0.014950
+the league	5	0.013242
+i do	5	0.028848
+you see	4	0.045827
+league of	4	0.024059
+of robots	4	0.024291
+with you	4	0.045437
+that oscar	3	0.000000
+from this	3	0.045055
 you	71	0.029813
 me	34	0.001011
 my	31	0.027722
@@ -9,34 +24,19 @@ oscar	8	0.002426
 acting	8	0.002843
 never	8	0.044742
 would	7	0.042750
-for you	6	0.020433
 harold	6	0.007592
-harold zoid	6	0.007525
 zoid	6	0.007801
-no no	6	0.014950
 much	6	0.048573
-the league	5	0.013242
 calculon	5	0.021454
 most	5	0.048360
 show	5	0.046932
 monique	5	0.012756
 league	5	0.014381
-i do	5	0.028848
 robots	5	0.039361
-you see	4	0.045827
 nooo	4	0.027674
-league of robots	4	0.023839
-the league of robots	4	0.023616
-the league of	4	0.023839
 scene	4	0.025686
 secret	4	0.041024
 evil	4	0.042098
-league of	4	0.024059
-of robots	4	0.024291
 father	4	0.031461
 son	4	0.034728
-with you	4	0.045437
-that oscar	3	0.000000
 project	3	0.044138
-from this	3	0.045055
-for you see	3	0.043752

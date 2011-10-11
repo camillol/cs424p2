@@ -1,11 +1,11 @@
+great pharaoh hermenthotip	3	0.000000
+pharaoh hermenthotip	5	0.000000
+of the	4	0.032904
+great pharaoh	3	0.041200
+the great	3	0.041963
 the	14	0.011975
 of	7	0.042541
 pharaoh	7	0.003861
 hermenthotip	6	0.006830
-pharaoh hermenthotip	5	0.000000
-of the	4	0.032904
 great	4	0.027716
 pull	4	0.022687
-great pharaoh hermenthotip	3	0.000000
-great pharaoh	3	0.041200
-the great	3	0.041963

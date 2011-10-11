@@ -1,16 +1,16 @@
-the	7	0.037584
-of	5	0.036014
+welcome to the world of tomorrow	3	0.000000
+welcome to the world of	3	0.039191
 the world of tomorrow	4	0.000000
-the world	4	0.021855
-world of	4	0.021528
-tomorrow	4	0.022078
+to the world of	3	0.039805
 the world of	4	0.021230
 welcome to the	4	0.021286
-welcome	4	0.022502
+to the world	3	0.040224
+the world	4	0.021855
+world of	4	0.021528
 to the	4	0.024307
 welcome to	4	0.021820
+the	7	0.037584
+of	5	0.036014
+tomorrow	4	0.022078
+welcome	4	0.022502
 world	4	0.022595
-welcome to the world of	3	0.039191
-welcome to the world of tomorrow	3	0.000000
-to the world of	3	0.039805
-to the world	3	0.040224

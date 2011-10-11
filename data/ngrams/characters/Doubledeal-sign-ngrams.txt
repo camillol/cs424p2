@@ -1,6 +1,6 @@
+ultimate robot	3	0.041721
 in	7	0.048911
 kid	6	0.007272
 new	5	0.018855
 robot	4	0.036893
 ultimate	3	0.042115
-ultimate robot	3	0.041721

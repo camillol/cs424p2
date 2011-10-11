@@ -1,10 +1,10 @@
+you must	3	0.043202
+mother mars	3	0.000000
 we	12	0.001260
 have	6	0.028626
 land	5	0.013079
 us	5	0.021655
 buggalo	4	0.022711
 mars	3	0.042784
-you must	3	0.043202
 mother	3	0.043453
-mother mars	3	0.000000
 peace	3	0.043557

@@ -1,13 +1,13 @@
+the fate of	3	0.042331
+in the universe	3	0.042699
+the universe	5	0.014120
+in the	5	0.039832
+the brain	3	0.042758
 the	33	0.000249
 of	13	0.022896
 will	6	0.019121
-the universe	5	0.014120
-in the	5	0.039832
 universe	5	0.016841
 brain	4	0.026523
-the brain	3	0.042758
 fate	3	0.043950
-the fate of	3	0.042331
 thousand	3	0.045291
 race	3	0.044571
-in the universe	3	0.042699

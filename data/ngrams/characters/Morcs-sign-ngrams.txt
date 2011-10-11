@@ -1,6 +1,6 @@
+nanu nanu	3	0.000000
+oh fantastic	3	0.000000
 nanu	6	0.000000
 oh	5	0.011789
 fantastic	4	0.019807
 mindy	3	0.000000
-nanu nanu	3	0.000000
-oh fantastic	3	0.000000

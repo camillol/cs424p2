@@ -1,5 +1,5 @@
-and	7	0.020249
-still	4	0.025015
 was then and	3	0.000000
 then and	3	0.041002
+and	7	0.020249
+still	4	0.025015
 we'll	3	0.046420

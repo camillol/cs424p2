@@ -1,6 +1,6 @@
+the great	3	0.042309
 i	14	0.015088
 thou	8	0.002203
 not	6	0.022255
 great	4	0.029413
 fountain	3	0.041785
-the great	3	0.042309

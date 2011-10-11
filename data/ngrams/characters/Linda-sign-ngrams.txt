@@ -1,3 +1,11 @@
+we now go live to	3	0.000000
+at 11	3	0.000000
+live to	3	0.042565
+go live	3	0.042062
+fishy joe's	3	0.042819
+now go	3	0.043074
+turning to	3	0.000000
+we now	3	0.043074
 the	60	0.002337
 of	29	0.010154
 is	22	0.010739
@@ -14,20 +22,12 @@ fishy	5	0.013097
 next	4	0.045498
 live	4	0.043737
 walrus	4	0.023062
-at 11	3	0.000000
 turning	3	0.045298
 joe's	3	0.042782
-live to	3	0.042565
 coverage	3	0.041808
-go live	3	0.042062
 11	3	0.042293
-fishy joe's	3	0.042819
 infinity	3	0.043028
 drunk	3	0.046076
-now go	3	0.043074
-turning to	3	0.000000
 sports	3	0.042782
 television	3	0.044278
-we now go live to	3	0.000000
-we now	3	0.043074
 tragic	3	0.044026

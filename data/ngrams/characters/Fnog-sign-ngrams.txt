@@ -1,7 +1,7 @@
-will	7	0.005536
-girl	6	0.007053
+the will of a	3	0.000000
 the will of	5	0.012151
 the will	5	0.012193
-warrior	4	0.022249
 of a	3	0.046144
-the will of a	3	0.000000
+will	7	0.005536
+girl	6	0.007053
+warrior	4	0.022249

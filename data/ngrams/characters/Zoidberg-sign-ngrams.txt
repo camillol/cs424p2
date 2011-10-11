@@ -1,3 +1,82 @@
+look at me look at me	3	0.000000
+no no no no	4	0.029145
+freedom freedom freedom oy	4	0.024728
+yeah yeah yeah yeah	3	0.000000
+look at me look	3	0.043482
+no no no	8	0.004315
+look at me	6	0.012380
+good as new	5	0.014325
+i'm a doctor	4	0.024745
+yeah yeah yeah	4	0.028030
+i thought i	4	0.044945
+i think i'm	4	0.031666
+just because you	3	0.045442
+on your face	3	0.000000
+have a look	3	0.043498
+me look at	3	0.043498
+the magnificent three	3	0.043498
+saved my life	3	0.047454
+i have	18	0.014445
+like a	13	0.032250
+no no	12	0.003960
+for a	12	0.047729
+is it	11	0.022845
+with the	11	0.046821
+i've got	9	0.032827
+at me	9	0.003996
+i'm a	9	0.037424
+on your	8	0.018228
+freedom freedom	8	0.002735
+a doctor	7	0.006039
+what is	7	0.042391
+all i	6	0.031263
+as new	5	0.015556
+good as	5	0.017547
+there was	5	0.035794
+what it	5	0.033340
+have no	5	0.047114
+yeah yeah	5	0.039749
+if only	5	0.034550
+is in	4	0.046864
+so what's	4	0.046864
+thought i	4	0.046864
+to mate	4	0.023732
+around here	4	0.046864
+the thing	4	0.030471
+think i'm	4	0.043450
+oh the	4	0.037220
+why not	4	0.040238
+more more	4	0.023732
+and zoidberg	4	0.025825
+doesn't make	4	0.033039
+that thing	4	0.037220
+the robut	3	0.000000
+the tunneling	3	0.049592
+a feast	3	0.000000
+call them	3	0.047495
+uncle zoid	3	0.043512
+a female	3	0.047495
+friends friends	3	0.043512
+my freedom	3	0.043512
+or maybe	3	0.049592
+the frenzy	3	0.000000
+know fry	3	0.047495
+me zoidberg	3	0.043512
+my shell	3	0.000000
+hooray i'm	3	0.000000
+the doctor	3	0.049592
+a free	3	0.049592
+soaking in	3	0.000000
+a look	3	0.049592
+a yeti	3	0.045469
+the magnificent	3	0.047495
+rich people	3	0.045469
+fin rot	3	0.000000
+excellent excellent	3	0.043512
+have zoidberg	3	0.000000
+for zoidberg	3	0.043512
+an honour	3	0.043512
+zoidberg is	3	0.049592
 i	275	0.013756
 a	237	0.015511
 me	105	0.000271
@@ -19,50 +98,35 @@ more	21	0.049874
 help	18	0.006032
 friend	18	0.001577
 friends	18	0.000466
-i have	18	0.014445
 stop	17	0.035831
 two	17	0.040132
 where	16	0.049203
 alright	15	0.044619
 doctor	14	0.000545
 ah	13	0.041784
-like a	13	0.032250
 already	13	0.003268
-no no	12	0.003960
 doesn't	12	0.015933
-for a	12	0.047729
 three	12	0.021090
 guy	12	0.028929
 hello	11	0.032663
-is it	11	0.022845
-with the	11	0.046821
 bad	11	0.026817
 dead	11	0.018189
 because	11	0.046424
 shell	10	0.000988
 someone	10	0.020176
 hermes	10	0.017063
-i've got	9	0.032827
-at me	9	0.003996
-i'm a	9	0.037424
 money	8	0.043287
 else	8	0.023764
 aha	8	0.006546
 funny	8	0.015363
 free	8	0.029232
 gone	8	0.045677
-on your	8	0.018228
-no no no	8	0.004315
 oy	8	0.003745
-freedom freedom	8	0.002735
 hubert	7	0.008876
-a doctor	7	0.006039
 rich	7	0.032150
 uh-oh	7	0.023474
-what is	7	0.042391
 wonderful	7	0.018029
 eggs	7	0.007638
-look at me	6	0.012380
 excellent	6	0.009498
 yeti	6	0.009884
 edna	6	0.007759
@@ -70,117 +134,53 @@ eating	6	0.036159
 zoid	6	0.010697
 inside	6	0.032780
 female	6	0.029663
-all i	6	0.031263
 hypermalaria	6	0.008418
 surgery	5	0.017609
 dumpster	5	0.015591
 relax	5	0.046128
 hollywood	5	0.020640
 fin	5	0.000000
-as new	5	0.015556
 craw	5	0.013209
 blood	5	0.041620
 joke	5	0.021463
 'e	5	0.021463
 species	5	0.038816
 cake	5	0.030181
-good as	5	0.017547
-there was	5	0.035794
 bah	5	0.014964
-good as new	5	0.014325
 claw	5	0.013773
-what it	5	0.033340
-have no	5	0.047114
-yeah yeah	5	0.039749
-if only	5	0.034550
 mating	5	0.016241
 card	5	0.034898
 uncle	5	0.032469
 dance	5	0.038816
-i'm a doctor	4	0.024745
 liver	4	0.026977
-is in	4	0.046864
-yeah yeah yeah	4	0.028030
-so what's	4	0.046864
 magnificent	4	0.033170
-thought i	4	0.046864
 mate	4	0.037412
-i thought i	4	0.044945
-to mate	4	0.023732
 feast	4	0.026977
-around here	4	0.046864
-the thing	4	0.030471
-think i'm	4	0.043450
-no no no no	4	0.029145
 squid	4	0.028133
 harold	4	0.033170
 yelling	4	0.028133
 robut	4	0.000000
 claws	4	0.025861
-oh the	4	0.037220
 patients	4	0.023744
-why not	4	0.040238
-freedom freedom freedom oy	4	0.024728
-more more	4	0.023732
-and zoidberg	4	0.025825
 slave	4	0.035952
-doesn't make	4	0.033039
-that thing	4	0.037220
-i think i'm	4	0.031666
 clam	3	0.043534
-the robut	3	0.000000
-just because you	3	0.045442
-the tunneling	3	0.049592
-on your face	3	0.000000
 feh	3	0.043534
-have a look	3	0.043498
-a feast	3	0.000000
 sangwich	3	0.000000
 tritonian	3	0.045513
 rot	3	0.049686
 yetis	3	0.045513
-call them	3	0.047495
 murderer	3	0.047563
-uncle zoid	3	0.043512
 deny	3	0.047563
-a female	3	0.047495
-friends friends	3	0.043512
 rubber	3	0.045513
-my freedom	3	0.043512
 soaking	3	0.043534
 neurotoxin	3	0.000000
 tunneling	3	0.049686
-or maybe	3	0.049592
-the frenzy	3	0.000000
 gland	3	0.000000
-look at me look at me	3	0.000000
-me look at	3	0.043498
 ay	3	0.045513
-know fry	3	0.047495
-me zoidberg	3	0.043512
-my shell	3	0.000000
 schlock	3	0.000000
-hooray i'm	3	0.000000
-the doctor	3	0.049592
-a free	3	0.049592
-soaking in	3	0.000000
-a look	3	0.049592
 yum	3	0.000000
-a yeti	3	0.045469
-the magnificent	3	0.047495
-the magnificent three	3	0.043498
-rich people	3	0.045469
 frenzy	3	0.043534
-fin rot	3	0.000000
-yeah yeah yeah yeah	3	0.000000
 zoidy	3	0.043534
-excellent excellent	3	0.043512
-look at me look	3	0.043482
-saved my life	3	0.047454
-have zoidberg	3	0.000000
 ink	3	0.047563
 hiya	3	0.045513
 clue	3	0.047563
-for zoidberg	3	0.043512
-an honour	3	0.043512
-zoidberg is	3	0.049592

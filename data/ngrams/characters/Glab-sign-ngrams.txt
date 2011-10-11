@@ -1,3 +1,11 @@
+i'm going to allow this	3	0.000000
+i'm going to allow	3	0.041254
+i'm going to	3	0.042830
+zapp brannigan	5	0.012773
+going to	3	0.048074
+to allow	3	0.041359
+i'm going	3	0.043684
+your rank	3	0.000000
 the	14	0.034066
 of	12	0.004694
 and	9	0.025068
@@ -5,14 +13,6 @@ this	7	0.025304
 your	6	0.034485
 brannigan	5	0.012968
 zapp	5	0.013180
-zapp brannigan	5	0.012773
-i'm going to	3	0.042830
-going to	3	0.048074
-to allow	3	0.041359
-i'm going	3	0.043684
-i'm going to allow	3	0.041254
-i'm going to allow this	3	0.000000
-your rank	3	0.000000
 rank	3	0.041426
 captain	3	0.046992
 allow	3	0.042521

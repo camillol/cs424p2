@@ -1,19 +1,19 @@
+the new justice team	3	0.041473
+new justice team	6	0.006923
+in the year	3	0.042003
+justice team	7	0.003899
+go go	4	0.023296
+all the	4	0.026576
+in the	4	0.048432
+team team	3	0.000000
+the new	3	0.043050
+the year	3	0.043107
 the	18	0.010766
 team	14	0.000078
 go	8	0.004594
 justice	8	0.002237
-justice team	7	0.003899
-new justice team	6	0.006923
 new	6	0.010289
 all	5	0.045593
-go go	4	0.023296
 clobberella	4	0.022605
-all the	4	0.026576
 year	4	0.025075
-in the	4	0.048432
-team team	3	0.000000
-in the year	3	0.042003
-the new justice team	3	0.041473
 superking	3	0.041495
-the new	3	0.043050
-the year	3	0.043107

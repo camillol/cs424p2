@@ -1,10 +1,10 @@
+what kinda cheese fillin' you want in that	3	0.000000
+you want in	3	0.038831
 want in	3	0.039410
+you want	3	0.040110
+in that	3	0.039727
+what kinda	3	0.039417
 kinda	3	0.040122
 cheese	3	0.039977
-you want	3	0.040110
 want	3	0.042586
 fillin'	3	0.000000
-in that	3	0.039727
-what kinda cheese fillin' you want in that	3	0.000000
-what kinda	3	0.039417
-you want in	3	0.038831

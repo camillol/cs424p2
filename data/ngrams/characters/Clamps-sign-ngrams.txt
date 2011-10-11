@@ -1,17 +1,17 @@
+clamps clamps clamps	3	0.000000
+i'm gonna clamp	3	0.000000
+the clamps	5	0.012555
+clamps clamps	4	0.022659
+i'm gonna	4	0.028879
+you think	3	0.048934
+clamp you	3	0.000000
 clamps	21	0.000002
 clamp	14	0.000083
 yeah	7	0.011369
 gonna	7	0.007998
 one	6	0.048621
-the clamps	5	0.012555
 guy	5	0.017435
-clamps clamps	4	0.022659
 these	4	0.043364
-i'm gonna	4	0.028879
 francis	4	0.023341
-clamps clamps clamps	3	0.000000
 clamped	3	0.041565
-you think	3	0.048934
-i'm gonna clamp	3	0.000000
 ya	3	0.043816
-clamp you	3	0.000000

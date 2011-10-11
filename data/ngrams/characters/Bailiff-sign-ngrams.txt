@@ -1,15 +1,15 @@
-the	12	0.007497
+all rise for the honourable	3	0.000000
+all rise for the	4	0.000000
+the honourable judge	4	0.000000
+rise for the	4	0.021964
 the honourable	5	0.000000
+honourable judge	4	0.022029
+for the	4	0.025071
+the	12	0.007497
 honourable	5	0.012088
 rise	4	0.022109
 all	4	0.041736
-honourable judge	4	0.022029
-all rise for the	4	0.000000
 judge	4	0.022207
-for the	4	0.025071
-the honourable judge	4	0.000000
-rise for the	4	0.021964
 oyez	3	0.000000
 oye	3	0.000000
-all rise for the honourable	3	0.000000
 justices	3	0.041011

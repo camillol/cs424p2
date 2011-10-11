@@ -1,3 +1,6 @@
+1-x robots	4	0.022719
+i gotta	3	0.045365
+i'm thinking	3	0.042310
 a	21	0.044789
 me	13	0.009299
 i'm	10	0.036424
@@ -5,8 +8,5 @@ i'm	10	0.036424
 crazy	5	0.016060
 robots	4	0.032079
 red	4	0.023788
-1-x robots	4	0.022719
 mommy	3	0.044480
 thinking	3	0.048811
-i gotta	3	0.045365
-i'm thinking	3	0.042310

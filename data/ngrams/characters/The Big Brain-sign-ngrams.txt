@@ -1,5 +1,5 @@
-you	18	0.024424
 in this	3	0.047064
 we are	3	0.046012
 the philip	3	0.000000
+you	18	0.024424
 philip	3	0.045005

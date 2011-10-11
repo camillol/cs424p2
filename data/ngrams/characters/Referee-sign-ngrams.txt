@@ -1,8 +1,8 @@
+in this corner	3	0.040555
+in this	3	0.041924
 the	10	0.009447
 and	7	0.013062
 in	5	0.030078
 bender	4	0.032265
-in this corner	3	0.040555
 versus	3	0.040813
 corner	3	0.040865
-in this	3	0.041924

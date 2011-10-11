@@ -1,8 +1,8 @@
+the british	3	0.041045
+by land	3	0.041045
+tea kettles	3	0.000000
 by	4	0.028722
 british	4	0.022195
 tea	3	0.041242
-the british	3	0.041045
-by land	3	0.041045
 land	3	0.042298
-tea kettles	3	0.000000
 kettles	3	0.000000

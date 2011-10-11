@@ -1,3 +1,59 @@
+ha ha ha ha ha	3	0.000000
+ha ha ha ha	4	0.024085
+do you think i	3	0.045528
+why do you think	3	0.044193
+do you think	8	0.005135
+ha ha ha	5	0.015092
+what happened to	4	0.036305
+why do you	4	0.034313
+i was really	3	0.042953
+fry and leela	3	0.044322
+are you sure	3	0.048640
+you wanna do	3	0.044322
+cheer you up	3	0.048640
+oh no	16	0.000312
+do you	14	0.017953
+my parents	10	0.001668
+have a	10	0.047256
+is it	9	0.028831
+you think	9	0.008309
+i had	7	0.029422
+we could	7	0.016543
+you just	7	0.020658
+looks like	6	0.027727
+oh kif	6	0.000000
+ha ha	6	0.010811
+you should	6	0.020921
+mom dad	6	0.009076
+it's so	5	0.025634
+what happened	5	0.042490
+professor i	5	0.014758
+you wanna	5	0.035462
+happened to	5	0.026356
+that's so	5	0.020434
+what about	5	0.048164
+wanna do	4	0.028293
+oh that's	4	0.037041
+and leela	4	0.032914
+my boyfriend	4	0.024222
+was it	4	0.031944
+the head	4	0.035972
+why do	4	0.047866
+out for	4	0.040404
+you sure	4	0.041578
+kif you're	4	0.024995
+what was	4	0.045266
+you please	3	0.045919
+miniature golf	3	0.045919
+kif it's	3	0.044448
+my thesis	3	0.000000
+guh it's	3	0.000000
+how was	3	0.047428
+be alright	3	0.045919
+having an	3	0.044448
+looks so	3	0.045919
+want your	3	0.047428
+fonfon ru	3	0.000000
 it's	70	0.000229
 so	65	0.000176
 what	57	0.043031
@@ -19,12 +75,10 @@ think	22	0.009625
 we're	21	0.044342
 could	20	0.033191
 what's	17	0.029972
-oh no	16	0.000312
 way	15	0.038137
 great	15	0.020844
 dad	15	0.000182
 ok	14	0.025459
-do you	14	0.017953
 parents	14	0.000442
 they're	12	0.021316
 aw	11	0.015761
@@ -35,90 +89,36 @@ said	10	0.049398
 cute	10	0.002617
 left	10	0.014124
 mom	10	0.011785
-my parents	10	0.001668
-have a	10	0.047256
-is it	9	0.028831
 bad	9	0.035629
-you think	9	0.008309
 hello	9	0.041815
 hi	9	0.006405
 ew	8	0.005985
 happened	8	0.019226
-do you think	8	0.005135
 ha	7	0.009640
-i had	7	0.029422
 having	7	0.021474
-we could	7	0.016543
-you just	7	0.020658
-looks like	6	0.027727
-oh kif	6	0.000000
-ha ha	6	0.010811
 yay	6	0.019054
-you should	6	0.020921
 kif's	6	0.009172
-mom dad	6	0.009076
-it's so	5	0.025634
-what happened	5	0.042490
-professor i	5	0.014758
-you wanna	5	0.035462
-happened to	5	0.026356
 000	5	0.039023
 boyfriend	5	0.015824
-ha ha ha	5	0.015092
 sad	5	0.026400
-that's so	5	0.020434
-what about	5	0.048164
 fonfon	4	0.024291
-ha ha ha ha	4	0.024085
-what happened to	4	0.036305
 guh	4	0.000000
-wanna do	4	0.028293
-oh that's	4	0.037041
-why do you	4	0.034313
-and leela	4	0.032914
-my boyfriend	4	0.024222
 kiffy	4	0.000000
-was it	4	0.031944
 field	4	0.041387
-the head	4	0.035972
 gross	4	0.036678
-why do	4	0.047866
-out for	4	0.040404
-you sure	4	0.041578
-kif you're	4	0.024995
 girls	4	0.038975
 golf	4	0.032413
-what was	4	0.045266
 betsy	4	0.024291
 barf	4	0.027663
 80	3	0.046118
 spluh	3	0.000000
 antidepressants	3	0.043079
 ru	3	0.043079
-i was really	3	0.042953
-you please	3	0.045919
-miniature golf	3	0.045919
-do you think i	3	0.045528
 thesis	3	0.000000
-kif it's	3	0.044448
 shmeesh	3	0.000000
-fry and leela	3	0.044322
 core	3	0.047700
 jewelry	3	0.000000
-my thesis	3	0.000000
-guh it's	3	0.000000
-are you sure	3	0.048640
-you wanna do	3	0.044322
 pushing	3	0.046118
 ratchet	3	0.044578
-why do you think	3	0.044193
-ha ha ha ha ha	3	0.000000
 katz	3	0.043079
-how was	3	0.047428
 smeesh	3	0.000000
-be alright	3	0.045919
-having an	3	0.044448
-looks so	3	0.045919
-want your	3	0.047428
-cheer you up	3	0.048640
-fonfon ru	3	0.000000

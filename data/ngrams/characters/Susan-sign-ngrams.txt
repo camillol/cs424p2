@@ -1,4 +1,4 @@
+amazing grace how—	3	0.000000
 grace	4	0.021601
 amazing	3	0.040826
 how—	3	0.000000
-amazing grace how—	3	0.000000

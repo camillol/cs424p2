@@ -1,3 +1,19 @@
+my dark matter	4	0.000000
+the anti-backwards crystal	3	0.000000
+mom's old fashioned	3	0.000000
+dark matter	7	0.005907
+robot oil	4	0.000000
+robot 1-x	4	0.025415
+mother's day	4	0.023233
+the hell	4	0.041101
+the new	4	0.031627
+all my	4	0.033009
+killer app	3	0.000000
+anti-backwards crystal	3	0.042090
+the twitworm	3	0.000000
+bending unit	3	0.045149
+hello dearies	3	0.000000
+young man	3	0.046743
 out	16	0.021312
 robot	16	0.001044
 old	10	0.007649
@@ -5,7 +21,6 @@ robots	9	0.004662
 them	9	0.035313
 oil	8	0.003452
 farnsworth	8	0.004909
-dark matter	7	0.005907
 mom	7	0.011429
 matter	7	0.010708
 dark	7	0.009207
@@ -21,17 +36,10 @@ bastards	5	0.013633
 john	5	0.014690
 dumb	5	0.019849
 boys	5	0.018291
-robot oil	4	0.000000
-robot 1-x	4	0.025415
 twitcher	4	0.000000
 freaking	4	0.024009
-mother's day	4	0.023233
-the hell	4	0.041101
 unit	4	0.033128
-my dark matter	4	0.000000
-the new	4	0.031627
 1-x	4	0.027366
-all my	4	0.033009
 'im	4	0.033128
 plan	4	0.045365
 crystal	4	0.027962
@@ -40,19 +48,11 @@ crap	4	0.040255
 anchovies	4	0.025922
 igner	4	0.023484
 mother's	4	0.024543
-killer app	3	0.000000
-anti-backwards crystal	3	0.042090
 killer	3	0.044063
-the twitworm	3	0.000000
 fashioned	3	0.000000
-bending unit	3	0.045149
-the anti-backwards crystal	3	0.000000
 zombies	3	0.042083
-hello dearies	3	0.000000
 nerd	3	0.048247
-young man	3	0.046743
 bastard	3	0.048247
-mom's old fashioned	3	0.000000
 twitworm	3	0.042083
 dearies	3	0.042083
 anti-backwards	3	0.042571

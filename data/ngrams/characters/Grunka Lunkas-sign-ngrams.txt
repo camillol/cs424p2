@@ -1,5 +1,5 @@
+grunka lunka	5	0.000000
+lunka dunkity	3	0.000000
 lunka	6	0.000000
 grunka	5	0.011320
-grunka lunka	5	0.000000
 dunkity	3	0.000000
-lunka dunkity	3	0.000000

@@ -1,14 +1,14 @@
-do	13	0.000016
-do it	13	0.000013
-it	13	0.000020
-it do	12	0.000034
-do it do it	12	0.000000
-do it do it do it	11	0.000000
-do it do it do it do it	10	0.000000
-do it do it do it do it do it	9	0.000000
-do it do it do it do it do it do it	8	0.000000
-do it do it do it do it do it do it do it	7	0.000000
-do it do it do it do it do it do it do it do it	6	0.000000
-do it do it do it do it do it do it do it do it do it	5	0.000000
-do it do it do it do it do it do it do it do it do it do it	4	0.000000
 do it do it do it do it do it do it do it do it do it do it do it	3	0.000000
+do it do it do it do it do it do it do it do it do it do it	4	0.000000
+do it do it do it do it do it do it do it do it do it	5	0.000000
+do it do it do it do it do it do it do it do it	6	0.000000
+do it do it do it do it do it do it do it	7	0.000000
+do it do it do it do it do it do it	8	0.000000
+do it do it do it do it do it	9	0.000000
+do it do it do it do it	10	0.000000
+do it do it do it	11	0.000000
+do it do it	12	0.000000
+do it	13	0.000013
+it do	12	0.000034
+do	13	0.000016
+it	13	0.000020

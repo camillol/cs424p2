@@ -1,8 +1,8 @@
-one-eye	13	0.000019
-one-eye one-eye	10	0.000000
-one-eye one-eye one-eye	7	0.000000
-one-eye one-eye one-eye one-eye	5	0.000000
+one-eye one-eye one-eye one-eye one-eye one-eye	3	0.000000
 one-eye one-eye one-eye one-eye one-eye	4	0.000000
+one-eye one-eye one-eye one-eye	5	0.000000
+one-eye one-eye one-eye	7	0.000000
+one-eye one-eye	10	0.000000
+one-eye	13	0.000019
 story	3	0.039218
 leela	3	0.042293
-one-eye one-eye one-eye one-eye one-eye one-eye	3	0.000000

@@ -1,5 +1,5 @@
+programmed to	3	0.041356
 on	6	0.020405
 network	3	0.041519
 programmed	3	0.041650
 executive	3	0.041487
-programmed to	3	0.041356

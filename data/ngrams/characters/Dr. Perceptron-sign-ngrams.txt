@@ -1,6 +1,6 @@
+you are	3	0.047085
 you	13	0.018068
 bender	5	0.029297
 therapy	4	0.022379
 relax	3	0.042764
-you are	3	0.047085
 understand	3	0.045061

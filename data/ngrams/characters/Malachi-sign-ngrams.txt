@@ -1,7 +1,7 @@
+metal lord	4	0.022412
 the	13	0.037878
 lord	8	0.002283
 for	6	0.030270
 metal	4	0.023460
-metal lord	4	0.022412
 save	3	0.045618
 their	3	0.049376

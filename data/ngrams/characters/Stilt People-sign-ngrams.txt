@@ -1,2 +1,2 @@
-freedom	6	0.000879
 freedom freedom	4	0.011186
+freedom	6	0.000879

@@ -1,6 +1,6 @@
+the mobile oppression palace	3	0.000000
+with the	3	0.045848
 oppression	3	0.041144
 palace	3	0.041115
-the mobile oppression palace	3	0.000000
 mud	3	0.041312
 mobile	3	0.041172
-with the	3	0.045848

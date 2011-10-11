@@ -1,3 +1,12 @@
+my fellow earthicans	5	0.012748
+my fellow	6	0.007647
+no no	4	0.048402
+god i	3	0.048059
+charleston chew	3	0.041998
+to party	3	0.045381
+the place	3	0.043663
+the loot	3	0.000000
+two hours	3	0.043663
 our	18	0.001037
 now	16	0.023351
 into	8	0.019915
@@ -8,8 +17,6 @@ body	6	0.021171
 fellow	6	0.008331
 earth	6	0.034276
 planet	6	0.045051
-my fellow	6	0.007647
-my fellow earthicans	5	0.012748
 nixon	5	0.016173
 earthicans	5	0.012864
 hours	4	0.038519
@@ -19,20 +26,13 @@ fire	4	0.043275
 knock	4	0.026505
 yivo	4	0.028215
 zapp	4	0.040166
-no no	4	0.048402
 peace	4	0.033324
 sphere	3	0.048824
 fixed	3	0.045305
 earth's	3	0.049279
-god i	3	0.048059
-charleston chew	3	0.041998
-to party	3	0.045381
 ford	3	0.041993
 ring	3	0.049279
 chew	3	0.043211
 charleston	3	0.042396
-the place	3	0.043663
-the loot	3	0.000000
-two hours	3	0.043663
 headless	3	0.042396
 loot	3	0.041993

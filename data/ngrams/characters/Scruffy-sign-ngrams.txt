@@ -1,11 +1,11 @@
+scruffy the janitor	5	0.000000
+take your base	3	0.000000
+the janitor	5	0.012465
+your base	3	0.041463
+take your	3	0.042467
 scruffy	8	0.002285
 scruffy's	7	0.003963
-scruffy the janitor	5	0.000000
-the janitor	5	0.012465
 janitor	5	0.012501
 never	4	0.044016
 second	3	0.049602
-your base	3	0.041463
 base	3	0.042039
-take your	3	0.042467
-take your base	3	0.000000

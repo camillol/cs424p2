@@ -1,12 +1,12 @@
+the first woman	4	0.022575
+of the	4	0.044565
+the first	4	0.024595
+the mets	3	0.041632
 the	26	0.000550
 this	7	0.044683
 mets	4	0.022676
 first	4	0.029798
 woman	4	0.025302
-of the	4	0.044565
-the first	4	0.024595
-the first woman	4	0.022575
-the mets	3	0.041632
 career	3	0.042678
 seen	3	0.046977
 fans	3	0.042179

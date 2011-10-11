@@ -1,14 +1,14 @@
+the slurm	5	0.012552
+tastes it	4	0.000000
+the tour	3	0.041644
+slurm factory	3	0.000000
 the	23	0.011722
 slurm	10	0.000769
 we	8	0.026984
 your	7	0.049909
 they	5	0.029486
-the slurm	5	0.012552
 you'll	5	0.017759
 slurms	5	0.012765
 tour	4	0.022778
-tastes it	4	0.000000
 tastes	4	0.022900
-the tour	3	0.041644
 factory	3	0.042590
-slurm factory	3	0.000000

@@ -1,61 +1,61 @@
+i am lrrr ruler of the planet omicron persei 8	3	0.000000
+i am lrrr of the planet omicron persei 8	3	0.000000
+people of earth i am lrrr of the planet	3	0.000000
+lrrr ruler of the planet omicron persei 8	4	0.022858
+ruler of the planet omicron persei 8	5	0.012815
+i am lrrr ruler of the planet	4	0.000000
+of the planet omicron persei 8	9	0.001358
+i am lrrr of the planet	4	0.000000
+lrrr ruler of the planet	5	0.012720
+people of earth i am	3	0.041943
+ruler of the planet	6	0.007225
+of earth i am	3	0.042320
+of the planet	11	0.000468
+omicron persei 8	10	0.000800
+i am lrrr	8	0.000000
+ruler of the	6	0.007287
+people of earth	3	0.044218
+human's lower horn	3	0.000000
+the lower horn	3	0.000000
+uh human horn	3	0.000000
+of the	12	0.006095
+the planet	11	0.000579
+lower horn	10	0.000777
+omicron persei	10	0.000814
+i am	8	0.009127
+human horn	5	0.013263
+we will	5	0.015212
+people of	4	0.027245
+the one	4	0.033834
+drop down	3	0.000000
+earth i	3	0.043438
 of	35	0.041639
 that	28	0.018488
 this	23	0.041654
 we	21	0.024306
 horn	17	0.000021
 planet	14	0.000456
-of the	12	0.006095
 our	12	0.015405
 mcneal	12	0.000277
 uh	12	0.003803
-the planet	11	0.000579
 human	11	0.001505
-of the planet	11	0.000468
 8	11	0.000502
 lrrr	11	0.000509
 lower	10	0.000919
 persei	10	0.000814
 am	10	0.004853
-lower horn	10	0.000777
-omicron persei	10	0.000814
 omicron	10	0.000814
-omicron persei 8	10	0.000800
-of the planet omicron persei 8	9	0.001358
-i am lrrr	8	0.000000
-i am	8	0.009127
-ruler of the	6	0.007287
-ruler of the planet	6	0.007225
 ruler	6	0.007290
 she	6	0.031090
-human horn	5	0.013263
-ruler of the planet omicron persei 8	5	0.012815
-we will	5	0.015212
-lrrr ruler of the planet	5	0.012720
 friend	5	0.042392
 ndnd	5	0.012942
 okay	5	0.034809
-i am lrrr of the planet	4	0.000000
-people of	4	0.027245
 bring	4	0.043625
-the one	4	0.033834
 prepare	4	0.029937
 shall	4	0.042346
 demand	4	0.026756
 female	4	0.031393
-lrrr ruler of the planet omicron persei 8	4	0.022858
-i am lrrr ruler of the planet	4	0.000000
-people of earth i am	3	0.041943
-i am lrrr ruler of the planet omicron persei 8	3	0.000000
-people of earth	3	0.044218
 human's	3	0.041950
-drop down	3	0.000000
-human's lower horn	3	0.000000
 nag	3	0.041950
 eaten	3	0.046880
-of earth i am	3	0.042320
 nd-nd	3	0.000000
-earth i	3	0.043438
-the lower horn	3	0.000000
-uh human horn	3	0.000000
-i am lrrr of the planet omicron persei 8	3	0.000000
-people of earth i am lrrr of the planet	3	0.000000

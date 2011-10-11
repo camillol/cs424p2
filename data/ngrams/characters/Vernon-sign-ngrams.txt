@@ -1,5 +1,5 @@
-house	9	0.001265
 robot house	7	0.003845
+house	9	0.001265
 robot	7	0.005524
 is	6	0.048788
 whenever	3	0.041593

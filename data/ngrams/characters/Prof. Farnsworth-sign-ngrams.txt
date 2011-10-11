@@ -1,3 +1,242 @@
+the collar will be triggered any time your thoughts turn to violence	3	0.000000
+i found in a hole in the bottom of the sea	3	0.000000
+you'll be making a delivery to	3	0.000000
+bet you'd like to know	3	0.000000
+i'm sorry fry but	4	0.029669
+you'd like to know	4	0.000000
+i don't want to	4	0.048566
+in the form of	4	0.029669
+good news everyone we've	3	0.000000
+get back to our	3	0.000000
+good news everyone i've	3	0.000000
+to communicate with the	3	0.000000
+i have good news	3	0.000000
+a delivery to the	3	0.000000
+good news everyone	28	0.000000
+oh my yes	8	0.000000
+of the universe	7	0.019698
+a delivery to	6	0.000000
+my latest invention	6	0.000000
+that's why i	5	0.036728
+the day i	5	0.020838
+news everyone i've	5	0.000000
+don't want to	5	0.040844
+just need to	5	0.023452
+there are no	4	0.037755
+one of your	4	0.037755
+like to know	4	0.025939
+bad news everyone	4	0.000000
+the form of	4	0.033417
+the time skips	4	0.025939
+in your place	4	0.025939
+a way to	4	0.047764
+you'll be delivering	4	0.025939
+the what-if machine	4	0.000000
+oh my no	4	0.000000
+to see my	4	0.000000
+i'm sorry fry	4	0.037755
+delivery to the	4	0.029487
+we'll need to	4	0.029487
+it will be	4	0.033417
+due to the	4	0.037755
+back to our	4	0.025939
+i'm afraid the	4	0.025939
+you'd like to	4	0.037755
+off you go	3	0.000000
+you killed fry	3	0.047702
+need a new	3	0.047702
+i've invented a	3	0.000000
+a new crew	3	0.000000
+i can't quite	3	0.000000
+in a hole	3	0.047702
+i have something	3	0.047702
+the nobel prize	3	0.047702
+the cause of	3	0.000000
+that's not good	3	0.000000
+and now that	3	0.000000
+now that i've	3	0.000000
+it must have	3	0.047702
+good thing i	3	0.047702
+time travel is	3	0.000000
+eh wha oh	3	0.000000
+it could take	3	0.000000
+i'm glad you	3	0.047702
+yes it's a	3	0.047702
+you've killed me	3	0.000000
+forward in time	3	0.047702
+news everyone today	3	0.000000
+if i'm going	3	0.047702
+to the	52	0.013773
+good news	48	0.000000
+news everyone	39	0.000000
+in a	36	0.004008
+oh my	30	0.000047
+of course	26	0.000469
+it's a	25	0.037425
+need to	24	0.002221
+will be	19	0.013716
+to see	18	0.006646
+to go	16	0.027280
+want to	16	0.030709
+you all	16	0.003374
+you'll be	15	0.001576
+a new	15	0.012483
+that's why	14	0.009027
+dark matter	14	0.001843
+oh i	13	0.019611
+the universe	13	0.024148
+the time	13	0.007925
+i'm afraid	13	0.005704
+if we	13	0.029523
+my new	13	0.001331
+oh dear	12	0.001377
+years ago	12	0.005225
+let's go	11	0.018458
+there's no	11	0.035782
+i suppose	11	0.002882
+the same	11	0.038331
+and my	10	0.011432
+in time	10	0.013605
+it in	10	0.030423
+to take	10	0.024168
+a single	9	0.010299
+made of	9	0.024941
+my yes	9	0.000000
+why i	9	0.019375
+would be	9	0.043133
+on earth	8	0.025424
+i'm sure	8	0.049026
+a delivery	8	0.016142
+the day	8	0.016142
+the earth	8	0.017726
+we must	8	0.014679
+oh yes	8	0.007253
+we'll need	8	0.006520
+good lord	8	0.003744
+delivery to	8	0.003335
+dear lord	7	0.004599
+according to	7	0.017267
+the very	7	0.015607
+eh wha	7	0.000000
+my latest	7	0.005183
+bad news	7	0.007344
+be no	7	0.011412
+wha oh	6	0.000000
+the farnsworth	6	0.008086
+stem cells	6	0.000000
+here we	6	0.036832
+due to	6	0.020137
+doomsday device	6	0.016220
+yes yes	6	0.036832
+day i	6	0.018090
+to deliver	6	0.040470
+no time	6	0.018090
+plenty of	6	0.048595
+need you	5	0.028962
+that won't	5	0.028962
+time skips	5	0.016237
+have something	5	0.025917
+left to	5	0.023138
+yes it's	5	0.032291
+it could	5	0.048796
+put you	5	0.028962
+and bender	5	0.048796
+time machine	5	0.025917
+what-if machine	5	0.000000
+oh fuff	5	0.000000
+turn to	5	0.016237
+killed fry	5	0.014361
+you've all	5	0.023138
+it seems	5	0.048796
+no that	5	0.016237
+be careful	5	0.039871
+time travel	5	0.020610
+you young	5	0.014361
+everyone i've	5	0.016237
+i designed	4	0.000000
+by god	4	0.037339
+to violence	4	0.025861
+twice as	4	0.047014
+i invented	4	0.000000
+will do	4	0.047014
+not good	4	0.037339
+any time	4	0.033133
+communicate with	4	0.025861
+would happen	4	0.037339
+i'm glad	4	0.047014
+quiet you	4	0.047014
+nobel prize	4	0.037339
+invented a	4	0.000000
+now now	4	0.033133
+my calculations	4	0.029315
+it at	4	0.037339
+it's called	4	0.047014
+what would	4	0.041958
+da vinci's	4	0.025861
+the nobel	4	0.025861
+of science	4	0.037339
+good enough	4	0.047014
+see my	4	0.037339
+the smellescope	4	0.029315
+your thoughts	4	0.047014
+time your	4	0.025861
+the crystal	4	0.037339
+hmm i	4	0.041958
+pine trees	4	0.029315
+source of	4	0.041958
+cause of	4	0.025861
+there'll be	4	0.037339
+hope of	4	0.041958
+killed me	4	0.033133
+is possible	4	0.025861
+top secret	4	0.033133
+everyone to	4	0.029315
+crew to	4	0.000000
+a scientist	4	0.033133
+just not	4	0.047014
+during the	4	0.033133
+your place	4	0.033133
+out my	4	0.047014
+everyone we	4	0.029315
+you asked	4	0.025861
+the fing-longer	3	0.000000
+i expect	3	0.000000
+a professor	3	0.047555
+not necessarily	3	0.000000
+have good	3	0.047555
+uh that	3	0.000000
+my universal	3	0.047555
+nothing more	3	0.000000
+yes they	3	0.047555
+this log	3	0.000000
+an extremely	3	0.047555
+travel is	3	0.047555
+device that	3	0.000000
+atomic supermen	3	0.047555
+been extinct	3	0.000000
+new crew	3	0.047555
+family tree	3	0.000000
+first delivery	3	0.047555
+goodbye cruel	3	0.047555
+neck protector	3	0.000000
+to answer	3	0.047555
+robots were	3	0.000000
+my original	3	0.000000
+particle accelerator	3	0.000000
+empathy chip	3	0.000000
+switch back	3	0.047555
+my most	3	0.047555
+the collar	3	0.047555
+indeed so	3	0.047555
+everyone you're	3	0.000000
+my lab	3	0.000000
+the chamber	3	0.000000
+the situation	3	0.047555
+delivering a	3	0.047555
+perhaps we	3	0.047555
+to restore	3	0.000000
+for i've	3	0.000000
+work and	3	0.047555
 the	894	0.000003
 to	569	0.000027
 of	411	0.000013
@@ -17,16 +256,12 @@ news	65	0.000000
 by	58	0.017174
 need	58	0.000170
 new	53	0.001471
-to the	52	0.013773
-good news	48	0.000000
 into	42	0.006280
 there's	42	0.007796
 you'll	41	0.000173
 would	40	0.029862
-news everyone	39	0.000000
 god	39	0.008744
 zoidberg	37	0.001783
-in a	36	0.004008
 old	35	0.023799
 their	33	0.001430
 very	32	0.014883
@@ -34,18 +269,13 @@ matter	32	0.000009
 must	32	0.028280
 years	31	0.006481
 wha	30	0.000000
-oh my	30	0.000047
-good news everyone	28	0.000000
 ah	27	0.040005
 made	27	0.016261
 because	27	0.006062
 course	26	0.001971
-of course	26	0.000469
 delivery	26	0.000585
 enough	26	0.024646
-it's a	25	0.037425
 long	25	0.038492
-need to	24	0.002221
 farnsworth	24	0.000143
 crew	24	0.000017
 universe	24	0.027901
@@ -54,86 +284,52 @@ through	22	0.025946
 dear	21	0.000165
 ago	21	0.000857
 wernstrom	19	0.000022
-will be	19	0.013716
 lord	19	0.000638
 machine	18	0.004207
 indeed	18	0.000061
 left	18	0.040465
-to see	18	0.006646
 perhaps	17	0.005458
 dr	17	0.008874
 hermes	17	0.022792
-to go	16	0.027280
-want to	16	0.030709
 eh	16	0.014985
-you all	16	0.003374
 invention	15	0.000094
-you'll be	15	0.001576
 dark	15	0.029988
-a new	15	0.012483
 killed	15	0.009224
 same	15	0.018237
 science	15	0.000714
 brain	14	0.046159
-that's why	14	0.009027
-dark matter	14	0.001843
 afraid	14	0.008978
-oh i	13	0.019611
 device	13	0.000951
 suppose	13	0.001543
 invented	13	0.000377
-the universe	13	0.024148
-the time	13	0.007925
-i'm afraid	13	0.005704
 mission	13	0.008640
-if we	13	0.029523
-my new	13	0.001331
 lost	13	0.044715
 business	12	0.033231
-oh dear	12	0.001377
 though	12	0.033231
 question	12	0.016529
 crystal	12	0.000885
-years ago	12	0.005225
 dangerous	12	0.001790
-let's go	11	0.018458
 water	11	0.043544
-there's no	11	0.035782
-i suppose	11	0.002882
 young	11	0.040777
 single	11	0.020135
-the same	11	0.038331
-and my	10	0.011432
 itself	10	0.003546
-in time	10	0.013605
 doomed	10	0.009117
 tiny	10	0.011848
-it in	10	0.030423
 impossible	10	0.012902
-to take	10	0.024168
 quite	10	0.024572
 known	10	0.028571
 careful	10	0.007614
 spaceship	9	0.006755
-a single	9	0.010299
 possible	9	0.025653
-made of	9	0.024941
 original	9	0.014226
 history	9	0.009012
 doomsday	9	0.004075
-my yes	9	0.000000
-why i	9	0.019375
-would be	9	0.043133
 sun	8	0.028823
 cubert	8	0.018669
 missing	8	0.028823
-on earth	8	0.025424
 cells	8	0.004626
-i'm sure	8	0.049026
-a delivery	8	0.016142
 deliver	8	0.043092
 atomic	8	0.004626
-the day	8	0.016142
 certainly	8	0.007854
 chronitons	8	0.002629
 moment	8	0.043092
@@ -142,319 +338,123 @@ behold	8	0.022298
 latest	8	0.004626
 switch	8	0.012880
 quickly	8	0.007854
-the earth	8	0.017726
 according	8	0.009612
-we must	8	0.014679
-oh my yes	8	0.000000
 scientific	8	0.004626
 return	8	0.036828
-oh yes	8	0.007253
-we'll need	8	0.006520
-good lord	8	0.003744
-delivery to	8	0.003335
-dear lord	7	0.004599
-of the universe	7	0.019698
-according to	7	0.017267
 minds	7	0.020368
-the very	7	0.015607
-eh wha	7	0.000000
 travel	7	0.016777
 bodies	7	0.026937
-my latest	7	0.005183
 due	7	0.020368
 guenter	7	0.016777
 answer	7	0.029478
 extremely	7	0.006483
 pazuzu	7	0.000000
-bad news	7	0.007344
 forward	7	0.018500
 build	7	0.038293
 da	7	0.012396
 what-if	7	0.000000
 started	7	0.032212
 stem	7	0.004587
-be no	7	0.011412
 cause	7	0.024578
 prize	6	0.032473
 created	6	0.039159
-wha oh	6	0.000000
 fuff	6	0.008064
-the farnsworth	6	0.008086
-stem cells	6	0.000000
 fired	6	0.039159
 bubblegum	6	0.021863
 internet	6	0.029494
 failed	6	0.026740
 nonsense	6	0.014300
 extinct	6	0.017747
-a delivery to	6	0.000000
 directly	6	0.015945
-here we	6	0.036832
-due to	6	0.020137
 lab	6	0.024201
 delivering	6	0.017747
 bone	6	0.024201
 process	6	0.014300
-doomsday device	6	0.016220
-yes yes	6	0.036832
 designed	6	0.012800
 scientists	6	0.021863
-day i	6	0.018090
 ray	6	0.029494
-to deliver	6	0.040470
-no time	6	0.018090
-my latest invention	6	0.000000
-plenty of	6	0.048595
 monkey	6	0.039159
 anomaly	6	0.014300
 force	6	0.035691
 smellescope	6	0.009078
-need you	5	0.028962
-that's why i	5	0.036728
-that won't	5	0.028962
 diamondium	5	0.018170
-the day i	5	0.020838
 cruel	5	0.047535
-time skips	5	0.016237
 object	5	0.022846
 pressure	5	0.025533
-news everyone i've	5	0.000000
-have something	5	0.025917
 yeti	5	0.035175
-left to	5	0.023138
 leaving	5	0.043086
 radiation	5	0.022846
-yes it's	5	0.032291
 scientist	5	0.035175
-it could	5	0.048796
 brilliant	5	0.031681
-put you	5	0.028962
-and bender	5	0.048796
-time machine	5	0.025917
 there'll	5	0.025533
-what-if machine	5	0.000000
-oh fuff	5	0.000000
 bees	5	0.047535
-turn to	5	0.016237
 paradox	5	0.018170
 math	5	0.016150
 laws	5	0.025533
-killed fry	5	0.014361
-you've all	5	0.023138
 student	5	0.022846
-it seems	5	0.048796
-no that	5	0.016237
-be careful	5	0.039871
-time travel	5	0.020610
-don't want to	5	0.040844
 source	5	0.025533
 communicate	5	0.020397
 dope	5	0.018170
-you young	5	0.014361
 nobel	5	0.022846
 nearly	5	0.038972
 skips	5	0.016150
 remarkable	5	0.014321
-everyone i've	5	0.016237
-just need to	5	0.023452
 era	5	0.020397
-i designed	4	0.000000
-by god	4	0.037339
 mass	4	0.041425
-to violence	4	0.025861
 johnny	4	0.029154
 restore	4	0.029154
 dolomite	4	0.025789
-there are no	4	0.037755
 wire	4	0.046318
-one of your	4	0.037755
-like to know	4	0.025939
 opal	4	0.029154
-twice as	4	0.047014
-i invented	4	0.000000
-bad news everyone	4	0.000000
 sending	4	0.036949
 nanobots	4	0.000000
 sweaters	4	0.041425
-will do	4	0.047014
 blob	4	0.036949
-the form of	4	0.033417
-not good	4	0.037339
 installed	4	0.046318
 vinci's	4	0.025789
-any time	4	0.033133
-the time skips	4	0.025939
-in your place	4	0.025939
 supermen	4	0.032867
-communicate with	4	0.025861
-would happen	4	0.037339
 courage	4	0.036949
-a way to	4	0.047764
 reverse	4	0.041425
-i'm glad	4	0.047014
-quiet you	4	0.047014
 wormhole	4	0.036949
-nobel prize	4	0.037339
-invented a	4	0.000000
 conference	4	0.036949
-now now	4	0.033133
 lad	4	0.032867
-i'm sorry fry but	4	0.029669
-you'd like to know	4	0.000000
-my calculations	4	0.029315
-it at	4	0.037339
-it's called	4	0.047014
 solar	4	0.036949
-you'll be delivering	4	0.025939
-the what-if machine	4	0.000000
-oh my no	4	0.000000
-what would	4	0.041958
-i don't want to	4	0.048566
 calculations	4	0.046318
 lifetime	4	0.041425
-da vinci's	4	0.025861
-to see my	4	0.000000
-the nobel	4	0.025861
-of science	4	0.037339
-good enough	4	0.047014
-see my	4	0.037339
 zone	4	0.036949
-the smellescope	4	0.029315
-your thoughts	4	0.047014
-i'm sorry fry	4	0.037755
-delivery to the	4	0.029487
-time your	4	0.025861
 9	4	0.046318
-the crystal	4	0.037339
 louder	4	0.032867
 driving	4	0.046318
-hmm i	4	0.041958
-pine trees	4	0.029315
-we'll need to	4	0.029487
 inventions	4	0.025789
-it will be	4	0.033417
-source of	4	0.041958
 incidentally	4	0.032867
 (to	4	0.046318
-cause of	4	0.025861
-there'll be	4	0.037339
 benders	4	0.046318
-due to the	4	0.037755
-hope of	4	0.041958
-killed me	4	0.033133
-back to our	4	0.025939
 fossilisation	4	0.000000
-is possible	4	0.025861
-in the form of	4	0.029669
-i'm afraid the	4	0.025939
 observe	4	0.032867
-top secret	4	0.033133
 leonardo	4	0.046318
-you'd like to	4	0.037755
-everyone to	4	0.029315
-crew to	4	0.000000
-a scientist	4	0.033133
-just not	4	0.047014
 safety	4	0.046318
-during the	4	0.033133
-your place	4	0.033133
-out my	4	0.047014
-everyone we	4	0.029315
 instant	4	0.046318
 particles	4	0.036949
 vast	4	0.041425
 preposterous	4	0.032867
-you asked	4	0.025861
 eureka	3	0.047417
-off you go	3	0.000000
-you killed fry	3	0.047702
-the fing-longer	3	0.000000
 accelerator	3	0.000000
-need a new	3	0.047702
-good news everyone we've	3	0.000000
 protector	3	0.047417
-i expect	3	0.000000
-a professor	3	0.047555
-not necessarily	3	0.000000
-have good	3	0.047555
-uh that	3	0.000000
-i've invented a	3	0.000000
-my universal	3	0.047555
-a new crew	3	0.000000
-i can't quite	3	0.000000
-get back to our	3	0.000000
-in a hole	3	0.047702
-i have something	3	0.047702
-the nobel prize	3	0.047702
 fing-longer	3	0.000000
-nothing more	3	0.000000
-the cause of	3	0.000000
-that's not good	3	0.000000
-and now that	3	0.000000
-now that i've	3	0.000000
-it must have	3	0.047702
-yes they	3	0.047555
-this log	3	0.000000
-an extremely	3	0.047555
-travel is	3	0.047555
-device that	3	0.000000
-atomic supermen	3	0.047555
-good thing i	3	0.047702
-time travel is	3	0.000000
-been extinct	3	0.000000
-good news everyone i've	3	0.000000
 empathy	3	0.000000
-new crew	3	0.047555
-family tree	3	0.000000
 lens	3	0.047417
 protective	3	0.047417
 grad	3	0.000000
 triggered	3	0.000000
-first delivery	3	0.047555
-goodbye cruel	3	0.047555
-bet you'd like to know	3	0.000000
-neck protector	3	0.000000
-i found in a hole in the bottom of the sea	3	0.000000
-to answer	3	0.047555
-eh wha oh	3	0.000000
 feared	3	0.047417
 critical	3	0.047417
-robots were	3	0.000000
 brainless	3	0.047417
-my original	3	0.000000
-to communicate with the	3	0.000000
 fundamental	3	0.000000
 clone-o-mat	3	0.047417
-it could take	3	0.000000
-you'll be making a delivery to	3	0.000000
 structure	3	0.047417
-the collar will be triggered any time your thoughts turn to violence	3	0.000000
-particle accelerator	3	0.000000
-empathy chip	3	0.000000
-i'm glad you	3	0.047702
-switch back	3	0.047555
 atoms	3	0.047417
 chirp	3	0.000000
-yes it's a	3	0.047702
 assemble	3	0.000000
-my most	3	0.047555
-you've killed me	3	0.000000
 particle	3	0.000000
-the collar	3	0.047555
-indeed so	3	0.047555
 purity	3	0.047417
-forward in time	3	0.047702
-everyone you're	3	0.000000
-i have good news	3	0.000000
-my lab	3	0.000000
-the chamber	3	0.000000
-the situation	3	0.047555
-delivering a	3	0.047555
-a delivery to the	3	0.000000
-news everyone today	3	0.000000
-perhaps we	3	0.047555
-if i'm going	3	0.047702
-to restore	3	0.000000
 vaccine	3	0.047417
-for i've	3	0.000000
-work and	3	0.047555

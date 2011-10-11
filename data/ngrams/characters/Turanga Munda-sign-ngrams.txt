@@ -1,3 +1,4 @@
+your friends	3	0.042326
 you	19	0.031831
 your	14	0.001279
 leela	12	0.000680
@@ -5,4 +6,3 @@ us	5	0.030471
 you're	5	0.049718
 think	4	0.047167
 little	4	0.040030
-your friends	3	0.042326

@@ -116,6 +116,7 @@ class NgramDetails(object):
 				continue
 			self.allsign_ngrams.update(w for w,cn in cngram_list)
 			cngram_list.sort(key=lambda x:x[1]['count'], reverse=True)
+			cngram_list.sort(key=lambda x:len(x[0]), reverse=True)
 			
 			out_name = "%s-sign-ngrams.txt" % char
 			print out_name

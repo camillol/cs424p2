@@ -1,5 +1,5 @@
+bone vampire	3	0.041332
 the	11	0.047895
 bone	3	0.041668
-bone vampire	3	0.041332
 vampire	3	0.041495
 beast	3	0.041392

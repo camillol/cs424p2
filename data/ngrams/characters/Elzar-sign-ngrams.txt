@@ -1,3 +1,13 @@
+it up a notch	3	0.041705
+up a notch	4	0.022736
+it up a	3	0.042077
+you up a	3	0.000000
+up a	6	0.008152
+it up	4	0.027551
+i'm gonna	4	0.035846
+you up	4	0.024194
+from your	3	0.045632
+you folks	3	0.042622
 you	42	0.002242
 bam	16	0.000030
 your	15	0.010797
@@ -5,22 +15,12 @@ this	14	0.036395
 up	11	0.011038
 hey	9	0.013186
 folks	7	0.004583
-up a	6	0.008152
 gonna	6	0.025028
 ok	5	0.032060
 notch	5	0.012742
 want	5	0.042752
 today	4	0.032083
-up a notch	4	0.022736
 nice	4	0.042616
-it up	4	0.027551
-i'm gonna	4	0.035846
-you up	4	0.024194
-from your	3	0.045632
-it up a	3	0.042077
-you folks	3	0.042622
-you up a	3	0.000000
-it up a notch	3	0.041705
 gumbo	3	0.000000
 meal	3	0.043353
 birthday	3	0.046378
