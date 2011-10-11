@@ -49,7 +49,7 @@ View ngramView;
 Button ngramButton;
 ListBox ngramList;
 
-Button resetButton;
+
 Button allActiveButton;
 
 StatsView statsView;
@@ -122,11 +122,10 @@ void setup()
   }
   
   rootView.subviews.add(new ListBox(680,260,300,200, characters));
-  resetButton = new Button(680,220, 60, 15, "Reset", 18, false, "Reset",true);
-  allActiveButton = new Button(760 ,220, 160, 15, "View All Characters", 18, false, "View All Characters",true);
+  allActiveButton = new Button(680 ,220, 160, 15, "View All Characters", 18, false, "View All Characters",true);
   
   rootView.subviews.add(allActiveButton);
-  rootView.subviews.add(resetButton);
+
 
   pieChart=new PieChart(750,500,200,200);
   rootView.subviews.add(pieChart);
@@ -348,28 +347,7 @@ void buttonClicked(Object element)
       setNgramMode(false);
     } else if (element.equals("n-grams")) {
       setNgramMode(true);
-    } else if (element.equals("Reset")){
-      characters.setAllActive(false); 
-      Iterator it = characters.iterator();
-      while (it.hasNext()) {
-        Character character = (Character)it.next();
-        character.setActive(false);  /* force animator targeting */
-      }
-      Iterator it2 = characters.iterator();
-      for (int n=0; n < 8 && it2.hasNext();) {
-        Character character = (Character)it2.next();
-        myImage = character.img;
-  
-        if (character.img == null) continue;
-        if(n <= 3){
-          rootView.subviews.add(new Button(680+n*(80),50,50,50,character,myImage,false));
-        }
-        else{
-          rootView.subviews.add(new Button(680+(n-4)*(80),120,50,50,character,myImage,false));  
-        }
-        n++;
-      }
-    } else if (element.equals("View All Characters")){
+    }  else if (element.equals("View All Characters")){
       characters.setAllActive(true); 
       updateActiveTotals();
       Iterator it2 = characters.iterator();
