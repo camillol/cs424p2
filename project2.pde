@@ -377,12 +377,20 @@ void drawLabels(){
 String[] listDataSubdir(String subdir)
 {
   String[] items = null;
-  if (sketchPath != null) { /* application */
+  /* dataPath does not work for application, either. it's only useful in the IDE */
+/*  if (sketchPath != null) {
+    println(dataPath(subdir));
     File dir = new File(dataPath(subdir));
     items = dir.list();
-  } else try {  /* applet */
-    ClassLoader cl = getClass().getClassLoader();
-    URL url = cl.getResource("data/characters.txt");  /* just a random file that's known to exist */
+    println(items);
+  } else */
+  
+  ClassLoader cl = getClass().getClassLoader();
+  URL url = cl.getResource("data/characters.txt");  /* just a random file that's known to exist */
+  if (url == null) {  /* running in IDE */
+    File dir = new File(dataPath(subdir));
+    items = dir.list();
+  } else try {  /* applet OR application */
     JarURLConnection conn = (JarURLConnection)url.openConnection();
     JarFile jar = conn.getJarFile();
     Enumeration e = jar.entries();
