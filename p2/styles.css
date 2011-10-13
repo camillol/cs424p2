@@ -317,3 +317,10 @@ code {
 *:focus {
 	outline:none;
 }
+
+blockquote {
+	padding: 1em 2em;
+	background: #efe;
+	margin-bottom: 1em;
+	font-style: italic;
+}

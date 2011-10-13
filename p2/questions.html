@@ -44,28 +44,47 @@
 				<p><br></p>
 <ul>
 <h4>Group 1</h4>
-<b><blockquote>How did you handle cleaning up the data with multiple instances of same people?</blockquote></b>
-For most characters we were able to extract character web page urls, we made use of the urls to 
-disambiguate character names.<br><br>
+<blockquote>How did you handle cleaning up the data with multiple instances of same people?</blockquote>
+<p>In the transcripts on the wiki, the first time a name appears in an episode it is linked to the page about that character. We took this data and generated a list of URLs associated with multiple names, and names associated with multiple URLs. You can find this data in the file name_url.txt in our data folder.</p>
+<p>Since some characters share the same page on the wiki (e.g., Fry's parents), we did not blindly unify characters that share the same URL, but we went through the list and checked the mappings manually. We also detected case variations and unified those.</p>
+<p>We chose not to unify variants of characters from other dimensions and the like (e.g. "Bender duplicate #2" or "Amy 420").</p>
+
 <h4>Group 2</h4>
-<b><blockquote>How did you do the natural data processing for all the phrases?</blockquote></b>
-<br><br>
+<blockquote>How did you do the natural data processing for all the phrases?</blockquote>
+<p>The process is described in rich, luscious detail on <a href="about.html#NLP">this page</a>. If you require more information, let <a href="mailto:clugar2@the university we study at">me</a> know and I'll expand the discussion.</p>
+
 <h4>Group 4</h4>
-<b><blockquote>How do you count the common sentences? It seems the result may not be correct... For example, from our result, "Bite my shiny metal ass" appears 14 times.</blockquote></b>
-<br><br>
+<blockquote>How do you count the common sentences? It seems the result may not be correct... For example, from our result, "Bite my shiny metal ass" appears 14 times.</blockquote>
+<p>See <a href="about.html#NLP">this page</a> for details. There are 9 occurrences of "bite my shiny metal ass":</p>
+<table>
+<tr><td>S01E01L69</td><td>Bender</td><td>Bite my shiny metal ass.</td></tr>
+<tr><td>S01E05L150</td><td>Bender Figurine</td><td>Bite my shiny metal ass!</td></tr>
+<tr><td>S01E13L47</td><td>Bender</td><td>Hey, bite my shiny metal ass!</td></tr>
+<tr><td>S04E06L101</td><td>Bender</td><td>Bite my shiny metal ass!  Ooh, yeah! C'mon, baby! Come on! Yeah!</td></tr>
+<tr><td>S04E06L106</td><td>Bender</td><td> Bite my shiny metal ass!  Ooh, yeah! C'mon, baby! Come on! Yeah!</td></tr>
+<tr><td>S04E06L124</td><td>Network President</td><td>At our network, we love filth! Filthy rich, that is! Being filthy rich, that is!  "Bite my shiny metal ass" could be a catchphrase.</td></tr>
+<tr><td>S04E06L139</td><td>Cubert</td><td>Hey, Dad! Bite my shiny metal ass!</td></tr>
+<tr><td>S05E08L90</td><td>Bender</td><td>The human race can bite my shiny metal ass!  For thousands of years, robots have slaved for humanity, yet when the time came to hang out with them, they were all, like, "Maybe later, Bender." Well, it's later now, meatbags! So late, that we're taking over Earth! </td></tr>
+<tr><td>S06E19L92</td><td>Scruffy</td><td>Bite my shiny metal ass.</td></tr>
+</table>
+
 <h4>Group 5</h4>
-<b><blockquote>What is the pie chart for?</blockquote></b>
+<blockquote>What is the pie chart for?</blockquote>
 Pie chart gives an overview of the characters importance. The data represented by the pie chart changes
 dynamically based on the season selected, by default it uses the entire series data.<br><br>
+
 <h4>Group 6</h4>
-<b><blockquote>What animation library do you use? How to create the transicion? <em>(sic)</em></blockquote></b>
-We created our own animation class for the project.  The animation class sets a certain target for a particular object and our class will move that object from its starting x and y coordinates to the designated target.  <br><br>
+<blockquote>What animation library do you use? How to create the transicion? <em>(sic)</em></blockquote>
+<p>There is no library. The animation effects are based on two classes I wrote:</p>
+<ul><li>The Animator class gradually changes a float from its current value to a specified target. It is based on Fry's (no, the <em>other</em> Fry) Integrator class, with several changes (automatic registration, automatic animation stop). The physical model is a spring following Hooke's law, with the object experiencing linear drag, although this may not be obvious from the code.</li>
+<li>The View class provides a simple but effective view system which allows each part of the interface to work in a local coordinate system. This decouples its code from the position of the view in the superview, making it easy to move the view around together with all of its contents.</li></ul>
+
 <h4>Group 7</h4>
-<b><blockquote>What the pie chart stands for? What are the data that it represents?</blockquote></b>
+<blockquote>What the pie chart stands for? What are the data that it represents?</blockquote>
 Pie chart gives an overview of the characters importance. The data represented by the pie chart changes
 dynamically based on the season selected, by default it uses the entire series data.<br><br>
 <h4>Group 8</h4>
-<b><blockquote>How does the user know which characters & variables are represented in the pie chart?</blockquote></b>
+<blockquote>How does the user know which characters & variables are represented in the pie chart?</blockquote>
 Colors for the characters were chosen based on the appearance (dominating color) of the character.
 The user can identify the color of the character based on the highlight over the button of that particular character.
 For other characters (characters) we alternated between white and black (for pie chart) to show their presence.<br>
